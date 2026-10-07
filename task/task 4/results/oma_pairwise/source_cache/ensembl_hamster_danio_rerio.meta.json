@@ -1,0 +1,25 @@
+{
+  "url": "https://rest.ensembl.org/homology/id/mesocricetus_auratus/ENSMAUG00000003914",
+  "params": {
+    "content-type": "application/json",
+    "type": "orthologues",
+    "target_species": "danio_rerio",
+    "sequence": "none"
+  },
+  "retrieved_utc": "2026-09-18T09:13:25.055381+00:00",
+  "sha256": "df5dc11f507ead485f39ea2121ec1b5b15a156930787dee19b468182e794c55e",
+  "bytes": 533,
+  "response_headers": {
+    "Vary": "Content-Type, Origin",
+    "Content-Type": "application/json",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:13:24 GMT",
+    "X-RateLimit-Limit": "55000",
+    "X-RateLimit-Reset": "2796",
+    "X-Runtime": "0.707574",
+    "Accept-Ranges": "bytes",
+    "X-RateLimit-Period": "3600",
+    "X-RateLimit-Remaining": "54994",
+    "Content-Length": "533"
+  }
+}

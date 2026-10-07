@@ -1,0 +1,29 @@
+{
+  "figure": "task5_human_gene_disease_review",
+  "backend": "Python/matplotlib",
+  "final_size_mm": [
+    183,
+    155
+  ],
+  "exports": [
+    "svg",
+    "pdf",
+    "tiff",
+    "png"
+  ],
+  "editable_svg_text_nodes": true,
+  "source_data_files": [
+    "figure_1a_gene_counts.csv",
+    "figure_1b_scope_and_term_classes.csv",
+    "figure_1c_score_survival.csv",
+    "figure_1d_evidence_datatypes.csv"
+  ],
+  "gene_count": 307,
+  "queryable_gene_count": 306,
+  "relation_count": 422250,
+  "median_overall_score": 0.0325673767948,
+  "p90_overall_score": 0.06596508408176001,
+  "zero_score_relation_count": 1383,
+  "longevitymap_annotated_gene_count": 126,
+  "inferential_statistics": "none; complete resource-bounded descriptive catalogue"
+}

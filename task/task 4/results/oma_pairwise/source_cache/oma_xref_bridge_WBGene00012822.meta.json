@@ -1,0 +1,30 @@
+{
+  "url": "https://omabrowser.org/api/xref/",
+  "params": {
+    "search": "WBGene00012822"
+  },
+  "retrieved_utc": "2026-09-18T09:48:33.706296+00:00",
+  "sha256": "176eb76868c38edbe665b8221ea74777bc198b4551948f5034f77c6af7f1eb3b",
+  "bytes": 483,
+  "response_headers": {
+    "Date": "Fri, 18 Sep 2026 09:48:33 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Vary": "Accept, origin, Cookie, accept-encoding",
+    "Allow": "GET, HEAD, OPTIONS",
+    "Cache-Control": "public, max-age=86400",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Set-Cookie": "__matomo=424159afb266cb72; expires=Sun, 17-Sep-2028 09:48:33 UTC; Path=/",
+    "Strict-Transport-Security": "max-age=15768000",
+    "Content-Encoding": "gzip",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=r0Noj1eIJN2rDcGX2susJD%2FNkRRVe2TEMMDQSG7RVlWRsCHesEp21jsStyQgUMiJ8K5WguqsVVOOjfF%2FFICkndfjmyR8KpQG3uELKlKuO5I7rh%2BUwPqEVVfc9Eg0xtdt\"}]}",
+    "CF-RAY": "a3cf6f7e0b96e2fe-HKG"
+  }
+}

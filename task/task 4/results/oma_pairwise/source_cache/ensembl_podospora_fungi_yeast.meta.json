@@ -1,0 +1,25 @@
+{
+  "url": "https://rest.ensembl.org/homology/id/podospora_anserina_s_mat_gca_000226545/PODANS_6_5980",
+  "params": {
+    "content-type": "application/json",
+    "compara": "fungi",
+    "type": "orthologues",
+    "target_taxon": "4932",
+    "sequence": "none"
+  },
+  "retrieved_utc": "2026-09-18T09:37:54.512588+00:00",
+  "sha256": "24c1d9146890f7266a731d70174719e202d57313b672a45873017733f153e8ca",
+  "bytes": 49,
+  "response_headers": {
+    "Vary": "Content-Type, Origin",
+    "Content-Type": "application/json",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:37:54 GMT",
+    "X-RateLimit-Limit": "55000",
+    "X-RateLimit-Reset": "1326",
+    "X-Runtime": "0.555083",
+    "X-RateLimit-Period": "3600",
+    "X-RateLimit-Remaining": "54984",
+    "Content-Length": "49"
+  }
+}

@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740157pt" height="433.700787pt" viewBox="0 0 518.740157 433.700787" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-18T18:12:38.629583</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 433.700787 
+L 518.740157 433.700787 
+L 518.740157 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 20.749606 84.261867 
+L 173.466709 84.261867 
+L 173.466709 65.055118 
+L 20.749606 65.055118 
+z
+" style="fill: #e8eff2; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="font-weight: 700; font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="36.021317" y="76.340558" transform="rotate(-0 36.021317 76.340558)">Model gene 1</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 173.466709 84.261867 
+L 326.183811 84.261867 
+L 326.183811 65.055118 
+L 173.466709 65.055118 
+z
+" style="fill: #e8eff2; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="font-weight: 700; font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="188.738419" y="76.340558" transform="rotate(-0 188.738419 76.340558)">Model gene 2</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 326.183811 84.261867 
+L 392.997543 84.261867 
+L 392.997543 65.055118 
+L 326.183811 65.055118 
+z
+" style="fill: #e8eff2; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="font-weight: 700; font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="76.340622" transform="rotate(-0 332.865184 76.340622)">OMA relation</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 392.997543 84.261867 
+L 497.990551 84.261867 
+L 497.990551 65.055118 
+L 392.997543 65.055118 
+z
+" style="fill: #e8eff2; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="font-weight: 700; font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="76.340558" transform="rotate(-0 403.496844 76.340558)">GenAge labels</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 20.749606 103.468616 
+L 173.466709 103.468616 
+L 173.466709 84.261867 
+L 20.749606 84.261867 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font-weight: 700; font-size: 6.3px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="36.021317" y="95.495551" transform="rotate(-0 36.021317 95.495551)">S6 kinase: annotation agreement</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 173.466709 103.468616 
+L 326.183811 103.468616 
+L 326.183811 84.261867 
+L 173.466709 84.261867 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_8">
+     <path d="M 326.183811 103.468616 
+L 392.997543 103.468616 
+L 392.997543 84.261867 
+L 326.183811 84.261867 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_9">
+     <path d="M 392.997543 103.468616 
+L 497.990551 103.468616 
+L 497.990551 84.261867 
+L 392.997543 84.261867 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_10">
+     <path d="M 20.749606 122.675366 
+L 173.466709 122.675366 
+L 173.466709 103.468616 
+L 20.749606 103.468616 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 111.216825)">C. elegans</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 118.291415)">rsks-1</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 173.466709 122.675366 
+L 326.183811 122.675366 
+L 326.183811 103.468616 
+L 173.466709 103.468616 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 111.216825)">D. melanogaster</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 118.291415)">S6k</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 326.183811 122.675366 
+L 392.997543 122.675366 
+L 392.997543 103.468616 
+L 326.183811 103.468616 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="114.75412" transform="rotate(-0 332.865184 114.75412)">1:1</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 392.997543 122.675366 
+L 497.990551 122.675366 
+L 497.990551 103.468616 
+L 392.997543 103.468616 
+z
+" style="fill: #dbe8ee; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="114.75412" transform="rotate(-0 403.496844 114.75412)">Anti / Anti</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 20.749606 141.882115 
+L 173.466709 141.882115 
+L 173.466709 122.675366 
+L 20.749606 122.675366 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 130.423574)">D. melanogaster</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 137.498164)">S6k</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 173.466709 141.882115 
+L 326.183811 141.882115 
+L 326.183811 122.675366 
+L 173.466709 122.675366 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 130.423638)">M. musculus</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 137.498101)">Rps6kb1</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 326.183811 141.882115 
+L 392.997543 141.882115 
+L 392.997543 122.675366 
+L 326.183811 122.675366 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="133.960869" transform="rotate(-0 332.865184 133.960869)">1:1</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 392.997543 141.882115 
+L 497.990551 141.882115 
+L 497.990551 122.675366 
+L 392.997543 122.675366 
+z
+" style="fill: #dbe8ee; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="133.960869" transform="rotate(-0 403.496844 133.960869)">Anti / Anti</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 20.749606 161.088864 
+L 173.466709 161.088864 
+L 173.466709 141.882115 
+L 20.749606 141.882115 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_14">
+     <text style="font-weight: 700; font-size: 6.3px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="36.021317" y="153.11586" transform="rotate(-0 36.021317 153.11586)">SOD: annotation discordance</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 173.466709 161.088864 
+L 326.183811 161.088864 
+L 326.183811 141.882115 
+L 173.466709 141.882115 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_20">
+     <path d="M 326.183811 161.088864 
+L 392.997543 161.088864 
+L 392.997543 141.882115 
+L 326.183811 141.882115 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_21">
+     <path d="M 392.997543 161.088864 
+L 497.990551 161.088864 
+L 497.990551 141.882115 
+L 392.997543 141.882115 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_22">
+     <path d="M 20.749606 180.295613 
+L 173.466709 180.295613 
+L 173.466709 161.088864 
+L 20.749606 161.088864 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 168.837072)">C. elegans</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 175.911662)">sod-1</text>
+    </g>
+    <g id="patch_23">
+     <path d="M 173.466709 180.295613 
+L 326.183811 180.295613 
+L 326.183811 161.088864 
+L 173.466709 161.088864 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 168.837072)">D. melanogaster</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 175.911662)">Sod</text>
+    </g>
+    <g id="patch_24">
+     <path d="M 326.183811 180.295613 
+L 392.997543 180.295613 
+L 392.997543 161.088864 
+L 326.183811 161.088864 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="172.374367" transform="rotate(-0 332.865184 172.374367)">1:1</text>
+    </g>
+    <g id="patch_25">
+     <path d="M 392.997543 180.295613 
+L 497.990551 180.295613 
+L 497.990551 161.088864 
+L 392.997543 161.088864 
+z
+" style="fill: #e9ddeb; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="172.374367" transform="rotate(-0 403.496844 172.374367)">Discordant</text>
+    </g>
+    <g id="patch_26">
+     <path d="M 20.749606 199.502362 
+L 173.466709 199.502362 
+L 173.466709 180.295613 
+L 20.749606 180.295613 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 188.043822)">C. elegans</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 195.118411)">sod-1</text>
+    </g>
+    <g id="patch_27">
+     <path d="M 173.466709 199.502362 
+L 326.183811 199.502362 
+L 326.183811 180.295613 
+L 173.466709 180.295613 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 188.042044)">S. cerevisiae</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 195.120189)">SOD1</text>
+    </g>
+    <g id="patch_28">
+     <path d="M 326.183811 199.502362 
+L 392.997543 199.502362 
+L 392.997543 180.295613 
+L 326.183811 180.295613 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="191.581117" transform="rotate(-0 332.865184 191.581117)">n:1</text>
+    </g>
+    <g id="patch_29">
+     <path d="M 392.997543 199.502362 
+L 497.990551 199.502362 
+L 497.990551 180.295613 
+L 392.997543 180.295613 
+z
+" style="fill: #e9ddeb; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_22">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="191.581117" transform="rotate(-0 403.496844 191.581117)">Discordant</text>
+    </g>
+    <g id="patch_30">
+     <path d="M 20.749606 218.709111 
+L 173.466709 218.709111 
+L 173.466709 199.502362 
+L 20.749606 199.502362 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_23">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 207.250571)">D. melanogaster</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 214.325161)">Sod</text>
+    </g>
+    <g id="patch_31">
+     <path d="M 173.466709 218.709111 
+L 326.183811 218.709111 
+L 326.183811 199.502362 
+L 173.466709 199.502362 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_24">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 207.248793)">S. cerevisiae</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 214.326938)">SOD1</text>
+    </g>
+    <g id="patch_32">
+     <path d="M 326.183811 218.709111 
+L 392.997543 218.709111 
+L 392.997543 199.502362 
+L 326.183811 199.502362 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_25">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="210.787866" transform="rotate(-0 332.865184 210.787866)">1:1</text>
+    </g>
+    <g id="patch_33">
+     <path d="M 392.997543 218.709111 
+L 497.990551 218.709111 
+L 497.990551 199.502362 
+L 392.997543 199.502362 
+z
+" style="fill: #f1e5cd; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_26">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="210.787866" transform="rotate(-0 403.496844 210.787866)">Pro / Pro</text>
+    </g>
+    <g id="patch_34">
+     <path d="M 20.749606 237.915861 
+L 173.466709 237.915861 
+L 173.466709 218.709111 
+L 20.749606 218.709111 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_27">
+     <text style="font-weight: 700; font-size: 6.3px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="36.021317" y="229.942796" transform="rotate(-0 36.021317 229.942796)">Sparse-organism contributions</text>
+    </g>
+    <g id="patch_35">
+     <path d="M 173.466709 237.915861 
+L 326.183811 237.915861 
+L 326.183811 218.709111 
+L 173.466709 218.709111 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_36">
+     <path d="M 326.183811 237.915861 
+L 392.997543 237.915861 
+L 392.997543 218.709111 
+L 326.183811 218.709111 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_37">
+     <path d="M 392.997543 237.915861 
+L 497.990551 237.915861 
+L 497.990551 218.709111 
+L 392.997543 218.709111 
+z
+" style="fill: #f4f4f4; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_38">
+     <path d="M 20.749606 257.12261 
+L 173.466709 257.12261 
+L 173.466709 237.915861 
+L 20.749606 237.915861 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_28">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 245.664069)">C. briggsae</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 252.738659)">Cbr-daf-2</text>
+    </g>
+    <g id="patch_39">
+     <path d="M 173.466709 257.12261 
+L 326.183811 257.12261 
+L 326.183811 237.915861 
+L 173.466709 237.915861 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_29">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 245.664069)">C. elegans</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 252.738659)">daf-2</text>
+    </g>
+    <g id="patch_40">
+     <path d="M 326.183811 257.12261 
+L 392.997543 257.12261 
+L 392.997543 237.915861 
+L 326.183811 237.915861 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_30">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="249.201364" transform="rotate(-0 332.865184 249.201364)">1:1</text>
+    </g>
+    <g id="patch_41">
+     <path d="M 392.997543 257.12261 
+L 497.990551 257.12261 
+L 497.990551 237.915861 
+L 392.997543 237.915861 
+z
+" style="fill: #dbe8ee; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_31">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="249.201364" transform="rotate(-0 403.496844 249.201364)">Anti / Anti</text>
+    </g>
+    <g id="patch_42">
+     <path d="M 20.749606 276.329359 
+L 173.466709 276.329359 
+L 173.466709 257.12261 
+L 20.749606 257.12261 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_32">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 264.870818)">C. briggsae</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 271.945408)">Cbr-daf-2</text>
+    </g>
+    <g id="patch_43">
+     <path d="M 173.466709 276.329359 
+L 326.183811 276.329359 
+L 326.183811 257.12261 
+L 173.466709 257.12261 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_33">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 264.870818)">D. melanogaster</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 271.945408)">InR</text>
+    </g>
+    <g id="patch_44">
+     <path d="M 326.183811 276.329359 
+L 392.997543 276.329359 
+L 392.997543 257.12261 
+L 326.183811 257.12261 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_34">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="268.408113" transform="rotate(-0 332.865184 268.408113)">1:1</text>
+    </g>
+    <g id="patch_45">
+     <path d="M 392.997543 276.329359 
+L 497.990551 276.329359 
+L 497.990551 257.12261 
+L 392.997543 257.12261 
+z
+" style="fill: #dbe8ee; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_35">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="268.408113" transform="rotate(-0 403.496844 268.408113)">Anti / Anti</text>
+    </g>
+    <g id="patch_46">
+     <path d="M 20.749606 295.536108 
+L 173.466709 295.536108 
+L 173.466709 276.329359 
+L 20.749606 276.329359 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_36">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 284.077567)">C. briggsae</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 291.152157)">Cbr-daf-2</text>
+    </g>
+    <g id="patch_47">
+     <path d="M 173.466709 295.536108 
+L 326.183811 295.536108 
+L 326.183811 276.329359 
+L 173.466709 276.329359 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_37">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 284.077567)">M. musculus</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 291.15203)">Igf1r</text>
+    </g>
+    <g id="patch_48">
+     <path d="M 326.183811 295.536108 
+L 392.997543 295.536108 
+L 392.997543 276.329359 
+L 326.183811 276.329359 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_38">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="287.614862" transform="rotate(-0 332.865184 287.614862)">1:m</text>
+    </g>
+    <g id="patch_49">
+     <path d="M 392.997543 295.536108 
+L 497.990551 295.536108 
+L 497.990551 276.329359 
+L 392.997543 276.329359 
+z
+" style="fill: #dbe8ee; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_39">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="287.614862" transform="rotate(-0 403.496844 287.614862)">Anti / Anti</text>
+    </g>
+    <g id="patch_50">
+     <path d="M 20.749606 314.742857 
+L 173.466709 314.742857 
+L 173.466709 295.536108 
+L 20.749606 295.536108 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_40">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 303.284317)">C. briggsae</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 310.358906)">Cbr-daf-2</text>
+    </g>
+    <g id="patch_51">
+     <path d="M 173.466709 314.742857 
+L 326.183811 314.742857 
+L 326.183811 295.536108 
+L 173.466709 295.536108 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_41">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 303.28438)">M. musculus</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 310.358843)">Insr</text>
+    </g>
+    <g id="patch_52">
+     <path d="M 326.183811 314.742857 
+L 392.997543 314.742857 
+L 392.997543 295.536108 
+L 326.183811 295.536108 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_42">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="306.821611" transform="rotate(-0 332.865184 306.821611)">1:m</text>
+    </g>
+    <g id="patch_53">
+     <path d="M 392.997543 314.742857 
+L 497.990551 314.742857 
+L 497.990551 295.536108 
+L 392.997543 295.536108 
+z
+" style="fill: #dbe8ee; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_43">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="306.821611" transform="rotate(-0 403.496844 306.821611)">Anti / Anti</text>
+    </g>
+    <g id="patch_54">
+     <path d="M 20.749606 333.949606 
+L 173.466709 333.949606 
+L 173.466709 314.742857 
+L 20.749606 314.742857 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_44">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 322.491129)">D. rerio</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(36.021317 329.565592)">tert</text>
+    </g>
+    <g id="patch_55">
+     <path d="M 173.466709 333.949606 
+L 326.183811 333.949606 
+L 326.183811 314.742857 
+L 173.466709 314.742857 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_45">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 322.491129)">M. musculus</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.738419 329.565592)">Tert</text>
+    </g>
+    <g id="patch_56">
+     <path d="M 326.183811 333.949606 
+L 392.997543 333.949606 
+L 392.997543 314.742857 
+L 326.183811 314.742857 
+z
+" style="fill: #ffffff; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_46">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="332.865184" y="326.028361" transform="rotate(-0 332.865184 326.028361)">1:1</text>
+    </g>
+    <g id="patch_57">
+     <path d="M 392.997543 333.949606 
+L 497.990551 333.949606 
+L 497.990551 314.742857 
+L 392.997543 314.742857 
+z
+" style="fill: #f1e5cd; stroke: #dddddd; stroke-width: 0.35; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_47">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="403.496844" y="326.028361" transform="rotate(-0 403.496844 326.028361)">Pro / Pro</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_48">
+   <text style="font-size: 11px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="20.749606" y="21.685039" transform="rotate(-0 20.749606 21.685039)">Model genes behind selected ortholog pairs</text>
+  </g>
+  <g id="text_49">
+   <text style="font-size: 7.5px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="20.749606" y="40.334173" transform="rotate(-0 20.749606 40.334173)">Illustrative selection • explicit source edges only • not independent gene families</text>
+  </g>
+  <g id="text_50">
+   <text style="font-size: 6.6px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="20.749606" y="357.80315" transform="rotate(-0 20.749606 357.80315)">S6-kinase experiments differ: worm inhibition, fly dominant-negative expression, mouse deletion.</text>
+  </g>
+  <g id="text_51">
+   <text style="font-size: 6.6px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="20.749606" y="372.982677" transform="rotate(-0 20.749606 372.982677)">Mouse benefit is female-specific; linked erratum remains unchecked. SOD labels are catalogue-level only.</text>
+  </g>
+  <g id="text_52">
+   <text style="font-size: 6.6px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="20.749606" y="388.162205" transform="rotate(-0 20.749606 388.162205)">No worm–mouse S6-kinase edge was recovered; the two displayed edges do not imply a third.</text>
+  </g>
+  <g id="text_53">
+   <text style="font-size: 6.6px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="20.749606" y="403.341732" transform="rotate(-0 20.749606 403.341732)">All nine organisms and missing-source states are shown in Figure 1. Relation n:1 retains source multiplicity.</text>
+  </g>
+ </g>
+</svg>

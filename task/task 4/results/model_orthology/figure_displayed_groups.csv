@@ -1,0 +1,13 @@
+group_id,level,level_name,group_name,catalogue_species,lifespan_species,directional_species,direction_agreement,matched_model_genes,model_symbols,recurrent
+5006262at2759,2759,Eukaryota,frataxin,4,4,3,Unresolved,4,Fxn;YFH1;fh;frh-1,True
+2664232at2759,2759,Eukaryota,thioredoxin,3,3,3,Pro,3,TrxT;Txn1;trx-1,True
+3459473at2759,2759,Eukaryota,chaperone,3,3,2,Unresolved,3,Coq2;HSP104;SPBC16D10.08c,True
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,3,3,1,Unresolved,3,ATG7;Atg7;atg-7,True
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",3,3,3,Discordant,3,SNF4;SNF4Agamma;aakg-2,True
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,3,3,2,Unresolved,3,ATG8;Atg8a;lgg-1,True
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,3,3,2,Unresolved,3,CG17856;QCR7;T02H6.11,True
+4968978at2759,2759,Eukaryota,reductase,3,3,3,Pro,3,Eip71CD;MXR1;Msra,True
+4968995at2759,2759,Eukaryota,superoxide dismutase ,3,3,2,Unresolved,3,SOD2;Sod2;sod-2,True
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,3,3,3,Pro,3,HST2;Sirt2;sir-2.1,True
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,3,3,2,Discordant,3,Xrcc6;YKU70;cku-70,True
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,3,3,2,Unresolved,3,CAT5;Coq7;clk-1,True

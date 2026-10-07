@@ -1,0 +1,8 @@
+# Versions present in the publication verification environment (Python 3.13).
+matplotlib==3.11.0
+numpy==2.5.1
+pandas==3.0.3
+Pillow==12.2.0
+requests==2.32.5
+beautifulsoup4==4.14.3
+PyMuPDF==1.27.2.3

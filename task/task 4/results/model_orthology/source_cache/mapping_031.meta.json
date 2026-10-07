@@ -1,0 +1,20 @@
+{
+  "url": "https://sparql.orthodb.org/sparql",
+  "params": {
+    "query": "PREFIX odb: <http://purl.orthodb.org/>\nPREFIX up: <http://purl.uniprot.org/core/>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT DISTINCT ?xref ?gene ?name ?organism ?og ?level ?level_name ?og_name WHERE {\nVALUES ?xref { <http://www.ncbi.nlm.nih.gov/gene/852925> <http://www.ncbi.nlm.nih.gov/gene/852931> <http://www.ncbi.nlm.nih.gov/gene/852944> <http://www.ncbi.nlm.nih.gov/gene/852948> <http://www.ncbi.nlm.nih.gov/gene/852952> <http://www.ncbi.nlm.nih.gov/gene/852955> <http://www.ncbi.nlm.nih.gov/gene/852962> <http://www.ncbi.nlm.nih.gov/gene/852963> <http://www.ncbi.nlm.nih.gov/gene/852969> <http://www.ncbi.nlm.nih.gov/gene/852971> <http://www.ncbi.nlm.nih.gov/gene/852979> <http://www.ncbi.nlm.nih.gov/gene/852984> <http://www.ncbi.nlm.nih.gov/gene/852988> <http://www.ncbi.nlm.nih.gov/gene/852993> <http://www.ncbi.nlm.nih.gov/gene/852997> <http://www.ncbi.nlm.nih.gov/gene/853002> <http://www.ncbi.nlm.nih.gov/gene/853009> <http://www.ncbi.nlm.nih.gov/gene/853031> <http://www.ncbi.nlm.nih.gov/gene/853033> <http://www.ncbi.nlm.nih.gov/gene/853036> <http://www.ncbi.nlm.nih.gov/gene/853037> <http://www.ncbi.nlm.nih.gov/gene/853042> <http://www.ncbi.nlm.nih.gov/gene/853045> <http://www.ncbi.nlm.nih.gov/gene/853059> <http://www.ncbi.nlm.nih.gov/gene/853064> <http://www.ncbi.nlm.nih.gov/gene/853071> <http://www.ncbi.nlm.nih.gov/gene/853085> <http://www.ncbi.nlm.nih.gov/gene/853118> <http://www.ncbi.nlm.nih.gov/gene/853135> <http://www.ncbi.nlm.nih.gov/gene/853142> <http://www.ncbi.nlm.nih.gov/gene/853144> <http://www.ncbi.nlm.nih.gov/gene/853146> <http://www.ncbi.nlm.nih.gov/gene/853159> <http://www.ncbi.nlm.nih.gov/gene/853165> <http://www.ncbi.nlm.nih.gov/gene/853167> <http://www.ncbi.nlm.nih.gov/gene/853173> <http://www.ncbi.nlm.nih.gov/gene/853186> <http://www.ncbi.nlm.nih.gov/gene/853198> <http://www.ncbi.nlm.nih.gov/gene/853219> <http://www.ncbi.nlm.nih.gov/gene/853226> <http://www.ncbi.nlm.nih.gov/gene/853230> <http://www.ncbi.nlm.nih.gov/gene/853244> <http://www.ncbi.nlm.nih.gov/gene/853250> <http://www.ncbi.nlm.nih.gov/gene/853252> <http://www.ncbi.nlm.nih.gov/gene/853262> <http://www.ncbi.nlm.nih.gov/gene/853267> <http://www.ncbi.nlm.nih.gov/gene/853271> <http://www.ncbi.nlm.nih.gov/gene/853273> <http://www.ncbi.nlm.nih.gov/gene/853275> <http://www.ncbi.nlm.nih.gov/gene/853290> }\nVALUES ?organism { <http://purl.orthodb.org/odborganism/559292_0> <http://purl.orthodb.org/odborganism/6239_0> <http://purl.orthodb.org/odborganism/7227_0> <http://purl.orthodb.org/odborganism/10090_1> <http://purl.orthodb.org/odborganism/4896_0> <http://purl.orthodb.org/odborganism/515849_0> <http://purl.orthodb.org/odborganism/6238_0> <http://purl.orthodb.org/odborganism/7955_0> <http://purl.orthodb.org/odborganism/10036_0> }\n?gene odb:xref/odb:xrefResource ?xref; up:organism ?organism.\nOPTIONAL { ?gene odb:name ?name. }\nOPTIONAL { ?gene odb:memberOf ?og. ?og odb:ogBuiltAt ?level.\nOPTIONAL { ?level up:scientificName ?level_name. }\nOPTIONAL { ?og odb:name ?og_name. } }\n}",
+    "format": "application/sparql-results+json"
+  },
+  "retrieved_utc": "2026-09-18T06:37:28.107545+00:00",
+  "sha256": "880ed103ec3fad39c71b7314e9ebfc46137a33fc668591fade8e03db0b393b7c",
+  "bytes": 149220,
+  "response_headers": {
+    "Server": "nginx/1.20.1",
+    "Date": "Fri, 18 Sep 2026 06:37:24 GMT",
+    "Content-Type": "application/sparql-results+json",
+    "Content-Length": "149220",
+    "Connection": "keep-alive",
+    "Accept-Ranges": "bytes",
+    "Content-disposition": "filename=sparql_2026-09-18_06-37-24Z.json",
+    "Access-Control-Allow-Origin": "*"
+  }
+}

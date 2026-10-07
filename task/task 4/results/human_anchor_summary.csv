@@ -1,0 +1,899 @@
+human_entrez_id,human_symbol,in_human_genage,human_genage_reason,yeast_state,yeast_genes,worm_state,worm_genes,fly_state,fly_genes,mouse_state,mouse_genes,directional_species,cross_species_candidate,direction_agreement,unique_model_genes,shares_model_gene_with_other_anchor
+3480,IGF1R,True,model,No directional evidence,,Anti,daf-2,Anti,InR,Anti,Igf1r,3,True,Anti,3,True
+3643,INSR,True,model,No directional evidence,,Anti,daf-2,Anti,InR,Anti,Insr,3,True,Anti,3,True
+4482,MSRA,True,"mammal,model",Pro,MXR1,No directional evidence,,Pro,Eip71CD,Pro,Msra,3,True,Pro,3,False
+2475,MTOR,True,"mammal,model,cell",Anti,TOR1,Anti,let-363,Anti,Tor,No directional evidence,,3,True,Anti,3,False
+5052,PRDX1,True,"functional,putative",No directional evidence,,Pro,prdx-2,Pro,Jafrac1,Pro,Prdx1,3,True,Pro,3,True
+6561,SLC13A1,True,"mammal,model",No directional evidence,,Anti,nac-3,Anti,Indy,Anti,Slc13a1,3,True,Anti,3,True
+6647,SOD1,True,model,Pro,SOD1,Anti,sod-1,Pro,Sod,No directional evidence,,3,True,Mixed directions,3,False
+6648,SOD2,True,"mammal,model",Pro,SOD2,No directional evidence,,Pro,Sod2,Pro,Sod2,3,True,Pro,4,False
+7295,TXN,True,"model,functional",No directional evidence,,Pro,trx-1,Pro,Trx-2;TrxT,Pro,Txn1,3,True,Pro,4,True
+207,AKT1,True,"model,cell",No directional evidence,,Anti,akt-1,Pro,Akt1,No directional evidence,,2,True,Mixed directions,2,True
+208,AKT2,False,,No directional evidence,,Anti,akt-1,Pro,Akt1,No directional evidence,,2,True,Mixed directions,2,True
+10000,AKT3,False,,No directional evidence,,Anti,akt-1,Pro,Akt1,No directional evidence,,2,True,Mixed directions,2,True
+64422,ATG3,False,,No directional evidence,,Pro,atg-3,Pro,Aut1,No directional evidence,,2,True,Pro,2,False
+506,ATP5B,False,,Pro,ATP2,Anti,atp-2,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,False
+641,BLM,True,functional,Pro,SGS1,Pro,him-6,No directional evidence,,No directional evidence,,2,True,Pro,2,False
+9184,BUB3,True,mammal,No directional evidence,,Anti,bub-3,No directional evidence,,Pro,Bub3,2,True,Mixed directions,2,False
+835,CASP2,False,,No directional evidence,,Anti,ced-3,No directional evidence,,Pro,Casp2,2,True,Mixed directions,2,False
+847,CAT,True,model,No directional evidence,,No directional evidence,,Pro,Cat,Pro,Cat,2,True,Pro,2,False
+29956,CERS2,False,,Anti,LAG1,Pro,hyl-1,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+204219,CERS3,False,,Anti,LAG1,Pro,hyl-1,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+79603,CERS4,False,,Anti,LAG1,Pro,hyl-1,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+91012,CERS5,False,,Anti,LAG1,Pro,hyl-1,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+253782,CERS6,False,,Anti,LAG1,Pro,hyl-1,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+10229,COQ7,True,model,No directional evidence,,Anti,clk-1,No directional evidence,,Anti,Coq7,2,True,Anti,2,False
+1756,DMD,False,,No directional evidence,,No directional evidence,,Pro,Dys,Pro,Dmd,2,True,Pro,2,True
+2203,FBP1,False,,Anti,FBP1,Anti,fbp-1,No directional evidence,,No directional evidence,,2,True,Anti,2,True
+8789,FBP2,False,,Anti,FBP1,Anti,fbp-1,No directional evidence,,No directional evidence,,2,True,Anti,2,True
+2395,FXN,False,,No directional evidence,,No directional evidence,,Pro,fh,Pro,Fxn,2,True,Pro,2,False
+2539,G6PD,False,,No directional evidence,,No directional evidence,,Pro,Zw,Pro,G6PD,2,True,Pro,2,False
+11337,GABARAP,False,,No directional evidence,,Pro,lgg-1,Pro,Atg8a,No directional evidence,,2,True,Pro,2,True
+3065,HDAC1,True,functional,Anti,RPD3,No directional evidence,,Anti,Rpd3,No directional evidence,,2,True,Anti,2,True
+3066,HDAC2,True,"functional,upstream",Anti,RPD3,No directional evidence,,Anti,Rpd3,No directional evidence,,2,True,Anti,2,True
+3309,HSPA5,False,,No directional evidence,,Pro,hsp-4,Pro,Hsc70-3,No directional evidence,,2,True,Pro,2,False
+3419,IDH3A,False,,Anti,IDH2,Anti,idha-1,No directional evidence,,No directional evidence,,2,True,Anti,2,False
+3645,INSRR,False,,No directional evidence,,Anti,daf-2,Anti,InR,No directional evidence,,2,True,Anti,2,True
+3667,IRS1,True,model,No directional evidence,,No directional evidence,,Anti,chico,Anti,Irs1,2,True,Anti,2,True
+8660,IRS2,True,"model,putative",No directional evidence,,No directional evidence,,Anti,chico,Anti,Irs2,2,True,Anti,2,True
+4121,MAN1A1,False,,No directional evidence,,Anti,D2030.1,Anti,alpha-Man-I,No directional evidence,,2,True,Anti,2,True
+5602,MAPK10,False,,No directional evidence,,Pro,jnk-1,Pro,bsk,No directional evidence,,2,True,Pro,2,True
+5599,MAPK8,True,model,No directional evidence,,Pro,jnk-1,Pro,bsk,No directional evidence,,2,True,Pro,2,True
+5601,MAPK9,True,model,No directional evidence,,Pro,jnk-1,Pro,bsk,No directional evidence,,2,True,Pro,2,True
+5105,PCK1,True,putative,No directional evidence,,Anti,pck-2,No directional evidence,,Pro,Pck1,2,True,Mixed directions,2,True
+5110,PCMT1,True,"functional,putative",No directional evidence,,Pro,pcm-1,Pro,Pcmt,No directional evidence,,2,True,Pro,2,False
+5245,PHB,False,,Pro,PHB1,Pro,phb-1,No directional evidence,,No directional evidence,,2,True,Pro,2,False
+11331,PHB2,False,,Pro,PHB2,Pro,phb-2,No directional evidence,,No directional evidence,,2,True,Pro,2,False
+5291,PIK3CB,True,"model,downstream",No directional evidence,,Anti,age-1,Pro,Pi3K92E,No directional evidence,,2,True,Mixed directions,2,True
+5293,PIK3CD,False,,No directional evidence,,Anti,age-1,Pro,Pi3K92E,No directional evidence,,2,True,Mixed directions,2,True
+7001,PRDX2,False,,No directional evidence,,Pro,prdx-2,Pro,Jafrac1,No directional evidence,,2,True,Pro,2,True
+5562,PRKAA1,False,,Anti,SNF1,Pro,aak-2,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+5563,PRKAA2,False,,Anti,SNF1,Pro,aak-2,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+5571,PRKAG1,False,,Anti,SNF4,No directional evidence,,Pro,SNF4Agamma,No directional evidence,,2,True,Mixed directions,2,True
+51422,PRKAG2,False,,Anti,SNF4,No directional evidence,,Pro,SNF4Agamma,No directional evidence,,2,True,Mixed directions,2,True
+6194,RPS6,False,,Anti,RPS6B,Anti,rps-6,No directional evidence,,No directional evidence,,2,True,Anti,2,False
+6198,RPS6KB1,False,,No directional evidence,,Anti,rsks-1,Anti,S6k,No directional evidence,,2,True,Anti,2,True
+6199,RPS6KB2,False,,No directional evidence,,Anti,rsks-1,Anti,S6k,No directional evidence,,2,True,Anti,2,True
+6391,SDHC,True,model,No directional evidence,,Pro,mev-1,Pro,SdhC,No directional evidence,,2,True,Pro,2,False
+23411,SIRT1,True,"mammal,model,cell",No directional evidence,,Pro,sir-2.1,Pro,Sir2,No directional evidence,,2,True,Pro,2,False
+22933,SIRT2,False,,Pro,HST2,No directional evidence,,Pro,Sirt2,No directional evidence,,2,True,Pro,2,True
+9058,SLC13A2,False,,No directional evidence,,Anti,nac-3,Anti,Indy,No directional evidence,,2,True,Anti,2,True
+64849,SLC13A3,False,,No directional evidence,,Anti,nac-3,Anti,Indy,No directional evidence,,2,True,Anti,2,True
+284111,SLC13A5,False,,No directional evidence,,Anti,nac-3,Anti,Indy,No directional evidence,,2,True,Anti,2,True
+291,SLC25A4,False,,No directional evidence,,Anti,ant-1.1,No directional evidence,,Pro,Slc25a4,2,True,Mixed directions,2,True
+6834,SURF1,False,,No directional evidence,,No directional evidence,,Anti,Surf1,Anti,Surf1,2,True,Anti,2,False
+7351,UCP2,True,model,No directional evidence,,No directional evidence,,Pro,UCP2,Pro,Ucp2,2,True,Pro,2,False
+7381,UQCRB,False,,No directional evidence,,Anti,T02H6.11,Anti,CG17856,No directional evidence,,2,True,Anti,2,False
+7498,XDH,False,,No directional evidence,,Anti,F55B11.1,Pro,ry,No directional evidence,,2,True,Mixed directions,2,True
+85320,ABCC11,False,,No directional evidence,,Anti,mrp-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+94160,ABCC12,False,,No directional evidence,,Anti,mrp-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10057,ABCC5,False,,No directional evidence,,Anti,mrp-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+38,ACAT1,False,,No directional evidence,,Pro,kat-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+50,ACO2,False,,No directional evidence,,Anti,aco-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8310,ACOX3,False,,No directional evidence,,Anti,F58F9.7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+90,ACVR1,False,,No directional evidence,,Anti,daf-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+91,ACVR1B,False,,No directional evidence,,Anti,daf-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+130399,ACVR1C,False,,No directional evidence,,Anti,daf-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+105,ADARB2,False,,No directional evidence,,Pro,adr-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+107,ADCY1,False,,No directional evidence,,No directional evidence,,Pro,rut,No directional evidence,,1,False,Not cross-species,1,False
+111,ADCY5,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Adcy5,1,False,Not cross-species,1,False
+10939,AFG3L2,False,,No directional evidence,,Anti,spg-7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+392636,AGMO,False,,No directional evidence,,Pro,agmo-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+55326,AGPAT5,False,,No directional evidence,,Anti,acl-11,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+185,AGTR1,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Agtr1a,1,False,Not cross-species,1,False
+8165,AKAP1,False,,No directional evidence,,Anti,C56G2.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+238,ALK,False,,No directional evidence,,Pro,scd-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+316,AOX1,False,,No directional evidence,,Anti,F55B11.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8546,AP3B1,False,,No directional evidence,,No directional evidence,,Pro,rb,No directional evidence,,1,False,Not cross-species,1,True
+8120,AP3B2,False,,No directional evidence,,No directional evidence,,Pro,rb,No directional evidence,,1,False,Not cross-species,1,True
+8943,AP3D1,False,,No directional evidence,,No directional evidence,,Pro,g,No directional evidence,,1,False,Not cross-species,1,False
+26985,AP3M1,False,,No directional evidence,,No directional evidence,,Pro,cm,No directional evidence,,1,False,Not cross-species,1,True
+10947,AP3M2,False,,No directional evidence,,No directional evidence,,Pro,cm,No directional evidence,,1,False,Not cross-species,1,True
+1176,AP3S1,False,,No directional evidence,,Anti,aps-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10239,AP3S2,False,,No directional evidence,,Anti,aps-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+328,APEX1,True,functional,No directional evidence,,Pro,exo-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+347,APOD,False,,No directional evidence,,No directional evidence,,Pro,NLaz,No directional evidence,,1,False,Not cross-species,1,False
+348,APOE,True,human_link,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Apoe,1,False,Not cross-species,1,False
+392,ARHGAP1,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Arhgap1,1,False,Not cross-species,1,False
+396,ARHGDIA,False,,No directional evidence,,Pro,rhi-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+397,ARHGDIB,False,,No directional evidence,,Pro,rhi-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10425,ARIH2,False,,No directional evidence,,Anti,T12E12.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+127829,ARL8A,False,,No directional evidence,,Pro,arl-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55207,ARL8B,False,,No directional evidence,,Pro,arl-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+406,ARNTL,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Arntl,1,False,Not cross-species,1,False
+10109,ARPC2,False,,No directional evidence,,Pro,arx-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+407,ARR3,False,,No directional evidence,,Anti,arr-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+408,ARRB1,False,,No directional evidence,,Anti,arr-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+409,ARRB2,False,,No directional evidence,,Anti,arr-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9070,ASH2L,False,,No directional evidence,,Anti,ash-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+23130,ATG2A,False,,No directional evidence,,No directional evidence,,Pro,Atg2,No directional evidence,,1,False,Not cross-species,1,True
+55102,ATG2B,False,,No directional evidence,,No directional evidence,,Pro,Atg2,No directional evidence,,1,False,Not cross-species,1,True
+115201,ATG4A,False,,No directional evidence,,Pro,atg-4.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23192,ATG4B,False,,No directional evidence,,Pro,atg-4.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+84938,ATG4C,False,,No directional evidence,,Pro,atg-4.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+84971,ATG4D,False,,No directional evidence,,Pro,atg-4.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10533,ATG7,False,,No directional evidence,,No directional evidence,,Pro,Atg7,No directional evidence,,1,False,Not cross-species,2,False
+79065,ATG9A,False,,No directional evidence,,Pro,atg-9,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+472,ATM,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Atm,1,False,Not cross-species,1,False
+476,ATP1A1,False,,No directional evidence,,Anti,eat-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+477,ATP1A2,False,,No directional evidence,,Anti,eat-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+478,ATP1A3,False,,No directional evidence,,Anti,eat-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+480,ATP1A4,False,,No directional evidence,,Anti,eat-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+487,ATP2A1,False,,No directional evidence,,Anti,sca-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+489,ATP2A3,False,,No directional evidence,,Anti,sca-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+498,ATP5A1,False,,No directional evidence,,Anti,H28O16.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+514,ATP5E,False,,No directional evidence,,No directional evidence,,Anti,sun,No directional evidence,,1,False,Not cross-species,1,False
+515,ATP5F1,False,,No directional evidence,,Anti,asb-1;asb-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,False
+10632,ATP5L,False,,No directional evidence,,Anti,asg-1;asg-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,False
+539,ATP5O,True,model,No directional evidence,,Anti,atp-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+535,ATP6V0A1,False,,No directional evidence,,Anti,unc-32,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+50617,ATP6V0A4,False,,No directional evidence,,Anti,unc-32,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+525,ATP6V1B1,False,,No directional evidence,,Anti,spe-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+526,ATP6V1B2,False,,No directional evidence,,Anti,spe-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+51606,ATP6V1H,False,,No directional evidence,,No directional evidence,,Pro,VhaSFD,No directional evidence,,1,False,Not cross-species,1,False
+538,ATP7A,False,,No directional evidence,,Pro,cua-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+540,ATP7B,False,,No directional evidence,,Pro,cua-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+545,ATR,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Atr,1,False,Not cross-species,2,False
+8815,BANF1,False,,No directional evidence,,Pro,baf-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+590,BCHE,False,,No directional evidence,,Anti,ace-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8678,BECN1,False,,No directional evidence,,Pro,bec-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8945,BTRC,False,,No directional evidence,,Pro,lin-23,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+701,BUB1B,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Bub1b,1,False,Not cross-species,1,False
+8896,BUD31,False,,No directional evidence,,Pro,C07A9.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+79002,C19orf43,False,,No directional evidence,,No directional evidence,,Anti,CG18809,No directional evidence,,1,False,Not cross-species,1,False
+79568,C2orf47,False,,No directional evidence,,No directional evidence,,Mixed,CG3776,No directional evidence,,1,False,Not cross-species,1,False
+813,CALU,False,,No directional evidence,,Pro,calu-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+124583,CANT1,False,,No directional evidence,,Pro,apy-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+857,CAV1,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Cav1,1,False,Not cross-species,1,False
+28952,CCDC22,False,,No directional evidence,,Anti,R08E3.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+51019,CCDC53,False,,No directional evidence,,Anti,ddl-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+904,CCNT1,False,,No directional evidence,,Pro,cit-1.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+905,CCNT2,False,,No directional evidence,,Pro,cit-1.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10575,CCT4,False,,No directional evidence,,Anti,cct-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+908,CCT6A,False,,No directional evidence,,Anti,cct-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10693,CCT6B,False,,No directional evidence,,Anti,cct-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+994,CDC25B,False,,No directional evidence,,Anti,cdc-25.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+990,CDC6,False,,Anti,CDC6,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+200008,CDCP2,False,,No directional evidence,,Anti,clec-227,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1020,CDK5,False,,No directional evidence,,No directional evidence,,Pro,Cdk5,No directional evidence,,1,False,Not cross-species,1,False
+1022,CDK7,True,mammal,No directional evidence,,Pro,cdk-7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1026,CDKN1A,True,cell,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Cdkn1a,1,False,Not cross-species,1,False
+1040,CDS1,False,,No directional evidence,,Pro,C33H5.18,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1072,CFL1,False,,No directional evidence,,Pro,unc-60,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1073,CFL2,False,,No directional evidence,,Pro,unc-60,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10668,CGRRF1,False,,No directional evidence,,Pro,K11D12.9,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1111,CHEK1,False,,No directional evidence,,Anti,chk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+11200,CHEK2,True,functional,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Chek2,1,False,Not cross-species,1,False
+79643,CHMP6,False,,No directional evidence,,Pro,vps-20,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+493856,CISD2,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Cisd2,1,False,Not cross-species,1,False
+9575,CLOCK,True,"functional,downstream",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Clock,1,False,Not cross-species,1,False
+1213,CLTC,False,,No directional evidence,,Pro,chc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1259,CNGA1,False,,No directional evidence,,Anti,tax-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1260,CNGA2,False,,No directional evidence,,Anti,tax-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1262,CNGA4,False,,No directional evidence,,Anti,tax-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1264,CNN1,False,,Anti,SCP1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1265,CNN2,False,,Anti,SCP1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4849,CNOT3,False,,No directional evidence,,Pro,ntl-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+57472,CNOT6,False,,No directional evidence,,Pro,ccr-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+246175,CNOT6L,False,,No directional evidence,,Pro,ccr-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10087,COL4A3BP,False,,No directional evidence,,No directional evidence,,Pro,cert,No directional evidence,,1,False,Not cross-species,1,False
+79585,CORO7,False,,No directional evidence,,Anti,pod-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1327,COX4I1,False,,No directional evidence,,Anti,CELE_W09C5.8,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+84701,COX4I2,False,,No directional evidence,,Anti,CELE_W09C5.8,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9377,COX5A,False,,No directional evidence,,Anti,cco-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1329,COX5B,False,,No directional evidence,,Anti,cco-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1337,COX6A1,False,,No directional evidence,,Anti,tag-174,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1339,COX6A2,False,,No directional evidence,,Anti,tag-174,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1340,COX6B1,False,,No directional evidence,,Anti,Y71H2AM.5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+125965,COX6B2,False,,No directional evidence,,Anti,Y71H2AM.5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+167,CRISP1,False,,No directional evidence,,Mixed,scl-1;scl-20;scl-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+7180,CRISP2,False,,No directional evidence,,Mixed,scl-1;scl-20;scl-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+10321,CRISP3,False,,No directional evidence,,Mixed,scl-1;scl-20;scl-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+23373,CRTC1,False,,No directional evidence,,Anti,crtc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+200186,CRTC2,False,,No directional evidence,,Anti,crtc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+64784,CRTC3,False,,No directional evidence,,Anti,crtc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1443,CSH2,False,,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Gh,1,False,Not cross-species,1,True
+1444,CSHL1,False,,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Gh,1,False,Not cross-species,1,True
+8454,CUL1,False,,No directional evidence,,Pro,cul-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1537,CYC1,False,,No directional evidence,,Anti,cyc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+54205,CYCS,False,,No directional evidence,,Anti,cyc-2.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1553,CYP2A13,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1548,CYP2A6,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1549,CYP2A7,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1555,CYP2B6,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1562,CYP2C18,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1557,CYP2C19,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1558,CYP2C8,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1559,CYP2C9,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1565,CYP2D6,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1571,CYP2E1,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1572,CYP2F1,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1573,CYP2J2,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+120227,CYP2R1,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+29785,CYP2S1,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+113612,CYP2U1,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+54905,CYP2W1,False,,No directional evidence,,Anti,cyp-33E2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1576,CYP3A4,False,,No directional evidence,,Anti,cyp-13B1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+64816,CYP3A43,False,,No directional evidence,,Anti,cyp-13B1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1577,CYP3A5,False,,No directional evidence,,Anti,cyp-13B1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1551,CYP3A7,False,,No directional evidence,,Anti,cyp-13B1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+80344,DCAF11,False,,No directional evidence,,Anti,wdr-23,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+51181,DCXR,False,,No directional evidence,,Pro,dhs-21,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8886,DDX18,False,,No directional evidence,,Anti,B0511.6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+317781,DDX51,False,,No directional evidence,,Anti,ZK686.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1717,DHCR7,False,,No directional evidence,,No directional evidence,,Anti,LBR,No directional evidence,,1,False,Not cross-species,1,True
+57647,DHX37,False,,No directional evidence,,Anti,rha-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1660,DHX9,False,,No directional evidence,,No directional evidence,,Pro,mle,No directional evidence,,1,False,Not cross-species,1,False
+22894,DIS3,False,,No directional evidence,,Pro,dis-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1737,DLAT,False,,Pro,LAT1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1738,DLD,False,,No directional evidence,,Anti,dld-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1763,DNA2,False,,Pro,DNA2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+10059,DNM1L,False,,Anti,DNM1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+11034,DSTN,False,,No directional evidence,,Pro,unc-60,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+80824,DUSP16,False,,No directional evidence,,No directional evidence,,Anti,puc,No directional evidence,,1,False,Not cross-species,1,True
+1850,DUSP8,False,,No directional evidence,,No directional evidence,,Anti,puc,No directional evidence,,1,False,Not cross-species,1,True
+55741,EDEM2,False,,No directional evidence,,No directional evidence,,Anti,Edem1,No directional evidence,,1,False,Not cross-species,1,False
+8726,EED,False,,No directional evidence,,No directional evidence,,Anti,esc,No directional evidence,,1,False,Not cross-species,1,False
+1915,EEF1A1,True,model,No directional evidence,,No directional evidence,,Pro,Ef1alpha48D,No directional evidence,,1,False,Not cross-species,1,True
+1917,EEF1A2,False,,No directional evidence,,No directional evidence,,Pro,Ef1alpha48D,No directional evidence,,1,False,Not cross-species,1,True
+9521,EEF1E1,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Eef1e1,1,False,Not cross-species,1,False
+2202,EFEMP1,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Efemp1,1,False,Not cross-species,1,False
+8890,EIF2B4,False,,No directional evidence,,Anti,CELE_F11A3.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8893,EIF2B5,False,,No directional evidence,,Anti,D2085.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+26523,EIF2C1,False,,No directional evidence,,Pro,alg-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+27161,EIF2C2,False,,No directional evidence,,Pro,alg-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+192669,EIF2C3,False,,No directional evidence,,Pro,alg-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+192670,EIF2C4,False,,No directional evidence,,Pro,alg-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8894,EIF2S2,False,,No directional evidence,,Anti,iftb-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1968,EIF2S3,False,,No directional evidence,,Anti,CELE_Y39G10AR.8,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8661,EIF3A,False,,No directional evidence,,Anti,egl-45,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8662,EIF3B,False,,No directional evidence,,Anti,eif-3.B,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8665,EIF3F,False,,No directional evidence,,Anti,eif-3.F,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1978,EIF4EBP1,False,,No directional evidence,,No directional evidence,,Pro,Thor,No directional evidence,,1,False,Not cross-species,1,True
+1979,EIF4EBP2,False,,No directional evidence,,No directional evidence,,Pro,Thor,No directional evidence,,1,False,Not cross-species,1,True
+1981,EIF4G1,False,,No directional evidence,,Anti,ifg-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8672,EIF4G3,False,,No directional evidence,,Anti,ifg-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1984,EIF5A,False,,No directional evidence,,Anti,iff-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+56648,EIF5A2,True,mammal,No directional evidence,,Anti,iff-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1994,ELAVL1,False,,No directional evidence,,No directional evidence,,Pro,Rbp9,No directional evidence,,1,False,Not cross-species,1,True
+1993,ELAVL2,False,,No directional evidence,,No directional evidence,,Pro,Rbp9,No directional evidence,,1,False,Not cross-species,1,True
+1995,ELAVL3,False,,No directional evidence,,No directional evidence,,Pro,Rbp9,No directional evidence,,1,False,Not cross-species,1,True
+1996,ELAVL4,False,,No directional evidence,,No directional evidence,,Pro,Rbp9,No directional evidence,,1,False,Not cross-species,1,True
+80314,EPC1,False,,No directional evidence,,Anti,epc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+26122,EPC2,False,,No directional evidence,,Anti,epc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2041,EPHA1,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+284656,EPHA10,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2042,EPHA3,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2043,EPHA4,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2044,EPHA5,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+285220,EPHA6,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2045,EPHA7,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2046,EPHA8,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2047,EPHB1,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2048,EPHB2,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2049,EPHB3,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2050,EPHB4,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2051,EPHB6,False,,No directional evidence,,Pro,vab-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2068,ERCC2,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Ercc2,1,False,Not cross-species,1,False
+2072,ERCC4,True,"functional,putative",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Ercc4,1,False,Not cross-species,1,False
+10595,ERN2,False,,No directional evidence,,Pro,ire-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+30001,ERO1L,False,,No directional evidence,,Anti,ero-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+56605,ERO1LB,False,,No directional evidence,,Anti,ero-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+51010,EXOSC3,False,,No directional evidence,,Anti,exos-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+56915,EXOSC5,False,,No directional evidence,,Anti,crn-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+2145,EZH1,False,,No directional evidence,,No directional evidence,,Anti,E(z),No directional evidence,,1,False,Not cross-species,1,True
+2146,EZH2,False,,No directional evidence,,No directional evidence,,Anti,E(z),No directional evidence,,1,False,Not cross-species,1,True
+7430,EZR,False,,No directional evidence,,Anti,erm-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+646486,FABP12,False,,No directional evidence,,Mixed,lbp-7;lbp-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+2170,FABP3,False,,No directional evidence,,Mixed,lbp-7;lbp-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+2167,FABP4,False,,No directional evidence,,Mixed,lbp-7;lbp-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+2171,FABP5,False,,No directional evidence,,Mixed,lbp-7;lbp-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+2173,FABP7,False,,No directional evidence,,Mixed,lbp-7;lbp-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+646480,FABP9,False,,No directional evidence,,Mixed,lbp-7;lbp-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+201627,FAM116A,False,,No directional evidence,,Anti,CELE_F53H1.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+285172,FAM126B,False,,No directional evidence,,Pro,D1069.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+92002,FAM58A,False,,No directional evidence,,Pro,CELE_F43D2.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+2237,FEN1,True,downstream,Pro,RAD27,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8074,FGF23,True,"downstream,putative",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Fgf23,1,False,Not cross-species,1,False
+51024,FIS1,False,,Anti,FIS1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+2317,FLNB,False,,No directional evidence,,No directional evidence,,Pro,cher,No directional evidence,,1,False,Not cross-species,1,True
+2318,FLNC,False,,No directional evidence,,No directional evidence,,Pro,cher,No directional evidence,,1,False,Not cross-species,1,True
+2335,FN1,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Fn1,1,False,Not cross-species,1,False
+2305,FOXM1,True,functional,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Foxm1,1,False,Not cross-species,1,False
+23710,GABARAPL1,False,,No directional evidence,,Pro,lgg-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+1647,GADD45A,False,,No directional evidence,,No directional evidence,,Pro,Gadd45,No directional evidence,,1,False,Not cross-species,1,True
+4616,GADD45B,False,,No directional evidence,,No directional evidence,,Pro,Gadd45,No directional evidence,,1,False,Not cross-species,1,True
+10912,GADD45G,False,,No directional evidence,,No directional evidence,,Pro,Gadd45,No directional evidence,,1,False,Not cross-species,1,True
+2580,GAK,False,,No directional evidence,,Anti,sel-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+2597,GAPDH,False,,No directional evidence,,Anti,gpd-2;gpd-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,False
+2623,GATA1,False,,No directional evidence,,Anti,egl-18;elt-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+2626,GATA4,False,,No directional evidence,,Anti,egl-18;elt-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+140628,GATA5,False,,No directional evidence,,Anti,egl-18;elt-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+2627,GATA6,False,,No directional evidence,,Anti,egl-18;elt-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+2645,GCK,False,,Anti,HXK2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2729,GCLC,True,functional,No directional evidence,,No directional evidence,,Pro,Gclc,No directional evidence,,1,False,Not cross-species,1,False
+2730,GCLM,True,model,No directional evidence,,No directional evidence,,Pro,Gclm,No directional evidence,,1,False,Not cross-species,1,False
+10220,GDF11,True,"mammal,human_link",No directional evidence,,Anti,daf-7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2664,GDI1,False,,No directional evidence,,Pro,gdi-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2665,GDI2,False,,No directional evidence,,Pro,gdi-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2688,GH1,True,"mammal,functional,downstream",No directional evidence,,No directional evidence,,No directional evidence,,Anti,Gh,1,False,Not cross-species,1,True
+2690,GHR,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Ghr,1,False,Not cross-species,1,False
+2692,GHRHR,True,"upstream,putative",No directional evidence,,No directional evidence,,No directional evidence,,Anti,Ghrhr,1,False,Not cross-species,1,False
+10755,GIPC1,False,,No directional evidence,,No directional evidence,,Pro,kermit,No directional evidence,,1,False,Not cross-species,1,True
+54810,GIPC2,False,,No directional evidence,,No directional evidence,,Pro,kermit,No directional evidence,,1,False,Not cross-species,1,True
+126326,GIPC3,False,,No directional evidence,,No directional evidence,,Pro,kermit,No directional evidence,,1,False,Not cross-species,1,True
+11010,GLIPR1,False,,No directional evidence,,Mixed,scl-1;scl-20;scl-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+2767,GNA11,False,,No directional evidence,,Anti,egl-30,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2774,GNAL,False,,No directional evidence,,Pro,gsa-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+2775,GNAO1,False,,No directional evidence,,Pro,goa-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+2776,GNAQ,False,,No directional evidence,,Anti,egl-30,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2791,GNG11,False,,No directional evidence,,Anti,gpc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55970,GNG12,False,,No directional evidence,,Anti,gpc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+54331,GNG2,False,,No directional evidence,,Anti,gpc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2785,GNG3,False,,No directional evidence,,Anti,gpc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2786,GNG4,False,,No directional evidence,,Anti,gpc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2787,GNG5,False,,No directional evidence,,Anti,gpc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+94235,GNG8,False,,No directional evidence,,Anti,gpc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2821,GPI,False,,No directional evidence,,Anti,gpi-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+10750,GRAP,False,,No directional evidence,,Anti,sem-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2885,GRB2,True,downstream,No directional evidence,,Anti,sem-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2962,GTF2F1,False,,No directional evidence,,Pro,C01F1.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+64412,GZF1,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3052,HCCS,False,,No directional evidence,,Anti,cchl-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+29915,HCFC2,False,,No directional evidence,,Anti,hcf-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+3070,HELLS,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Hells,1,False,Not cross-species,1,False
+204851,HIPK1,False,,No directional evidence,,Pro,hpk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10114,HIPK3,False,,No directional evidence,,Pro,hpk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3099,HK2,False,,Anti,HXK2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+80201,HKDC1,False,,Anti,HXK2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3178,HNRNPA1,False,,No directional evidence,,Anti,hrp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+144983,HNRNPA1L2,False,,No directional evidence,,Anti,hrp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+220988,HNRNPA3,False,,No directional evidence,,Anti,hrp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3184,HNRNPD,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Hnrnpd,1,False,Not cross-species,1,False
+51361,HOOK1,False,,No directional evidence,,No directional evidence,,Pro,hk,No directional evidence,,1,False,Not cross-species,1,True
+29911,HOOK2,False,,No directional evidence,,No directional evidence,,Pro,hk,No directional evidence,,1,False,Not cross-species,1,True
+84376,HOOK3,False,,No directional evidence,,No directional evidence,,Pro,hk,No directional evidence,,1,False,Not cross-species,1,True
+27306,HPGDS,False,,No directional evidence,,No directional evidence,,Pro,GstS1,No directional evidence,,1,False,Not cross-species,1,False
+51171,HSD17B14,False,,No directional evidence,,Anti,CELE_D1054.8,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+3298,HSF2,False,,No directional evidence,,Pro,hsf-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+3313,HSPA9,True,model,No directional evidence,,Pro,hsp-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+3339,HSPG2,False,,No directional evidence,,Anti,unc-52,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+3351,HTR1B,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Htr1b,1,False,Not cross-species,1,False
+3064,HTT,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Htt,1,False,Not cross-species,1,False
+3364,HUS1,False,,No directional evidence,,Anti,hus-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+135458,HUS1B,False,,No directional evidence,,Anti,hus-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3417,IDH1,False,,No directional evidence,,Anti,idh-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+55764,IFT122,False,,No directional evidence,,Anti,daf-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+9742,IFT140,False,,No directional evidence,,Anti,che-11,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+26160,IFT172,False,,No directional evidence,,Anti,osm-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+51098,IFT52,False,,No directional evidence,,Anti,osm-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+55081,IFT57,False,,No directional evidence,,Anti,che-13,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+57560,IFT80,False,,No directional evidence,,Anti,che-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8100,IFT88,False,,No directional evidence,,Anti,osm-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+3611,ILK,False,,No directional evidence,,Anti,pat-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+10207,INADL,False,,No directional evidence,,Anti,mpz-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8471,IRS4,False,,No directional evidence,,No directional evidence,,Anti,chico,No directional evidence,,1,False,Not cross-species,1,True
+81689,ISCA1,False,,No directional evidence,,Anti,CELE_Y39B6A.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+83737,ITCH,False,,No directional evidence,,Pro,wwp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3688,ITGB1,False,,No directional evidence,,No directional evidence,,Anti,mys,No directional evidence,,1,False,Not cross-species,1,True
+3689,ITGB2,False,,No directional evidence,,No directional evidence,,Anti,mys,No directional evidence,,1,False,Not cross-species,1,True
+3690,ITGB3,False,,No directional evidence,,No directional evidence,,Anti,mys,No directional evidence,,1,False,Not cross-species,1,True
+3695,ITGB7,False,,No directional evidence,,No directional evidence,,Anti,mys,No directional evidence,,1,False,Not cross-species,1,True
+3708,ITPR1,False,,No directional evidence,,Pro,itr-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3709,ITPR2,False,,No directional evidence,,Pro,itr-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3710,ITPR3,False,,No directional evidence,,Pro,itr-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3727,JUND,True,"mammal,putative",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Jund,1,False,Not cross-species,1,False
+3738,KCNA3,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Kcna3,1,False,Not cross-species,1,False
+9817,KEAP1,False,,No directional evidence,,No directional evidence,,Anti,Keap1,No directional evidence,,1,False,Not cross-species,1,False
+57576,KIF17,False,,No directional evidence,,Anti,osm-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+22944,KIN,False,,No directional evidence,,Pro,CELE_Y52B11A.9,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+9365,KL,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Kl,1,False,Not cross-species,1,False
+124751,KRBA2,False,,Anti,FOB1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+889,KRIT1,False,,No directional evidence,,Pro,kri-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+23395,LARS2,False,,No directional evidence,,Anti,lars-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+9113,LATS1,False,,No directional evidence,,Anti,wts-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+26524,LATS2,False,,No directional evidence,,Anti,wts-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3930,LBR,False,,No directional evidence,,No directional evidence,,Anti,LBR,No directional evidence,,1,False,Not cross-species,1,True
+197021,LCTL,False,,No directional evidence,,Pro,klo-1;klo-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,False
+8861,LDB1,False,,No directional evidence,,Pro,ldb-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9079,LDB2,False,,No directional evidence,,Pro,ldb-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+221496,LEMD2,False,,No directional evidence,,Pro,lem-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23592,LEMD3,False,,No directional evidence,,Pro,lem-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9355,LHX2,False,,No directional evidence,,Pro,ttx-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+56956,LHX9,False,,No directional evidence,,Pro,ttx-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+29995,LMCD1,False,,No directional evidence,,Anti,tes-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4000,LMNA,True,human,No directional evidence,,Pro,lmn-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+4001,LMNB1,True,functional,No directional evidence,,Pro,lmn-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+26018,LRIG1,False,,No directional evidence,,Anti,sma-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9860,LRIG2,False,,No directional evidence,,Anti,sma-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+121227,LRIG3,False,,No directional evidence,,Anti,sma-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+51690,LSM7,False,,No directional evidence,,Pro,lsm-7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4058,LTK,False,,No directional evidence,,Pro,scd-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4116,MAGOH,False,,No directional evidence,,Pro,mag-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55110,MAGOHB,False,,No directional evidence,,Pro,mag-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10905,MAN1A2,False,,No directional evidence,,No directional evidence,,Anti,alpha-Man-I,No directional evidence,,1,False,Not cross-species,1,True
+57134,MAN1C1,False,,No directional evidence,,No directional evidence,,Anti,alpha-Man-I,No directional evidence,,1,False,Not cross-species,1,True
+6416,MAP2K4,False,,No directional evidence,,Anti,mkk-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7786,MAP3K12,False,,No directional evidence,,Pro,dlk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9175,MAP3K13,False,,No directional evidence,,Pro,dlk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5594,MAPK1,False,,No directional evidence,,Pro,mpk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+5595,MAPK3,True,downstream,No directional evidence,,Pro,mpk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+4141,MARS,False,,No directional evidence,,Anti,mars-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4143,MAT1A,False,,No directional evidence,,Anti,sams-1;sams-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+4144,MAT2A,False,,No directional evidence,,Anti,sams-1;sams-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+4171,MCM2,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Mcm2,1,False,Not cross-species,2,False
+4191,MDH2,False,,No directional evidence,,Pro,mdh-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+51102,MECR,False,,No directional evidence,,Anti,mecr-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4211,MEIS1,False,,No directional evidence,,Anti,unc-62,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4212,MEIS2,False,,No directional evidence,,Anti,unc-62,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+56917,MEIS3,False,,No directional evidence,,Anti,unc-62,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4249,MGAT5,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Mgat5,1,False,Not cross-species,1,False
+23295,MGRN1,False,,No directional evidence,,Pro,C11H1.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4286,MITF,False,,Anti,RTG3,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8569,MKNK1,False,,No directional evidence,,Pro,mnk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2872,MKNK2,False,,No directional evidence,,Pro,mnk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55904,MLL5,False,,No directional evidence,,Anti,set-26;set-9,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+8028,MLLT10,False,,No directional evidence,,Pro,zfp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4302,MLLT6,False,,No directional evidence,,Pro,zfp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6945,MLX,False,,No directional evidence,,Pro,mxl-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8777,MPDZ,False,,No directional evidence,,Anti,mpz-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+65008,MRPL1,False,,No directional evidence,,Anti,F33D4.5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+124995,MRPL10,False,,No directional evidence,,Anti,mrpl-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+1468,MRPL12,False,,No directional evidence,,Anti,mrpl-12,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+79590,MRPL24,False,,No directional evidence,,Anti,mrpl-24,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+57129,MRPL47,False,,No directional evidence,,Anti,mrpl-47,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+55173,MRPS10,False,,No directional evidence,,Anti,mrps-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+23107,MRPS27,False,,No directional evidence,,Anti,K11B4.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+64965,MRPS9,False,,No directional evidence,,Anti,mrps-9,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4436,MSH2,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Msh2,1,False,Not cross-species,1,False
+4478,MSN,False,,No directional evidence,,Anti,erm-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2660,MSTN,False,,No directional evidence,,Anti,daf-7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9112,MTA1,False,,No directional evidence,,Pro,lin-40,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9219,MTA2,False,,No directional evidence,,Pro,lin-40,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+57504,MTA3,False,,No directional evidence,,Pro,lin-40,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23787,MTCH1,False,,No directional evidence,,Anti,mtch-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23788,MTCH2,False,,No directional evidence,,Anti,mtch-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8897,MTMR3,False,,No directional evidence,,Pro,mtm-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9110,MTMR4,False,,No directional evidence,,Pro,mtm-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4598,MVK,False,,No directional evidence,,Pro,mvk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7593,MZF1,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4666,NACA,False,,No directional evidence,,Anti,Y65B4BR.5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4677,NARS,False,,No directional evidence,,Anti,nars-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+22916,NCBP2,False,,No directional evidence,,Pro,ncbp-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4705,NDUFA10,False,,No directional evidence,,Anti,nuo-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4706,NDUFAB1,False,,No directional evidence,,Anti,Y56A3A.19,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4716,NDUFB10,False,,No directional evidence,,Anti,CELE_F59C6.5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4711,NDUFB5,False,,No directional evidence,,No directional evidence,,Anti,l(3)neo18,No directional evidence,,1,False,Not cross-species,1,False
+4713,NDUFB7,False,,No directional evidence,,Anti,D2030.4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4719,NDUFS1,False,,No directional evidence,,Anti,nuo-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4720,NDUFS2,False,,No directional evidence,,Anti,nduf-2.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,False
+4722,NDUFS3,False,,No directional evidence,,Anti,nuo-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4724,NDUFS4,False,,No directional evidence,,Anti,lpd-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4728,NDUFS8,False,,No directional evidence,,Anti,T20H4.5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4723,NDUFV1,False,,No directional evidence,,Anti,nuo-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+79661,NEIL1,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Neil1,1,False,Not cross-species,1,False
+4763,NF1,False,,No directional evidence,,No directional evidence,,Pro,Nf1,No directional evidence,,1,False,Not cross-species,1,False
+4778,NFE2,False,,No directional evidence,,Pro,skn-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4779,NFE2L1,True,"model,functional",No directional evidence,,Pro,skn-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4780,NFE2L2,True,"cell,upstream",No directional evidence,,Pro,skn-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9603,NFE2L3,False,,No directional evidence,,Pro,skn-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4774,NFIA,False,,No directional evidence,,Pro,nfi-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4781,NFIB,False,,No directional evidence,,Pro,nfi-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4782,NFIC,False,,No directional evidence,,Pro,nfi-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4784,NFIX,False,,No directional evidence,,Pro,nfi-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23530,NNT,False,,No directional evidence,,Pro,nnt-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+28987,NOB1,False,,No directional evidence,,Anti,CELE_Y54E10BR.4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8602,NOP14,False,,No directional evidence,,Anti,Y48G1A.4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4839,NOP2,False,,No directional evidence,,Anti,nol-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+51602,NOP58,False,,No directional evidence,,Anti,nol-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4846,NOS3,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Nos3,1,False,Not cross-species,1,False
+4853,NOTCH2,False,,No directional evidence,,Anti,glp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4854,NOTCH3,False,,No directional evidence,,Anti,glp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4855,NOTCH4,False,,No directional evidence,,Anti,glp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7376,NR1H2,False,,No directional evidence,,Anti,daf-12,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9971,NR1H4,False,,No directional evidence,,Anti,daf-12,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9378,NRXN1,False,,No directional evidence,,Anti,nrx-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9379,NRXN2,False,,No directional evidence,,Anti,nrx-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9369,NRXN3,False,,No directional evidence,,Anti,nrx-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23165,NUP205,False,,No directional evidence,,Pro,npp-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+79902,NUP85,False,,No directional evidence,,Pro,npp-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+4967,OGDH,False,,No directional evidence,,Anti,ogdh-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55753,OGDHL,False,,No directional evidence,,Anti,ogdh-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+4976,OPA1,False,,No directional evidence,,Anti,eat-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+26986,PABPC1,False,,No directional evidence,,Anti,pab-1;pab-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+80336,PABPC1L,False,,No directional evidence,,Anti,pab-1;pab-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+5042,PABPC3,False,,No directional evidence,,Anti,pab-1;pab-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+8761,PABPC4,False,,No directional evidence,,Anti,pab-1;pab-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+53354,PANK1,False,,No directional evidence,,Pro,pnk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+80025,PANK2,False,,No directional evidence,,Pro,pnk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+79646,PANK3,False,,No directional evidence,,Pro,pnk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+167153,PAPD4,False,,No directional evidence,,Anti,pup-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+5069,PAPPA,True,"mammal,functional,putative",No directional evidence,,No directional evidence,,No directional evidence,,Anti,Pappa,1,False,Not cross-species,1,False
+55486,PARL,False,,No directional evidence,,No directional evidence,,Pro,rho-7,No directional evidence,,1,False,Not cross-species,1,False
+55742,PARVA,False,,No directional evidence,,Anti,pat-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+29780,PARVB,False,,No directional evidence,,Anti,pat-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5074,PAWR,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Pawr,1,False,Not cross-species,1,False
+5106,PCK2,False,,No directional evidence,,Anti,pck-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5126,PCSK2,False,,No directional evidence,,Anti,egl-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+5130,PCYT1A,False,,No directional evidence,,No directional evidence,,Pro,Cct1,No directional evidence,,1,False,Not cross-species,1,True
+9468,PCYT1B,False,,No directional evidence,,No directional evidence,,Pro,Cct1,No directional evidence,,1,False,Not cross-species,1,True
+5141,PDE4A,False,,No directional evidence,,No directional evidence,,Anti,dnc,No directional evidence,,1,False,Not cross-species,1,True
+5142,PDE4B,False,,No directional evidence,,No directional evidence,,Anti,dnc,No directional evidence,,1,False,Not cross-species,1,True
+5143,PDE4C,False,,No directional evidence,,No directional evidence,,Anti,dnc,No directional evidence,,1,False,Not cross-species,1,True
+5144,PDE4D,False,,No directional evidence,,No directional evidence,,Anti,dnc,No directional evidence,,1,False,Not cross-species,1,True
+5170,PDPK1,True,downstream,No directional evidence,,Anti,pdk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+9409,PEX16,False,,No directional evidence,,No directional evidence,,Pro,Pex16,No directional evidence,,1,False,Not cross-species,1,False
+5830,PEX5,True,functional,No directional evidence,,Anti,prx-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+9488,PIGB,False,,No directional evidence,,Anti,eif-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+5290,PIK3CA,True,upstream,No directional evidence,,Anti,age-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5294,PIK3CG,False,,No directional evidence,,Anti,age-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5305,PIP4K2A,False,,No directional evidence,,Anti,gpc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5328,PLAU,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Plau,1,False,Not cross-species,1,False
+5332,PLCB4,False,,No directional evidence,,Anti,egl-8,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+57475,PLEKHH1,False,,No directional evidence,,Anti,max-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+130271,PLEKHH2,False,,No directional evidence,,Anti,max-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5422,POLA1,True,cell,No directional evidence,,Pro,Y47D3A.29,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+5428,POLG,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Polg,1,False,Not cross-species,1,False
+84172,POLR1B,False,,No directional evidence,,Anti,F14B4.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+10623,POLR3C,False,,No directional evidence,,Anti,C48E7.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+51371,POMP,False,,Pro,UMP1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+5449,POU1F1,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Pou1f1,1,False,Not cross-species,1,False
+25833,POU2F3,False,,No directional evidence,,Anti,ceh-18,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5453,POU3F1,False,,No directional evidence,,Anti,ceh-18,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5468,PPARG,True,functional,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Pparg,1,False,Not cross-species,1,False
+8500,PPFIA1,False,,No directional evidence,,Pro,syd-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8499,PPFIA2,False,,No directional evidence,,Pro,syd-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8541,PPFIA3,False,,No directional evidence,,Pro,syd-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8496,PPFIBP1,False,,No directional evidence,,Pro,hlb-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8495,PPFIBP2,False,,No directional evidence,,Pro,hlb-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8493,PPM1D,True,"downstream,putative",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Ppm1d,1,False,Not cross-species,1,False
+5530,PPP3CA,False,,No directional evidence,,Anti,tax-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5532,PPP3CB,False,,No directional evidence,,Anti,tax-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5533,PPP3CC,False,,No directional evidence,,Anti,tax-6,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5534,PPP3R1,False,,No directional evidence,,Anti,cnb-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5535,PPP3R2,False,,No directional evidence,,Anti,cnb-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+54896,PQLC2,False,,No directional evidence,,Anti,Y43H11AL.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+639,PRDM1,False,,No directional evidence,,Pro,blmp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+10935,PRDX3,False,,No directional evidence,,Pro,prdx-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+25824,PRDX5,False,,No directional evidence,,No directional evidence,,Pro,Prx5,No directional evidence,,1,False,Not cross-species,1,False
+5564,PRKAB1,False,,No directional evidence,,Pro,aakb-1;aakb-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+5565,PRKAB2,False,,No directional evidence,,Pro,aakb-1;aakb-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+5566,PRKACA,False,,Anti,TPK2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+5567,PRKACB,False,,Anti,TPK2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+5568,PRKACG,False,,Anti,TPK2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,3,True
+53632,PRKAG3,False,,Anti,SNF4,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5580,PRKCD,True,downstream,No directional evidence,,Anti,tpa-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5588,PRKCQ,False,,No directional evidence,,Anti,tpa-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+25865,PRKD2,False,,No directional evidence,,Anti,dkf-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23683,PRKD3,False,,No directional evidence,,Anti,dkf-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5592,PRKG1,False,,No directional evidence,,Anti,pkg-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+5626,PROP1,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Prop1,1,False,Not cross-species,1,False
+84950,PRPF38A,False,,No directional evidence,,Anti,CELE_D1054.14,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+5728,PTEN,True,model,No directional evidence,,No directional evidence,,Pro,Pten,No directional evidence,,1,False,Not cross-species,1,False
+5859,QARS,False,,No directional evidence,,Anti,qars-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+10890,RAB10,False,,No directional evidence,,Anti,rab-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+5868,RAB5A,False,,No directional evidence,,Pro,rab-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5869,RAB5B,False,,No directional evidence,,Pro,rab-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5878,RAB5C,False,,No directional evidence,,Pro,rab-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7879,RAB7A,False,,No directional evidence,,Pro,rab-7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+5875,RABGGTA,False,,No directional evidence,,Pro,M57.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+64792,RABL5,False,,No directional evidence,,Anti,ifta-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8480,RAE1,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Rae1,1,False,Not cross-species,1,False
+5898,RALA,False,,No directional evidence,,Anti,ral-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5899,RALB,False,,No directional evidence,,Anti,ral-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+57610,RANBP10,False,,No directional evidence,,Anti,Y54E5A.7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10048,RANBP9,False,,No directional evidence,,Anti,Y54E5A.7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5914,RARA,False,,No directional evidence,,Anti,daf-12,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5915,RARB,False,,No directional evidence,,Anti,daf-12,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5916,RARG,False,,No directional evidence,,Anti,daf-12,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5929,RBBP5,False,,No directional evidence,,Anti,F21H12.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+64783,RBM15,False,,No directional evidence,,Anti,grld-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+29890,RBM15B,False,,No directional evidence,,Anti,grld-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55147,RBM23,False,,No directional evidence,,Pro,Y55F3AM.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9584,RBM39,False,,No directional evidence,,Pro,Y55F3AM.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+149041,RC3H1,False,,No directional evidence,,Anti,rle-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+54542,RC3H2,False,,No directional evidence,,Anti,rle-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10171,RCL1,False,,No directional evidence,,Anti,ZK1127.5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+5954,RCN1,False,,No directional evidence,,Pro,calu-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+57333,RCN3,False,,No directional evidence,,Pro,calu-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5962,RDX,False,,No directional evidence,,Anti,erm-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5989,RFX1,False,,No directional evidence,,Anti,daf-19,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5990,RFX2,False,,No directional evidence,,Anti,daf-19,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+5991,RFX3,False,,No directional evidence,,Anti,daf-19,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6002,RGS12,False,,No directional evidence,,No directional evidence,,Anti,loco,No directional evidence,,1,False,Not cross-species,1,False
+9628,RGS6,False,,No directional evidence,,Anti,egl-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6000,RGS7,False,,No directional evidence,,Anti,egl-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+22999,RIMS1,False,,No directional evidence,,Anti,unc-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9699,RIMS2,False,,No directional evidence,,Anti,unc-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+114804,RNF157,False,,No directional evidence,,Pro,C11H1.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+91445,RNF185,False,,No directional evidence,,Anti,rnf-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6048,RNF5,False,,No directional evidence,,Anti,rnf-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8732,RNGTT,False,,No directional evidence,,Pro,cel-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6093,ROCK1,False,,No directional evidence,,Pro,let-502,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9475,ROCK2,False,,No directional evidence,,Pro,let-502,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+140801,RPL10L,False,,Anti,RPL10,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6143,RPL19,False,,No directional evidence,,Anti,rpl-19,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6160,RPL31,False,,Anti,RPL31A,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6124,RPL4,False,,No directional evidence,,Anti,rpl-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6128,RPL6,False,,Anti,RPL6B,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,False
+6133,RPL9,False,,No directional evidence,,Anti,rpl-9,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6204,RPS10,False,,No directional evidence,,Anti,rps-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6205,RPS11,False,,No directional evidence,,Anti,rps-11,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6209,RPS15,False,,No directional evidence,,Anti,rps-15,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6210,RPS15A,False,,No directional evidence,,Anti,rps-22,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6222,RPS18,False,,Anti,RPS18A,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6228,RPS23,False,,No directional evidence,,Anti,rps-23,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6231,RPS26,False,,No directional evidence,,Anti,rps-26,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6188,RPS3,False,,No directional evidence,,Anti,rps-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6193,RPS5,False,,No directional evidence,,Anti,rps-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+57521,RPTOR,False,,No directional evidence,,Anti,daf-15,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6237,RRAS,False,,Anti,RAS1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+22800,RRAS2,False,,Anti,RAS1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+23378,RRP8,False,,No directional evidence,,Anti,T07A9.8,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+22908,SACM1L,False,,No directional evidence,,Pro,sac-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6295,SAG,False,,No directional evidence,,Anti,arr-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+51119,SBDS,False,,No directional evidence,,Pro,sbds-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6319,SCD,False,,No directional evidence,,Pro,fat-7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+79966,SCD5,False,,No directional evidence,,Pro,fat-7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6447,SCG5,False,,No directional evidence,,Pro,sbt-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6341,SCO1,False,,No directional evidence,,Anti,sco-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+57410,SCYL1,False,,No directional evidence,,No directional evidence,,Pro,yata,No directional evidence,,1,False,Not cross-species,1,False
+6390,SDHB,False,,No directional evidence,,No directional evidence,,Pro,SdhB,No directional evidence,,1,False,Not cross-species,1,False
+23067,SETD1B,False,,No directional evidence,,Anti,set-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+55209,SETD5,False,,No directional evidence,,Anti,set-26;set-9,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+84826,SFT2D3,False,,No directional evidence,,Anti,C18E9.10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6441,SFTPD,False,,No directional evidence,,Anti,col-93,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6444,SGCD,False,,No directional evidence,,No directional evidence,,Pro,Scgdelta,No directional evidence,,1,False,Not cross-species,1,True
+6445,SGCG,False,,No directional evidence,,No directional evidence,,Pro,Scgdelta,No directional evidence,,1,False,Not cross-species,1,True
+137868,SGCZ,False,,No directional evidence,,No directional evidence,,Pro,Scgdelta,No directional evidence,,1,False,Not cross-species,1,True
+6446,SGK1,False,,No directional evidence,,Anti,sgk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10110,SGK2,False,,No directional evidence,,Anti,sgk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23678,SGK3,False,,No directional evidence,,Anti,sgk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8879,SGPL1,False,,No directional evidence,,Pro,spl-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+25970,SH2B1,False,,No directional evidence,,No directional evidence,,Anti,Lnk,No directional evidence,,1,False,Not cross-species,1,False
+57630,SH3RF1,False,,No directional evidence,,No directional evidence,,Pro,POSH,No directional evidence,,1,False,Not cross-species,1,False
+25759,SHC2,False,,No directional evidence,,Pro,shc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+53358,SHC3,False,,No directional evidence,,Pro,shc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+399694,SHC4,False,,No directional evidence,,Pro,shc-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23410,SIRT3,True,functional,Pro,HST2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+51548,SIRT6,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Sirt6,1,False,Not cross-species,1,False
+51547,SIRT7,True,"functional,putative",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Sirt7,1,False,Not cross-species,1,False
+6500,SKP1,False,,No directional evidence,,Pro,skr-1;skr-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,False
+6564,SLC15A1,False,,No directional evidence,,Anti,pept-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6565,SLC15A2,False,,No directional evidence,,Anti,pept-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9016,SLC25A14,False,,No directional evidence,,No directional evidence,,Anti,Bmcp,No directional evidence,,1,False,Not cross-species,1,True
+5250,SLC25A3,False,,No directional evidence,,Anti,C33F10.12;F01G4.6,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,False
+253512,SLC25A30,False,,No directional evidence,,No directional evidence,,Anti,Bmcp,No directional evidence,,1,False,Not cross-species,1,True
+83447,SLC25A31,False,,No directional evidence,,Anti,ant-1.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+81034,SLC25A32,False,,No directional evidence,,Anti,K01C8.7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+9673,SLC25A44,False,,No directional evidence,,Anti,F13G3.7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+292,SLC25A5,False,,No directional evidence,,Anti,ant-1.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+293,SLC25A6,False,,No directional evidence,,Anti,ant-1.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+376497,SLC27A1,False,,No directional evidence,,Pro,acs-20,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10999,SLC27A4,False,,No directional evidence,,Pro,acs-20,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+2030,SLC29A1,False,,No directional evidence,,Anti,ent-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+3177,SLC29A2,False,,No directional evidence,,Anti,ent-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55315,SLC29A3,False,,No directional evidence,,Anti,ent-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+206358,SLC36A1,False,,No directional evidence,,Anti,Y43F4B.7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+153201,SLC36A2,False,,No directional evidence,,Anti,Y43F4B.7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+285641,SLC36A3,False,,No directional evidence,,Anti,Y43F4B.7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+120103,SLC36A4,False,,No directional evidence,,Anti,Y43F4B.7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6532,SLC6A4,False,,No directional evidence,,Pro,mod-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6541,SLC7A1,False,,Anti,AGP1;CAN1;TAT2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,4,True
+57709,SLC7A14,False,,Anti,AGP1;CAN1;TAT2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,4,True
+84889,SLC7A3,False,,Anti,AGP1;CAN1;TAT2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,4,True
+6545,SLC7A4,False,,Anti,AGP1;CAN1;TAT2,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,4,True
+9368,SLC9A3R1,False,,No directional evidence,,Anti,mpz-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+55671,SMEK1,False,,No directional evidence,,Pro,smk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+57223,SMEK2,False,,No directional evidence,,Pro,smk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23049,SMG1,False,,No directional evidence,,Anti,smg-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+64093,SMOC1,False,,No directional evidence,,No directional evidence,,Pro,magu,No directional evidence,,1,False,Not cross-species,1,False
+8773,SNAP23,False,,No directional evidence,,Anti,ric-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6616,SNAP25,False,,No directional evidence,,Anti,ric-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+11267,SNF8,False,,No directional evidence,,Pro,vps-22,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6631,SNRPC,False,,No directional evidence,,Anti,F08B4.7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+83891,SNX25,False,,No directional evidence,,No directional evidence,,Anti,snz,No directional evidence,,1,False,Not cross-species,1,False
+6646,SOAT1,False,,No directional evidence,,Pro,mboa-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8435,SOAT2,False,,No directional evidence,,Pro,mboa-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8835,SOCS2,True,"functional,upstream",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Socs2,1,False,Not cross-species,1,False
+25803,SPDEF,False,,No directional evidence,,Anti,ets-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+23013,SPEN,False,,No directional evidence,,Pro,din-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6789,STK4,False,,No directional evidence,,Pro,cst-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+10273,STUB1,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Stub1,1,False,Not cross-species,1,False
+134957,STXBP5,False,,No directional evidence,,Pro,tom-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9515,STXBP5L,False,,No directional evidence,,Pro,tom-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6827,SUPT4H1,False,,No directional evidence,,Anti,spt-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+51111,SUV420H1,False,,No directional evidence,,Anti,set-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+84787,SUV420H2,False,,No directional evidence,,Anti,set-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8189,SYMPK,False,,No directional evidence,,Anti,symk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+8867,SYNJ1,False,,No directional evidence,,Anti,unc-26,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8871,SYNJ2,False,,No directional evidence,,Anti,unc-26,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6876,TAGLN,False,,Anti,SCP1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8407,TAGLN2,False,,Anti,SCP1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+29114,TAGLN3,False,,Anti,SCP1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6897,TARS,False,,No directional evidence,,Anti,tars-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+123283,TARSL2,False,,No directional evidence,,Anti,tars-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+57465,TBC1D24,False,,No directional evidence,,Pro,tbc-7,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6905,TBCE,False,,No directional evidence,,Anti,K07H8.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+6908,TBP,True,upstream,No directional evidence,,Pro,tbp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+387332,TBPL2,False,,No directional evidence,,Pro,tbp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+6916,TBXAS1,False,,No directional evidence,,Anti,cyp-13B1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+51224,TCEB3B,False,,No directional evidence,,Anti,CELE_R03D7.4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+162699,TCEB3C,False,,No directional evidence,,Anti,CELE_R03D7.4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7014,TERF2,True,functional,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Terf2,1,False,Not cross-species,1,False
+7015,TERT,True,"cell,functional",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Tert,1,False,Not cross-species,1,False
+26136,TES,False,,No directional evidence,,Anti,tes-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7942,TFEB,False,,Anti,RTG3,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7046,TGFBR1,False,,No directional evidence,,Anti,daf-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7068,THRB,False,,No directional evidence,,Anti,daf-12,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7086,TKT,False,,No directional evidence,,Anti,tkt-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+84076,TKTL2,False,,No directional evidence,,Anti,tkt-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7108,TM7SF2,False,,No directional evidence,,No directional evidence,,Anti,LBR,No directional evidence,,1,False,Not cross-species,1,True
+79847,TMEM180,False,,No directional evidence,,Anti,F28B3.5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7150,TOP1,True,functional,No directional evidence,,Pro,top-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+116447,TOP1MT,False,,No directional evidence,,Pro,top-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8940,TOP3B,True,"functional,putative",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Top3b,1,False,Not cross-species,1,False
+10210,TOPORS,False,,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Topors,1,False,Not cross-species,1,False
+7157,TP53,True,"mammal,model,cell",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Trp53,1,False,Not cross-species,1,False
+7158,TP53BP1,True,functional,No directional evidence,,No directional evidence,,No directional evidence,,Anti,Trp53bp1,1,False,Not cross-species,1,False
+8626,TP63,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Trp63,1,False,Not cross-species,1,False
+7174,TPP2,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Tpp2,1,False,Not cross-species,1,False
+1787,TRDMT1,False,,No directional evidence,,No directional evidence,,Pro,Mt2,No directional evidence,,1,False,Not cross-species,1,False
+440730,TRIM67,False,,No directional evidence,,Anti,trim-9,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+114088,TRIM9,False,,No directional evidence,,Anti,trim-9,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+51095,TRNT1,False,,No directional evidence,,Pro,hpo-31,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+56302,TRPV5,False,,No directional evidence,,Anti,ocr-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55503,TRPV6,False,,No directional evidence,,Anti,ocr-2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7248,TSC1,False,,No directional evidence,,No directional evidence,,Pro,Tsc1,No directional evidence,,1,False,Not cross-species,1,False
+7249,TSC2,False,,No directional evidence,,No directional evidence,,Pro,gig,No directional evidence,,1,False,Not cross-species,1,False
+54902,TTC19,False,,No directional evidence,,Anti,ddl-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7275,TUB,False,,No directional evidence,,Anti,tub-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7284,TUFM,False,,No directional evidence,,Anti,tufm-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7287,TULP1,False,,No directional evidence,,Anti,tub-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7289,TULP3,False,,No directional evidence,,Anti,tub-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+255220,TXNDC8,False,,No directional evidence,,Pro,trx-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7334,UBE2N,False,,No directional evidence,,Pro,ubc-13,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+389898,UBE2NL,False,,No directional evidence,,Pro,ubc-13,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7345,UCHL1,True,putative,No directional evidence,,Pro,ubh-1;ubh-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+7347,UCHL3,False,,No directional evidence,,Pro,ubh-1;ubh-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+51377,UCHL5,False,,No directional evidence,,Anti,ubh-4,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+54963,UCKL1,False,,No directional evidence,,Anti,F19B6.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7353,UFD1L,False,,No directional evidence,,Pro,ufd-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7360,UGP2,False,,No directional evidence,,Anti,K08E3.5,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+23025,UNC13A,False,,No directional evidence,,Anti,unc-13,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10497,UNC13B,False,,No directional evidence,,Anti,unc-13,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+440279,UNC13C,False,,No directional evidence,,Anti,unc-13,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7385,UQCRC2,False,,No directional evidence,,Anti,ucr-2.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7386,UQCRFS1,False,,No directional evidence,,Anti,isp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7388,UQCRH,False,,No directional evidence,,Anti,T27E9.2,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+27089,UQCRQ,False,,No directional evidence,,Anti,F45H10.2;R07E4.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,False
+84196,USP48,False,,No directional evidence,,Pro,usp-48,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7402,UTRN,False,,No directional evidence,,No directional evidence,,Pro,Dys,No directional evidence,,1,False,Not cross-species,1,True
+79674,VEPH1,False,,No directional evidence,,Anti,K10B4.3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+284013,VMO1,False,,No directional evidence,,Anti,CELE_Y39F10C.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+64601,VPS16,False,,No directional evidence,,Pro,vps-16,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+57617,VPS18,False,,No directional evidence,,No directional evidence,,Pro,dor,No directional evidence,,1,False,Not cross-species,1,False
+65082,VPS33A,False,,No directional evidence,,No directional evidence,,Pro,car,No directional evidence,,1,False,Not cross-species,1,False
+51028,VPS36,False,,No directional evidence,,Pro,vps-36,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+79720,VPS37B,False,,No directional evidence,,Pro,vps-37,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55048,VPS37C,False,,No directional evidence,,Pro,vps-37,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+27072,VPS41,False,,No directional evidence,,No directional evidence,,Pro,lt,No directional evidence,,1,False,Not cross-species,1,False
+7443,VRK1,False,,No directional evidence,,Pro,vrk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7444,VRK2,False,,No directional evidence,,Pro,vrk-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+30813,VSX1,False,,No directional evidence,,Pro,ceh-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+338917,VSX2,False,,No directional evidence,,Pro,ceh-10,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23001,WDFY3,False,,No directional evidence,,No directional evidence,,Pro,bchs,No directional evidence,,1,False,Not cross-species,1,False
+11091,WDR5,False,,No directional evidence,,Anti,wdr-5.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+54554,WDR5B,False,,No directional evidence,,Anti,wdr-5.1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7456,WIPF1,False,,No directional evidence,,Pro,wip-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+147179,WIPF2,False,,No directional evidence,,Pro,wip-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+644150,WIPF3,False,,No directional evidence,,Pro,wip-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+11059,WWP1,False,,No directional evidence,,Pro,wwp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+11060,WWP2,False,,No directional evidence,,Pro,wwp-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7507,XPA,True,"functional,putative",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Xpa,1,False,Not cross-species,1,False
+2547,XRCC6,True,functional,No directional evidence,,No directional evidence,,No directional evidence,,Pro,Xrcc6,1,False,Not cross-species,2,False
+51067,YARS2,False,,No directional evidence,,Anti,yars-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7529,YWHAB,False,,No directional evidence,,Pro,ftt-2;par-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+7531,YWHAE,False,,No directional evidence,,No directional evidence,,Anti,14-3-3epsilon,No directional evidence,,1,False,Not cross-species,1,False
+7534,YWHAZ,True,downstream,No directional evidence,,Pro,ftt-2;par-5,No directional evidence,,No directional evidence,,1,False,Not cross-species,2,True
+23318,ZCCHC11,False,,No directional evidence,,Anti,cid-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+79670,ZCCHC6,False,,No directional evidence,,Anti,cid-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+130617,ZFAND2B,False,,No directional evidence,,Pro,aip-1,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+7586,ZKSCAN1,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+80317,ZKSCAN3,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+387032,ZKSCAN4,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+23660,ZKSCAN5,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10269,ZMPSTE24,True,"upstream,putative",No directional evidence,,No directional evidence,,No directional evidence,,Pro,Zmpste24,1,False,Not cross-species,1,False
+94039,ZNF101,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7730,ZNF177,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7566,ZNF18,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7745,ZNF192,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7549,ZNF2,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7753,ZNF202,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7755,ZNF205,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7760,ZNF213,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7762,ZNF215,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7767,ZNF224,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10127,ZNF263,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+10782,ZNF274,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+8427,ZNF282,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7551,ZNF3,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+64288,ZNF323,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+84307,ZNF397,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+57541,ZNF398,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+54925,ZNF434,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55311,ZNF444,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55663,ZNF446,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+203523,ZNF449,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+84838,ZNF496,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+221785,ZNF498,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+26048,ZNF500,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+84874,ZNF514,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+79818,ZNF552,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+115196,ZNF554,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+80032,ZNF556,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+79230,ZNF557,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+93134,ZNF561,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+64763,ZNF574,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+84765,ZNF577,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+201514,ZNF584,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+162963,ZNF610,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+253639,ZNF620,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+285268,ZNF621,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+90441,ZNF622,False,,Anti,REI1,No directional evidence,,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,False
+23361,ZNF629,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+121274,ZNF641,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+389114,ZNF662,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+79862,ZNF669,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+55762,ZNF701,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7627,ZNF75A,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+284390,ZNF763,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+79724,ZNF768,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+146540,ZNF785,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+285989,ZNF789,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7554,ZNF8,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+284312,ZSCAN1,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+84891,ZSCAN10,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+9753,ZSCAN12,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+80345,ZSCAN16,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+7579,ZSCAN20,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+222696,ZSCAN23,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+146050,ZSCAN29,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+100101467,ZSCAN30,False,,No directional evidence,,Pro,sptf-3,No directional evidence,,No directional evidence,,1,False,Not cross-species,1,True
+581,BAX,True,"downstream,putative",No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+8573,CASK,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+1051,CEBPB,True,mammal,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+1663,DDX11,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+127343,DMBX1,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+644168,DRGX,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+1938,EEF2,True,putative,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+1973,EIF4A1,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+1974,EIF4A2,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+9637,FEZ2,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+3479,IGF1,True,functional,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+5927,KDM5A,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+10765,KDM5B,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+8242,KDM5C,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+8284,KDM5D,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+3845,KRAS,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+4893,NRAS,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+4998,ORC1,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+5442,POLRMT,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+5576,PRKAR2A,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+5577,PRKAR2B,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+10111,RAD50,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+5888,RAD51,True,"cell,functional",No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+5893,RAD52,True,"cell,functional",No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+5928,RBBP4,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+5931,RBBP7,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+11030,RBPMS,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+348093,RBPMS2,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+6804,STX1A,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+112755,STX1B,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+9894,TELO2,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+65084,TMEM135,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+54802,TRIT1,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,False
+8408,ULK1,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+9706,ULK2,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+55062,WIPI1,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True
+26100,WIPI2,False,,No directional evidence,,No directional evidence,,No directional evidence,,No directional evidence,,0,False,Not cross-species,1,True

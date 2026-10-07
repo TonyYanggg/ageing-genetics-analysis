@@ -1,0 +1,265 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A17912023+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "17912023",
+    "source": "MED",
+    "pmid": "17912023",
+    "doi": "10.4161/auto.4989",
+    "title": "Autophagy is required for dietary restriction-mediated life span extension in C. elegans.",
+    "authorString": "Jia K, Levine B.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Jia K",
+          "lastName": "Jia",
+          "firstName": "Kailiang",
+          "initials": "K",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, Texas 75390-9113, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Levine B",
+          "lastName": "Levine",
+          "firstName": "Beth",
+          "initials": "B"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "6",
+      "volume": "3",
+      "journalIssueId": 1474346,
+      "dateOfPublication": "2007 Nov-Dec",
+      "monthOfPublication": 0,
+      "yearOfPublication": 2007,
+      "journal": {
+        "medlineAbbreviation": "Autophagy",
+        "title": "Autophagy",
+        "essn": "1554-8635",
+        "issn": "1554-8627",
+        "nlmid": "101265188",
+        "isoabbreviation": "Autophagy"
+      },
+      "printPublicationDate": "2007-11-01"
+    },
+    "pubYear": "2007",
+    "pageInfo": "597-599",
+    "abstractText": "Dietary restriction extends life span in diverse species including Caenorhabditis elegans. However, the downstream cellular targets regulated by dietary restriction are largely unknown. Autophagy, an evolutionary conserved lysosomal degradation pathway, is induced under starvation conditions and regulates life span in insulin signaling C. elegans mutants. We now report that two essential autophagy genes (bec-1 and Ce-atg7) are required for the longevity phenotype of the C. elegans dietary restriction mutant (eat-2(ad1113) animals. Thus, we propose that autophagy mediates the effect, not only of insulin signaling, but also of dietary restriction on the regulation of C. elegans life span. Since autophagy and longevity control are highly conserved from C. elegans to mammals, a similar role for autophagy in dietary restriction-mediated life span extension may also exist in mammals.",
+    "affiliation": "Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, Texas 75390-9113, USA.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print-Electronic",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    "grantsList": {
+      "grant": [
+        {
+          "agency": "PHS HHS",
+          "grantId": "R01 85254",
+          "orderIn": 0
+        }
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caenorhabditis elegans",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caenorhabditis elegans Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Vesicular Transport Proteins"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caloric Restriction",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "MT",
+                "qualifierName": "methods"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Food Deprivation",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "RNA Interference"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Longevity",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Genes, Helminth",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Plasmids"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Autophagy",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "bec-1 protein, C elegans",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Vesicular Transport Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Caenorhabditis elegans Proteins",
+          "registryNumber": "0"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.4161/auto.4989"
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "N",
+    "inPMC": "N",
+    "citedByCount": 255,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "N",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2008-01-31",
+    "dateOfCreation": "2007-10-04",
+    "dateOfRevision": "2023-08-15",
+    "electronicPublicationDate": "2007-09-06",
+    "firstPublicationDate": "2007-09-06",
+    "firstIndexDate": "2008-02-01",
+    "hasEvaluations": "N"
+  }
+}

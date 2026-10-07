@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "records": 2205,
+  "remaining_records": 67,
+  "classified_pair_directions": 228,
+  "baseline_pairs_retained": 219,
+  "added_pairs": 9,
+  "verified_example_pairs": 10,
+  "selected_review_records": 15,
+  "exports": [
+    {
+      "name": "pairwise_evidence",
+      "editable_svg": true,
+      "pdf_embedded_truetype": true,
+      "tiff_dpi": 600
+    },
+    {
+      "name": "model_gene_examples",
+      "editable_svg": true,
+      "pdf_embedded_truetype": true,
+      "tiff_dpi": 600
+    }
+  ],
+  "limitation": "Consistency and file-format checks; not exhaustive experimental validation or proof of conservation."
+}

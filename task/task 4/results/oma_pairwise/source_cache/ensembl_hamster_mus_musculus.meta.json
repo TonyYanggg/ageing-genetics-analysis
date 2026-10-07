@@ -1,0 +1,25 @@
+{
+  "url": "https://rest.ensembl.org/homology/id/mesocricetus_auratus/ENSMAUG00000003914",
+  "params": {
+    "content-type": "application/json",
+    "type": "orthologues",
+    "target_species": "mus_musculus",
+    "sequence": "none"
+  },
+  "retrieved_utc": "2026-09-18T09:12:19.314751+00:00",
+  "sha256": "7ce5dba2948fbcf9f2bff64444e028f7bbb0b73015d13ec46dfe218010384b9f",
+  "bytes": 511,
+  "response_headers": {
+    "Vary": "Content-Type, Origin",
+    "Content-Type": "application/json",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:12:18 GMT",
+    "X-RateLimit-Limit": "55000",
+    "X-RateLimit-Reset": "2862",
+    "X-Runtime": "1.477594",
+    "Accept-Ranges": "bytes",
+    "X-RateLimit-Period": "3600",
+    "X-RateLimit-Remaining": "54996",
+    "Content-Length": "511"
+  }
+}

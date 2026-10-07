@@ -1,0 +1,706 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Entry details | Welcome to LibAge, the ageing reference resource</title>
+    <link href="/static/css/hagr.css" rel="stylesheet" type="text/css"/>
+    <link href="/static/css/libage.css" rel="stylesheet" type="text/css"/>
+    <link rel="shortcut icon" href="/static/favicon.ico"/>
+  </head>
+  <body>
+<div id="global-navigation">
+  <ul class="dropdown">
+    <li class="initial-link"><a href="/"></a></li>
+    <li><a href="http://genomics.senescence.info/" class="genomics">Genomics</a>
+      <div class="dropdown-contents">
+        <div class="dropdown-item genage"><span class="global-menu-header"><a href="http://genomics.senescence.info/genes/">GenAge</a></span>
+          <p class="global-menu-description">A curated database of candidate human ageing-related genes and genes associated with longevity and/or ageing in model organisms.</p>
+          <form action="http://genomics.senescence.info/genes/query.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search human</button>
+            </div>
+          </form>
+          <form action="http://genomics.senescence.info/genes/search.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search model organisms</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item gendr"><span class="global-menu-header"><a href="http://genomics.senescence.info/diet/">GenDR</a></span>
+          <p class="global-menu-description">A curated database of genes associated with dietary restriction in model organisms either from genetic manipulation experiments or gene expression profiling.</p>
+          <form action="http://genomics.senescence.info/diet/search_mut.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search gene manipulations</button>
+            </div>
+          </form>
+          <form action="http://genomics.senescence.info/diet/search_exp.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search gene expression</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item longevity"><span class="global-menu-header"><a href="http://genomics.senescence.info/longevity/">LongevityMap</a></span>
+          <p class="global-menu-description">Database of human genetic variants associated with longevity.</p>
+          <form action="http://genomics.senescence.info/longevity/search.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search genes/variants</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item gene-expression"><span class="global-menu-header"><a href="http://genomics.senescence.info/gene_expression/">Gene Expression</a></span>
+          <p class="global-menu-description">Projects focused on gene expression profiling of ageing and of dietary manipulations of ageing, such as caloric restriction. </p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/cancer/">Cancer </a></span>
+          <p class="global-menu-description">Studies focused on cancer, in particular using genomics and bioinformatics approaches.</p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/sequencing/">Genomes </a></span>
+          <p class="global-menu-description">Information on developing genomic resources and methods for studying long-lived species.</p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/evolution/">Evolution </a></span>
+          <p class="global-menu-description">Studies using the <a href="http://genomics.senescence.info/species/" class="inline-link">AnAge database</a> to study the evolution of longevity and ageing in vertebrate lineages.</p>
+        </div>
+        <div class="dropdown-item last-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/software/">Software </a></span>
+          <p class="global-menu-description">Software for ageing research, including the Ageing Research Computational Tools (ARCT) perl toolkit.</p>
+        </div>
+      </div>
+    </li>
+    <li><a href="/species/" class="longevity">Animal Longevity</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item anage last-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/species/">AnAge </a></span>
+          <p class="global-menu-description">A curated database of ageing and life history information in animals, including extensive longevity records.</p>
+          <form action="http://genomics.senescence.info/species/query.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search AnAge</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </li>
+    <li><a href="http://ageing-map.org" class="daa">Ageing Changes</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item daa last-item"><span class="global-menu-header"><a href="http://ageing-map.org/">Digital Ageing Atlas </a></span>
+          <p class="global-menu-description">A portal of ageing changes covering different biological levels, integrating molecular, physiological and pathological age-related data.</p>
+          <form action="http://ageing-map.org/atlas/results/" method="get" class="global-menu-search form">
+            <div class="input-append">
+              <input name="s" type="search"/>
+              <button type="submit" class="btn">Search</button>
+            </div>
+            <input name="species[]" type="hidden" value="9606"/>
+          </form>
+        </div>
+      </div>
+    </li>
+    <li><a href="http://senescence.info/" class="sen">Ageing Information</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item sen"><span class="global-menu-header"><a href="http://senescence.info">senescence.info </a></span>
+          <p class="global-menu-description">An educational resource on the science of ageing. </p>
+        </div>
+        <div class="dropdown-item libage"><span class="global-menu-header"><a href="http://libage.ageing-map.org" class="libage">LibAge </a></span>
+          <p class="global-menu-description">The bibliographic library for ageing research.</p>
+          <form action="http://libage.ageing-map.org/entries/search/" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="s" type="search"/>
+              <button type="submit" class="btn">Search literature</button>
+            </div>
+          </form>
+        </div>		
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://whoswho.senescence.info">Who's Who in Gerontology </a></span>
+          <p class="global-menu-description">The WhosAge database contains people and biotech companies that are contributing to increase our understanding of ageing and life-extension.</p>
+          <form action="http://whoswho.senescence.info/corp.php" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search companies</button>
+            </div>
+            <input name="change" type="hidden" value="all"/>
+          </form>
+          <form action="http://whoswho.senescence.info/people.php" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search people</button>
+            </div>
+            <input name="change" type="hidden" value="all"/>
+          </form>
+        </div>
+        <div class="dropdown-item lab"><span class="global-menu-header"><a href="http://pcwww.liv.ac.uk/~aging/">Integrative Genomics of Ageing Group</a></span>
+            <p class="global-menu-description">Our lab leads the upkeep and development of HAGR. </p>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <form id="quick-search-form" method="get" action="http://genomics.senescence.info/search/" class="form-search form">
+    <label for="search" id="quick-search-label">Search all databases:</label>
+    <div class="input-append">
+      <input type="search" name="search" id="search" class="span2 search-query"/>
+      <button type="submit" class="btn">Quick Search</button>
+    </div>
+  </form>
+</div>
+
+
+    <div id="header"><a href="/"><img width="1024" height="140" alt="LibAge, part of the Human Ageing Genomic Resources (senescence.info)" src="/static/images/header.png"/></a><span class="senescence-link">at <a href="http://www.senescence.info">senescence.info</a></span>
+    </div>
+    <div class="container">
+      <ul class="nav nav-tabs site-nav">
+        <li><a href="/">Search</a>
+        </li>
+        <li><a href="/entries/tags/">Tags</a>
+        </li>
+        <li><a href="/entries/sources/">Sources</a>
+        </li>
+        <li><a href="/tools/">Tools</a>
+        </li>
+      </ul>
+
+<div class="row">
+  <div class="span12">
+    <div class="highlight-box libage-search">
+      <form action="/entries/search/" method="get" class="form">
+        <div class="input-append">
+          <input type="search" name="s" value="" class="span8"/>
+          <button type="submit" class="btn">Search LibAge</button>
+        </div>
+      </form>
+      <p>You can search for any reference by title, author, date, editor, journal and publisher. Searching is case insensitive, and allows for only partial terms (e.g. seq with pickup both RNA-Seq and sequencing) matching. You can also use advanced queries <a href="/help/">that are detailed here</a>. </p>
+    </div>
+  </div>
+</div>
+
+<h1>Entry details </h1>
+<p class="highlight-box">Matecic et al. (2010) "<b>A microarray-based genetic screen for yeast chronological aging factors.</b>"  PLoS Genet. <b>6</b>(4):e1000921 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/20421943">(PubMed)</a></p>
+<div class="row">
+  <div class="span12">
+    <h2>Cited by (in linked databases)</h2>
+    <ol>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1396">COQ10, COenzyme Q (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1381">ADE17, ADEnine requiring (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1382">ADK1, ADenylate Kinase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1383">AEP1, ATPase ExPression (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1384">AIM36, Altered Inheritance rate of Mitochondria (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1385">APE3, AminoPEptidase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1386">ATG10, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1387">ATG13, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1388">ATG14, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1389">ATG2, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1390">ATG29, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1391">ATG7, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1392">ATG9, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1393">BCK1, Bypass of C Kinase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1394">BPH1, Beige Protein Homolog (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1395">CBP2, Cytochrome B mRNA Processing (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1397">COQ5, COenzyme Q (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1398">COR1, CORe protein of QH2 cytochrome c reductase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1399">CTR1, Copper TRansport (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1400">CWH43, Calcofluor White Hypersensitive (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1401">DID2, Doa4-Independent Degradation (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1402">DSS1, Deletion of SUV3 Supressor (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1495">ATG18, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1403">DUG2, Deficient in Utilization of Glutathione (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1404">ECM33, ExtraCellular Mutant (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1405">EUG1, ER protein Unnecessary for Growth (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1406">EXO1, EXOnuclease (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1407">FAT1, FATty acid transporter (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1408">FUM1, FUMarase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1410">GET2, Guided Entry of Tailanchored proteins (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1411">GID8, Glucose Induced Degradation deficient (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1412">GSG1, TRapp Subunit (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1413">HER2, Hmg2p ER Remodeling (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1414">HMI1, Helicase in MItochondria (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1415">HRD3, HMG-coA Reductase Degradation (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1416">HTD2, Hydroxyacyl-Thioester Dehydratase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1417">HXT5, HeXose Transporter (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1418">INO4, INOsitol requiring (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1419">ISC1, Inositol phosphoSphingolipid phospholipase C (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1420">JID1, DnaJ protein Involved in ER-associated Degradation (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1421">KEX2, Killer EXpression defective (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1422">LAS21, Local Anestheticum Sensitive (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1423">LPD1, LiPoamide Dehydrogenase  (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1424">LSM6, Like SM (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1425">MAK10, MAintenance of Killer (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1426">MCH5, MonoCarboxylate transporter Homologue (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1429">MON2, MONensin sensitivity (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1430">MRH4, Mitochondrial RNA Helicase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1431">MRP1, Mitochondrial Ribosomal Protein (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1432">MRP51, Mitochondrial Ribosomal Protein (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1433">MRPL11, Mitochondrial Ribosomal Protein, Large subunit (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1434">MRPL22, Mitochondrial Ribosomal Protein, Large subunit (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1435">MRPL24, Mitochondrial Ribosomal Protein, Large subunit (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1436">MRPL32, Mitochondrial Ribosomal Protein, Large subunit (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1437">MRPL38, Mitochondrial Ribosomal Protein, Large subunit (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1438">MRS2, Mitochondrial RNA Splicing (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1439">MSS116, Mitochondrial Splicing System (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1440">MTC7, Maintenance of Telomere Capping (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1441">NAM2, Nuclear Accommodation of Mitochondria (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1442">NMD2, Nonsense-mediated MRNA Decay (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1443">PAA1, PolyAmine Acetyltransferase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1444">PET112, PETite colonies (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1445">PET117, PETite colonies (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1447">PEX2, PEroXin (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1448">PHO23, PHOsphate metabolism (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1449">PPA2, PyroPhosphatAse (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1452">RAD10, RADiation sensitive (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1453">RAD4, RADiation sensitive (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1454">RPP2A, Ribosomal Protein P2 Alpha (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1455">RRG7, Required for Respiratory Growth (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1456">RRG9, Required for Respiratory Growth (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1457">RSM18, Ribosomal Small subunit of Mitochondria (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1458">RTC2, Restriction of Telomere Capping (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1459">SAG1, Sexual AGglutination (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1460">SCP160, S. cerevisiae protein involved in the Control of Ploidy (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1461">SEC66, SECretory (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1462">SGF29, SaGa associated Factor (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1463">SHY1, SURF Homolog of Yeast (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1464">SIP3, SNF1-Interacting Protein (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1465">SPT8, SuPpressor of Ty (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1466">SRO77, Suppressor of rho3 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1467">SSA4, Stress-Seventy subfamily A (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1469">SWE1, Saccharomyces WEe1 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1471">TAN1, Trna AcetylatioN (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1472">THR4, THReonine requiring (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1473">TOS8, Target Of Sbf (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1474">TRX1, ThioRedoXin (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1475">UBC8, UBiquitin-Conjugating (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1476">UPF3, UP Frameshift (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1477">VAC8, VACuole related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1478">VAM10, VAcuolar Morphogenesis (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1479">VPS30, Vacuolar Protein Sorting (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1480">VPS38, Vacuolar Protein Sorting (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1481">VPS62, Vacuolar Protein Sorting (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1488">YIH1, Yeast Impact Homolog (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1490">ADA2, transcriptional ADAptor (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1491">ALD3, ALdehyde Dehydrogenase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1492">ARD1, ARrest Defective (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1493">ATG12, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1494">ATG16, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1496">ATG5, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1497">ATG8, AuTophaGy related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1498">CIT2, CITrate synthase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1499">ECM34, ExtraCellular Mutant (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1500">FAR7, Factor ARrest (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1501">FET3, FErrous Transport (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1502">FMC1, Formation of Mitochondrial Complexes (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1503">FTR1, Fe TRansporter (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1504">GCN4, General Control Nonderepressible (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1505">HRD1, HMG-coA Reductase Degradation (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1506">MDM20, Mitochondrial Distribution and Morphology (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1507">NFU1, NifU-like protein (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1508">PHO2, PHOsphate metabolism (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1509">PHO85, PHOsphate metabolism (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1510">PMS1, PostMeiotic Segregation (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1511">POG1, Promoter Of Growth (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1512">PRX1, PeroxiRedoXin (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1513">RIM11, Regulator of IME2 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1514">RSF2, ReSpiration Factor (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1516">RTG2, ReTroGrade regulation (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1517">SIC1, Substrate/Subunit Inhibitor of Cyclin-dependent protein kinase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1518">SIF2, Sir4p-Interacting Factor (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1519">SKO1, Suppressor of Kinase Overexpression (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1520">SUR1, SUppressor of Rvs161 and rvs167 mutations (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1521">SWI6, SWItching deficient (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1522">SYC1, Similar to Ysh1 C-terminal (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1523">TCM62, TriCarboxylic acid cycle Mutant (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1524">VPS24, Vacuolar Protein Sorting (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1525">VPS41, Vacuolar Protein Sorting (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1526">ADE1, ADEnine requiring (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1527">ADE12, ADEnine requiring (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1528">ADE2, ADEnine requiring (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1529">ADE3, ADEnine requiring (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1530">ADE4, ADEnine requiring (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1531">ADE5,7, ADEnine requiring (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1532">ADE6, ADEnine requiring (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1533">AMD1, AMP Deaminase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1535">BAS1, BASal (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1537">EMI1, Early Meiotic Induction (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1538">ERV2, Essential for Respiration and Viability (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1539">FCY2, FluoroCYtosine resistance (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1540">FCY21, FluoroCYtosine resistance (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1541">HNM1, Hyper-resistance to Nitrogen Mustard (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1542">IDP1, Isocitrate Dehydrogenase, NADP-specific (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1543">MBA1, Multi-copy Bypass of AFG3 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1544">PCL7, Pho85 CycLin (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1545">PDR18, Pleiotropic Drug Resistance (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1546">RAD55, RADiation sensitive (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1547">SHM2, Serine HydroxyMethyltransferase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1548">SPO22, SPOrulation (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1549">SWC3, SWr Complex (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1550">TGL3, TriacylGlycerol Lipase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1551">UAF30, Upstream Activation Factor subunit (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1552">VPS5, Vacuolar Protein Sorting (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1553">VPS70, Vacuolar Protein Sorting (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1554">VPS75, Vacuolar Protein Sorting (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1555">YPL056C, Long Chronological Lifespan (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1597">AAH1, Adenine AminoHydrolase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1598">DCW1, Defective Cell Wall (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1599">FCY1, FluoroCYtosine resistance (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1601">HSE1, Has Symptoms of class E mutants; resembles Hbp, Stam and East (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1602">ISW1, Imitation SWitch subfamily (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1603">MTD1, Methylene Tetrahydrafolate Dehydrogenase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1604">MUM2, MUddled Meiosis (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1605">RGT1, Restores Glucose Transport (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1606">RGT2, Restores Glucose Transport (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1607">RIM8, Regulator of IME2 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1608">SAS4, Something About Silencing (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1609">SDS23, homolog of S. pombe SDS23 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1610">SHM1, Serine HydroxyMethyltransferase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1611">SIP1, SNF1-Interacting Protein (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1612">SNF3, Sucrose NonFermenting (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1613">SNX3, Sorting NeXin (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1614">SNX41, Sorting NeXin (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1615">USV1, Up in StarVation (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1616">YGL085W, Long Chronological Lifespan 3 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1617">YLR104W, Long Chronological Lifespan 2 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1618">ZWF1, ZWischenFerment (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2083">GPA2 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2084">HAP4 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2085">RIM15, Regulator of IME2 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2087">SSD1 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2088">BCY1, Bypass of CYclase mutations (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2089">FIS1, fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae) (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2090">GCN5, Histone acetyltransferase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2091">SIR3, Silent information regulator (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2092">FOB1 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2093">GLN3 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2094">HXK2 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2095">TOR1, PIK-related protein kinase and rapamycin target (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2098">SIP2 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2099">SIR2, Sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae) (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2100">SIR4, Silent information regulator (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/diet/details.php?id=45">NFU1, NifU-like protein 1 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;B03060" class="label label-default"><span>GenDR: Genes Associated with Dietary Restriction</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/diet/details.php?id=46">FET3, FErrous Transport 3 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;B03060" class="label label-default"><span>GenDR: Genes Associated with Dietary Restriction</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/diet/details.php?id=47">ATG16, AuTophaGy related 16 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;B03060" class="label label-default"><span>GenDR: Genes Associated with Dietary Restriction</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/diet/details.php?id=48">ADE4, ADEnine requiring 4 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;B03060" class="label label-default"><span>GenDR: Genes Associated with Dietary Restriction</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/diet/details.php?id=49">ATG2, AuTophaGy related 2 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;B03060" class="label label-default"><span>GenDR: Genes Associated with Dietary Restriction</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/diet/details.php?id=50">VPS30, Vacuolar Protein Sorting 30 (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;B03060" class="label label-default"><span>GenDR: Genes Associated with Dietary Restriction</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1380">ADD37, Alpha1-proteinase inhibitor-Degradation Deficient (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1409">GEP3, GEnetic interactors of Prohibitins (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1427">MIS1, MItochondrial C1-tetrahydrofolate Synthase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1446">PEX14, PEroXisome related (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1450">PUN1, Plasma membrane protein Upregulated during Nitrogen stress (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1485">YDR049W, VCP/Cdc48-associated Mitochondrial Stress-responsive (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1515">RTG1, ReTroGrade regulation (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1534">APT1, Adenine PhosphoribosylTransferase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1536">BNA2, Biosynthesis of Nicotinic Acid (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1600">HPT1, Hypoxanthine guanine PhosphoribosylTransferase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2086">SNF1, AMP-activated serine/threonine protein kinase (Saccharomyces cerevisiae)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1483">YBR284W, metallo-dependent hydrolase superfamily protein, Saccharomyces cerevisiae</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1482">YBR056W, 17-beta-hydroxysteroid dehydrogenase-like protein, Saccharomyces cerevisiae</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1487">YGR250C, hypothetical protein, Saccharomyces cerevisiae</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1486">YGL235W, hypothetical protein, Saccharomyces cerevisiae</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1484">YCP4, Ycp4p, Saccharomyces cerevisiae</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1489">YKL023W, hypothetical protein, Saccharomyces cerevisiae</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1451">QRI5, Qri5p, Saccharomyces cerevisiae</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1470">SYS1, Sys1p, Saccharomyces cerevisiae</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1468">SSO2, Sso2p, Saccharomyces cerevisiae</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1428">MNE1, Mne1p, Saccharomyces cerevisiae</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+    </ol>
+  </div>
+</div>
+<div class="row">
+  <div class="span12">
+    <h2>Tagged with</h2>
+    <ul class="tag-list">
+      <li><a href="/entries/tags/84/" class="label label-warning">Mutation</a>
+      </li>
+      <li><a href="/entries/tags/257/" class="label label-warning">Gene Expression Regulation, Fungal</a>
+      </li>
+      <li><a href="/entries/tags/279/" class="label label-warning">Cell Aging</a>
+      </li>
+      <li><a href="/entries/tags/1063/" class="label label-warning">Oligonucleotide Array Sequence Analysis</a>
+      </li>
+      <li><a href="/entries/tags/1353/" class="label label-warning">Saccharomyces cerevisiae/genetics/physiology</a>
+      </li>
+    </ul>
+  </div>
+</div>
+      <script src="/static/js/jquery-1.8.2.min.js"></script>
+      <script src="/static/js/bootstrap-dropdown.js"></script>
+    </div>
+    <div id="footer">    <div class="footer-links row-fluid">
+
+        <ul class="span3">
+            <li class="title">Human Ageing Genomic Resources</li>
+            <li><a href="/">Home</a></li>
+            <li><a href="http://genomics.senescence.info/about.html">About Us</a></li>
+            <li><a href="http://genomics.senescence.info/legal.html">Disclaimer</a></li>
+            <li><a href="http://genomics.senescence.info/download.html">Downloads</a></li>
+            <li><a href="http://genomics.senescence.info/feedback.php">Feedback</a></li>
+            <li><a href="http://genomics.senescence.info/help.html">Help</a></li>
+            <li><a href="http://genomics.senescence.info/links.html">Links</a></li>
+            <li><a href="http://genomics.senescence.info/mailman/listinfo/hagr-news_genomics.senescence.info">Mailing List</a></li>
+            <li><a href="http://genomics.senescence.info/news/index.html">News</a></li>
+            <li><a href="http://genomics.senescence.info/papers.html">Publications</a></li>
+            <li><a href="http://genomics.senescence.info/science.html">Science</a></li>
+        </ul>
+
+        <ul class="span3">
+            <li class="title">Databases</li>
+            <li><a href="http://genomics.senescence.info/genes/">Gene Database (GenAge)</a></li>
+            <li><a href="http://genomics.senescence.info/species/">Species Database (AnAge)</a></li>
+            <li><a href="http://genomics.senescence.info/diet/">Dietary Restriction Database (GenDR)</a></li>
+            <li><a href="http://genomics.senescence.info/longevity/">Longevity Variants Database (LongevityMap)</a></li>
+            <li class="title">Non HAGR databases</li>
+            <li><a href="http://ageing-map.org">Digital Ageing Atlas</a></li>
+            <li><a href="http://libage.ageing-map.org">LibAge</a></li>
+        </ul>
+
+        <ul class="span3">
+            <li class="title">Resources</li>
+            <li><a href="http://genomics.senescence.info/gene_expression/">Gene Expression</a></li>
+            <li><a href="http://genomics.senescence.info/cancer/">Cancer</a></li>
+            <li><a href="http://genomics.senescence.info/sequencing/">Genome Sequencing</a></li>
+            <li><a href="http://genomics.senescence.info/evolution/">Evolution of Ageing</a></li>
+            <li><a href="http://genomics.senescence.info/software/">Software</a></li>
+        </ul>
+
+        <ul class="span3">
+            <li class="title">Our Group</li>
+            <li><a href="http://www.senescence.info">senescence.info</a></li>
+            <li><a href="http://pcwww.liv.ac.uk/~aging/">The Integrative Genomics of Ageing Group</a></li>
+            <li><a href="https://twitter.com/AgingBiology" class="twitter-follow-button" data-show-count="false">Follow @AgingBiology</a></li>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </ul>
+    </div>
+    
+    <p class="contact-us">Comments, suggestions, ideas, and bug reports are welcome. Please <a href="http://genomics.senescence.info/feedback.php">contact us</a>.</p>
+    
+    <p class="legal">HAGR may be freely used for all purposes under <a href="http://genomics.senescence.info/legal.html">some conditions</a>.</p>
+
+
+      <p class="version"></p>
+    </div>
+    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-40611056-6', 'ageing-map.org');
+ga('send', 'pageview');
+    </script>
+  </body>
+</html>

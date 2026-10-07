@@ -1,0 +1,485 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25199830+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "25199830",
+    "source": "MED",
+    "pmid": "25199830",
+    "pmcid": "PMC4177313",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC4177313"
+      ]
+    },
+    "doi": "10.1016/j.celrep.2014.08.006",
+    "title": "AMPK modulates tissue and organismal aging in a non-cell-autonomous manner.",
+    "authorString": "Ulgherait M, Rana A, Rera M, Graniel J, Walker DW.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Ulgherait M",
+          "lastName": "Ulgherait",
+          "firstName": "Matthew",
+          "initials": "M",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Integrative Biology and Physiology, University of California, Los Angeles, Los Angeles, CA 90095, USA; Department of Biological Chemistry, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Rana A",
+          "lastName": "Rana",
+          "firstName": "Anil",
+          "initials": "A",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Integrative Biology and Physiology, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Rera M",
+          "lastName": "Rera",
+          "firstName": "Michael",
+          "initials": "M",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-6574-6511"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Integrative Biology and Physiology, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Graniel J",
+          "lastName": "Graniel",
+          "firstName": "Jacqueline",
+          "initials": "J",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Integrative Biology and Physiology, University of California, Los Angeles, Los Angeles, CA 90095, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Walker DW",
+          "lastName": "Walker",
+          "firstName": "David W",
+          "initials": "DW",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-9422-2178"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Integrative Biology and Physiology, University of California, Los Angeles, Los Angeles, CA 90095, USA; Molecular Biology Institute, University of California, Los Angeles, Los Angeles, CA 90095, USA. Electronic address: davidwalker@ucla.edu."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "authorIdList": {
+      "authorId": [
+        {
+          "type": "ORCID",
+          "value": "0000-0002-6574-6511"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0002-9422-2178"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data",
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "6",
+      "volume": "8",
+      "journalIssueId": 2204802,
+      "dateOfPublication": "2014 Sep",
+      "monthOfPublication": 9,
+      "yearOfPublication": 2014,
+      "journal": {
+        "medlineAbbreviation": "Cell Rep",
+        "title": "Cell reports",
+        "essn": "2211-1247",
+        "issn": "2211-1247",
+        "nlmid": "101573691",
+        "isoabbreviation": "Cell Rep"
+      },
+      "printPublicationDate": "2014-09-01"
+    },
+    "pubYear": "2014",
+    "pageInfo": "1767-1780",
+    "abstractText": "AMPK exerts prolongevity effects in diverse species; however, the tissue-specific mechanisms involved are poorly understood. Here, we show that upregulation of AMPK in the adult Drosophila nervous system induces autophagy both in the brain and also in the intestinal epithelium. Induction of autophagy is linked to improved intestinal homeostasis during aging and extended lifespan. Neuronal upregulation of the autophagy-specific protein kinase Atg1 is both necessary and sufficient to induce these intertissue effects during aging and to prolong the lifespan. Furthermore, upregulation of AMPK in the adult intestine induces autophagy both cell autonomously and non-cell-autonomously in the brain, slows systemic aging, and prolongs the lifespan. We show that the organism-wide response to tissue-specific AMPK/Atg1 activation is linked to reduced insulin-like peptide levels in the brain and a systemic increase in 4E-BP expression. Together, these results reveal that localized activation of AMPK and/or Atg1 in key tissues can slow aging in a non-cell-autonomous manner.",
+    "affiliation": "Department of Integrative Biology and Physiology, University of California, Los Angeles, Los Angeles, CA 90095, USA; Department of Biological Chemistry, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print-Electronic",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    "grantsList": {
+      "grant": [
+        {
+          "agency": "NIGMS NIH HHS",
+          "acronym": "GM",
+          "grantId": "GM07185",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIA NIH HHS",
+          "acronym": "AG",
+          "grantId": "R01 AG037514",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIA NIH HHS",
+          "acronym": "AG",
+          "grantId": "T32 AG000114",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIGMS NIH HHS",
+          "acronym": "GM",
+          "grantId": "T32 GM007185",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIA NIH HHS",
+          "acronym": "AG",
+          "grantId": "R01 AG040288",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIGMS NIH HHS",
+          "acronym": "GM",
+          "grantId": "NIH MARC T34 GM008563",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIGMS NIH HHS",
+          "acronym": "GM",
+          "grantId": "R25 GM086262",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIGMS NIH HHS",
+          "acronym": "GM",
+          "grantId": "T34 GM008563",
+          "orderIn": 0
+        }
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Muscles",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Intestinal Mucosa",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Brain",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Neurons",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Drosophila",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Intracellular Signaling Peptides and Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Drosophila Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Peptide Initiation Factors",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Up-Regulation"
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Aging"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Autophagy"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Female"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "AMP-Activated Protein Kinases",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Autophagy-Related Protein-1 Homolog"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Protein Serine-Threonine Kinases",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "Thor protein, Drosophila",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Peptide Initiation Factors",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Drosophila Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Intracellular Signaling Peptides and Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "AMP-activated protein kinases",
+          "registryNumber": "EC 2.7.11.31"
+        },
+        {
+          "name": "Atg1 protein, Drosophila",
+          "registryNumber": "EC 2.7.11.1"
+        },
+        {
+          "name": "Autophagy-Related Protein-1 Homolog",
+          "registryNumber": "EC 2.7.11.1"
+        },
+        {
+          "name": "Protein Serine-Threonine Kinases",
+          "registryNumber": "EC 2.7.11.1"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "doi",
+          "site": "Unpaywall",
+          "url": "https://doi.org/10.1016/j.celrep.2014.08.006"
+        },
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1016/j.celrep.2014.08.006"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC4177313"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC4177313?pdf=render"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1016/j.celrep.2014.08.006"
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 249,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "license": "cc by-nc-nd",
+    "authMan": "Y",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "Y",
+    "manuscriptId": "NIHMS621841",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+      "accessionType": [
+        "doi"
+      ]
+    },
+    "dateOfCompletion": "2015-06-03",
+    "dateOfCreation": "2014-09-10",
+    "dateOfRevision": "2023-01-28",
+    "electronicPublicationDate": "2014-09-04",
+    "firstPublicationDate": "2014-09-04",
+    "firstIndexDate": "2014-09-10",
+    "fullTextReceivedDate": "2025-02-05",
+    "hasEvaluations": "N"
+  }
+}

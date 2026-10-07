@@ -1,0 +1,46 @@
+{
+  "input_sha256": {
+    "models": "8717b30212a2f6039a7b70c28dff8bc5696c166e04a150f95302f90b8585c2a0",
+    "orthologs": "1de59fcc0c8fb73ff2dd3c58529fbe6df50006a2067aa41bbad3798d23bd3717",
+    "human": "3515935b6c4d40cbccf35e129aa52206cc95c1fe2b426adec784c2e41927174d"
+  },
+  "source_paths": {
+    "models": "GenAge Project\\models_genes\\genage_models.csv",
+    "orthologs": "GenAge Project\\models_genes\\genage_models_orthologs_export.tsv",
+    "human": "GenAge Project\\human_genes\\genage_human.csv"
+  },
+  "python": "3.13.0",
+  "matplotlib": "3.11.0",
+  "model_records": 2205,
+  "raw_mapping_rows": 1055,
+  "unique_mapping_edges": 1051,
+  "quarantined_mapping_rows": 4,
+  "ambiguous_human_ids": [
+    "3020",
+    "6606"
+  ],
+  "duplicate_mapping_rows": 0,
+  "joined_evidence_rows": 1052,
+  "unmatched_mapping_rows": 0,
+  "symbol_disagreements": 0,
+  "duplicate_model_keys": {
+    "('Podospora anserina', '802462')": 2,
+    "('Drosophila melanogaster', '37996')": 2,
+    "('Caenorhabditis elegans', '177202')": 2
+  },
+  "human_anchors": 898,
+  "candidates": 66,
+  "candidate_direction_agreement": {
+    "Anti": 22,
+    "Pro": 23,
+    "Mixed directions": 21
+  },
+  "species_count_distribution": {
+    "3": 9,
+    "2": 57,
+    "1": 795,
+    "0": 37
+  },
+  "displayed_candidates": 9,
+  "inputs_unchanged": true
+}

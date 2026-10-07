@@ -1,0 +1,1630 @@
+group_id,level,level_name,group_name,species,state,model_symbols,model_entrez_ids,genage_ids,lifespan_genage_ids,influence_categories,lifespan_effects,matched_gene_count,qualifying_record_count,source_member_count
+1192873at2759,2759,Eukaryota,mannan endo-1 6-alpha-mannosidase,Saccharomyces cerevisiae,Anti,DCW1,853820,1394,1394,Anti-Longevity,Increase,1,1,2
+1192873at2759,2759,Eukaryota,mannan endo-1 6-alpha-mannosidase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+1192873at2759,2759,Eukaryota,mannan endo-1 6-alpha-mannosidase,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+1192873at2759,2759,Eukaryota,mannan endo-1 6-alpha-mannosidase,Mus musculus,No recovered member,,,,,,,0,0,0
+1192873at2759,2759,Eukaryota,mannan endo-1 6-alpha-mannosidase,Schizosaccharomyces pombe,Anti,SPBC1198.07c,2539836,2242,2242,Anti-Longevity,Increase,1,1,4
+1192873at2759,2759,Eukaryota,mannan endo-1 6-alpha-mannosidase,Podospora anserina,Ortholog only,,,,,,,0,0,8
+1192873at2759,2759,Eukaryota,mannan endo-1 6-alpha-mannosidase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+1192873at2759,2759,Eukaryota,mannan endo-1 6-alpha-mannosidase,Danio rerio,No recovered member,,,,,,,0,0,0
+1192873at2759,2759,Eukaryota,mannan endo-1 6-alpha-mannosidase,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+1273001at2759,2759,Eukaryota,cytochrome C-type heme lyase,Saccharomyces cerevisiae,Other,CYT2,853775,1047,1047,Necessary for fitness,Decrease,1,1,1
+1273001at2759,2759,Eukaryota,cytochrome C-type heme lyase,Caenorhabditis elegans,Anti,cchl-1,174713,94,94,Anti-Longevity,Increase,1,1,1
+1273001at2759,2759,Eukaryota,cytochrome C-type heme lyase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+1273001at2759,2759,Eukaryota,cytochrome C-type heme lyase,Mus musculus,Ortholog only,,,,,,,0,0,1
+1273001at2759,2759,Eukaryota,cytochrome C-type heme lyase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+1273001at2759,2759,Eukaryota,cytochrome C-type heme lyase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+1273001at2759,2759,Eukaryota,cytochrome C-type heme lyase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+1273001at2759,2759,Eukaryota,cytochrome C-type heme lyase,Danio rerio,Ortholog only,,,,,,,0,0,3
+1273001at2759,2759,Eukaryota,cytochrome C-type heme lyase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+16409at2759,2759,Eukaryota,Aconitate hydratase,Saccharomyces cerevisiae,Anti,ACO2,853230,1648,1648,Anti-Longevity,Increase and Decrease,1,1,2
+16409at2759,2759,Eukaryota,Aconitate hydratase,Caenorhabditis elegans,Anti,aco-2,176121,5,5,Anti-Longevity,Increase,1,1,1
+16409at2759,2759,Eukaryota,Aconitate hydratase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+16409at2759,2759,Eukaryota,Aconitate hydratase,Mus musculus,Ortholog only,,,,,,,0,0,1
+16409at2759,2759,Eukaryota,Aconitate hydratase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+16409at2759,2759,Eukaryota,Aconitate hydratase,Podospora anserina,Ortholog only,,,,,,,0,0,2
+16409at2759,2759,Eukaryota,Aconitate hydratase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+16409at2759,2759,Eukaryota,Aconitate hydratase,Danio rerio,Ortholog only,,,,,,,0,0,1
+16409at2759,2759,Eukaryota,Aconitate hydratase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+1651578at2759,2759,Eukaryota,Dna excision repair protein ercc-1,Saccharomyces cerevisiae,Other,RAD10,854878,1268,1268,Necessary for fitness,Decrease,1,1,1
+1651578at2759,2759,Eukaryota,Dna excision repair protein ercc-1,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+1651578at2759,2759,Eukaryota,Dna excision repair protein ercc-1,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+1651578at2759,2759,Eukaryota,Dna excision repair protein ercc-1,Mus musculus,Pro,Ercc1,13870,1850,1850,Pro-Longevity,Decrease,1,1,1
+1651578at2759,2759,Eukaryota,Dna excision repair protein ercc-1,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+1651578at2759,2759,Eukaryota,Dna excision repair protein ercc-1,Podospora anserina,Ortholog only,,,,,,,0,0,2
+1651578at2759,2759,Eukaryota,Dna excision repair protein ercc-1,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+1651578at2759,2759,Eukaryota,Dna excision repair protein ercc-1,Danio rerio,Ortholog only,,,,,,,0,0,1
+1651578at2759,2759,Eukaryota,Dna excision repair protein ercc-1,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+1676596at2759,2759,Eukaryota,dehydrogenase,Saccharomyces cerevisiae,Other,FOX2,853878,1438,1438,Necessary for fitness,Decrease,1,1,1
+1676596at2759,2759,Eukaryota,dehydrogenase,Caenorhabditis elegans,Anti,maoc-1,174181,201,201,Anti-Longevity,Increase,1,1,2
+1676596at2759,2759,Eukaryota,dehydrogenase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+1676596at2759,2759,Eukaryota,dehydrogenase,Mus musculus,Ortholog only,,,,,,,0,0,1
+1676596at2759,2759,Eukaryota,dehydrogenase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+1676596at2759,2759,Eukaryota,dehydrogenase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+1676596at2759,2759,Eukaryota,dehydrogenase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+1676596at2759,2759,Eukaryota,dehydrogenase,Danio rerio,Ortholog only,,,,,,,0,0,1
+1676596at2759,2759,Eukaryota,dehydrogenase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+175201at2759,2759,Eukaryota,Ribosomal protein,Saccharomyces cerevisiae,Anti,RPL31A,851484,562,562,Anti-Longevity,Increase and Decrease,1,1,2
+175201at2759,2759,Eukaryota,Ribosomal protein,Caenorhabditis elegans,Anti,rpl-31,173235,2040,2040,Anti-Longevity,Increase,1,1,1
+175201at2759,2759,Eukaryota,Ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+175201at2759,2759,Eukaryota,Ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,2
+175201at2759,2759,Eukaryota,Ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+175201at2759,2759,Eukaryota,Ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+175201at2759,2759,Eukaryota,Ribosomal protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+175201at2759,2759,Eukaryota,Ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+175201at2759,2759,Eukaryota,Ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,10
+1969167at2759,2759,Eukaryota,Actin cytoskeleton-regulatory complex protein,Saccharomyces cerevisiae,Other,SLA1,852276,1546,1546,Necessary for fitness,Decrease,1,1,1
+1969167at2759,2759,Eukaryota,Actin cytoskeleton-regulatory complex protein,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+1969167at2759,2759,Eukaryota,Actin cytoskeleton-regulatory complex protein,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+1969167at2759,2759,Eukaryota,Actin cytoskeleton-regulatory complex protein,Mus musculus,No recovered member,,,,,,,0,0,0
+1969167at2759,2759,Eukaryota,Actin cytoskeleton-regulatory complex protein,Schizosaccharomyces pombe,Anti,shd1,2542338,1996,1996,Anti-Longevity,Increase,1,1,1
+1969167at2759,2759,Eukaryota,Actin cytoskeleton-regulatory complex protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+1969167at2759,2759,Eukaryota,Actin cytoskeleton-regulatory complex protein,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+1969167at2759,2759,Eukaryota,Actin cytoskeleton-regulatory complex protein,Danio rerio,No recovered member,,,,,,,0,0,0
+1969167at2759,2759,Eukaryota,Actin cytoskeleton-regulatory complex protein,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+1976888at2759,2759,Eukaryota,transporter,Saccharomyces cerevisiae,Anti,HNM1,852803,1345,1345,Anti-Longevity,Increase,1,1,4
+1976888at2759,2759,Eukaryota,transporter,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+1976888at2759,2759,Eukaryota,transporter,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+1976888at2759,2759,Eukaryota,transporter,Mus musculus,No recovered member,,,,,,,0,0,0
+1976888at2759,2759,Eukaryota,transporter,Schizosaccharomyces pombe,Anti,SPCC794.03,2539472,2267,2267,Anti-Longevity,Increase,1,1,8
+1976888at2759,2759,Eukaryota,transporter,Podospora anserina,Ortholog only,,,,,,,0,0,5
+1976888at2759,2759,Eukaryota,transporter,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+1976888at2759,2759,Eukaryota,transporter,Danio rerio,No recovered member,,,,,,,0,0,0
+1976888at2759,2759,Eukaryota,transporter,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+1980370at2759,2759,Eukaryota,phosphoenolpyruvate carboxykinase ,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+1980370at2759,2759,Eukaryota,phosphoenolpyruvate carboxykinase ,Caenorhabditis elegans,Anti,pck-2,172556,526,526,Anti-Longevity,Increase,1,1,3
+1980370at2759,2759,Eukaryota,phosphoenolpyruvate carboxykinase ,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+1980370at2759,2759,Eukaryota,phosphoenolpyruvate carboxykinase ,Mus musculus,Pro,Pck1,18534,497,497,Pro-Longevity,Increase,1,1,2
+1980370at2759,2759,Eukaryota,phosphoenolpyruvate carboxykinase ,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+1980370at2759,2759,Eukaryota,phosphoenolpyruvate carboxykinase ,Podospora anserina,No recovered member,,,,,,,0,0,0
+1980370at2759,2759,Eukaryota,phosphoenolpyruvate carboxykinase ,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+1980370at2759,2759,Eukaryota,phosphoenolpyruvate carboxykinase ,Danio rerio,Ortholog only,,,,,,,0,0,2
+1980370at2759,2759,Eukaryota,phosphoenolpyruvate carboxykinase ,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+2163357at2759,2759,Eukaryota,kinase,Saccharomyces cerevisiae,Anti,SCH9,856612,590,590,Anti-Longevity,Increase,1,1,1
+2163357at2759,2759,Eukaryota,kinase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+2163357at2759,2759,Eukaryota,kinase,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+2163357at2759,2759,Eukaryota,kinase,Mus musculus,No recovered member,,,,,,,0,0,0
+2163357at2759,2759,Eukaryota,kinase,Schizosaccharomyces pombe,Anti,sck2,2541867,1984,1984,Anti-Longevity,Increase,1,1,2
+2163357at2759,2759,Eukaryota,kinase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+2163357at2759,2759,Eukaryota,kinase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+2163357at2759,2759,Eukaryota,kinase,Danio rerio,No recovered member,,,,,,,0,0,0
+2163357at2759,2759,Eukaryota,kinase,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+2195134at2759,2759,Eukaryota,Sac1,Saccharomyces cerevisiae,Other,SAC1,853668,1501,1501,Necessary for fitness,Decrease,1,1,1
+2195134at2759,2759,Eukaryota,Sac1,Caenorhabditis elegans,Pro,sac-1,172778,248,248,Pro-Longevity,Decrease,1,1,2
+2195134at2759,2759,Eukaryota,Sac1,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+2195134at2759,2759,Eukaryota,Sac1,Mus musculus,Ortholog only,,,,,,,0,0,1
+2195134at2759,2759,Eukaryota,Sac1,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+2195134at2759,2759,Eukaryota,Sac1,Podospora anserina,Ortholog only,,,,,,,0,0,1
+2195134at2759,2759,Eukaryota,Sac1,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+2195134at2759,2759,Eukaryota,Sac1,Danio rerio,Ortholog only,,,,,,,0,0,2
+2195134at2759,2759,Eukaryota,Sac1,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+2209885at2759,2759,Eukaryota,amino acid transporter,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+2209885at2759,2759,Eukaryota,amino acid transporter,Caenorhabditis elegans,Anti,aat-8,185079,2,2,Anti-Longevity,Increase,1,1,10
+2209885at2759,2759,Eukaryota,amino acid transporter,Drosophila melanogaster,Anti,JhI-21,34624,2090,2090,Anti-Longevity,Increase,1,1,5
+2209885at2759,2759,Eukaryota,amino acid transporter,Mus musculus,Ortholog only,,,,,,,0,0,10
+2209885at2759,2759,Eukaryota,amino acid transporter,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+2209885at2759,2759,Eukaryota,amino acid transporter,Podospora anserina,No recovered member,,,,,,,0,0,0
+2209885at2759,2759,Eukaryota,amino acid transporter,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,9
+2209885at2759,2759,Eukaryota,amino acid transporter,Danio rerio,Ortholog only,,,,,,,0,0,13
+2209885at2759,2759,Eukaryota,amino acid transporter,Mesocricetus auratus,Ortholog only,,,,,,,0,0,10
+2228772at2759,2759,Eukaryota,LON protease,Saccharomyces cerevisiae,Other,PIM1,852259,1467,1467,Necessary for fitness,Decrease,1,1,1
+2228772at2759,2759,Eukaryota,LON protease,Caenorhabditis elegans,Anti,C34B2.6,172966,2028,2028,Anti-Longevity,Increase,1,1,2
+2228772at2759,2759,Eukaryota,LON protease,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+2228772at2759,2759,Eukaryota,LON protease,Mus musculus,Ortholog only,,,,,,,0,0,2
+2228772at2759,2759,Eukaryota,LON protease,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+2228772at2759,2759,Eukaryota,LON protease,Podospora anserina,Ortholog only,,,,,,,0,0,2
+2228772at2759,2759,Eukaryota,LON protease,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+2228772at2759,2759,Eukaryota,LON protease,Danio rerio,Ortholog only,,,,,,,0,0,2
+2228772at2759,2759,Eukaryota,LON protease,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+2423377at2759,2759,Eukaryota,ATP-dependent rna helicase,Saccharomyces cerevisiae,Anti,TIF1;TIF2,853303;853933,1167;1383,1167;1383,Anti-Longevity,Increase and Decrease,2,2,5
+2423377at2759,2759,Eukaryota,ATP-dependent rna helicase,Caenorhabditis elegans,Pro,hel-1,174333,2094,2094,Pro-Longevity,Decrease,1,1,1
+2423377at2759,2759,Eukaryota,ATP-dependent rna helicase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+2423377at2759,2759,Eukaryota,ATP-dependent rna helicase,Mus musculus,Ortholog only,,,,,,,0,0,2
+2423377at2759,2759,Eukaryota,ATP-dependent rna helicase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,4
+2423377at2759,2759,Eukaryota,ATP-dependent rna helicase,Podospora anserina,Ortholog only,,,,,,,0,0,4
+2423377at2759,2759,Eukaryota,ATP-dependent rna helicase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+2423377at2759,2759,Eukaryota,ATP-dependent rna helicase,Danio rerio,Ortholog only,,,,,,,0,0,3
+2423377at2759,2759,Eukaryota,ATP-dependent rna helicase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+2445478at2759,2759,Eukaryota,Mitochondrial,Saccharomyces cerevisiae,Anti,MIR1,853540,1556,1556,Anti-Longevity,Increase,1,1,2
+2445478at2759,2759,Eukaryota,Mitochondrial,Caenorhabditis elegans,Anti,C33F10.12;F01G4.6,178020;183168,2031;75,2031;75,Anti-Longevity,Increase,2,2,4
+2445478at2759,2759,Eukaryota,Mitochondrial,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+2445478at2759,2759,Eukaryota,Mitochondrial,Mus musculus,Ortholog only,,,,,,,0,0,1
+2445478at2759,2759,Eukaryota,Mitochondrial,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+2445478at2759,2759,Eukaryota,Mitochondrial,Podospora anserina,Ortholog only,,,,,,,0,0,2
+2445478at2759,2759,Eukaryota,Mitochondrial,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+2445478at2759,2759,Eukaryota,Mitochondrial,Danio rerio,Ortholog only,,,,,,,0,0,2
+2445478at2759,2759,Eukaryota,Mitochondrial,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+2604670at2759,2759,Eukaryota,Succinate dehydrogenase,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,2
+2604670at2759,2759,Eukaryota,Succinate dehydrogenase,Caenorhabditis elegans,Pro,mev-1,260040,435,435,Pro-Longevity,Decrease,1,1,1
+2604670at2759,2759,Eukaryota,Succinate dehydrogenase,Drosophila melanogaster,Pro,SdhC,41340,594,594,Pro-Longevity,Decrease,1,1,2
+2604670at2759,2759,Eukaryota,Succinate dehydrogenase,Mus musculus,Ortholog only,,,,,,,0,0,1
+2604670at2759,2759,Eukaryota,Succinate dehydrogenase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+2604670at2759,2759,Eukaryota,Succinate dehydrogenase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+2604670at2759,2759,Eukaryota,Succinate dehydrogenase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+2604670at2759,2759,Eukaryota,Succinate dehydrogenase,Danio rerio,Ortholog only,,,,,,,0,0,1
+2604670at2759,2759,Eukaryota,Succinate dehydrogenase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+2612708at2759,2759,Eukaryota,ras,Saccharomyces cerevisiae,Other,YPT7,855012,1208,1208,Necessary for fitness,Decrease,1,1,5
+2612708at2759,2759,Eukaryota,ras,Caenorhabditis elegans,Pro,rab-7,174834,530,530,Pro-Longevity,Decrease,1,1,2
+2612708at2759,2759,Eukaryota,ras,Drosophila melanogaster,Ortholog only,,,,,,,0,0,4
+2612708at2759,2759,Eukaryota,ras,Mus musculus,Ortholog only,,,,,,,0,0,5
+2612708at2759,2759,Eukaryota,ras,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,4
+2612708at2759,2759,Eukaryota,ras,Podospora anserina,Ortholog only,,,,,,,0,0,3
+2612708at2759,2759,Eukaryota,ras,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+2612708at2759,2759,Eukaryota,ras,Danio rerio,Ortholog only,,,,,,,0,0,5
+2612708at2759,2759,Eukaryota,ras,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+2616092at2759,2759,Eukaryota,RNA binding,Saccharomyces cerevisiae,Other,WHI3,855524,1185,1185,Necessary for fitness,Decrease,1,1,2
+2616092at2759,2759,Eukaryota,RNA binding,Caenorhabditis elegans,Other,mec-8,172771,429,429,Unannotated,Increase,1,1,1
+2616092at2759,2759,Eukaryota,RNA binding,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+2616092at2759,2759,Eukaryota,RNA binding,Mus musculus,Ortholog only,,,,,,,0,0,3
+2616092at2759,2759,Eukaryota,RNA binding,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+2616092at2759,2759,Eukaryota,RNA binding,Podospora anserina,Ortholog only,,,,,,,0,0,1
+2616092at2759,2759,Eukaryota,RNA binding,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+2616092at2759,2759,Eukaryota,RNA binding,Danio rerio,Ortholog only,,,,,,,0,0,3
+2616092at2759,2759,Eukaryota,RNA binding,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+2617408at2759,2759,Eukaryota,Charged multivesicular body protein,Saccharomyces cerevisiae,Other,VPS20,855101,1745,1745,Necessary for fitness,Decrease,1,1,2
+2617408at2759,2759,Eukaryota,Charged multivesicular body protein,Caenorhabditis elegans,Pro,vps-20,171654,764,764,Pro-Longevity,Decrease,1,1,3
+2617408at2759,2759,Eukaryota,Charged multivesicular body protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+2617408at2759,2759,Eukaryota,Charged multivesicular body protein,Mus musculus,Ortholog only,,,,,,,0,0,3
+2617408at2759,2759,Eukaryota,Charged multivesicular body protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+2617408at2759,2759,Eukaryota,Charged multivesicular body protein,Podospora anserina,Ortholog only,,,,,,,0,0,2
+2617408at2759,2759,Eukaryota,Charged multivesicular body protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+2617408at2759,2759,Eukaryota,Charged multivesicular body protein,Danio rerio,Ortholog only,,,,,,,0,0,5
+2617408at2759,2759,Eukaryota,Charged multivesicular body protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+2654958at2759,2759,Eukaryota,40S ribosomal protein S,Saccharomyces cerevisiae,Anti,RPS10B,855270,1883,1883,Anti-Longevity,Increase,1,1,2
+2654958at2759,2759,Eukaryota,40S ribosomal protein S,Caenorhabditis elegans,Anti,rps-10,172061,565,565,Anti-Longevity,Increase,1,1,2
+2654958at2759,2759,Eukaryota,40S ribosomal protein S,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+2654958at2759,2759,Eukaryota,40S ribosomal protein S,Mus musculus,Ortholog only,,,,,,,0,0,1
+2654958at2759,2759,Eukaryota,40S ribosomal protein S,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+2654958at2759,2759,Eukaryota,40S ribosomal protein S,Podospora anserina,Ortholog only,,,,,,,0,0,1
+2654958at2759,2759,Eukaryota,40S ribosomal protein S,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+2654958at2759,2759,Eukaryota,40S ribosomal protein S,Danio rerio,Ortholog only,,,,,,,0,0,1
+2654958at2759,2759,Eukaryota,40S ribosomal protein S,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+2664232at2759,2759,Eukaryota,thioredoxin,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+2664232at2759,2759,Eukaryota,thioredoxin,Caenorhabditis elegans,Pro,trx-1,181863,31,31,Pro-Longevity,Decrease,1,1,2
+2664232at2759,2759,Eukaryota,thioredoxin,Drosophila melanogaster,Pro,TrxT,31443,686,686,Pro-Longevity,Increase,1,1,4
+2664232at2759,2759,Eukaryota,thioredoxin,Mus musculus,Pro,Txn1,22166,691,691,Pro-Longevity,Increase,1,1,3
+2664232at2759,2759,Eukaryota,thioredoxin,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+2664232at2759,2759,Eukaryota,thioredoxin,Podospora anserina,No recovered member,,,,,,,0,0,0
+2664232at2759,2759,Eukaryota,thioredoxin,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+2664232at2759,2759,Eukaryota,thioredoxin,Danio rerio,Ortholog only,,,,,,,0,0,2
+2664232at2759,2759,Eukaryota,thioredoxin,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+2690814at2759,2759,Eukaryota,transient receptor potential cation channel subfamily v member,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+2690814at2759,2759,Eukaryota,transient receptor potential cation channel subfamily v member,Caenorhabditis elegans,Anti,ocr-2,188314,968,968,Anti-Longevity,Increase,1,1,5
+2690814at2759,2759,Eukaryota,transient receptor potential cation channel subfamily v member,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+2690814at2759,2759,Eukaryota,transient receptor potential cation channel subfamily v member,Mus musculus,Anti,Trpv1,193034,1926,1926,Anti-Longevity,Increase,1,1,6
+2690814at2759,2759,Eukaryota,transient receptor potential cation channel subfamily v member,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+2690814at2759,2759,Eukaryota,transient receptor potential cation channel subfamily v member,Podospora anserina,No recovered member,,,,,,,0,0,0
+2690814at2759,2759,Eukaryota,transient receptor potential cation channel subfamily v member,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,5
+2690814at2759,2759,Eukaryota,transient receptor potential cation channel subfamily v member,Danio rerio,Ortholog only,,,,,,,0,0,3
+2690814at2759,2759,Eukaryota,transient receptor potential cation channel subfamily v member,Mesocricetus auratus,Ortholog only,,,,,,,0,0,6
+2700426at2759,2759,Eukaryota,methyltransferase,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,1
+2700426at2759,2759,Eukaryota,methyltransferase,Caenorhabditis elegans,Pro,pcm-1,178981,969,969,Pro-Longevity,Increase,1,1,1
+2700426at2759,2759,Eukaryota,methyltransferase,Drosophila melanogaster,Pro,Pcmt,40668,498,498,Pro-Longevity,Increase,1,1,1
+2700426at2759,2759,Eukaryota,methyltransferase,Mus musculus,Ortholog only,,,,,,,0,0,1
+2700426at2759,2759,Eukaryota,methyltransferase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+2700426at2759,2759,Eukaryota,methyltransferase,Podospora anserina,Ortholog only,,,,,,,0,0,2
+2700426at2759,2759,Eukaryota,methyltransferase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+2700426at2759,2759,Eukaryota,methyltransferase,Danio rerio,Ortholog only,,,,,,,0,0,2
+2700426at2759,2759,Eukaryota,methyltransferase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+2703176at2759,2759,Eukaryota,ras-related gtp-binding a,Saccharomyces cerevisiae,Other,GTR1,854918,1746,1746,Necessary for fitness,Decrease,1,1,1
+2703176at2759,2759,Eukaryota,ras-related gtp-binding a,Caenorhabditis elegans,Anti,raga-1,174726,2062,2062,Anti-Longevity,Increase,1,1,3
+2703176at2759,2759,Eukaryota,ras-related gtp-binding a,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+2703176at2759,2759,Eukaryota,ras-related gtp-binding a,Mus musculus,Ortholog only,,,,,,,0,0,2
+2703176at2759,2759,Eukaryota,ras-related gtp-binding a,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+2703176at2759,2759,Eukaryota,ras-related gtp-binding a,Podospora anserina,Ortholog only,,,,,,,0,0,2
+2703176at2759,2759,Eukaryota,ras-related gtp-binding a,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+2703176at2759,2759,Eukaryota,ras-related gtp-binding a,Danio rerio,Ortholog only,,,,,,,0,0,1
+2703176at2759,2759,Eukaryota,ras-related gtp-binding a,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+270797at2759,2759,Eukaryota,telomerase,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,1
+270797at2759,2759,Eukaryota,telomerase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+270797at2759,2759,Eukaryota,telomerase,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+270797at2759,2759,Eukaryota,telomerase,Mus musculus,Pro,Tert,21752,672,672,Pro-Longevity,Increase,1,1,1
+270797at2759,2759,Eukaryota,telomerase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+270797at2759,2759,Eukaryota,telomerase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+270797at2759,2759,Eukaryota,telomerase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+270797at2759,2759,Eukaryota,telomerase,Danio rerio,Pro,tert,796551,1792,1792,Pro-Longevity,Decrease,1,1,1
+270797at2759,2759,Eukaryota,telomerase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+2741472at2759,2759,Eukaryota,transporter,Saccharomyces cerevisiae,Anti,PMR1,852709,1711,1711,Anti-Longevity,Increase,1,1,4
+2741472at2759,2759,Eukaryota,transporter,Caenorhabditis elegans,Mixed,cua-1;eat-6;sca-1,176512;176770;179796,142;206;587,142;206;587,Anti-Longevity;Pro-Longevity,Decrease;Increase,3,3,7
+2741472at2759,2759,Eukaryota,transporter,Drosophila melanogaster,Ortholog only,,,,,,,0,0,4
+2741472at2759,2759,Eukaryota,transporter,Mus musculus,Ortholog only,,,,,,,0,0,13
+2741472at2759,2759,Eukaryota,transporter,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+2741472at2759,2759,Eukaryota,transporter,Podospora anserina,Ortholog only,,,,,,,0,0,8
+2741472at2759,2759,Eukaryota,transporter,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,6
+2741472at2759,2759,Eukaryota,transporter,Danio rerio,Ortholog only,,,,,,,0,0,17
+2741472at2759,2759,Eukaryota,transporter,Mesocricetus auratus,Ortholog only,,,,,,,0,0,13
+2748179at2759,2759,Eukaryota,Superoxide dismutase,Saccharomyces cerevisiae,Other,MRP1,851948,1251,1251,Necessary for fitness,Decrease,1,1,2
+2748179at2759,2759,Eukaryota,Superoxide dismutase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+2748179at2759,2759,Eukaryota,Superoxide dismutase,Drosophila melanogaster,Pro,Sod2,36878,624,624,Pro-Longevity,Increase and Decrease,1,1,1
+2748179at2759,2759,Eukaryota,Superoxide dismutase,Mus musculus,No recovered member,,,,,,,0,0,0
+2748179at2759,2759,Eukaryota,Superoxide dismutase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+2748179at2759,2759,Eukaryota,Superoxide dismutase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+2748179at2759,2759,Eukaryota,Superoxide dismutase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+2748179at2759,2759,Eukaryota,Superoxide dismutase,Danio rerio,No recovered member,,,,,,,0,0,0
+2748179at2759,2759,Eukaryota,Superoxide dismutase,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+2787271at2759,2759,Eukaryota,insulin receptor a,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+2787271at2759,2759,Eukaryota,insulin receptor a,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+2787271at2759,2759,Eukaryota,insulin receptor a,Drosophila melanogaster,Anti,InR,42549,368,368,Anti-Longevity,Increase,1,1,3
+2787271at2759,2759,Eukaryota,insulin receptor a,Mus musculus,Anti,Igf1r;Insr,16001;16337,365;373,365;373,Anti-Longevity,Increase,2,2,4
+2787271at2759,2759,Eukaryota,insulin receptor a,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+2787271at2759,2759,Eukaryota,insulin receptor a,Podospora anserina,No recovered member,,,,,,,0,0,0
+2787271at2759,2759,Eukaryota,insulin receptor a,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+2787271at2759,2759,Eukaryota,insulin receptor a,Danio rerio,Ortholog only,,,,,,,0,0,4
+2787271at2759,2759,Eukaryota,insulin receptor a,Mesocricetus auratus,Ortholog only,,,,,,,0,0,4
+30943at2759,2759,Eukaryota,Eukaryotic translation initiation factor 5a,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,2
+30943at2759,2759,Eukaryota,Eukaryotic translation initiation factor 5a,Caenorhabditis elegans,Anti,iff-1,176373,361,361,Anti-Longevity,Increase,1,1,2
+30943at2759,2759,Eukaryota,Eukaryotic translation initiation factor 5a,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+30943at2759,2759,Eukaryota,Eukaryotic translation initiation factor 5a,Mus musculus,Anti,Eif5a2,208691,1794,1794,Anti-Longevity,Decrease,1,1,2
+30943at2759,2759,Eukaryota,Eukaryotic translation initiation factor 5a,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+30943at2759,2759,Eukaryota,Eukaryotic translation initiation factor 5a,Podospora anserina,Ortholog only,,,,,,,0,0,1
+30943at2759,2759,Eukaryota,Eukaryotic translation initiation factor 5a,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+30943at2759,2759,Eukaryota,Eukaryotic translation initiation factor 5a,Danio rerio,Ortholog only,,,,,,,0,0,2
+30943at2759,2759,Eukaryota,Eukaryotic translation initiation factor 5a,Mesocricetus auratus,Ortholog only,,,,,,,0,0,4
+3160413at2759,2759,Eukaryota,complex Subunit,Saccharomyces cerevisiae,Other,APL2,853723,1485,1485,Necessary for fitness,Decrease,1,1,2
+3160413at2759,2759,Eukaryota,complex Subunit,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+3160413at2759,2759,Eukaryota,complex Subunit,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+3160413at2759,2759,Eukaryota,complex Subunit,Mus musculus,Ortholog only,,,,,,,0,0,2
+3160413at2759,2759,Eukaryota,complex Subunit,Schizosaccharomyces pombe,Anti,apl1,2540375,2255,2255,Anti-Longevity,Increase,1,1,2
+3160413at2759,2759,Eukaryota,complex Subunit,Podospora anserina,Ortholog only,,,,,,,0,0,2
+3160413at2759,2759,Eukaryota,complex Subunit,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+3160413at2759,2759,Eukaryota,complex Subunit,Danio rerio,Ortholog only,,,,,,,0,0,2
+3160413at2759,2759,Eukaryota,complex Subunit,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+3161539at2759,2759,Eukaryota,ATP-dependent Zinc metalloprotease ftsh,Saccharomyces cerevisiae,Anti,AFG3,856737,1650,1650,Anti-Longevity,Increase,1,1,2
+3161539at2759,2759,Eukaryota,ATP-dependent Zinc metalloprotease ftsh,Caenorhabditis elegans,Anti,spg-7,171915,753,753,Anti-Longevity,Increase,1,1,5
+3161539at2759,2759,Eukaryota,ATP-dependent Zinc metalloprotease ftsh,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+3161539at2759,2759,Eukaryota,ATP-dependent Zinc metalloprotease ftsh,Mus musculus,Ortholog only,,,,,,,0,0,3
+3161539at2759,2759,Eukaryota,ATP-dependent Zinc metalloprotease ftsh,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+3161539at2759,2759,Eukaryota,ATP-dependent Zinc metalloprotease ftsh,Podospora anserina,Ortholog only,,,,,,,0,0,1
+3161539at2759,2759,Eukaryota,ATP-dependent Zinc metalloprotease ftsh,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,5
+3161539at2759,2759,Eukaryota,ATP-dependent Zinc metalloprotease ftsh,Danio rerio,Ortholog only,,,,,,,0,0,3
+3161539at2759,2759,Eukaryota,ATP-dependent Zinc metalloprotease ftsh,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+3161573at2759,2759,Eukaryota,Aryl hydrocarbon receptor,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+3161573at2759,2759,Eukaryota,Aryl hydrocarbon receptor,Caenorhabditis elegans,Other,hif-1,180359,1937,1937,Unclear,Increase,1,1,3
+3161573at2759,2759,Eukaryota,Aryl hydrocarbon receptor,Drosophila melanogaster,Anti,trh,38065,2088,2088,Anti-Longevity,Increase,1,1,3
+3161573at2759,2759,Eukaryota,Aryl hydrocarbon receptor,Mus musculus,Ortholog only,,,,,,,0,0,6
+3161573at2759,2759,Eukaryota,Aryl hydrocarbon receptor,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+3161573at2759,2759,Eukaryota,Aryl hydrocarbon receptor,Podospora anserina,No recovered member,,,,,,,0,0,0
+3161573at2759,2759,Eukaryota,Aryl hydrocarbon receptor,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+3161573at2759,2759,Eukaryota,Aryl hydrocarbon receptor,Danio rerio,Ortholog only,,,,,,,0,0,7
+3161573at2759,2759,Eukaryota,Aryl hydrocarbon receptor,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+3166744at2759,2759,Eukaryota,Transaldolase,Saccharomyces cerevisiae,Anti,TAL1,851068,1449,1449,Anti-Longevity,Increase,1,1,2
+3166744at2759,2759,Eukaryota,Transaldolase,Caenorhabditis elegans,Anti,Y24D9A.8;tald-1,177202,1939;2213,1939;2213,Anti-Longevity,Increase,1,2,1
+3166744at2759,2759,Eukaryota,Transaldolase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+3166744at2759,2759,Eukaryota,Transaldolase,Mus musculus,Ortholog only,,,,,,,0,0,1
+3166744at2759,2759,Eukaryota,Transaldolase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+3166744at2759,2759,Eukaryota,Transaldolase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+3166744at2759,2759,Eukaryota,Transaldolase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+3166744at2759,2759,Eukaryota,Transaldolase,Danio rerio,Ortholog only,,,,,,,0,0,1
+3166744at2759,2759,Eukaryota,Transaldolase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+319257at2759,2759,Eukaryota,Dna topoisomerase,Saccharomyces cerevisiae,Other,TOP1,854156,1547,1547,Necessary for fitness,Decrease,1,1,1
+319257at2759,2759,Eukaryota,Dna topoisomerase,Caenorhabditis elegans,Pro,top-1,266847,676,676,Pro-Longevity,Decrease,1,1,1
+319257at2759,2759,Eukaryota,Dna topoisomerase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+319257at2759,2759,Eukaryota,Dna topoisomerase,Mus musculus,Ortholog only,,,,,,,0,0,2
+319257at2759,2759,Eukaryota,Dna topoisomerase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+319257at2759,2759,Eukaryota,Dna topoisomerase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+319257at2759,2759,Eukaryota,Dna topoisomerase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+319257at2759,2759,Eukaryota,Dna topoisomerase,Danio rerio,Ortholog only,,,,,,,0,0,4
+319257at2759,2759,Eukaryota,Dna topoisomerase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+3459473at2759,2759,Eukaryota,chaperone,Saccharomyces cerevisiae,Other,HSP104,850633,347,347,Necessary for fitness,Decrease,1,1,3
+3459473at2759,2759,Eukaryota,chaperone,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+3459473at2759,2759,Eukaryota,chaperone,Drosophila melanogaster,Anti,Coq2,40988,2013,2013,Anti-Longevity,Increase,1,1,1
+3459473at2759,2759,Eukaryota,chaperone,Mus musculus,Ortholog only,,,,,,,0,0,2
+3459473at2759,2759,Eukaryota,chaperone,Schizosaccharomyces pombe,Anti,SPBC16D10.08c,2540026,2003,2003,Anti-Longevity,Increase,1,1,3
+3459473at2759,2759,Eukaryota,chaperone,Podospora anserina,Ortholog only,,,,,,,0,0,3
+3459473at2759,2759,Eukaryota,chaperone,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+3459473at2759,2759,Eukaryota,chaperone,Danio rerio,Ortholog only,,,,,,,0,0,2
+3459473at2759,2759,Eukaryota,chaperone,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+358641at2759,2759,Eukaryota,atp synthase beta subunit,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+358641at2759,2759,Eukaryota,atp synthase beta subunit,Caenorhabditis elegans,Anti,atp-2,175716,25,25,Anti-Longevity,Increase,1,1,1
+358641at2759,2759,Eukaryota,atp synthase beta subunit,Drosophila melanogaster,Anti,CG5389,39761,840,840,Anti-Longevity,Increase,1,1,2
+358641at2759,2759,Eukaryota,atp synthase beta subunit,Mus musculus,Ortholog only,,,,,,,0,0,1
+358641at2759,2759,Eukaryota,atp synthase beta subunit,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+358641at2759,2759,Eukaryota,atp synthase beta subunit,Podospora anserina,No recovered member,,,,,,,0,0,0
+358641at2759,2759,Eukaryota,atp synthase beta subunit,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+358641at2759,2759,Eukaryota,atp synthase beta subunit,Danio rerio,Ortholog only,,,,,,,0,0,1
+358641at2759,2759,Eukaryota,atp synthase beta subunit,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+361262at2759,2759,Eukaryota,40s ribosomal protein,Saccharomyces cerevisiae,Anti,RPS6A;RPS6B,852479;856015,1607;577,1607;577,Anti-Longevity,Increase,2,2,2
+361262at2759,2759,Eukaryota,40s ribosomal protein,Caenorhabditis elegans,Anti,rps-6,173260,573,573,Anti-Longevity,Increase,1,1,1
+361262at2759,2759,Eukaryota,40s ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+361262at2759,2759,Eukaryota,40s ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,2
+361262at2759,2759,Eukaryota,40s ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+361262at2759,2759,Eukaryota,40s ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+361262at2759,2759,Eukaryota,40s ribosomal protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+361262at2759,2759,Eukaryota,40s ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+361262at2759,2759,Eukaryota,40s ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+3679967at2759,2759,Eukaryota,aryl hydrocarbon receptor nuclear translocator,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+3679967at2759,2759,Eukaryota,aryl hydrocarbon receptor nuclear translocator,Caenorhabditis elegans,Pro,aha-1,172889,1826,1826,Pro-Longevity,Decrease,1,1,1
+3679967at2759,2759,Eukaryota,aryl hydrocarbon receptor nuclear translocator,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+3679967at2759,2759,Eukaryota,aryl hydrocarbon receptor nuclear translocator,Mus musculus,Pro,Arntl,11865,15,15,Pro-Longevity,Decrease,1,1,4
+3679967at2759,2759,Eukaryota,aryl hydrocarbon receptor nuclear translocator,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+3679967at2759,2759,Eukaryota,aryl hydrocarbon receptor nuclear translocator,Podospora anserina,No recovered member,,,,,,,0,0,0
+3679967at2759,2759,Eukaryota,aryl hydrocarbon receptor nuclear translocator,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+3679967at2759,2759,Eukaryota,aryl hydrocarbon receptor nuclear translocator,Danio rerio,Ortholog only,,,,,,,0,0,5
+3679967at2759,2759,Eukaryota,aryl hydrocarbon receptor nuclear translocator,Mesocricetus auratus,Ortholog only,,,,,,,0,0,4
+3745658at2759,2759,Eukaryota,synaptojanin,Saccharomyces cerevisiae,Anti,INP54,854089,1520,1520,Anti-Longevity,Increase and Decrease,1,1,1
+3745658at2759,2759,Eukaryota,synaptojanin,Caenorhabditis elegans,Anti,unc-26,178284,703,703,Anti-Longevity,Increase,1,1,1
+3745658at2759,2759,Eukaryota,synaptojanin,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+3745658at2759,2759,Eukaryota,synaptojanin,Mus musculus,Ortholog only,,,,,,,0,0,4
+3745658at2759,2759,Eukaryota,synaptojanin,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+3745658at2759,2759,Eukaryota,synaptojanin,Podospora anserina,Ortholog only,,,,,,,0,0,1
+3745658at2759,2759,Eukaryota,synaptojanin,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+3745658at2759,2759,Eukaryota,synaptojanin,Danio rerio,Ortholog only,,,,,,,0,0,1
+3745658at2759,2759,Eukaryota,synaptojanin,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+3845611at2759,2759,Eukaryota,eukaryotic translation initiation factor 2 subunit,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,1
+3845611at2759,2759,Eukaryota,eukaryotic translation initiation factor 2 subunit,Caenorhabditis elegans,Anti,CELE_Y39G10AR.8,171792,744,744,Anti-Longevity,Increase,1,1,2
+3845611at2759,2759,Eukaryota,eukaryotic translation initiation factor 2 subunit,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+3845611at2759,2759,Eukaryota,eukaryotic translation initiation factor 2 subunit,Mus musculus,Ortholog only,,,,,,,0,0,2
+3845611at2759,2759,Eukaryota,eukaryotic translation initiation factor 2 subunit,Schizosaccharomyces pombe,Anti,tif213,2539738,2265,2265,Anti-Longevity,Increase,1,1,1
+3845611at2759,2759,Eukaryota,eukaryotic translation initiation factor 2 subunit,Podospora anserina,Ortholog only,,,,,,,0,0,1
+3845611at2759,2759,Eukaryota,eukaryotic translation initiation factor 2 subunit,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+3845611at2759,2759,Eukaryota,eukaryotic translation initiation factor 2 subunit,Danio rerio,Ortholog only,,,,,,,0,0,1
+3845611at2759,2759,Eukaryota,eukaryotic translation initiation factor 2 subunit,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+399860at2759,2759,Eukaryota,Poly ADP-ribose polymerase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+399860at2759,2759,Eukaryota,Poly ADP-ribose polymerase,Caenorhabditis elegans,Anti,pme-1,266823,1757,1757,Anti-Longevity,Increase,1,1,1
+399860at2759,2759,Eukaryota,Poly ADP-ribose polymerase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+399860at2759,2759,Eukaryota,Poly ADP-ribose polymerase,Mus musculus,Pro,Parp1,11545,1010,1010,Pro-Longevity,Decrease,1,1,1
+399860at2759,2759,Eukaryota,Poly ADP-ribose polymerase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+399860at2759,2759,Eukaryota,Poly ADP-ribose polymerase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+399860at2759,2759,Eukaryota,Poly ADP-ribose polymerase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+399860at2759,2759,Eukaryota,Poly ADP-ribose polymerase,Danio rerio,Ortholog only,,,,,,,0,0,1
+399860at2759,2759,Eukaryota,Poly ADP-ribose polymerase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+414427at2759,2759,Eukaryota,heat shock,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+414427at2759,2759,Eukaryota,heat shock,Caenorhabditis elegans,Pro,hsp-4,174203,345,345,Pro-Longevity,Decrease,1,1,7
+414427at2759,2759,Eukaryota,heat shock,Drosophila melanogaster,Pro,Hsc70-3,32133,853,853,Pro-Longevity,Increase,1,1,4
+414427at2759,2759,Eukaryota,heat shock,Mus musculus,Ortholog only,,,,,,,0,0,6
+414427at2759,2759,Eukaryota,heat shock,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+414427at2759,2759,Eukaryota,heat shock,Podospora anserina,No recovered member,,,,,,,0,0,0
+414427at2759,2759,Eukaryota,heat shock,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,9
+414427at2759,2759,Eukaryota,heat shock,Danio rerio,Ortholog only,,,,,,,0,0,8
+414427at2759,2759,Eukaryota,heat shock,Mesocricetus auratus,Ortholog only,,,,,,,0,0,7
+41484at2759,2759,Eukaryota,kinase,Saccharomyces cerevisiae,Other,PTK2,853522,1129,1129,Necessary for fitness,Decrease,1,1,3
+41484at2759,2759,Eukaryota,kinase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+41484at2759,2759,Eukaryota,kinase,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+41484at2759,2759,Eukaryota,kinase,Mus musculus,No recovered member,,,,,,,0,0,0
+41484at2759,2759,Eukaryota,kinase,Schizosaccharomyces pombe,Anti,SPCC70.05c,2538820,2222,2222,Anti-Longevity,Increase,1,1,3
+41484at2759,2759,Eukaryota,kinase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+41484at2759,2759,Eukaryota,kinase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+41484at2759,2759,Eukaryota,kinase,Danio rerio,Ortholog only,,,,,,,0,0,1
+41484at2759,2759,Eukaryota,kinase,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+4219358at2759,2759,Eukaryota,ribosomal protein,Saccharomyces cerevisiae,Other,RPS0B,850737,1422,1422,Necessary for fitness,Decrease,1,1,2
+4219358at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis elegans,Anti,rps-0,175628,2035,2035,Anti-Longevity,Increase,1,1,1
+4219358at2759,2759,Eukaryota,ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4219358at2759,2759,Eukaryota,ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,1
+4219358at2759,2759,Eukaryota,ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4219358at2759,2759,Eukaryota,ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4219358at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4219358at2759,2759,Eukaryota,ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+4219358at2759,2759,Eukaryota,ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,6
+4257798at2759,2759,Eukaryota,cellular retinoic acid binding protein,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4257798at2759,2759,Eukaryota,cellular retinoic acid binding protein,Caenorhabditis elegans,Mixed,lbp-4;lbp-6;lbp-7;lbp-8;lbp-9,172390;178686;179161;188761;191701,1882;401;402;403;404,1882;401;402;403;404,Anti-Longevity;Pro-Longevity;Unclear,Decrease;Increase;Increase and Decrease,5,5,11
+4257798at2759,2759,Eukaryota,cellular retinoic acid binding protein,Drosophila melanogaster,Pro,fabp,3772232,1962,1962,Pro-Longevity,Increase,1,1,1
+4257798at2759,2759,Eukaryota,cellular retinoic acid binding protein,Mus musculus,Ortholog only,,,,,,,0,0,10
+4257798at2759,2759,Eukaryota,cellular retinoic acid binding protein,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4257798at2759,2759,Eukaryota,cellular retinoic acid binding protein,Podospora anserina,No recovered member,,,,,,,0,0,0
+4257798at2759,2759,Eukaryota,cellular retinoic acid binding protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,9
+4257798at2759,2759,Eukaryota,cellular retinoic acid binding protein,Danio rerio,Ortholog only,,,,,,,0,0,16
+4257798at2759,2759,Eukaryota,cellular retinoic acid binding protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,12
+4288235at2759,2759,Eukaryota,Heat shock protein,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4288235at2759,2759,Eukaryota,Heat shock protein,Caenorhabditis elegans,Pro,hsp-12.6;hsp-16.1;hsp-16.48;hsp-16.49;sip-1,176471;177778;179286;179287;179288,1959;1960;342;343;344,1959;1960;342;343;344,Pro-Longevity,Decrease;Increase;Increase and Decrease,5,5,15
+4288235at2759,2759,Eukaryota,Heat shock protein,Drosophila melanogaster,Pro,Hsp22;Hsp26;Hsp27;Hsp67Bc,3772576;39071;39075;39078,2103;349;350;854,2103;349;350;854,Pro-Longevity;Unclear,Increase;Increase and Decrease,4,4,7
+4288235at2759,2759,Eukaryota,Heat shock protein,Mus musculus,Ortholog only,,,,,,,0,0,2
+4288235at2759,2759,Eukaryota,Heat shock protein,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4288235at2759,2759,Eukaryota,Heat shock protein,Podospora anserina,No recovered member,,,,,,,0,0,0
+4288235at2759,2759,Eukaryota,Heat shock protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,18
+4288235at2759,2759,Eukaryota,Heat shock protein,Danio rerio,Ortholog only,,,,,,,0,0,5
+4288235at2759,2759,Eukaryota,Heat shock protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+4326343at2759,2759,Eukaryota,Peptidase,Saccharomyces cerevisiae,Other,WHI2,854208,1494,1494,Necessary for fitness,Decrease,1,1,2
+4326343at2759,2759,Eukaryota,Peptidase,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+4326343at2759,2759,Eukaryota,Peptidase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4326343at2759,2759,Eukaryota,Peptidase,Mus musculus,Ortholog only,,,,,,,0,0,1
+4326343at2759,2759,Eukaryota,Peptidase,Schizosaccharomyces pombe,Anti,SPBP4H10.16c,2541358,1990,1990,Anti-Longevity,Increase,1,1,1
+4326343at2759,2759,Eukaryota,Peptidase,Podospora anserina,Ortholog only,,,,,,,0,0,4
+4326343at2759,2759,Eukaryota,Peptidase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4326343at2759,2759,Eukaryota,Peptidase,Danio rerio,Ortholog only,,,,,,,0,0,1
+4326343at2759,2759,Eukaryota,Peptidase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+436619at2759,2759,Eukaryota,Glyceraldehyde-3-phosphate dehydrogenase,Saccharomyces cerevisiae,Anti,TDH2,853465,2078,2078,Anti-Longevity,Increase,1,1,3
+436619at2759,2759,Eukaryota,Glyceraldehyde-3-phosphate dehydrogenase,Caenorhabditis elegans,Anti,gpd-2;gpd-3,180601;3565504,1778;321,1778;321,Anti-Longevity,Increase,2,2,4
+436619at2759,2759,Eukaryota,Glyceraldehyde-3-phosphate dehydrogenase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,3
+436619at2759,2759,Eukaryota,Glyceraldehyde-3-phosphate dehydrogenase,Mus musculus,Ortholog only,,,,,,,0,0,1
+436619at2759,2759,Eukaryota,Glyceraldehyde-3-phosphate dehydrogenase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+436619at2759,2759,Eukaryota,Glyceraldehyde-3-phosphate dehydrogenase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+436619at2759,2759,Eukaryota,Glyceraldehyde-3-phosphate dehydrogenase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+436619at2759,2759,Eukaryota,Glyceraldehyde-3-phosphate dehydrogenase,Danio rerio,Ortholog only,,,,,,,0,0,2
+436619at2759,2759,Eukaryota,Glyceraldehyde-3-phosphate dehydrogenase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+4397846at2759,2759,Eukaryota,Autophagy-related protein 3,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4397846at2759,2759,Eukaryota,Autophagy-related protein 3,Caenorhabditis elegans,Pro,atg-3,176921,894,894,Pro-Longevity,Decrease,1,1,1
+4397846at2759,2759,Eukaryota,Autophagy-related protein 3,Drosophila melanogaster,Pro,Aut1,40044,835,835,Pro-Longevity,Decrease,1,1,1
+4397846at2759,2759,Eukaryota,Autophagy-related protein 3,Mus musculus,Ortholog only,,,,,,,0,0,1
+4397846at2759,2759,Eukaryota,Autophagy-related protein 3,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4397846at2759,2759,Eukaryota,Autophagy-related protein 3,Podospora anserina,No recovered member,,,,,,,0,0,0
+4397846at2759,2759,Eukaryota,Autophagy-related protein 3,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4397846at2759,2759,Eukaryota,Autophagy-related protein 3,Danio rerio,Ortholog only,,,,,,,0,0,1
+4397846at2759,2759,Eukaryota,Autophagy-related protein 3,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4426714at2759,2759,Eukaryota,Solute carrier family 13 member,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4426714at2759,2759,Eukaryota,Solute carrier family 13 member,Caenorhabditis elegans,Anti,nac-2;nac-3,176429;187898,452;453,452;453,Anti-Longevity,Increase,2,2,5
+4426714at2759,2759,Eukaryota,Solute carrier family 13 member,Drosophila melanogaster,Anti,Indy,40049,366,366,Anti-Longevity,Increase,1,1,4
+4426714at2759,2759,Eukaryota,Solute carrier family 13 member,Mus musculus,Anti,Slc13a1,55961,825,825,Anti-Longevity,Increase,1,1,5
+4426714at2759,2759,Eukaryota,Solute carrier family 13 member,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4426714at2759,2759,Eukaryota,Solute carrier family 13 member,Podospora anserina,No recovered member,,,,,,,0,0,0
+4426714at2759,2759,Eukaryota,Solute carrier family 13 member,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+4426714at2759,2759,Eukaryota,Solute carrier family 13 member,Danio rerio,Ortholog only,,,,,,,0,0,6
+4426714at2759,2759,Eukaryota,Solute carrier family 13 member,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+4427510at2759,2759,Eukaryota,serine/threonine-protein kinase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4427510at2759,2759,Eukaryota,serine/threonine-protein kinase,Caenorhabditis elegans,Other,unc-51,180311,996,996,Unclear,Increase and Decrease,1,1,1
+4427510at2759,2759,Eukaryota,serine/threonine-protein kinase,Drosophila melanogaster,Pro,Atg1,39454,1908,1908,Pro-Longevity,Increase,1,1,1
+4427510at2759,2759,Eukaryota,serine/threonine-protein kinase,Mus musculus,Ortholog only,,,,,,,0,0,2
+4427510at2759,2759,Eukaryota,serine/threonine-protein kinase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4427510at2759,2759,Eukaryota,serine/threonine-protein kinase,Podospora anserina,No recovered member,,,,,,,0,0,0
+4427510at2759,2759,Eukaryota,serine/threonine-protein kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4427510at2759,2759,Eukaryota,serine/threonine-protein kinase,Danio rerio,Ortholog only,,,,,,,0,0,3
+4427510at2759,2759,Eukaryota,serine/threonine-protein kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4435917at2759,2759,Eukaryota,Adenylate cyclase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4435917at2759,2759,Eukaryota,Adenylate cyclase,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,4
+4435917at2759,2759,Eukaryota,Adenylate cyclase,Drosophila melanogaster,Pro,rut,32406,581,581,Pro-Longevity,Decrease,1,1,12
+4435917at2759,2759,Eukaryota,Adenylate cyclase,Mus musculus,Anti,Adcy5,224129,6,6,Anti-Longevity,Increase,1,1,9
+4435917at2759,2759,Eukaryota,Adenylate cyclase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4435917at2759,2759,Eukaryota,Adenylate cyclase,Podospora anserina,No recovered member,,,,,,,0,0,0
+4435917at2759,2759,Eukaryota,Adenylate cyclase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+4435917at2759,2759,Eukaryota,Adenylate cyclase,Danio rerio,Ortholog only,,,,,,,0,0,11
+4435917at2759,2759,Eukaryota,Adenylate cyclase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,8
+4439199at2759,2759,Eukaryota,isoform a,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4439199at2759,2759,Eukaryota,isoform a,Caenorhabditis elegans,Anti,spe-26,177929,625,625,Anti-Longevity,Increase,1,1,9
+4439199at2759,2759,Eukaryota,isoform a,Drosophila melanogaster,Anti,Keap1,42062,859,859,Anti-Longevity,Increase,1,1,9
+4439199at2759,2759,Eukaryota,isoform a,Mus musculus,Ortholog only,,,,,,,0,0,38
+4439199at2759,2759,Eukaryota,isoform a,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4439199at2759,2759,Eukaryota,isoform a,Podospora anserina,No recovered member,,,,,,,0,0,0
+4439199at2759,2759,Eukaryota,isoform a,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,7
+4439199at2759,2759,Eukaryota,isoform a,Danio rerio,Ortholog only,,,,,,,0,0,46
+4439199at2759,2759,Eukaryota,isoform a,Mesocricetus auratus,Ortholog only,,,,,,,0,0,39
+4444984at2759,2759,Eukaryota,Integrin beta,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4444984at2759,2759,Eukaryota,Integrin beta,Caenorhabditis elegans,Pro,pat-3,175504,1786,1786,Pro-Longevity,Decrease,1,1,2
+4444984at2759,2759,Eukaryota,Integrin beta,Drosophila melanogaster,Anti,mys,44885,451,451,Anti-Longevity,Increase,1,1,2
+4444984at2759,2759,Eukaryota,Integrin beta,Mus musculus,Ortholog only,,,,,,,0,0,8
+4444984at2759,2759,Eukaryota,Integrin beta,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4444984at2759,2759,Eukaryota,Integrin beta,Podospora anserina,No recovered member,,,,,,,0,0,0
+4444984at2759,2759,Eukaryota,Integrin beta,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4444984at2759,2759,Eukaryota,Integrin beta,Danio rerio,Ortholog only,,,,,,,0,0,11
+4444984at2759,2759,Eukaryota,Integrin beta,Mesocricetus auratus,Ortholog only,,,,,,,0,0,7
+4458191at2759,2759,Eukaryota,dual specificity protein phosphatase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4458191at2759,2759,Eukaryota,dual specificity protein phosphatase,Caenorhabditis elegans,Anti,lip-1,191704,2024,2024,Anti-Longevity,Increase,1,1,1
+4458191at2759,2759,Eukaryota,dual specificity protein phosphatase,Drosophila melanogaster,Anti,puc,40958,522,522,Anti-Longevity,Increase,1,1,1
+4458191at2759,2759,Eukaryota,dual specificity protein phosphatase,Mus musculus,Ortholog only,,,,,,,0,0,2
+4458191at2759,2759,Eukaryota,dual specificity protein phosphatase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4458191at2759,2759,Eukaryota,dual specificity protein phosphatase,Podospora anserina,No recovered member,,,,,,,0,0,0
+4458191at2759,2759,Eukaryota,dual specificity protein phosphatase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4458191at2759,2759,Eukaryota,dual specificity protein phosphatase,Danio rerio,Ortholog only,,,,,,,0,0,1
+4458191at2759,2759,Eukaryota,dual specificity protein phosphatase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4515582at2759,2759,Eukaryota,NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4515582at2759,2759,Eukaryota,NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5,Caenorhabditis elegans,Anti,CELE_C25H3.9,173963,905,905,Anti-Longevity,Increase,1,1,1
+4515582at2759,2759,Eukaryota,NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5,Drosophila melanogaster,Anti,l(3)neo18,46260,862,862,Anti-Longevity,Increase,1,1,1
+4515582at2759,2759,Eukaryota,NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5,Mus musculus,Ortholog only,,,,,,,0,0,1
+4515582at2759,2759,Eukaryota,NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4515582at2759,2759,Eukaryota,NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5,Podospora anserina,No recovered member,,,,,,,0,0,0
+4515582at2759,2759,Eukaryota,NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+4515582at2759,2759,Eukaryota,NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5,Danio rerio,Ortholog only,,,,,,,0,0,1
+4515582at2759,2759,Eukaryota,NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4541095at2759,2759,Eukaryota,lamin,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4541095at2759,2759,Eukaryota,lamin,Caenorhabditis elegans,Pro,lmn-1,172687,414,414,Pro-Longevity,Decrease,1,1,1
+4541095at2759,2759,Eukaryota,lamin,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4541095at2759,2759,Eukaryota,lamin,Mus musculus,Other,Lmna,16905,415,415,Unclear,Increase and Decrease,1,1,4
+4541095at2759,2759,Eukaryota,lamin,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4541095at2759,2759,Eukaryota,lamin,Podospora anserina,No recovered member,,,,,,,0,0,0
+4541095at2759,2759,Eukaryota,lamin,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4541095at2759,2759,Eukaryota,lamin,Danio rerio,Ortholog only,,,,,,,0,0,5
+4541095at2759,2759,Eukaryota,lamin,Mesocricetus auratus,Ortholog only,,,,,,,0,0,4
+4578124at2759,2759,Eukaryota,hexokinase I,Saccharomyces cerevisiae,Anti,GLK1;HXK2,850317;852639,1624;357,1624;357,Anti-Longevity;Necessary for fitness,Decrease;Increase,2,2,4
+4578124at2759,2759,Eukaryota,hexokinase I,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,3
+4578124at2759,2759,Eukaryota,hexokinase I,Drosophila melanogaster,Anti,Hex-A;Hex-C,44008;45875,2150;2151,2150;2151,Anti-Longevity,Increase,2,2,4
+4578124at2759,2759,Eukaryota,hexokinase I,Mus musculus,Ortholog only,,,,,,,0,0,4
+4578124at2759,2759,Eukaryota,hexokinase I,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4578124at2759,2759,Eukaryota,hexokinase I,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4578124at2759,2759,Eukaryota,hexokinase I,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+4578124at2759,2759,Eukaryota,hexokinase I,Danio rerio,Ortholog only,,,,,,,0,0,3
+4578124at2759,2759,Eukaryota,hexokinase I,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+4585104at2759,2759,Eukaryota,glutathione s-transferase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4585104at2759,2759,Eukaryota,glutathione s-transferase,Caenorhabditis elegans,Pro,gst-10;gst-5,178725;187537,328;329,328;329,Pro-Longevity,Decrease;Increase and Decrease,2,2,43
+4585104at2759,2759,Eukaryota,glutathione s-transferase,Drosophila melanogaster,Pro,GstS1,36927,851,851,Pro-Longevity,Increase,1,1,5
+4585104at2759,2759,Eukaryota,glutathione s-transferase,Mus musculus,Ortholog only,,,,,,,0,0,13
+4585104at2759,2759,Eukaryota,glutathione s-transferase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4585104at2759,2759,Eukaryota,glutathione s-transferase,Podospora anserina,No recovered member,,,,,,,0,0,0
+4585104at2759,2759,Eukaryota,glutathione s-transferase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,30
+4585104at2759,2759,Eukaryota,glutathione s-transferase,Danio rerio,Ortholog only,,,,,,,0,0,5
+4585104at2759,2759,Eukaryota,glutathione s-transferase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,11
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,Saccharomyces cerevisiae,Other,ATG7,856576,1218,1218,Necessary for fitness,Decrease,1,1,1
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,Caenorhabditis elegans,Other,atg-7,178005,23,23,Unclear,Increase,1,1,1
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,Drosophila melanogaster,Pro,Atg7,37141,21,21,Pro-Longevity,Decrease,1,1,1
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,Mus musculus,Ortholog only,,,,,,,0,0,1
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,Danio rerio,Ortholog only,,,,,,,0,0,1
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4617232at2759,2759,Eukaryota,Insulin receptor substrate,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4617232at2759,2759,Eukaryota,Insulin receptor substrate,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+4617232at2759,2759,Eukaryota,Insulin receptor substrate,Drosophila melanogaster,Anti,chico,64880,124,124,Anti-Longevity,Increase,1,1,1
+4617232at2759,2759,Eukaryota,Insulin receptor substrate,Mus musculus,Anti,Irs1,16367,377,377,Anti-Longevity,Increase,1,1,2
+4617232at2759,2759,Eukaryota,Insulin receptor substrate,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4617232at2759,2759,Eukaryota,Insulin receptor substrate,Podospora anserina,No recovered member,,,,,,,0,0,0
+4617232at2759,2759,Eukaryota,Insulin receptor substrate,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4617232at2759,2759,Eukaryota,Insulin receptor substrate,Danio rerio,Ortholog only,,,,,,,0,0,3
+4617232at2759,2759,Eukaryota,Insulin receptor substrate,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4620304at2759,2759,Eukaryota,mothers against decapentaplegic,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4620304at2759,2759,Eukaryota,mothers against decapentaplegic,Caenorhabditis elegans,Anti,daf-14;daf-8,177908;187612,158;170,158;170,Anti-Longevity,Increase,2,2,4
+4620304at2759,2759,Eukaryota,mothers against decapentaplegic,Drosophila melanogaster,Mixed,Mad;Smox,31738;33529,1903;1904,1903;1904,Anti-Longevity;Pro-Longevity,Decrease;Increase,2,2,2
+4620304at2759,2759,Eukaryota,mothers against decapentaplegic,Mus musculus,Ortholog only,,,,,,,0,0,5
+4620304at2759,2759,Eukaryota,mothers against decapentaplegic,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4620304at2759,2759,Eukaryota,mothers against decapentaplegic,Podospora anserina,No recovered member,,,,,,,0,0,0
+4620304at2759,2759,Eukaryota,mothers against decapentaplegic,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+4620304at2759,2759,Eukaryota,mothers against decapentaplegic,Danio rerio,Ortholog only,,,,,,,0,0,6
+4620304at2759,2759,Eukaryota,mothers against decapentaplegic,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+4652851at2759,2759,Eukaryota,protein kinase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4652851at2759,2759,Eukaryota,protein kinase,Caenorhabditis elegans,Anti,pat-4,175175,494,494,Anti-Longevity,Increase,1,1,1
+4652851at2759,2759,Eukaryota,protein kinase,Drosophila melanogaster,Anti,Ilk,53573,1910,1910,Anti-Longevity,Increase,1,1,1
+4652851at2759,2759,Eukaryota,protein kinase,Mus musculus,Ortholog only,,,,,,,0,0,1
+4652851at2759,2759,Eukaryota,protein kinase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4652851at2759,2759,Eukaryota,protein kinase,Podospora anserina,No recovered member,,,,,,,0,0,0
+4652851at2759,2759,Eukaryota,protein kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4652851at2759,2759,Eukaryota,protein kinase,Danio rerio,Ortholog only,,,,,,,0,0,1
+4652851at2759,2759,Eukaryota,protein kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4661351at2759,2759,Eukaryota,Tumor protein,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4661351at2759,2759,Eukaryota,Tumor protein,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+4661351at2759,2759,Eukaryota,Tumor protein,Drosophila melanogaster,Anti,p53,2768677,489,489,Anti-Longevity,Increase,1,1,1
+4661351at2759,2759,Eukaryota,Tumor protein,Mus musculus,Pro,Trp63;Trp73,22061;22062,1801;683,1801;683,Pro-Longevity,Decrease,2,2,3
+4661351at2759,2759,Eukaryota,Tumor protein,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4661351at2759,2759,Eukaryota,Tumor protein,Podospora anserina,No recovered member,,,,,,,0,0,0
+4661351at2759,2759,Eukaryota,Tumor protein,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+4661351at2759,2759,Eukaryota,Tumor protein,Danio rerio,Ortholog only,,,,,,,0,0,2
+4661351at2759,2759,Eukaryota,Tumor protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4665101at2759,2759,Eukaryota,SHC-transforming protein,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4665101at2759,2759,Eukaryota,SHC-transforming protein,Caenorhabditis elegans,Pro,shc-1,3565745,980,980,Pro-Longevity,Decrease,1,1,1
+4665101at2759,2759,Eukaryota,SHC-transforming protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4665101at2759,2759,Eukaryota,SHC-transforming protein,Mus musculus,Anti,Shc1,20416,601,601,Anti-Longevity,Increase,1,1,4
+4665101at2759,2759,Eukaryota,SHC-transforming protein,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4665101at2759,2759,Eukaryota,SHC-transforming protein,Podospora anserina,No recovered member,,,,,,,0,0,0
+4665101at2759,2759,Eukaryota,SHC-transforming protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4665101at2759,2759,Eukaryota,SHC-transforming protein,Danio rerio,Ortholog only,,,,,,,0,0,3
+4665101at2759,2759,Eukaryota,SHC-transforming protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+4665472at2759,2759,Eukaryota,5-hydroxytryptamine receptor,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4665472at2759,2759,Eukaryota,5-hydroxytryptamine receptor,Caenorhabditis elegans,Anti,ser-1,181716,597,597,Anti-Longevity,Increase,1,1,3
+4665472at2759,2759,Eukaryota,5-hydroxytryptamine receptor,Drosophila melanogaster,Anti,5-HT2A,40575,2089,2089,Anti-Longevity,Increase,1,1,2
+4665472at2759,2759,Eukaryota,5-hydroxytryptamine receptor,Mus musculus,Ortholog only,,,,,,,0,0,4
+4665472at2759,2759,Eukaryota,5-hydroxytryptamine receptor,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4665472at2759,2759,Eukaryota,5-hydroxytryptamine receptor,Podospora anserina,No recovered member,,,,,,,0,0,0
+4665472at2759,2759,Eukaryota,5-hydroxytryptamine receptor,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4665472at2759,2759,Eukaryota,5-hydroxytryptamine receptor,Danio rerio,Ortholog only,,,,,,,0,0,6
+4665472at2759,2759,Eukaryota,5-hydroxytryptamine receptor,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+4679019at2759,2759,Eukaryota,insulin,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4679019at2759,2759,Eukaryota,insulin,Caenorhabditis elegans,Pro,ins-1,177936,369,369,Pro-Longevity,Increase,1,1,1
+4679019at2759,2759,Eukaryota,insulin,Drosophila melanogaster,Anti,Ilp2,39150,855,855,Anti-Longevity,Increase,1,1,2
+4679019at2759,2759,Eukaryota,insulin,Mus musculus,Ortholog only,,,,,,,0,0,2
+4679019at2759,2759,Eukaryota,insulin,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4679019at2759,2759,Eukaryota,insulin,Podospora anserina,No recovered member,,,,,,,0,0,0
+4679019at2759,2759,Eukaryota,insulin,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4679019at2759,2759,Eukaryota,insulin,Danio rerio,Ortholog only,,,,,,,0,0,3
+4679019at2759,2759,Eukaryota,insulin,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4686251at2759,2759,Eukaryota,Surfeit 1,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4686251at2759,2759,Eukaryota,Surfeit 1,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,2
+4686251at2759,2759,Eukaryota,Surfeit 1,Drosophila melanogaster,Anti,Surf1,44498,636,636,Anti-Longevity,Increase,1,1,1
+4686251at2759,2759,Eukaryota,Surfeit 1,Mus musculus,Anti,Surf1,20930,637,637,Anti-Longevity,Increase,1,1,1
+4686251at2759,2759,Eukaryota,Surfeit 1,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4686251at2759,2759,Eukaryota,Surfeit 1,Podospora anserina,No recovered member,,,,,,,0,0,0
+4686251at2759,2759,Eukaryota,Surfeit 1,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4686251at2759,2759,Eukaryota,Surfeit 1,Danio rerio,Ortholog only,,,,,,,0,0,1
+4686251at2759,2759,Eukaryota,Surfeit 1,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4698001at2759,2759,Eukaryota,Nodal,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4698001at2759,2759,Eukaryota,Nodal,Caenorhabditis elegans,Anti,daf-7,175237,169,169,Anti-Longevity,Increase,1,1,1
+4698001at2759,2759,Eukaryota,Nodal,Drosophila melanogaster,Mixed,daw;myo,33474;43811,1880;1899,1880;1899,Anti-Longevity;Pro-Longevity,Increase,2,2,2
+4698001at2759,2759,Eukaryota,Nodal,Mus musculus,Anti,Mstn,17700,2080,2080,Anti-Longevity,Increase,1,1,3
+4698001at2759,2759,Eukaryota,Nodal,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4698001at2759,2759,Eukaryota,Nodal,Podospora anserina,No recovered member,,,,,,,0,0,0
+4698001at2759,2759,Eukaryota,Nodal,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4698001at2759,2759,Eukaryota,Nodal,Danio rerio,Ortholog only,,,,,,,0,0,7
+4698001at2759,2759,Eukaryota,Nodal,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+4701392at2759,2759,Eukaryota,Forkhead box protein,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4701392at2759,2759,Eukaryota,Forkhead box protein,Caenorhabditis elegans,Pro,daf-16,172981,160,160,Pro-Longevity,Decrease,1,1,4
+4701392at2759,2759,Eukaryota,Forkhead box protein,Drosophila melanogaster,Pro,foxo,41709,286,286,Pro-Longevity,Increase,1,1,1
+4701392at2759,2759,Eukaryota,Forkhead box protein,Mus musculus,Ortholog only,,,,,,,0,0,2
+4701392at2759,2759,Eukaryota,Forkhead box protein,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4701392at2759,2759,Eukaryota,Forkhead box protein,Podospora anserina,No recovered member,,,,,,,0,0,0
+4701392at2759,2759,Eukaryota,Forkhead box protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4701392at2759,2759,Eukaryota,Forkhead box protein,Danio rerio,Ortholog only,,,,,,,0,0,5
+4701392at2759,2759,Eukaryota,Forkhead box protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4747719at2759,2759,Eukaryota,mitochondrial carrier,Saccharomyces cerevisiae,Other,YPR011C,856121,1662,1662,Necessary for fitness,Decrease,1,1,2
+4747719at2759,2759,Eukaryota,mitochondrial carrier,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,2
+4747719at2759,2759,Eukaryota,mitochondrial carrier,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4747719at2759,2759,Eukaryota,mitochondrial carrier,Mus musculus,Ortholog only,,,,,,,0,0,3
+4747719at2759,2759,Eukaryota,mitochondrial carrier,Schizosaccharomyces pombe,Other,SPAC17H9.08,2542177,1997,1997,Necessary for fitness,Decrease,1,1,2
+4747719at2759,2759,Eukaryota,mitochondrial carrier,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4747719at2759,2759,Eukaryota,mitochondrial carrier,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4747719at2759,2759,Eukaryota,mitochondrial carrier,Danio rerio,Ortholog only,,,,,,,0,0,2
+4747719at2759,2759,Eukaryota,mitochondrial carrier,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4766927at2759,2759,Eukaryota,vacuolar sorting,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,1
+4766927at2759,2759,Eukaryota,vacuolar sorting,Caenorhabditis elegans,Pro,vps-33.1,176221,720,720,Pro-Longevity,Decrease,1,1,1
+4766927at2759,2759,Eukaryota,vacuolar sorting,Drosophila melanogaster,Pro,car,32947,89,89,Pro-Longevity,Increase,1,1,1
+4766927at2759,2759,Eukaryota,vacuolar sorting,Mus musculus,Ortholog only,,,,,,,0,0,1
+4766927at2759,2759,Eukaryota,vacuolar sorting,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,3
+4766927at2759,2759,Eukaryota,vacuolar sorting,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4766927at2759,2759,Eukaryota,vacuolar sorting,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4766927at2759,2759,Eukaryota,vacuolar sorting,Danio rerio,Ortholog only,,,,,,,0,0,1
+4766927at2759,2759,Eukaryota,vacuolar sorting,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4768692at2759,2759,Eukaryota,bone morphogenetic protein receptor,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4768692at2759,2759,Eukaryota,bone morphogenetic protein receptor,Caenorhabditis elegans,Anti,daf-1,176829,156,156,Anti-Longevity,Increase,1,1,2
+4768692at2759,2759,Eukaryota,bone morphogenetic protein receptor,Drosophila melanogaster,Anti,babo,35900,1905,1905,Anti-Longevity,Increase,1,1,3
+4768692at2759,2759,Eukaryota,bone morphogenetic protein receptor,Mus musculus,Ortholog only,,,,,,,0,0,8
+4768692at2759,2759,Eukaryota,bone morphogenetic protein receptor,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4768692at2759,2759,Eukaryota,bone morphogenetic protein receptor,Podospora anserina,No recovered member,,,,,,,0,0,0
+4768692at2759,2759,Eukaryota,bone morphogenetic protein receptor,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4768692at2759,2759,Eukaryota,bone morphogenetic protein receptor,Danio rerio,Ortholog only,,,,,,,0,0,11
+4768692at2759,2759,Eukaryota,bone morphogenetic protein receptor,Mesocricetus auratus,Ortholog only,,,,,,,0,0,7
+4775842at2759,2759,Eukaryota,Histone-lysine N-methyltransferase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4775842at2759,2759,Eukaryota,Histone-lysine N-methyltransferase,Caenorhabditis elegans,Anti,mes-2,175096,2057,2057,Anti-Longevity,Increase,1,1,1
+4775842at2759,2759,Eukaryota,Histone-lysine N-methyltransferase,Drosophila melanogaster,Anti,E(z),39203,844,844,Anti-Longevity,Increase,1,1,1
+4775842at2759,2759,Eukaryota,Histone-lysine N-methyltransferase,Mus musculus,Ortholog only,,,,,,,0,0,2
+4775842at2759,2759,Eukaryota,Histone-lysine N-methyltransferase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4775842at2759,2759,Eukaryota,Histone-lysine N-methyltransferase,Podospora anserina,No recovered member,,,,,,,0,0,0
+4775842at2759,2759,Eukaryota,Histone-lysine N-methyltransferase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,5
+4775842at2759,2759,Eukaryota,Histone-lysine N-methyltransferase,Danio rerio,Ortholog only,,,,,,,0,0,2
+4775842at2759,2759,Eukaryota,Histone-lysine N-methyltransferase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4778746at2759,2759,Eukaryota,Heterogeneous nuclear ribonucleoprotein,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4778746at2759,2759,Eukaryota,Heterogeneous nuclear ribonucleoprotein,Caenorhabditis elegans,Anti,hrp-1,177101,340,340,Anti-Longevity,Increase,1,1,4
+4778746at2759,2759,Eukaryota,Heterogeneous nuclear ribonucleoprotein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,4
+4778746at2759,2759,Eukaryota,Heterogeneous nuclear ribonucleoprotein,Mus musculus,Pro,Hnrnpd,11991,819,819,Pro-Longevity,Decrease,1,1,9
+4778746at2759,2759,Eukaryota,Heterogeneous nuclear ribonucleoprotein,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4778746at2759,2759,Eukaryota,Heterogeneous nuclear ribonucleoprotein,Podospora anserina,No recovered member,,,,,,,0,0,0
+4778746at2759,2759,Eukaryota,Heterogeneous nuclear ribonucleoprotein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,5
+4778746at2759,2759,Eukaryota,Heterogeneous nuclear ribonucleoprotein,Danio rerio,Ortholog only,,,,,,,0,0,10
+4778746at2759,2759,Eukaryota,Heterogeneous nuclear ribonucleoprotein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,14
+4783389at2759,2759,Eukaryota,deacetylase,Saccharomyces cerevisiae,Other,HST1;SIR2,851520;854086,1074;606,1074;606,Necessary for fitness;Unclear,Decrease;Increase,2,2,4
+4783389at2759,2759,Eukaryota,deacetylase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+4783389at2759,2759,Eukaryota,deacetylase,Drosophila melanogaster,Pro,Sir2,34708,605,605,Pro-Longevity,Increase and Decrease,1,1,1
+4783389at2759,2759,Eukaryota,deacetylase,Mus musculus,Pro,Sirt1,93759,1011,1011,Pro-Longevity,Increase and Decrease,1,1,1
+4783389at2759,2759,Eukaryota,deacetylase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4783389at2759,2759,Eukaryota,deacetylase,Podospora anserina,Ortholog only,,,,,,,0,0,6
+4783389at2759,2759,Eukaryota,deacetylase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+4783389at2759,2759,Eukaryota,deacetylase,Danio rerio,Ortholog only,,,,,,,0,0,1
+4783389at2759,2759,Eukaryota,deacetylase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4807239at2759,2759,Eukaryota,peroxiredoxin,Saccharomyces cerevisiae,Pro,PRX1;TSA1,852215;854980,1126;2109,1126;2109,Necessary for fitness;Pro-Longevity,Decrease;Increase,2,2,4
+4807239at2759,2759,Eukaryota,peroxiredoxin,Caenorhabditis elegans,Pro,prdx-2;prdx-3,175573;266858,516;517,516;517,Pro-Longevity,Decrease,2,2,3
+4807239at2759,2759,Eukaryota,peroxiredoxin,Drosophila melanogaster,Ortholog only,,,,,,,0,0,8
+4807239at2759,2759,Eukaryota,peroxiredoxin,Mus musculus,Pro,Prdx1,18477,518,518,Pro-Longevity,Decrease,1,1,5
+4807239at2759,2759,Eukaryota,peroxiredoxin,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4807239at2759,2759,Eukaryota,peroxiredoxin,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4807239at2759,2759,Eukaryota,peroxiredoxin,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+4807239at2759,2759,Eukaryota,peroxiredoxin,Danio rerio,Ortholog only,,,,,,,0,0,5
+4807239at2759,2759,Eukaryota,peroxiredoxin,Mesocricetus auratus,Ortholog only,,,,,,,0,0,6
+4810304at2759,2759,Eukaryota,rapamycin-insensitive companion of,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,1
+4810304at2759,2759,Eukaryota,rapamycin-insensitive companion of,Caenorhabditis elegans,Other,rict-1,3565035,1981,1981,Unannotated,Increase,1,1,1
+4810304at2759,2759,Eukaryota,rapamycin-insensitive companion of,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4810304at2759,2759,Eukaryota,rapamycin-insensitive companion of,Mus musculus,Pro,Rictor,78757,1852,1852,Pro-Longevity,Decrease,1,1,2
+4810304at2759,2759,Eukaryota,rapamycin-insensitive companion of,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4810304at2759,2759,Eukaryota,rapamycin-insensitive companion of,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4810304at2759,2759,Eukaryota,rapamycin-insensitive companion of,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4810304at2759,2759,Eukaryota,rapamycin-insensitive companion of,Danio rerio,Ortholog only,,,,,,,0,0,2
+4810304at2759,2759,Eukaryota,rapamycin-insensitive companion of,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4812157at2759,2759,Eukaryota,autophagy-related protein,Saccharomyces cerevisiae,Other,ATG9,851406,1219,1219,Necessary for fitness,Decrease,1,1,1
+4812157at2759,2759,Eukaryota,autophagy-related protein,Caenorhabditis elegans,Pro,atg-9,178561,898,898,Pro-Longevity,Increase and Decrease,1,1,1
+4812157at2759,2759,Eukaryota,autophagy-related protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4812157at2759,2759,Eukaryota,autophagy-related protein,Mus musculus,Ortholog only,,,,,,,0,0,2
+4812157at2759,2759,Eukaryota,autophagy-related protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4812157at2759,2759,Eukaryota,autophagy-related protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4812157at2759,2759,Eukaryota,autophagy-related protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4812157at2759,2759,Eukaryota,autophagy-related protein,Danio rerio,Ortholog only,,,,,,,0,0,2
+4812157at2759,2759,Eukaryota,autophagy-related protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4812491at2759,2759,Eukaryota,beclin,Saccharomyces cerevisiae,Other,VPS30,855983,1291,1291,Necessary for fitness,Decrease,1,1,1
+4812491at2759,2759,Eukaryota,beclin,Caenorhabditis elegans,Pro,bec-1,177345,44,44,Pro-Longevity,Decrease,1,1,1
+4812491at2759,2759,Eukaryota,beclin,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4812491at2759,2759,Eukaryota,beclin,Mus musculus,Ortholog only,,,,,,,0,0,2
+4812491at2759,2759,Eukaryota,beclin,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4812491at2759,2759,Eukaryota,beclin,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4812491at2759,2759,Eukaryota,beclin,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4812491at2759,2759,Eukaryota,beclin,Danio rerio,Ortholog only,,,,,,,0,0,1
+4812491at2759,2759,Eukaryota,beclin,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4819201at2759,2759,Eukaryota,ADP-Ribosylation factor,Saccharomyces cerevisiae,Other,ARF1,851335,1359,1359,Necessary for fitness,Decrease,1,1,5
+4819201at2759,2759,Eukaryota,ADP-Ribosylation factor,Caenorhabditis elegans,Anti,arf-1.1,191609,890,890,Anti-Longevity,Increase,1,1,8
+4819201at2759,2759,Eukaryota,ADP-Ribosylation factor,Drosophila melanogaster,Ortholog only,,,,,,,0,0,8
+4819201at2759,2759,Eukaryota,ADP-Ribosylation factor,Mus musculus,Ortholog only,,,,,,,0,0,17
+4819201at2759,2759,Eukaryota,ADP-Ribosylation factor,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,3
+4819201at2759,2759,Eukaryota,ADP-Ribosylation factor,Podospora anserina,Ortholog only,,,,,,,0,0,4
+4819201at2759,2759,Eukaryota,ADP-Ribosylation factor,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,9
+4819201at2759,2759,Eukaryota,ADP-Ribosylation factor,Danio rerio,Ortholog only,,,,,,,0,0,29
+4819201at2759,2759,Eukaryota,ADP-Ribosylation factor,Mesocricetus auratus,Ortholog only,,,,,,,0,0,20
+4821214at2759,2759,Eukaryota,ubiquitin carboxyl-terminal hydrolase,Saccharomyces cerevisiae,Other,UBP8,855263,1171,1171,Necessary for fitness,Decrease,1,1,4
+4821214at2759,2759,Eukaryota,ubiquitin carboxyl-terminal hydrolase,Caenorhabditis elegans,Pro,usp-48,172782,247,247,Pro-Longevity,Decrease,1,1,2
+4821214at2759,2759,Eukaryota,ubiquitin carboxyl-terminal hydrolase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4821214at2759,2759,Eukaryota,ubiquitin carboxyl-terminal hydrolase,Mus musculus,Ortholog only,,,,,,,0,0,2
+4821214at2759,2759,Eukaryota,ubiquitin carboxyl-terminal hydrolase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,5
+4821214at2759,2759,Eukaryota,ubiquitin carboxyl-terminal hydrolase,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4821214at2759,2759,Eukaryota,ubiquitin carboxyl-terminal hydrolase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4821214at2759,2759,Eukaryota,ubiquitin carboxyl-terminal hydrolase,Danio rerio,Ortholog only,,,,,,,0,0,2
+4821214at2759,2759,Eukaryota,ubiquitin carboxyl-terminal hydrolase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4827829at2759,2759,Eukaryota,Glutathione,Saccharomyces cerevisiae,Other,LPD1,850527,1245,1245,Necessary for fitness,Decrease,1,1,2
+4827829at2759,2759,Eukaryota,Glutathione,Caenorhabditis elegans,Anti,dld-1,178387,413,413,Anti-Longevity,Increase,1,1,10
+4827829at2759,2759,Eukaryota,Glutathione,Drosophila melanogaster,Ortholog only,,,,,,,0,0,5
+4827829at2759,2759,Eukaryota,Glutathione,Mus musculus,Ortholog only,,,,,,,0,0,7
+4827829at2759,2759,Eukaryota,Glutathione,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4827829at2759,2759,Eukaryota,Glutathione,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4827829at2759,2759,Eukaryota,Glutathione,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,9
+4827829at2759,2759,Eukaryota,Glutathione,Danio rerio,Ortholog only,,,,,,,0,0,6
+4827829at2759,2759,Eukaryota,Glutathione,Mesocricetus auratus,Ortholog only,,,,,,,0,0,7
+4836479at2759,2759,Eukaryota,"complex, subunit",Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,2
+4836479at2759,2759,Eukaryota,"complex, subunit",Caenorhabditis elegans,Anti,aps-1,178989,1770,1770,Anti-Longevity,Increase,1,1,2
+4836479at2759,2759,Eukaryota,"complex, subunit",Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4836479at2759,2759,Eukaryota,"complex, subunit",Mus musculus,Ortholog only,,,,,,,0,0,5
+4836479at2759,2759,Eukaryota,"complex, subunit",Schizosaccharomyces pombe,Anti,aps2,2541086,2256,2256,Anti-Longevity,Increase,1,1,2
+4836479at2759,2759,Eukaryota,"complex, subunit",Podospora anserina,Ortholog only,,,,,,,0,0,2
+4836479at2759,2759,Eukaryota,"complex, subunit",Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4836479at2759,2759,Eukaryota,"complex, subunit",Danio rerio,Ortholog only,,,,,,,0,0,7
+4836479at2759,2759,Eukaryota,"complex, subunit",Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+4841602at2759,2759,Eukaryota,Lipase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4841602at2759,2759,Eukaryota,Lipase,Caenorhabditis elegans,Pro,dagl-2,3565075,1930,1930,Pro-Longevity,Increase,1,1,1
+4841602at2759,2759,Eukaryota,Lipase,Drosophila melanogaster,Pro,inaE,32343,1928,1928,Pro-Longevity,Increase,1,1,1
+4841602at2759,2759,Eukaryota,Lipase,Mus musculus,Ortholog only,,,,,,,0,0,1
+4841602at2759,2759,Eukaryota,Lipase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4841602at2759,2759,Eukaryota,Lipase,Podospora anserina,No recovered member,,,,,,,0,0,0
+4841602at2759,2759,Eukaryota,Lipase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4841602at2759,2759,Eukaryota,Lipase,Danio rerio,Ortholog only,,,,,,,0,0,1
+4841602at2759,2759,Eukaryota,Lipase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",Saccharomyces cerevisiae,Anti,SNF4,852763,620,620,Anti-Longevity,Increase,1,1,1
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",Caenorhabditis elegans,Pro,aakg-2,181736,1849,1849,Pro-Longevity,Increase,1,1,5
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",Drosophila melanogaster,Pro,SNF4Agamma,42515,878,878,Pro-Longevity,Decrease,1,1,1
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",Mus musculus,Ortholog only,,,,,,,0,0,3
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",Podospora anserina,Ortholog only,,,,,,,0,0,1
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",Danio rerio,Ortholog only,,,,,,,0,0,5
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",Mesocricetus auratus,Ortholog only,,,,,,,0,0,7
+4843436at2759,2759,Eukaryota,mannosidase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4843436at2759,2759,Eukaryota,mannosidase,Caenorhabditis elegans,Anti,D2030.1,172510,912,912,Anti-Longevity,Increase,1,1,4
+4843436at2759,2759,Eukaryota,mannosidase,Drosophila melanogaster,Anti,alpha-Man-I,31957,833,833,Anti-Longevity,Increase,1,1,3
+4843436at2759,2759,Eukaryota,mannosidase,Mus musculus,Ortholog only,,,,,,,0,0,4
+4843436at2759,2759,Eukaryota,mannosidase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4843436at2759,2759,Eukaryota,mannosidase,Podospora anserina,No recovered member,,,,,,,0,0,0
+4843436at2759,2759,Eukaryota,mannosidase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+4843436at2759,2759,Eukaryota,mannosidase,Danio rerio,Ortholog only,,,,,,,0,0,5
+4843436at2759,2759,Eukaryota,mannosidase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,4
+4858627at2759,2759,Eukaryota,Elongation FacTor,Saccharomyces cerevisiae,Other,EFT1;EFT2,851993;854301,1052;1426,1052;1426,Necessary for fitness,Decrease,2,2,5
+4858627at2759,2759,Eukaryota,Elongation FacTor,Caenorhabditis elegans,Other,eef-2,172743,210,210,Unclear,Increase and Decrease,1,1,3
+4858627at2759,2759,Eukaryota,Elongation FacTor,Drosophila melanogaster,Ortholog only,,,,,,,0,0,3
+4858627at2759,2759,Eukaryota,Elongation FacTor,Mus musculus,Ortholog only,,,,,,,0,0,3
+4858627at2759,2759,Eukaryota,Elongation FacTor,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,5
+4858627at2759,2759,Eukaryota,Elongation FacTor,Podospora anserina,Ortholog only,,,,,,,0,0,4
+4858627at2759,2759,Eukaryota,Elongation FacTor,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+4858627at2759,2759,Eukaryota,Elongation FacTor,Danio rerio,Ortholog only,,,,,,,0,0,6
+4858627at2759,2759,Eukaryota,Elongation FacTor,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+4867471at2759,2759,Eukaryota,ribosomal protein,Saccharomyces cerevisiae,Anti,RPL23A,852191,1725,1725,Anti-Longevity,Increase,1,1,2
+4867471at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis elegans,Anti,rpl-23,175796,2038,2038,Anti-Longevity,Increase,1,1,1
+4867471at2759,2759,Eukaryota,ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4867471at2759,2759,Eukaryota,ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,1
+4867471at2759,2759,Eukaryota,ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4867471at2759,2759,Eukaryota,ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4867471at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+4867471at2759,2759,Eukaryota,ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+4867471at2759,2759,Eukaryota,ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4885099at2759,2759,Eukaryota,mitochondrial,Saccharomyces cerevisiae,Other,MRS4,853926,1439,1439,Necessary for fitness,Decrease,1,1,2
+4885099at2759,2759,Eukaryota,mitochondrial,Caenorhabditis elegans,Anti,mfn-1,174752,1750,1750,Anti-Longevity,Increase,1,1,1
+4885099at2759,2759,Eukaryota,mitochondrial,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4885099at2759,2759,Eukaryota,mitochondrial,Mus musculus,Ortholog only,,,,,,,0,0,2
+4885099at2759,2759,Eukaryota,mitochondrial,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4885099at2759,2759,Eukaryota,mitochondrial,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4885099at2759,2759,Eukaryota,mitochondrial,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4885099at2759,2759,Eukaryota,mitochondrial,Danio rerio,Ortholog only,,,,,,,0,0,2
+4885099at2759,2759,Eukaryota,mitochondrial,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+4887463at2759,2759,Eukaryota,dna replication licensing factor,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,1
+4887463at2759,2759,Eukaryota,dna replication licensing factor,Caenorhabditis elegans,Other,mcm-2,174841,426,426,Unclear,Increase and Decrease,1,1,2
+4887463at2759,2759,Eukaryota,dna replication licensing factor,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4887463at2759,2759,Eukaryota,dna replication licensing factor,Mus musculus,Pro,Mcm2,17216,427,427,Pro-Longevity,Decrease,1,1,2
+4887463at2759,2759,Eukaryota,dna replication licensing factor,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4887463at2759,2759,Eukaryota,dna replication licensing factor,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4887463at2759,2759,Eukaryota,dna replication licensing factor,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4887463at2759,2759,Eukaryota,dna replication licensing factor,Danio rerio,Ortholog only,,,,,,,0,0,3
+4887463at2759,2759,Eukaryota,dna replication licensing factor,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4907210at2759,2759,Eukaryota,cAMP-dependent protein kinase catalytic subunit,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4907210at2759,2759,Eukaryota,cAMP-dependent protein kinase catalytic subunit,Caenorhabditis elegans,Anti,pkg-1;tpa-1,176825;176991,213;680,213;680,Anti-Longevity,Increase,2,2,8
+4907210at2759,2759,Eukaryota,cAMP-dependent protein kinase catalytic subunit,Drosophila melanogaster,Pro,Pka-C1,34284,507,507,Pro-Longevity,Increase,1,1,6
+4907210at2759,2759,Eukaryota,cAMP-dependent protein kinase catalytic subunit,Mus musculus,Ortholog only,,,,,,,0,0,3
+4907210at2759,2759,Eukaryota,cAMP-dependent protein kinase catalytic subunit,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4907210at2759,2759,Eukaryota,cAMP-dependent protein kinase catalytic subunit,Podospora anserina,No recovered member,,,,,,,0,0,0
+4907210at2759,2759,Eukaryota,cAMP-dependent protein kinase catalytic subunit,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,5
+4907210at2759,2759,Eukaryota,cAMP-dependent protein kinase catalytic subunit,Danio rerio,Ortholog only,,,,,,,0,0,6
+4907210at2759,2759,Eukaryota,cAMP-dependent protein kinase catalytic subunit,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+4911035at2759,2759,Eukaryota,Kinase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4911035at2759,2759,Eukaryota,Kinase,Caenorhabditis elegans,Anti,akt-1,179424,10,10,Anti-Longevity,Increase,1,1,2
+4911035at2759,2759,Eukaryota,Kinase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4911035at2759,2759,Eukaryota,Kinase,Mus musculus,Anti,Akt1;Akt2,11651;11652,1810;2231,1810;2231,Anti-Longevity,Increase,2,2,3
+4911035at2759,2759,Eukaryota,Kinase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4911035at2759,2759,Eukaryota,Kinase,Podospora anserina,No recovered member,,,,,,,0,0,0
+4911035at2759,2759,Eukaryota,Kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4911035at2759,2759,Eukaryota,Kinase,Danio rerio,Ortholog only,,,,,,,0,0,5
+4911035at2759,2759,Eukaryota,Kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+4914091at2759,2759,Eukaryota,heat shock,Saccharomyces cerevisiae,Anti,SSA3;SSA4;SSC1,852203;853503;856840,1159;1538;2110,1159;1538;2110,Anti-Longevity;Necessary for fitness,Decrease;Increase,3,3,10
+4914091at2759,2759,Eukaryota,heat shock,Caenorhabditis elegans,Pro,hsp-6,178873,346,346,Pro-Longevity,Increase and Decrease,1,1,1
+4914091at2759,2759,Eukaryota,heat shock,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+4914091at2759,2759,Eukaryota,heat shock,Mus musculus,Ortholog only,,,,,,,0,0,1
+4914091at2759,2759,Eukaryota,heat shock,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,5
+4914091at2759,2759,Eukaryota,heat shock,Podospora anserina,Ortholog only,,,,,,,0,0,4
+4914091at2759,2759,Eukaryota,heat shock,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4914091at2759,2759,Eukaryota,heat shock,Danio rerio,Ortholog only,,,,,,,0,0,1
+4914091at2759,2759,Eukaryota,heat shock,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4919270at2759,2759,Eukaryota,"fructose-1,6-bisphosphatase I",Saccharomyces cerevisiae,Anti,FBP1,851092,280,280,Anti-Longevity,Decrease,1,1,1
+4919270at2759,2759,Eukaryota,"fructose-1,6-bisphosphatase I",Caenorhabditis elegans,Anti,fbp-1,266822,279,279,Anti-Longevity,Increase,1,1,1
+4919270at2759,2759,Eukaryota,"fructose-1,6-bisphosphatase I",Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4919270at2759,2759,Eukaryota,"fructose-1,6-bisphosphatase I",Mus musculus,Ortholog only,,,,,,,0,0,2
+4919270at2759,2759,Eukaryota,"fructose-1,6-bisphosphatase I",Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4919270at2759,2759,Eukaryota,"fructose-1,6-bisphosphatase I",Podospora anserina,Ortholog only,,,,,,,0,0,2
+4919270at2759,2759,Eukaryota,"fructose-1,6-bisphosphatase I",Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4919270at2759,2759,Eukaryota,"fructose-1,6-bisphosphatase I",Danio rerio,Ortholog only,,,,,,,0,0,3
+4919270at2759,2759,Eukaryota,"fructose-1,6-bisphosphatase I",Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,Saccharomyces cerevisiae,Other,ATG8,852200,1306,1306,Necessary for fitness,Decrease,1,1,1
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,Caenorhabditis elegans,Pro,lgg-1,174050,955,955,Pro-Longevity,Decrease,1,1,2
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,Drosophila melanogaster,Pro,Atg8a,32001,22,22,Pro-Longevity,Increase and Decrease,1,1,2
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,Mus musculus,Ortholog only,,,,,,,0,0,4
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,Danio rerio,Ortholog only,,,,,,,0,0,8
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+4922169at2759,2759,Eukaryota,kinase,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,1
+4922169at2759,2759,Eukaryota,kinase,Caenorhabditis elegans,Pro,ire-1,174305,948,948,Pro-Longevity,Decrease,1,1,1
+4922169at2759,2759,Eukaryota,kinase,Drosophila melanogaster,Pro,Ire1,42358,2148,2148,Pro-Longevity,Decrease,1,1,5
+4922169at2759,2759,Eukaryota,kinase,Mus musculus,Ortholog only,,,,,,,0,0,2
+4922169at2759,2759,Eukaryota,kinase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4922169at2759,2759,Eukaryota,kinase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4922169at2759,2759,Eukaryota,kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4922169at2759,2759,Eukaryota,kinase,Danio rerio,Ortholog only,,,,,,,0,0,1
+4922169at2759,2759,Eukaryota,kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4929307at2759,2759,Eukaryota,DNA mismatch repair protein,Saccharomyces cerevisiae,Other,MSH2,854063,1371,1371,Necessary for fitness,Decrease,1,1,2
+4929307at2759,2759,Eukaryota,DNA mismatch repair protein,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+4929307at2759,2759,Eukaryota,DNA mismatch repair protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4929307at2759,2759,Eukaryota,DNA mismatch repair protein,Mus musculus,Pro,Msh2,17685,444,444,Pro-Longevity,Decrease,1,1,2
+4929307at2759,2759,Eukaryota,DNA mismatch repair protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4929307at2759,2759,Eukaryota,DNA mismatch repair protein,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4929307at2759,2759,Eukaryota,DNA mismatch repair protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4929307at2759,2759,Eukaryota,DNA mismatch repair protein,Danio rerio,Ortholog only,,,,,,,0,0,2
+4929307at2759,2759,Eukaryota,DNA mismatch repair protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4932610at2759,2759,Eukaryota,Tetratricopeptide repeat,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4932610at2759,2759,Eukaryota,Tetratricopeptide repeat,Caenorhabditis elegans,Anti,chn-1,172303,1771,1771,Anti-Longevity,Increase,1,1,3
+4932610at2759,2759,Eukaryota,Tetratricopeptide repeat,Drosophila melanogaster,Ortholog only,,,,,,,0,0,8
+4932610at2759,2759,Eukaryota,Tetratricopeptide repeat,Mus musculus,Pro,Stub1,56424,633,633,Pro-Longevity,Decrease,1,1,4
+4932610at2759,2759,Eukaryota,Tetratricopeptide repeat,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4932610at2759,2759,Eukaryota,Tetratricopeptide repeat,Podospora anserina,No recovered member,,,,,,,0,0,0
+4932610at2759,2759,Eukaryota,Tetratricopeptide repeat,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+4932610at2759,2759,Eukaryota,Tetratricopeptide repeat,Danio rerio,Ortholog only,,,,,,,0,0,5
+4932610at2759,2759,Eukaryota,Tetratricopeptide repeat,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+4933839at2759,2759,Eukaryota,kinase,Saccharomyces cerevisiae,Anti,GIN4;SNF1,852088;852119,1577;619,1577;619,Anti-Longevity;Necessary for fitness,Decrease;Increase and Decrease,2,2,4
+4933839at2759,2759,Eukaryota,kinase,Caenorhabditis elegans,Pro,aak-2,181727,1,1,Pro-Longevity,Increase and Decrease,1,1,2
+4933839at2759,2759,Eukaryota,kinase,Drosophila melanogaster,Pro,SNF1A,43904,1846,1846,Pro-Longevity,Increase,1,1,1
+4933839at2759,2759,Eukaryota,kinase,Mus musculus,Ortholog only,,,,,,,0,0,3
+4933839at2759,2759,Eukaryota,kinase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,3
+4933839at2759,2759,Eukaryota,kinase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4933839at2759,2759,Eukaryota,kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4933839at2759,2759,Eukaryota,kinase,Danio rerio,Ortholog only,,,,,,,0,0,2
+4933839at2759,2759,Eukaryota,kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4937006at2759,2759,Eukaryota,Chromobox protein,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4937006at2759,2759,Eukaryota,Chromobox protein,Caenorhabditis elegans,Anti,hpl-2,176506,1753,1753,Anti-Longevity,Increase,1,1,5
+4937006at2759,2759,Eukaryota,Chromobox protein,Drosophila melanogaster,Pro,Su(var)205,34119,1816,1816,Pro-Longevity,Increase and Decrease,1,1,4
+4937006at2759,2759,Eukaryota,Chromobox protein,Mus musculus,Ortholog only,,,,,,,0,0,3
+4937006at2759,2759,Eukaryota,Chromobox protein,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4937006at2759,2759,Eukaryota,Chromobox protein,Podospora anserina,No recovered member,,,,,,,0,0,0
+4937006at2759,2759,Eukaryota,Chromobox protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+4937006at2759,2759,Eukaryota,Chromobox protein,Danio rerio,Ortholog only,,,,,,,0,0,5
+4937006at2759,2759,Eukaryota,Chromobox protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,7
+4940471at2759,2759,Eukaryota,26S protease regulatory subunit,Saccharomyces cerevisiae,Other,RPT5,854284,2017,2017,Necessary for fitness,Decrease,1,1,1
+4940471at2759,2759,Eukaryota,26S protease regulatory subunit,Caenorhabditis elegans,Pro,rpt-1,179641,1787,1787,Pro-Longevity,Decrease,1,1,2
+4940471at2759,2759,Eukaryota,26S protease regulatory subunit,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4940471at2759,2759,Eukaryota,26S protease regulatory subunit,Mus musculus,Ortholog only,,,,,,,0,0,2
+4940471at2759,2759,Eukaryota,26S protease regulatory subunit,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4940471at2759,2759,Eukaryota,26S protease regulatory subunit,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4940471at2759,2759,Eukaryota,26S protease regulatory subunit,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4940471at2759,2759,Eukaryota,26S protease regulatory subunit,Danio rerio,Ortholog only,,,,,,,0,0,2
+4940471at2759,2759,Eukaryota,26S protease regulatory subunit,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+4946261at2759,2759,Eukaryota,Cytochrome C,Saccharomyces cerevisiae,Other,CYC1,853507,1045,1045,Necessary for fitness,Decrease,1,1,2
+4946261at2759,2759,Eukaryota,Cytochrome C,Caenorhabditis elegans,Anti,cyc-2.1,177243,200,200,Anti-Longevity,Increase,1,1,2
+4946261at2759,2759,Eukaryota,Cytochrome C,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4946261at2759,2759,Eukaryota,Cytochrome C,Mus musculus,Ortholog only,,,,,,,0,0,2
+4946261at2759,2759,Eukaryota,Cytochrome C,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4946261at2759,2759,Eukaryota,Cytochrome C,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4946261at2759,2759,Eukaryota,Cytochrome C,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4946261at2759,2759,Eukaryota,Cytochrome C,Danio rerio,Ortholog only,,,,,,,0,0,1
+4946261at2759,2759,Eukaryota,Cytochrome C,Mesocricetus auratus,Ortholog only,,,,,,,0,0,7
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,Saccharomyces cerevisiae,Other,QCR7,852142,1130,1130,Necessary for fitness,Decrease,1,1,1
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,Caenorhabditis elegans,Anti,T02H6.11,173459,639,639,Anti-Longevity,Increase,1,1,1
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,Drosophila melanogaster,Anti,CG17856,43369,838,838,Anti-Longevity,Increase,1,1,2
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,Mus musculus,Ortholog only,,,,,,,0,0,1
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,Danio rerio,Ortholog only,,,,,,,0,0,1
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+4968956at2759,2759,Eukaryota,Succinate dehydrogenase,Saccharomyces cerevisiae,Anti,SDH2,850685,2136,2136,Anti-Longevity,Increase,1,1,1
+4968956at2759,2759,Eukaryota,Succinate dehydrogenase,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+4968956at2759,2759,Eukaryota,Succinate dehydrogenase,Drosophila melanogaster,Pro,SdhB,35590,593,593,Pro-Longevity,Decrease,1,1,1
+4968956at2759,2759,Eukaryota,Succinate dehydrogenase,Mus musculus,Ortholog only,,,,,,,0,0,1
+4968956at2759,2759,Eukaryota,Succinate dehydrogenase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4968956at2759,2759,Eukaryota,Succinate dehydrogenase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4968956at2759,2759,Eukaryota,Succinate dehydrogenase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4968956at2759,2759,Eukaryota,Succinate dehydrogenase,Danio rerio,Ortholog only,,,,,,,0,0,1
+4968956at2759,2759,Eukaryota,Succinate dehydrogenase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4968978at2759,2759,Eukaryota,reductase,Saccharomyces cerevisiae,Pro,MXR1,856765,450,450,Pro-Longevity,Increase and Decrease,1,1,1
+4968978at2759,2759,Eukaryota,reductase,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+4968978at2759,2759,Eukaryota,reductase,Drosophila melanogaster,Pro,Eip71CD,39675,445,445,Pro-Longevity,Increase,1,1,1
+4968978at2759,2759,Eukaryota,reductase,Mus musculus,Pro,Msra,110265,446,446,Pro-Longevity,Decrease,1,1,1
+4968978at2759,2759,Eukaryota,reductase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4968978at2759,2759,Eukaryota,reductase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4968978at2759,2759,Eukaryota,reductase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4968978at2759,2759,Eukaryota,reductase,Danio rerio,Ortholog only,,,,,,,0,0,2
+4968978at2759,2759,Eukaryota,reductase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4968995at2759,2759,Eukaryota,superoxide dismutase ,Saccharomyces cerevisiae,Pro,SOD2,856399,623,623,Pro-Longevity,Increase and Decrease,1,1,1
+4968995at2759,2759,Eukaryota,superoxide dismutase ,Caenorhabditis elegans,Other,sod-2,172632,985,985,Unclear,Increase,1,1,2
+4968995at2759,2759,Eukaryota,superoxide dismutase ,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4968995at2759,2759,Eukaryota,superoxide dismutase ,Mus musculus,Pro,Sod2,20656,827,827,Pro-Longevity,Decrease,1,1,1
+4968995at2759,2759,Eukaryota,superoxide dismutase ,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4968995at2759,2759,Eukaryota,superoxide dismutase ,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4968995at2759,2759,Eukaryota,superoxide dismutase ,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+4968995at2759,2759,Eukaryota,superoxide dismutase ,Danio rerio,Ortholog only,,,,,,,0,0,1
+4968995at2759,2759,Eukaryota,superoxide dismutase ,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4969288at2759,2759,Eukaryota,enoyl,Saccharomyces cerevisiae,Other,ETR1,852314,1704,1704,Necessary for fitness,Decrease,1,1,1
+4969288at2759,2759,Eukaryota,enoyl,Caenorhabditis elegans,Anti,mecr-1,174963,731,731,Anti-Longevity,Increase,1,1,2
+4969288at2759,2759,Eukaryota,enoyl,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4969288at2759,2759,Eukaryota,enoyl,Mus musculus,Ortholog only,,,,,,,0,0,1
+4969288at2759,2759,Eukaryota,enoyl,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4969288at2759,2759,Eukaryota,enoyl,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4969288at2759,2759,Eukaryota,enoyl,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+4969288at2759,2759,Eukaryota,enoyl,Danio rerio,Ortholog only,,,,,,,0,0,2
+4969288at2759,2759,Eukaryota,enoyl,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4970114at2759,2759,Eukaryota,Endoplasmic,Saccharomyces cerevisiae,Anti,ERO1,854909,1863,1863,Anti-Longevity,Increase,1,1,1
+4970114at2759,2759,Eukaryota,Endoplasmic,Caenorhabditis elegans,Anti,ero-1,173325,225,225,Anti-Longevity,Increase,1,1,1
+4970114at2759,2759,Eukaryota,Endoplasmic,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4970114at2759,2759,Eukaryota,Endoplasmic,Mus musculus,Ortholog only,,,,,,,0,0,2
+4970114at2759,2759,Eukaryota,Endoplasmic,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4970114at2759,2759,Eukaryota,Endoplasmic,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4970114at2759,2759,Eukaryota,Endoplasmic,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4970114at2759,2759,Eukaryota,Endoplasmic,Danio rerio,Ortholog only,,,,,,,0,0,2
+4970114at2759,2759,Eukaryota,Endoplasmic,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4970385at2759,2759,Eukaryota,ATP synthase,Saccharomyces cerevisiae,Anti,ATP1,852177,1604,1604,Anti-Longevity,Increase and Decrease,1,1,1
+4970385at2759,2759,Eukaryota,ATP synthase,Caenorhabditis elegans,Anti,H28O16.1,173134,331,331,Anti-Longevity,Increase,1,1,1
+4970385at2759,2759,Eukaryota,ATP synthase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4970385at2759,2759,Eukaryota,ATP synthase,Mus musculus,Ortholog only,,,,,,,0,0,1
+4970385at2759,2759,Eukaryota,ATP synthase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4970385at2759,2759,Eukaryota,ATP synthase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4970385at2759,2759,Eukaryota,ATP synthase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4970385at2759,2759,Eukaryota,ATP synthase,Danio rerio,Ortholog only,,,,,,,0,0,1
+4970385at2759,2759,Eukaryota,ATP synthase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4970782at2759,2759,Eukaryota,malate dehydrogenase,Saccharomyces cerevisiae,Pro,MDH1,853777,1615,1615,Pro-Longevity,Increase,1,1,2
+4970782at2759,2759,Eukaryota,malate dehydrogenase,Caenorhabditis elegans,Pro,mdh-2,175936,428,428,Pro-Longevity,Decrease,1,1,1
+4970782at2759,2759,Eukaryota,malate dehydrogenase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4970782at2759,2759,Eukaryota,malate dehydrogenase,Mus musculus,Ortholog only,,,,,,,0,0,1
+4970782at2759,2759,Eukaryota,malate dehydrogenase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4970782at2759,2759,Eukaryota,malate dehydrogenase,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4970782at2759,2759,Eukaryota,malate dehydrogenase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4970782at2759,2759,Eukaryota,malate dehydrogenase,Danio rerio,Ortholog only,,,,,,,0,0,1
+4970782at2759,2759,Eukaryota,malate dehydrogenase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4971847at2759,2759,Eukaryota,protein kinase,Saccharomyces cerevisiae,Anti,TOR1,853529,679,679,Anti-Longevity,Increase,1,1,2
+4971847at2759,2759,Eukaryota,protein kinase,Caenorhabditis elegans,Anti,let-363,172167,32,32,Anti-Longevity,Increase,1,1,3
+4971847at2759,2759,Eukaryota,protein kinase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4971847at2759,2759,Eukaryota,protein kinase,Mus musculus,Mixed,Atr;Mtor,245000;56717,1809;30,1809;30,Anti-Longevity;Pro-Longevity,Decrease;Increase,2,2,2
+4971847at2759,2759,Eukaryota,protein kinase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4971847at2759,2759,Eukaryota,protein kinase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4971847at2759,2759,Eukaryota,protein kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+4971847at2759,2759,Eukaryota,protein kinase,Danio rerio,Ortholog only,,,,,,,0,0,2
+4971847at2759,2759,Eukaryota,protein kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4973127at2759,2759,Eukaryota,ribosomal,Saccharomyces cerevisiae,Anti,MRPL4,851160,1654,1654,Anti-Longevity,Increase and Decrease,1,1,1
+4973127at2759,2759,Eukaryota,ribosomal,Caenorhabditis elegans,Anti,mrpl-47,172164,33,33,Anti-Longevity,Increase,1,1,1
+4973127at2759,2759,Eukaryota,ribosomal,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4973127at2759,2759,Eukaryota,ribosomal,Mus musculus,Ortholog only,,,,,,,0,0,1
+4973127at2759,2759,Eukaryota,ribosomal,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4973127at2759,2759,Eukaryota,ribosomal,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4973127at2759,2759,Eukaryota,ribosomal,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4973127at2759,2759,Eukaryota,ribosomal,Danio rerio,Ortholog only,,,,,,,0,0,1
+4973127at2759,2759,Eukaryota,ribosomal,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4974109at2759,2759,Eukaryota,kinase,Saccharomyces cerevisiae,Anti,AKL1;ARK1;PRK1,852351;854713;855711,1452;1526;1651,1452;1526;1651,Anti-Longevity,Increase;Increase and Decrease,3,3,3
+4974109at2759,2759,Eukaryota,kinase,Caenorhabditis elegans,Anti,sel-5,175599,595,595,Anti-Longevity,Increase,1,1,1
+4974109at2759,2759,Eukaryota,kinase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4974109at2759,2759,Eukaryota,kinase,Mus musculus,Ortholog only,,,,,,,0,0,2
+4974109at2759,2759,Eukaryota,kinase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4974109at2759,2759,Eukaryota,kinase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4974109at2759,2759,Eukaryota,kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4974109at2759,2759,Eukaryota,kinase,Danio rerio,Ortholog only,,,,,,,0,0,3
+4974109at2759,2759,Eukaryota,kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4975042at2759,2759,Eukaryota,DNA mismatch repair protein,Saccharomyces cerevisiae,Other,MSH6,851671,1464,1464,Necessary for fitness,Decrease,1,1,3
+4975042at2759,2759,Eukaryota,DNA mismatch repair protein,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+4975042at2759,2759,Eukaryota,DNA mismatch repair protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4975042at2759,2759,Eukaryota,DNA mismatch repair protein,Mus musculus,Ortholog only,,,,,,,0,0,2
+4975042at2759,2759,Eukaryota,DNA mismatch repair protein,Schizosaccharomyces pombe,Anti,msh3,2543392,2260,2260,Anti-Longevity,Increase,1,1,2
+4975042at2759,2759,Eukaryota,DNA mismatch repair protein,Podospora anserina,Ortholog only,,,,,,,0,0,4
+4975042at2759,2759,Eukaryota,DNA mismatch repair protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4975042at2759,2759,Eukaryota,DNA mismatch repair protein,Danio rerio,Ortholog only,,,,,,,0,0,2
+4975042at2759,2759,Eukaryota,DNA mismatch repair protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4979533at2759,2759,Eukaryota,pyruvate dehydrogenase,Saccharomyces cerevisiae,Pro,LAT1,855653,400,400,Pro-Longevity,Increase,1,1,1
+4979533at2759,2759,Eukaryota,pyruvate dehydrogenase,Caenorhabditis elegans,Anti,dlat-1,179945,2030,2030,Anti-Longevity,Increase,1,1,2
+4979533at2759,2759,Eukaryota,pyruvate dehydrogenase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4979533at2759,2759,Eukaryota,pyruvate dehydrogenase,Mus musculus,Ortholog only,,,,,,,0,0,2
+4979533at2759,2759,Eukaryota,pyruvate dehydrogenase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4979533at2759,2759,Eukaryota,pyruvate dehydrogenase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4979533at2759,2759,Eukaryota,pyruvate dehydrogenase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4979533at2759,2759,Eukaryota,pyruvate dehydrogenase,Danio rerio,Ortholog only,,,,,,,0,0,2
+4979533at2759,2759,Eukaryota,pyruvate dehydrogenase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+498104at2759,2759,Eukaryota,prohibitin,Saccharomyces cerevisiae,Pro,PHB1;PHB2,853033;853146,504;505,504;505,Pro-Longevity,Decrease,2,2,2
+498104at2759,2759,Eukaryota,prohibitin,Caenorhabditis elegans,Pro,phb-1;phb-2,171768;174034,970;971,970;971,Pro-Longevity,Decrease,2,2,2
+498104at2759,2759,Eukaryota,prohibitin,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+498104at2759,2759,Eukaryota,prohibitin,Mus musculus,Ortholog only,,,,,,,0,0,3
+498104at2759,2759,Eukaryota,prohibitin,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+498104at2759,2759,Eukaryota,prohibitin,Podospora anserina,Ortholog only,,,,,,,0,0,2
+498104at2759,2759,Eukaryota,prohibitin,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+498104at2759,2759,Eukaryota,prohibitin,Danio rerio,Ortholog only,,,,,,,0,0,3
+498104at2759,2759,Eukaryota,prohibitin,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4981067at2759,2759,Eukaryota,kinase,Saccharomyces cerevisiae,Other,PHO85,856076,1317,1317,Necessary for fitness,Decrease,1,1,2
+4981067at2759,2759,Eukaryota,kinase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+4981067at2759,2759,Eukaryota,kinase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4981067at2759,2759,Eukaryota,kinase,Mus musculus,No recovered member,,,,,,,0,0,0
+4981067at2759,2759,Eukaryota,kinase,Schizosaccharomyces pombe,Anti,pef1,2539366,1857,1857,Anti-Longevity,Increase,1,1,2
+4981067at2759,2759,Eukaryota,kinase,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4981067at2759,2759,Eukaryota,kinase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+4981067at2759,2759,Eukaryota,kinase,Danio rerio,No recovered member,,,,,,,0,0,0
+4981067at2759,2759,Eukaryota,kinase,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+4981273at2759,2759,Eukaryota,ribosomal protein,Saccharomyces cerevisiae,Anti,RPS11A,851589,1606,1606,Anti-Longevity,Increase,1,1,2
+4981273at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis elegans,Anti,rps-11,178083,566,566,Anti-Longevity,Increase,1,1,1
+4981273at2759,2759,Eukaryota,ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4981273at2759,2759,Eukaryota,ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,1
+4981273at2759,2759,Eukaryota,ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4981273at2759,2759,Eukaryota,ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4981273at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4981273at2759,2759,Eukaryota,ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,2
+4981273at2759,2759,Eukaryota,ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4981977at2759,2759,Eukaryota,Succinate_dehydrogenase_,Saccharomyces cerevisiae,Anti,SDH1,853709,2135,2135,Anti-Longevity,Increase,1,1,3
+4981977at2759,2759,Eukaryota,Succinate_dehydrogenase_,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+4981977at2759,2759,Eukaryota,Succinate_dehydrogenase_,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+4981977at2759,2759,Eukaryota,Succinate_dehydrogenase_,Mus musculus,No recovered member,,,,,,,0,0,0
+4981977at2759,2759,Eukaryota,Succinate_dehydrogenase_,Schizosaccharomyces pombe,Other,sdh1,2541690,1994,1994,Necessary for fitness,Decrease,1,1,3
+4981977at2759,2759,Eukaryota,Succinate_dehydrogenase_,Podospora anserina,Ortholog only,,,,,,,0,0,3
+4981977at2759,2759,Eukaryota,Succinate_dehydrogenase_,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+4981977at2759,2759,Eukaryota,Succinate_dehydrogenase_,Danio rerio,No recovered member,,,,,,,0,0,0
+4981977at2759,2759,Eukaryota,Succinate_dehydrogenase_,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+4983478at2759,2759,Eukaryota,Cyclin-dependent kinase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4983478at2759,2759,Eukaryota,Cyclin-dependent kinase,Caenorhabditis elegans,Pro,cdk-7,171784,107,107,Pro-Longevity,Decrease,1,1,2
+4983478at2759,2759,Eukaryota,Cyclin-dependent kinase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4983478at2759,2759,Eukaryota,Cyclin-dependent kinase,Mus musculus,Pro,Cdk7,12572,1813,1813,Pro-Longevity,Decrease,1,1,2
+4983478at2759,2759,Eukaryota,Cyclin-dependent kinase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4983478at2759,2759,Eukaryota,Cyclin-dependent kinase,Podospora anserina,No recovered member,,,,,,,0,0,0
+4983478at2759,2759,Eukaryota,Cyclin-dependent kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4983478at2759,2759,Eukaryota,Cyclin-dependent kinase,Danio rerio,Ortholog only,,,,,,,0,0,2
+4983478at2759,2759,Eukaryota,Cyclin-dependent kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4988228at2759,2759,Eukaryota,Nascent polypeptide-associated complex subunit alpha,Saccharomyces cerevisiae,Other,EGD2,856600,1415,1415,Necessary for fitness,Decrease,1,1,1
+4988228at2759,2759,Eukaryota,Nascent polypeptide-associated complex subunit alpha,Caenorhabditis elegans,Anti,Y65B4BR.5,171646,765,765,Anti-Longevity,Increase,1,1,1
+4988228at2759,2759,Eukaryota,Nascent polypeptide-associated complex subunit alpha,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4988228at2759,2759,Eukaryota,Nascent polypeptide-associated complex subunit alpha,Mus musculus,No recovered member,,,,,,,0,0,0
+4988228at2759,2759,Eukaryota,Nascent polypeptide-associated complex subunit alpha,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4988228at2759,2759,Eukaryota,Nascent polypeptide-associated complex subunit alpha,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4988228at2759,2759,Eukaryota,Nascent polypeptide-associated complex subunit alpha,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4988228at2759,2759,Eukaryota,Nascent polypeptide-associated complex subunit alpha,Danio rerio,Ortholog only,,,,,,,0,0,1
+4988228at2759,2759,Eukaryota,Nascent polypeptide-associated complex subunit alpha,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4988636at2759,2759,Eukaryota,atp-dependent rna helicase,Saccharomyces cerevisiae,Other,KSS1,852931,397,397,Necessary for fitness,Decrease,1,1,7
+4988636at2759,2759,Eukaryota,atp-dependent rna helicase,Caenorhabditis elegans,Mixed,B0511.6;jnk-1;mpk-1,172954;175545;177460,36;381;961,36;381;961,Anti-Longevity;Pro-Longevity,Decrease;Increase;Increase and Decrease,3,3,12
+4988636at2759,2759,Eukaryota,atp-dependent rna helicase,Drosophila melanogaster,Pro,Mpk2;bsk;p38b,34780;42866;44801,1831;1832;837,1831;1832;837,Pro-Longevity,Decrease,3,3,7
+4988636at2759,2759,Eukaryota,atp-dependent rna helicase,Mus musculus,Ortholog only,,,,,,,0,0,12
+4988636at2759,2759,Eukaryota,atp-dependent rna helicase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,4
+4988636at2759,2759,Eukaryota,atp-dependent rna helicase,Podospora anserina,Ortholog only,,,,,,,0,0,4
+4988636at2759,2759,Eukaryota,atp-dependent rna helicase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,9
+4988636at2759,2759,Eukaryota,atp-dependent rna helicase,Danio rerio,Ortholog only,,,,,,,0,0,17
+4988636at2759,2759,Eukaryota,atp-dependent rna helicase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,12
+4991169at2759,2759,Eukaryota,60s ribosomal protein,Saccharomyces cerevisiae,Anti,RPL4A,852319,1461,1461,Anti-Longevity,Increase,1,1,2
+4991169at2759,2759,Eukaryota,60s ribosomal protein,Caenorhabditis elegans,Anti,rpl-4,172074,559,559,Anti-Longevity,Increase,1,1,1
+4991169at2759,2759,Eukaryota,60s ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4991169at2759,2759,Eukaryota,60s ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,1
+4991169at2759,2759,Eukaryota,60s ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4991169at2759,2759,Eukaryota,60s ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4991169at2759,2759,Eukaryota,60s ribosomal protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4991169at2759,2759,Eukaryota,60s ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+4991169at2759,2759,Eukaryota,60s ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4993771at2759,2759,Eukaryota,ribosomal protein,Saccharomyces cerevisiae,Anti,RPL19A;RPL19B,852254;852379,1457;1656,1457;1656,Anti-Longevity,Increase,2,2,2
+4993771at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis elegans,Anti,rpl-19,172201,557,557,Anti-Longevity,Increase,1,1,1
+4993771at2759,2759,Eukaryota,ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4993771at2759,2759,Eukaryota,ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,1
+4993771at2759,2759,Eukaryota,ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4993771at2759,2759,Eukaryota,ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4993771at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+4993771at2759,2759,Eukaryota,ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+4993771at2759,2759,Eukaryota,ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4999155at2759,2759,Eukaryota,Dehydrogenase,Saccharomyces cerevisiae,Other,KGD1,854681,1078,1078,Necessary for fitness,Decrease,1,1,1
+4999155at2759,2759,Eukaryota,Dehydrogenase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+4999155at2759,2759,Eukaryota,Dehydrogenase,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+4999155at2759,2759,Eukaryota,Dehydrogenase,Mus musculus,No recovered member,,,,,,,0,0,0
+4999155at2759,2759,Eukaryota,Dehydrogenase,Schizosaccharomyces pombe,Anti,SPBC3H7.03c,2540991,1992,1992,Anti-Longevity,Increase,1,1,1
+4999155at2759,2759,Eukaryota,Dehydrogenase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4999155at2759,2759,Eukaryota,Dehydrogenase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+4999155at2759,2759,Eukaryota,Dehydrogenase,Danio rerio,No recovered member,,,,,,,0,0,0
+4999155at2759,2759,Eukaryota,Dehydrogenase,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+4999379at2759,2759,Eukaryota,NADH:ubiquinone oxidoreductase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+4999379at2759,2759,Eukaryota,NADH:ubiquinone oxidoreductase,Caenorhabditis elegans,Anti,nuo-5,178735,480,480,Anti-Longevity,Increase,1,1,1
+4999379at2759,2759,Eukaryota,NADH:ubiquinone oxidoreductase,Drosophila melanogaster,Anti,ND75,31762,1898,1898,Anti-Longevity,Increase,1,1,1
+4999379at2759,2759,Eukaryota,NADH:ubiquinone oxidoreductase,Mus musculus,Ortholog only,,,,,,,0,0,1
+4999379at2759,2759,Eukaryota,NADH:ubiquinone oxidoreductase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+4999379at2759,2759,Eukaryota,NADH:ubiquinone oxidoreductase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+4999379at2759,2759,Eukaryota,NADH:ubiquinone oxidoreductase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4999379at2759,2759,Eukaryota,NADH:ubiquinone oxidoreductase,Danio rerio,Ortholog only,,,,,,,0,0,1
+4999379at2759,2759,Eukaryota,NADH:ubiquinone oxidoreductase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+4999407at2759,2759,Eukaryota,DNA-directed RNA polymerase,Saccharomyces cerevisiae,Anti,RPO31,854283,2240,2240,Anti-Longevity,Increase,1,1,2
+4999407at2759,2759,Eukaryota,DNA-directed RNA polymerase,Caenorhabditis elegans,Anti,rpc-1,177491,2239,2239,Anti-Longevity,Increase,1,1,2
+4999407at2759,2759,Eukaryota,DNA-directed RNA polymerase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+4999407at2759,2759,Eukaryota,DNA-directed RNA polymerase,Mus musculus,Ortholog only,,,,,,,0,0,2
+4999407at2759,2759,Eukaryota,DNA-directed RNA polymerase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+4999407at2759,2759,Eukaryota,DNA-directed RNA polymerase,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4999407at2759,2759,Eukaryota,DNA-directed RNA polymerase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+4999407at2759,2759,Eukaryota,DNA-directed RNA polymerase,Danio rerio,Ortholog only,,,,,,,0,0,2
+4999407at2759,2759,Eukaryota,DNA-directed RNA polymerase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+4999484at2759,2759,Eukaryota,Mitochondrial import inner membrane translocase subunit,Saccharomyces cerevisiae,Other,SPT10,853315,1599,1599,Necessary for fitness,Decrease,1,1,2
+4999484at2759,2759,Eukaryota,Mitochondrial import inner membrane translocase subunit,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+4999484at2759,2759,Eukaryota,Mitochondrial import inner membrane translocase subunit,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+4999484at2759,2759,Eukaryota,Mitochondrial import inner membrane translocase subunit,Mus musculus,No recovered member,,,,,,,0,0,0
+4999484at2759,2759,Eukaryota,Mitochondrial import inner membrane translocase subunit,Schizosaccharomyces pombe,Anti,ppr1,2541963,1993,1993,Anti-Longevity,Increase,1,1,2
+4999484at2759,2759,Eukaryota,Mitochondrial import inner membrane translocase subunit,Podospora anserina,Ortholog only,,,,,,,0,0,2
+4999484at2759,2759,Eukaryota,Mitochondrial import inner membrane translocase subunit,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+4999484at2759,2759,Eukaryota,Mitochondrial import inner membrane translocase subunit,Danio rerio,No recovered member,,,,,,,0,0,0
+4999484at2759,2759,Eukaryota,Mitochondrial import inner membrane translocase subunit,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+4999701at2759,2759,Eukaryota,Ran-binding,Saccharomyces cerevisiae,Anti,VID30,852624,1179,1179,Anti-Longevity,Increase and Decrease,1,1,1
+4999701at2759,2759,Eukaryota,Ran-binding,Caenorhabditis elegans,Anti,Y54E5A.7,173332,758,758,Anti-Longevity,Increase,1,1,1
+4999701at2759,2759,Eukaryota,Ran-binding,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+4999701at2759,2759,Eukaryota,Ran-binding,Mus musculus,Ortholog only,,,,,,,0,0,2
+4999701at2759,2759,Eukaryota,Ran-binding,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+4999701at2759,2759,Eukaryota,Ran-binding,Podospora anserina,Ortholog only,,,,,,,0,0,6
+4999701at2759,2759,Eukaryota,Ran-binding,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+4999701at2759,2759,Eukaryota,Ran-binding,Danio rerio,Ortholog only,,,,,,,0,0,2
+4999701at2759,2759,Eukaryota,Ran-binding,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Saccharomyces cerevisiae,Pro,HST2,856092,353,353,Pro-Longevity,Increase,1,1,1
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Caenorhabditis elegans,Pro,sir-2.1,177924,604,604,Pro-Longevity,Increase and Decrease,1,1,1
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Drosophila melanogaster,Pro,Sirt2,42414,609,609,Pro-Longevity,Decrease,1,1,1
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Mus musculus,Ortholog only,,,,,,,0,0,2
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Danio rerio,Ortholog only,,,,,,,0,0,3
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+5000555at2759,2759,Eukaryota,Kinase,Saccharomyces cerevisiae,Anti,PKH1;PKH2;PKH3,852077;852101;854053,1558;1655;1710,1558;1655;1710,Anti-Longevity,Increase,3,3,3
+5000555at2759,2759,Eukaryota,Kinase,Caenorhabditis elegans,Anti,pdk-1,180475,499,499,Anti-Longevity,Increase,1,1,2
+5000555at2759,2759,Eukaryota,Kinase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5000555at2759,2759,Eukaryota,Kinase,Mus musculus,Ortholog only,,,,,,,0,0,1
+5000555at2759,2759,Eukaryota,Kinase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+5000555at2759,2759,Eukaryota,Kinase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5000555at2759,2759,Eukaryota,Kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+5000555at2759,2759,Eukaryota,Kinase,Danio rerio,Ortholog only,,,,,,,0,0,2
+5000555at2759,2759,Eukaryota,Kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5000848at2759,2759,Eukaryota,mitotic checkpoint protein,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,1
+5000848at2759,2759,Eukaryota,mitotic checkpoint protein,Caenorhabditis elegans,Anti,bub-3,175018,900,900,Anti-Longevity,Increase,1,1,1
+5000848at2759,2759,Eukaryota,mitotic checkpoint protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5000848at2759,2759,Eukaryota,mitotic checkpoint protein,Mus musculus,Pro,Bub3,12237,51,51,Pro-Longevity,Decrease,1,1,1
+5000848at2759,2759,Eukaryota,mitotic checkpoint protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5000848at2759,2759,Eukaryota,mitotic checkpoint protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5000848at2759,2759,Eukaryota,mitotic checkpoint protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5000848at2759,2759,Eukaryota,mitotic checkpoint protein,Danio rerio,Ortholog only,,,,,,,0,0,2
+5000848at2759,2759,Eukaryota,mitotic checkpoint protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,Saccharomyces cerevisiae,Other,YKU70,855328,776,776,Necessary for fitness,Decrease,1,1,1
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,Caenorhabditis elegans,Anti,cku-70,176546,129,129,Anti-Longevity,Increase,1,1,1
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,Mus musculus,Pro,Xrcc6,14375,736,736,Pro-Longevity,Decrease,1,1,1
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,Podospora anserina,Ortholog only,,,,,,,0,0,2
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,Danio rerio,Ortholog only,,,,,,,0,0,1
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5001057at2759,2759,Eukaryota,Diacylglycerol kinase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+5001057at2759,2759,Eukaryota,Diacylglycerol kinase,Caenorhabditis elegans,Anti,dgk-5,174068,1931,1931,Anti-Longevity,Increase,1,1,1
+5001057at2759,2759,Eukaryota,Diacylglycerol kinase,Drosophila melanogaster,Anti,rdgA,31826,1929,1929,Anti-Longevity,Increase,1,1,1
+5001057at2759,2759,Eukaryota,Diacylglycerol kinase,Mus musculus,Ortholog only,,,,,,,0,0,4
+5001057at2759,2759,Eukaryota,Diacylglycerol kinase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+5001057at2759,2759,Eukaryota,Diacylglycerol kinase,Podospora anserina,No recovered member,,,,,,,0,0,0
+5001057at2759,2759,Eukaryota,Diacylglycerol kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5001057at2759,2759,Eukaryota,Diacylglycerol kinase,Danio rerio,Ortholog only,,,,,,,0,0,4
+5001057at2759,2759,Eukaryota,Diacylglycerol kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+5001304at2759,2759,Eukaryota,vacuolar sorting-associated 41,Saccharomyces cerevisiae,Other,VPS41,851653,1331,1331,Necessary for fitness,Decrease,1,1,1
+5001304at2759,2759,Eukaryota,vacuolar sorting-associated 41,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,2
+5001304at2759,2759,Eukaryota,vacuolar sorting-associated 41,Drosophila melanogaster,Pro,lt,3355130,419,419,Pro-Longevity,Decrease,1,1,1
+5001304at2759,2759,Eukaryota,vacuolar sorting-associated 41,Mus musculus,Ortholog only,,,,,,,0,0,1
+5001304at2759,2759,Eukaryota,vacuolar sorting-associated 41,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5001304at2759,2759,Eukaryota,vacuolar sorting-associated 41,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5001304at2759,2759,Eukaryota,vacuolar sorting-associated 41,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5001304at2759,2759,Eukaryota,vacuolar sorting-associated 41,Danio rerio,Ortholog only,,,,,,,0,0,1
+5001304at2759,2759,Eukaryota,vacuolar sorting-associated 41,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5001316at2759,2759,Eukaryota,CATALASE,Saccharomyces cerevisiae,Anti,CTA1;CTT1,851843;852979,141;1694,141;1694,Anti-Longevity;Unannotated,Increase;Increase and Decrease,2,2,2
+5001316at2759,2759,Eukaryota,CATALASE,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,3
+5001316at2759,2759,Eukaryota,CATALASE,Drosophila melanogaster,Pro,Cat,40048,91,91,Pro-Longevity,Increase,1,1,2
+5001316at2759,2759,Eukaryota,CATALASE,Mus musculus,Pro,Cat,12359,92,92,Pro-Longevity,Increase,1,1,1
+5001316at2759,2759,Eukaryota,CATALASE,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5001316at2759,2759,Eukaryota,CATALASE,Podospora anserina,Ortholog only,,,,,,,0,0,4
+5001316at2759,2759,Eukaryota,CATALASE,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+5001316at2759,2759,Eukaryota,CATALASE,Danio rerio,Ortholog only,,,,,,,0,0,1
+5001316at2759,2759,Eukaryota,CATALASE,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5001640at2759,2759,Eukaryota,kinase,Saccharomyces cerevisiae,Other,CLA4;SKM1,854036;855418,1542;1608,1542;1608,Necessary for fitness,Decrease,2,2,3
+5001640at2759,2759,Eukaryota,kinase,Caenorhabditis elegans,Anti,max-2;pak-1,180873;3565400,1897;960,1897;960,Anti-Longevity;Unannotated,Increase,2,2,2
+5001640at2759,2759,Eukaryota,kinase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5001640at2759,2759,Eukaryota,kinase,Mus musculus,Ortholog only,,,,,,,0,0,3
+5001640at2759,2759,Eukaryota,kinase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+5001640at2759,2759,Eukaryota,kinase,Podospora anserina,Ortholog only,,,,,,,0,0,2
+5001640at2759,2759,Eukaryota,kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+5001640at2759,2759,Eukaryota,kinase,Danio rerio,Ortholog only,,,,,,,0,0,3
+5001640at2759,2759,Eukaryota,kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+5001817at2759,2759,Eukaryota,Ribosomal protein,Saccharomyces cerevisiae,Other,RPL17B,853262,1503,1503,Necessary for fitness,Decrease,1,1,2
+5001817at2759,2759,Eukaryota,Ribosomal protein,Caenorhabditis elegans,Anti,rpl-17,171692,2050,2050,Anti-Longevity,Increase,1,1,1
+5001817at2759,2759,Eukaryota,Ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5001817at2759,2759,Eukaryota,Ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,4
+5001817at2759,2759,Eukaryota,Ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+5001817at2759,2759,Eukaryota,Ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5001817at2759,2759,Eukaryota,Ribosomal protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5001817at2759,2759,Eukaryota,Ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+5001817at2759,2759,Eukaryota,Ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,6
+5002092at2759,2759,Eukaryota,methyltransferase,Saccharomyces cerevisiae,Anti,RCM1,855709,1855,1855,Anti-Longevity,Increase,1,1,1
+5002092at2759,2759,Eukaryota,methyltransferase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+5002092at2759,2759,Eukaryota,methyltransferase,Drosophila melanogaster,Anti,CG42358,7354421,1854,1854,Anti-Longevity,Increase and Decrease,1,1,1
+5002092at2759,2759,Eukaryota,methyltransferase,Mus musculus,Ortholog only,,,,,,,0,0,1
+5002092at2759,2759,Eukaryota,methyltransferase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5002092at2759,2759,Eukaryota,methyltransferase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5002092at2759,2759,Eukaryota,methyltransferase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+5002092at2759,2759,Eukaryota,methyltransferase,Danio rerio,Ortholog only,,,,,,,0,0,1
+5002092at2759,2759,Eukaryota,methyltransferase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5002515at2759,2759,Eukaryota,TIA-1,Saccharomyces cerevisiae,Other,PUB1,855716,1499,1499,Necessary for fitness,Decrease,1,1,2
+5002515at2759,2759,Eukaryota,TIA-1,Caenorhabditis elegans,Anti,pab-1;pab-2,172920;181473,490;491,490;491,Anti-Longevity,Increase,2,2,5
+5002515at2759,2759,Eukaryota,TIA-1,Drosophila melanogaster,Ortholog only,,,,,,,0,0,5
+5002515at2759,2759,Eukaryota,TIA-1,Mus musculus,Ortholog only,,,,,,,0,0,9
+5002515at2759,2759,Eukaryota,TIA-1,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5002515at2759,2759,Eukaryota,TIA-1,Podospora anserina,Ortholog only,,,,,,,0,0,2
+5002515at2759,2759,Eukaryota,TIA-1,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,6
+5002515at2759,2759,Eukaryota,TIA-1,Danio rerio,Ortholog only,,,,,,,0,0,8
+5002515at2759,2759,Eukaryota,TIA-1,Mesocricetus auratus,Ortholog only,,,,,,,0,0,10
+5002707at2759,2759,Eukaryota,60s ribosomal protein,Saccharomyces cerevisiae,Anti,RPL7A,852804,1731,1731,Anti-Longevity,Increase,1,1,3
+5002707at2759,2759,Eukaryota,60s ribosomal protein,Caenorhabditis elegans,Anti,rpl-7,171602,2048,2048,Anti-Longevity,Increase,1,1,1
+5002707at2759,2759,Eukaryota,60s ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+5002707at2759,2759,Eukaryota,60s ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,2
+5002707at2759,2759,Eukaryota,60s ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,3
+5002707at2759,2759,Eukaryota,60s ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5002707at2759,2759,Eukaryota,60s ribosomal protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5002707at2759,2759,Eukaryota,60s ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,2
+5002707at2759,2759,Eukaryota,60s ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+5002737at2759,2759,Eukaryota,kinase,Saccharomyces cerevisiae,Other,RIM11,855170,1320,1320,Necessary for fitness,Decrease,1,1,4
+5002737at2759,2759,Eukaryota,kinase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+5002737at2759,2759,Eukaryota,kinase,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+5002737at2759,2759,Eukaryota,kinase,Mus musculus,No recovered member,,,,,,,0,0,0
+5002737at2759,2759,Eukaryota,kinase,Schizosaccharomyces pombe,Anti,gsk3,2542652,2266,2266,Anti-Longevity,Increase,1,1,2
+5002737at2759,2759,Eukaryota,kinase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5002737at2759,2759,Eukaryota,kinase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+5002737at2759,2759,Eukaryota,kinase,Danio rerio,No recovered member,,,,,,,0,0,0
+5002737at2759,2759,Eukaryota,kinase,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+5003292at2759,2759,Eukaryota,Ubiquitin carboxyl-terminal hydrolase,Saccharomyces cerevisiae,Anti,PDX3;YUH1,852323;853562,1442;1572,1442;1572,Anti-Longevity;Necessary for fitness,Decrease;Increase,2,2,2
+5003292at2759,2759,Eukaryota,Ubiquitin carboxyl-terminal hydrolase,Caenorhabditis elegans,Pro,ubh-1;ubh-3,179039;259626,693;694,693;694,Pro-Longevity,Decrease,2,2,3
+5003292at2759,2759,Eukaryota,Ubiquitin carboxyl-terminal hydrolase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5003292at2759,2759,Eukaryota,Ubiquitin carboxyl-terminal hydrolase,Mus musculus,Ortholog only,,,,,,,0,0,3
+5003292at2759,2759,Eukaryota,Ubiquitin carboxyl-terminal hydrolase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+5003292at2759,2759,Eukaryota,Ubiquitin carboxyl-terminal hydrolase,Podospora anserina,Ortholog only,,,,,,,0,0,6
+5003292at2759,2759,Eukaryota,Ubiquitin carboxyl-terminal hydrolase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5003292at2759,2759,Eukaryota,Ubiquitin carboxyl-terminal hydrolase,Danio rerio,Ortholog only,,,,,,,0,0,2
+5003292at2759,2759,Eukaryota,Ubiquitin carboxyl-terminal hydrolase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+5003899at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+5003899at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,2
+5003899at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Drosophila melanogaster,Pro,Sirt6,41254,611,611,Pro-Longevity,Decrease,1,1,1
+5003899at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Mus musculus,Pro,Sirt6,50721,610,610,Pro-Longevity,Increase and Decrease,1,1,1
+5003899at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+5003899at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Podospora anserina,No recovered member,,,,,,,0,0,0
+5003899at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5003899at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Danio rerio,Ortholog only,,,,,,,0,0,1
+5003899at2759,2759,Eukaryota,NAD-dependent protein deacetylase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,Saccharomyces cerevisiae,Other,CAT5,854292,1436,1436,Necessary for fitness,Decrease,1,1,1
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,Caenorhabditis elegans,Anti,clk-1,175729,130,130,Anti-Longevity,Increase and Decrease,1,1,1
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,Mus musculus,Anti,Coq7,12850,136,136,Anti-Longevity,Increase,1,1,1
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,Danio rerio,Ortholog only,,,,,,,0,0,1
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5004621at2759,2759,Eukaryota,GLUTATHION PEROXIDASE,Saccharomyces cerevisiae,Other,GPX2,852546,1578,1578,Necessary for fitness,Decrease,1,1,3
+5004621at2759,2759,Eukaryota,GLUTATHION PEROXIDASE,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,7
+5004621at2759,2759,Eukaryota,GLUTATHION PEROXIDASE,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+5004621at2759,2759,Eukaryota,GLUTATHION PEROXIDASE,Mus musculus,Anti,Gpx4,625249,324,324,Anti-Longevity,Increase,1,1,7
+5004621at2759,2759,Eukaryota,GLUTATHION PEROXIDASE,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5004621at2759,2759,Eukaryota,GLUTATHION PEROXIDASE,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5004621at2759,2759,Eukaryota,GLUTATHION PEROXIDASE,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,5
+5004621at2759,2759,Eukaryota,GLUTATHION PEROXIDASE,Danio rerio,Ortholog only,,,,,,,0,0,9
+5004621at2759,2759,Eukaryota,GLUTATHION PEROXIDASE,Mesocricetus auratus,Ortholog only,,,,,,,0,0,8
+5006073at2759,2759,Eukaryota,multidrug resistance-associated,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+5006073at2759,2759,Eukaryota,multidrug resistance-associated,Caenorhabditis elegans,Anti,mrp-5,181587,442,442,Anti-Longevity,Increase,1,1,5
+5006073at2759,2759,Eukaryota,multidrug resistance-associated,Drosophila melanogaster,Pro,Mrp4,41387,1874,1874,Pro-Longevity,Increase and Decrease,1,1,11
+5006073at2759,2759,Eukaryota,multidrug resistance-associated,Mus musculus,Ortholog only,,,,,,,0,0,13
+5006073at2759,2759,Eukaryota,multidrug resistance-associated,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+5006073at2759,2759,Eukaryota,multidrug resistance-associated,Podospora anserina,No recovered member,,,,,,,0,0,0
+5006073at2759,2759,Eukaryota,multidrug resistance-associated,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,6
+5006073at2759,2759,Eukaryota,multidrug resistance-associated,Danio rerio,Ortholog only,,,,,,,0,0,14
+5006073at2759,2759,Eukaryota,multidrug resistance-associated,Mesocricetus auratus,Ortholog only,,,,,,,0,0,10
+5006262at2759,2759,Eukaryota,frataxin,Saccharomyces cerevisiae,Pro,YFH1,851437,1674,1674,Pro-Longevity,Decrease,1,1,1
+5006262at2759,2759,Eukaryota,frataxin,Caenorhabditis elegans,Other,frh-1,174002,287,287,Unclear,Increase and Decrease,1,1,1
+5006262at2759,2759,Eukaryota,frataxin,Drosophila melanogaster,Pro,fh,31845,848,848,Pro-Longevity,Increase,1,1,1
+5006262at2759,2759,Eukaryota,frataxin,Mus musculus,Pro,Fxn,14297,290,290,Pro-Longevity,Decrease,1,1,1
+5006262at2759,2759,Eukaryota,frataxin,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5006262at2759,2759,Eukaryota,frataxin,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5006262at2759,2759,Eukaryota,frataxin,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5006262at2759,2759,Eukaryota,frataxin,Danio rerio,Ortholog only,,,,,,,0,0,1
+5006262at2759,2759,Eukaryota,frataxin,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5012534at2759,2759,Eukaryota,ribosomal protein,Saccharomyces cerevisiae,Anti,RPL10,850764,561,561,Anti-Longevity,Increase,1,1,1
+5012534at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis elegans,Anti,rpl-10,174311,2047,2047,Anti-Longevity,Increase,1,1,1
+5012534at2759,2759,Eukaryota,ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5012534at2759,2759,Eukaryota,ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,2
+5012534at2759,2759,Eukaryota,ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+5012534at2759,2759,Eukaryota,ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5012534at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5012534at2759,2759,Eukaryota,ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+5012534at2759,2759,Eukaryota,ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,4
+5012868at2759,2759,Eukaryota,mitochondrial pyruvate carrier,Saccharomyces cerevisiae,Other,MPC1,852800,1915,1915,Necessary for fitness,Decrease,1,1,3
+5012868at2759,2759,Eukaryota,mitochondrial pyruvate carrier,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,2
+5012868at2759,2759,Eukaryota,mitochondrial pyruvate carrier,Drosophila melanogaster,Ortholog only,,,,,,,0,0,4
+5012868at2759,2759,Eukaryota,mitochondrial pyruvate carrier,Mus musculus,Ortholog only,,,,,,,0,0,5
+5012868at2759,2759,Eukaryota,mitochondrial pyruvate carrier,Schizosaccharomyces pombe,Other,SPCC1235.11,2539169,2007,2007,Necessary for fitness,Decrease,1,1,2
+5012868at2759,2759,Eukaryota,mitochondrial pyruvate carrier,Podospora anserina,Ortholog only,,,,,,,0,0,4
+5012868at2759,2759,Eukaryota,mitochondrial pyruvate carrier,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+5012868at2759,2759,Eukaryota,mitochondrial pyruvate carrier,Danio rerio,Ortholog only,,,,,,,0,0,3
+5012868at2759,2759,Eukaryota,mitochondrial pyruvate carrier,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+5012941at2759,2759,Eukaryota,cytochrome b-c1 complex subunit Rieske,Saccharomyces cerevisiae,Anti,RIP1,856689,1559,1559,Anti-Longevity,Increase,1,1,1
+5012941at2759,2759,Eukaryota,cytochrome b-c1 complex subunit Rieske,Caenorhabditis elegans,Anti,isp-1,177609,379,379,Anti-Longevity,Increase,1,1,1
+5012941at2759,2759,Eukaryota,cytochrome b-c1 complex subunit Rieske,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5012941at2759,2759,Eukaryota,cytochrome b-c1 complex subunit Rieske,Mus musculus,Ortholog only,,,,,,,0,0,1
+5012941at2759,2759,Eukaryota,cytochrome b-c1 complex subunit Rieske,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5012941at2759,2759,Eukaryota,cytochrome b-c1 complex subunit Rieske,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5012941at2759,2759,Eukaryota,cytochrome b-c1 complex subunit Rieske,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5012941at2759,2759,Eukaryota,cytochrome b-c1 complex subunit Rieske,Danio rerio,Ortholog only,,,,,,,0,0,1
+5012941at2759,2759,Eukaryota,cytochrome b-c1 complex subunit Rieske,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5013221at2759,2759,Eukaryota,ribosomal protein,Saccharomyces cerevisiae,Anti,RPL9A;RPL9B,852730;855658,1657;1658,1657;1658,Anti-Longevity,Increase,2,2,2
+5013221at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis elegans,Anti,rpl-9,176071,560,560,Anti-Longevity,Increase,1,1,1
+5013221at2759,2759,Eukaryota,ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5013221at2759,2759,Eukaryota,ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,2
+5013221at2759,2759,Eukaryota,ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+5013221at2759,2759,Eukaryota,ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5013221at2759,2759,Eukaryota,ribosomal protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5013221at2759,2759,Eukaryota,ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+5013221at2759,2759,Eukaryota,ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+5014569at2759,2759,Eukaryota,elongation factor 1-alpha,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,3
+5014569at2759,2759,Eukaryota,elongation factor 1-alpha,Caenorhabditis elegans,Anti,eef-1A.1,175975,2034,2034,Anti-Longevity,Increase,1,1,3
+5014569at2759,2759,Eukaryota,elongation factor 1-alpha,Drosophila melanogaster,Pro,Ef1alpha48D,36271,208,208,Pro-Longevity,Increase,1,1,3
+5014569at2759,2759,Eukaryota,elongation factor 1-alpha,Mus musculus,Ortholog only,,,,,,,0,0,4
+5014569at2759,2759,Eukaryota,elongation factor 1-alpha,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,4
+5014569at2759,2759,Eukaryota,elongation factor 1-alpha,Podospora anserina,Ortholog only,,,,,,,0,0,2
+5014569at2759,2759,Eukaryota,elongation factor 1-alpha,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+5014569at2759,2759,Eukaryota,elongation factor 1-alpha,Danio rerio,Ortholog only,,,,,,,0,0,8
+5014569at2759,2759,Eukaryota,elongation factor 1-alpha,Mesocricetus auratus,Ortholog only,,,,,,,0,0,4
+5014714at2759,2759,Eukaryota,Cyclin,Saccharomyces cerevisiae,Other,CLG1,852657,1038,1038,Necessary for fitness,Decrease,1,1,1
+5014714at2759,2759,Eukaryota,Cyclin,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+5014714at2759,2759,Eukaryota,Cyclin,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5014714at2759,2759,Eukaryota,Cyclin,Mus musculus,Ortholog only,,,,,,,0,0,2
+5014714at2759,2759,Eukaryota,Cyclin,Schizosaccharomyces pombe,Anti,mug80,2540673,1856,1856,Anti-Longevity,Increase,1,1,1
+5014714at2759,2759,Eukaryota,Cyclin,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5014714at2759,2759,Eukaryota,Cyclin,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5014714at2759,2759,Eukaryota,Cyclin,Danio rerio,Ortholog only,,,,,,,0,0,2
+5014714at2759,2759,Eukaryota,Cyclin,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+5014990at2759,2759,Eukaryota,leucine--tRNA ligase,Saccharomyces cerevisiae,Other,NAM2,851098,1259,1259,Necessary for fitness,Decrease,1,1,1
+5014990at2759,2759,Eukaryota,leucine--tRNA ligase,Caenorhabditis elegans,Anti,lars-2,172499,417,417,Anti-Longevity,Increase,1,1,1
+5014990at2759,2759,Eukaryota,leucine--tRNA ligase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5014990at2759,2759,Eukaryota,leucine--tRNA ligase,Mus musculus,Ortholog only,,,,,,,0,0,2
+5014990at2759,2759,Eukaryota,leucine--tRNA ligase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5014990at2759,2759,Eukaryota,leucine--tRNA ligase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5014990at2759,2759,Eukaryota,leucine--tRNA ligase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5014990at2759,2759,Eukaryota,leucine--tRNA ligase,Danio rerio,Ortholog only,,,,,,,0,0,1
+5014990at2759,2759,Eukaryota,leucine--tRNA ligase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5015601at2759,2759,Eukaryota,kinase,Saccharomyces cerevisiae,Anti,TPK1;TPK2;TPK3,853275;853688;855898,1502;1632;681,1502;1632;681,Anti-Longevity;Necessary for fitness,Decrease;Increase,3,3,3
+5015601at2759,2759,Eukaryota,kinase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+5015601at2759,2759,Eukaryota,kinase,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+5015601at2759,2759,Eukaryota,kinase,Mus musculus,Ortholog only,,,,,,,0,0,1
+5015601at2759,2759,Eukaryota,kinase,Schizosaccharomyces pombe,Other,pka1,2539781,508,508,Unannotated,Increase,1,1,1
+5015601at2759,2759,Eukaryota,kinase,Podospora anserina,Ortholog only,,,,,,,0,0,2
+5015601at2759,2759,Eukaryota,kinase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+5015601at2759,2759,Eukaryota,kinase,Danio rerio,Ortholog only,,,,,,,0,0,2
+5015601at2759,2759,Eukaryota,kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+501596at2759,2759,Eukaryota,Glucose-6-phosphate,Saccharomyces cerevisiae,Anti,ZWF1,855480,1412,1412,Anti-Longevity,Increase,1,1,1
+501596at2759,2759,Eukaryota,Glucose-6-phosphate,Caenorhabditis elegans,Ortholog only,,,,,,,0,0,1
+501596at2759,2759,Eukaryota,Glucose-6-phosphate,Drosophila melanogaster,Pro,Zw,32974,883,883,Pro-Longevity,Increase,1,1,2
+501596at2759,2759,Eukaryota,Glucose-6-phosphate,Mus musculus,Ortholog only,,,,,,,0,0,2
+501596at2759,2759,Eukaryota,Glucose-6-phosphate,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,4
+501596at2759,2759,Eukaryota,Glucose-6-phosphate,Podospora anserina,Ortholog only,,,,,,,0,0,3
+501596at2759,2759,Eukaryota,Glucose-6-phosphate,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+501596at2759,2759,Eukaryota,Glucose-6-phosphate,Danio rerio,Ortholog only,,,,,,,0,0,2
+501596at2759,2759,Eukaryota,Glucose-6-phosphate,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+5016236at2759,2759,Eukaryota,autophagy protein,Saccharomyces cerevisiae,Other,ATG5,855954,1305,1305,Necessary for fitness,Decrease,1,1,1
+5016236at2759,2759,Eukaryota,autophagy protein,Caenorhabditis elegans,Pro,atg-5,171735,897,897,Pro-Longevity,Decrease,1,1,1
+5016236at2759,2759,Eukaryota,autophagy protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5016236at2759,2759,Eukaryota,autophagy protein,Mus musculus,Pro,Atg5,11793,1862,1862,Pro-Longevity,Increase,1,1,1
+5016236at2759,2759,Eukaryota,autophagy protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5016236at2759,2759,Eukaryota,autophagy protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5016236at2759,2759,Eukaryota,autophagy protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5016236at2759,2759,Eukaryota,autophagy protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+5016236at2759,2759,Eukaryota,autophagy protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5016473at2759,2759,Eukaryota,Phosphatidylinositol,Saccharomyces cerevisiae,Other,VPS34,850941,1720,1720,Necessary for fitness,Decrease,1,1,1
+5016473at2759,2759,Eukaryota,Phosphatidylinositol,Caenorhabditis elegans,Anti,age-1,174762,7,7,Anti-Longevity,Increase,1,1,1
+5016473at2759,2759,Eukaryota,Phosphatidylinositol,Drosophila melanogaster,Pro,Pi3K92E,42446,874,874,Pro-Longevity,Decrease,1,1,1
+5016473at2759,2759,Eukaryota,Phosphatidylinositol,Mus musculus,Ortholog only,,,,,,,0,0,4
+5016473at2759,2759,Eukaryota,Phosphatidylinositol,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5016473at2759,2759,Eukaryota,Phosphatidylinositol,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5016473at2759,2759,Eukaryota,Phosphatidylinositol,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5016473at2759,2759,Eukaryota,Phosphatidylinositol,Danio rerio,Ortholog only,,,,,,,0,0,6
+5016473at2759,2759,Eukaryota,Phosphatidylinositol,Mesocricetus auratus,Ortholog only,,,,,,,0,0,4
+5016966at2759,2759,Eukaryota,charged multivesicular body protein 3,Saccharomyces cerevisiae,Other,VPS24,853825,1330,1330,Necessary for fitness,Decrease,1,1,1
+5016966at2759,2759,Eukaryota,charged multivesicular body protein 3,Caenorhabditis elegans,Pro,T27F7.1,173863,652,652,Pro-Longevity,Decrease,1,1,1
+5016966at2759,2759,Eukaryota,charged multivesicular body protein 3,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+5016966at2759,2759,Eukaryota,charged multivesicular body protein 3,Mus musculus,Ortholog only,,,,,,,0,0,1
+5016966at2759,2759,Eukaryota,charged multivesicular body protein 3,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+5016966at2759,2759,Eukaryota,charged multivesicular body protein 3,Podospora anserina,Ortholog only,,,,,,,0,0,1
+5016966at2759,2759,Eukaryota,charged multivesicular body protein 3,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+5016966at2759,2759,Eukaryota,charged multivesicular body protein 3,Danio rerio,Ortholog only,,,,,,,0,0,1
+5016966at2759,2759,Eukaryota,charged multivesicular body protein 3,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5017370at2759,2759,Eukaryota,phosphatase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+5017370at2759,2759,Eukaryota,phosphatase,Caenorhabditis elegans,Pro,daf-18,176869,161,161,Pro-Longevity,Increase and Decrease,1,1,1
+5017370at2759,2759,Eukaryota,phosphatase,Drosophila melanogaster,Pro,Pten,43991,876,876,Pro-Longevity,Increase,1,1,1
+5017370at2759,2759,Eukaryota,phosphatase,Mus musculus,Pro,Pten,19211,1012,1012,Pro-Longevity,Increase and Decrease,1,1,1
+5017370at2759,2759,Eukaryota,phosphatase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+5017370at2759,2759,Eukaryota,phosphatase,Podospora anserina,No recovered member,,,,,,,0,0,0
+5017370at2759,2759,Eukaryota,phosphatase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+5017370at2759,2759,Eukaryota,phosphatase,Danio rerio,Ortholog only,,,,,,,0,0,2
+5017370at2759,2759,Eukaryota,phosphatase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+5020933at2759,2759,Eukaryota,transporter,Saccharomyces cerevisiae,Anti,HXT5;RGT2;SNF3,851333;851417;856496,1239;1401;1406,1239;1401;1406,Anti-Longevity;Necessary for fitness,Decrease;Increase,3,3,17
+5020933at2759,2759,Eukaryota,transporter,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+5020933at2759,2759,Eukaryota,transporter,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+5020933at2759,2759,Eukaryota,transporter,Mus musculus,No recovered member,,,,,,,0,0,0
+5020933at2759,2759,Eukaryota,transporter,Schizosaccharomyces pombe,Anti,ght5,2539240,2223,2223,Anti-Longevity,Increase,1,1,6
+5020933at2759,2759,Eukaryota,transporter,Podospora anserina,Ortholog only,,,,,,,0,0,6
+5020933at2759,2759,Eukaryota,transporter,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+5020933at2759,2759,Eukaryota,transporter,Danio rerio,No recovered member,,,,,,,0,0,0
+5020933at2759,2759,Eukaryota,transporter,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+5024004at2759,2759,Eukaryota,dehydrogenase,Saccharomyces cerevisiae,Anti,IDH1;IDH2;LYS12,854303;854714;855691,1705;358;421,1705;358;421,Anti-Longevity,Increase,3,3,3
+5024004at2759,2759,Eukaryota,dehydrogenase,Caenorhabditis elegans,Anti,idha-1,172655,260,260,Anti-Longevity,Increase,1,1,4
+5024004at2759,2759,Eukaryota,dehydrogenase,Drosophila melanogaster,Ortholog only,,,,,,,0,0,3
+5024004at2759,2759,Eukaryota,dehydrogenase,Mus musculus,Ortholog only,,,,,,,0,0,4
+5024004at2759,2759,Eukaryota,dehydrogenase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,3
+5024004at2759,2759,Eukaryota,dehydrogenase,Podospora anserina,Ortholog only,,,,,,,0,0,3
+5024004at2759,2759,Eukaryota,dehydrogenase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+5024004at2759,2759,Eukaryota,dehydrogenase,Danio rerio,Ortholog only,,,,,,,0,0,3
+5024004at2759,2759,Eukaryota,dehydrogenase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,4
+530016at2759,2759,Eukaryota,tetrahydrofolate synthase,Saccharomyces cerevisiae,Anti,ADE3;MIS1,852378;853118,1018;1248,1018;1248,Anti-Longevity;Necessary for fitness,Decrease;Increase and Decrease,2,2,2
+530016at2759,2759,Eukaryota,tetrahydrofolate synthase,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+530016at2759,2759,Eukaryota,tetrahydrofolate synthase,Drosophila melanogaster,Pro,Nmdmc,47895,2098,2098,Pro-Longevity,Increase,1,1,1
+530016at2759,2759,Eukaryota,tetrahydrofolate synthase,Mus musculus,Ortholog only,,,,,,,0,0,2
+530016at2759,2759,Eukaryota,tetrahydrofolate synthase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+530016at2759,2759,Eukaryota,tetrahydrofolate synthase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+530016at2759,2759,Eukaryota,tetrahydrofolate synthase,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+530016at2759,2759,Eukaryota,tetrahydrofolate synthase,Danio rerio,Ortholog only,,,,,,,0,0,2
+530016at2759,2759,Eukaryota,tetrahydrofolate synthase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+534261at2759,2759,Eukaryota,60S ribosomal protein,Saccharomyces cerevisiae,Anti,RPL8B,850682,1563,1563,Anti-Longevity,Increase,1,1,2
+534261at2759,2759,Eukaryota,60S ribosomal protein,Caenorhabditis elegans,Anti,rpl-7A,177203,2055,2055,Anti-Longevity,Increase,1,1,1
+534261at2759,2759,Eukaryota,60S ribosomal protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+534261at2759,2759,Eukaryota,60S ribosomal protein,Mus musculus,Ortholog only,,,,,,,0,0,3
+534261at2759,2759,Eukaryota,60S ribosomal protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+534261at2759,2759,Eukaryota,60S ribosomal protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+534261at2759,2759,Eukaryota,60S ribosomal protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+534261at2759,2759,Eukaryota,60S ribosomal protein,Danio rerio,Ortholog only,,,,,,,0,0,1
+534261at2759,2759,Eukaryota,60S ribosomal protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+535743at2759,2759,Eukaryota,40S RIBOSOMAL PROTEIN S12,Saccharomyces cerevisiae,Anti,RPS12,854551,2126,2126,Anti-Longevity,Increase,1,1,1
+535743at2759,2759,Eukaryota,40S RIBOSOMAL PROTEIN S12,Caenorhabditis elegans,Anti,rps-12,175786,1767,1767,Anti-Longevity,Increase,1,1,1
+535743at2759,2759,Eukaryota,40S RIBOSOMAL PROTEIN S12,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+535743at2759,2759,Eukaryota,40S RIBOSOMAL PROTEIN S12,Mus musculus,Ortholog only,,,,,,,0,0,11
+535743at2759,2759,Eukaryota,40S RIBOSOMAL PROTEIN S12,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+535743at2759,2759,Eukaryota,40S RIBOSOMAL PROTEIN S12,Podospora anserina,Ortholog only,,,,,,,0,0,1
+535743at2759,2759,Eukaryota,40S RIBOSOMAL PROTEIN S12,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+535743at2759,2759,Eukaryota,40S RIBOSOMAL PROTEIN S12,Danio rerio,Ortholog only,,,,,,,0,0,1
+535743at2759,2759,Eukaryota,40S RIBOSOMAL PROTEIN S12,Mesocricetus auratus,Ortholog only,,,,,,,0,0,6
+544131at2759,2759,Eukaryota,"complex, subunit",Saccharomyces cerevisiae,Other,APM1,855869,1358,1358,Necessary for fitness,Decrease,1,1,3
+544131at2759,2759,Eukaryota,"complex, subunit",Caenorhabditis elegans,Ortholog only,,,,,,,0,0,4
+544131at2759,2759,Eukaryota,"complex, subunit",Drosophila melanogaster,Pro,cm,31647,133,133,Pro-Longevity,Decrease,1,1,3
+544131at2759,2759,Eukaryota,"complex, subunit",Mus musculus,Ortholog only,,,,,,,0,0,5
+544131at2759,2759,Eukaryota,"complex, subunit",Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+544131at2759,2759,Eukaryota,"complex, subunit",Podospora anserina,Ortholog only,,,,,,,0,0,2
+544131at2759,2759,Eukaryota,"complex, subunit",Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,4
+544131at2759,2759,Eukaryota,"complex, subunit",Danio rerio,Ortholog only,,,,,,,0,0,6
+544131at2759,2759,Eukaryota,"complex, subunit",Mesocricetus auratus,Ortholog only,,,,,,,0,0,4
+561687at2759,2759,Eukaryota,CYTOCHROME C1,Saccharomyces cerevisiae,Anti,CYT1;PCH2,852484;854231,1536;1701,1536;1701,Anti-Longevity,Increase;Increase and Decrease,2,2,2
+561687at2759,2759,Eukaryota,CYTOCHROME C1,Caenorhabditis elegans,Anti,cyc-1,172582,145,145,Anti-Longevity,Increase,1,1,1
+561687at2759,2759,Eukaryota,CYTOCHROME C1,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+561687at2759,2759,Eukaryota,CYTOCHROME C1,Mus musculus,Ortholog only,,,,,,,0,0,1
+561687at2759,2759,Eukaryota,CYTOCHROME C1,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+561687at2759,2759,Eukaryota,CYTOCHROME C1,Podospora anserina,Ortholog only,,,,,,,0,0,4
+561687at2759,2759,Eukaryota,CYTOCHROME C1,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+561687at2759,2759,Eukaryota,CYTOCHROME C1,Danio rerio,Ortholog only,,,,,,,0,0,1
+561687at2759,2759,Eukaryota,CYTOCHROME C1,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+569036at2759,2759,Eukaryota,kinase,Saccharomyces cerevisiae,Ortholog only,,,,,,,0,0,1
+569036at2759,2759,Eukaryota,kinase,Caenorhabditis elegans,Anti,rsks-1,176554,578,578,Anti-Longevity,Increase,1,1,2
+569036at2759,2759,Eukaryota,kinase,Drosophila melanogaster,Anti,S6k,38654,583,583,Anti-Longevity,Increase,1,1,1
+569036at2759,2759,Eukaryota,kinase,Mus musculus,Anti,Rps6kb1,72508,1737,1737,Anti-Longevity,Increase,1,1,2
+569036at2759,2759,Eukaryota,kinase,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+569036at2759,2759,Eukaryota,kinase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+569036at2759,2759,Eukaryota,kinase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+569036at2759,2759,Eukaryota,kinase,Danio rerio,Ortholog only,,,,,,,0,0,2
+569036at2759,2759,Eukaryota,kinase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+653656at2759,2759,Eukaryota,Autophagy-related protein,Saccharomyces cerevisiae,Other,ATG18;ATG21,850577;856004,1027;1304,1027;1304,Necessary for fitness,Decrease,2,2,2
+653656at2759,2759,Eukaryota,Autophagy-related protein,Caenorhabditis elegans,Other,atg-18,179246,893,893,Unclear,Decrease,1,1,1
+653656at2759,2759,Eukaryota,Autophagy-related protein,Drosophila melanogaster,Ortholog only,,,,,,,0,0,2
+653656at2759,2759,Eukaryota,Autophagy-related protein,Mus musculus,Ortholog only,,,,,,,0,0,2
+653656at2759,2759,Eukaryota,Autophagy-related protein,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+653656at2759,2759,Eukaryota,Autophagy-related protein,Podospora anserina,Ortholog only,,,,,,,0,0,1
+653656at2759,2759,Eukaryota,Autophagy-related protein,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+653656at2759,2759,Eukaryota,Autophagy-related protein,Danio rerio,Ortholog only,,,,,,,0,0,3
+653656at2759,2759,Eukaryota,Autophagy-related protein,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+672188at2759,2759,Eukaryota,Aldehyde oxidase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+672188at2759,2759,Eukaryota,Aldehyde oxidase,Caenorhabditis elegans,Anti,F55B11.1,178381,265,265,Anti-Longevity,Increase,1,1,3
+672188at2759,2759,Eukaryota,Aldehyde oxidase,Drosophila melanogaster,Pro,ry,41605,582,582,Pro-Longevity,Decrease,1,1,5
+672188at2759,2759,Eukaryota,Aldehyde oxidase,Mus musculus,Ortholog only,,,,,,,0,0,6
+672188at2759,2759,Eukaryota,Aldehyde oxidase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+672188at2759,2759,Eukaryota,Aldehyde oxidase,Podospora anserina,Ortholog only,,,,,,,0,0,1
+672188at2759,2759,Eukaryota,Aldehyde oxidase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+672188at2759,2759,Eukaryota,Aldehyde oxidase,Danio rerio,Ortholog only,,,,,,,0,0,3
+672188at2759,2759,Eukaryota,Aldehyde oxidase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,5
+717816at2759,2759,Eukaryota,S-adenosylmethionine,Saccharomyces cerevisiae,Anti,SAM1,850877,1660,1660,Anti-Longevity,Increase,1,1,2
+717816at2759,2759,Eukaryota,S-adenosylmethionine,Caenorhabditis elegans,Anti,sams-1;sams-3,177355;181370,584;903,584;903,Anti-Longevity,Increase,2,2,4
+717816at2759,2759,Eukaryota,S-adenosylmethionine,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+717816at2759,2759,Eukaryota,S-adenosylmethionine,Mus musculus,Ortholog only,,,,,,,0,0,2
+717816at2759,2759,Eukaryota,S-adenosylmethionine,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+717816at2759,2759,Eukaryota,S-adenosylmethionine,Podospora anserina,Ortholog only,,,,,,,0,0,1
+717816at2759,2759,Eukaryota,S-adenosylmethionine,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+717816at2759,2759,Eukaryota,S-adenosylmethionine,Danio rerio,Ortholog only,,,,,,,0,0,4
+717816at2759,2759,Eukaryota,S-adenosylmethionine,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+723134at2759,2759,Eukaryota,Actin-related protein 2/3 complex subunit,Saccharomyces cerevisiae,Anti,LCL3,852795,1410,1410,Anti-Longevity,Increase,1,1,2
+723134at2759,2759,Eukaryota,Actin-related protein 2/3 complex subunit,Caenorhabditis elegans,Pro,arx-4,175247,16,16,Pro-Longevity,Decrease,1,1,1
+723134at2759,2759,Eukaryota,Actin-related protein 2/3 complex subunit,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+723134at2759,2759,Eukaryota,Actin-related protein 2/3 complex subunit,Mus musculus,Ortholog only,,,,,,,0,0,1
+723134at2759,2759,Eukaryota,Actin-related protein 2/3 complex subunit,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+723134at2759,2759,Eukaryota,Actin-related protein 2/3 complex subunit,Podospora anserina,Ortholog only,,,,,,,0,0,2
+723134at2759,2759,Eukaryota,Actin-related protein 2/3 complex subunit,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+723134at2759,2759,Eukaryota,Actin-related protein 2/3 complex subunit,Danio rerio,Ortholog only,,,,,,,0,0,1
+723134at2759,2759,Eukaryota,Actin-related protein 2/3 complex subunit,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1
+743444at2759,2759,Eukaryota,wd repeat,Saccharomyces cerevisiae,Other,SWD3,852472,1586,1586,Necessary for fitness,Decrease,1,1,1
+743444at2759,2759,Eukaryota,wd repeat,Caenorhabditis elegans,Anti,wdr-5.1,175474,1000,1000,Anti-Longevity,Increase,1,1,3
+743444at2759,2759,Eukaryota,wd repeat,Drosophila melanogaster,Ortholog only,,,,,,,0,0,3
+743444at2759,2759,Eukaryota,wd repeat,Mus musculus,Ortholog only,,,,,,,0,0,3
+743444at2759,2759,Eukaryota,wd repeat,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+743444at2759,2759,Eukaryota,wd repeat,Podospora anserina,Ortholog only,,,,,,,0,0,1
+743444at2759,2759,Eukaryota,wd repeat,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+743444at2759,2759,Eukaryota,wd repeat,Danio rerio,Ortholog only,,,,,,,0,0,3
+743444at2759,2759,Eukaryota,wd repeat,Mesocricetus auratus,Ortholog only,,,,,,,0,0,3
+753957at2759,2759,Eukaryota,Nicotinamidase,Saccharomyces cerevisiae,Pro,PNC1,852846,1015,1015,Pro-Longevity,Increase and Decrease,1,1,1
+753957at2759,2759,Eukaryota,Nicotinamidase,Caenorhabditis elegans,Pro,pnc-1,176833,741,741,Pro-Longevity,Decrease,1,1,3
+753957at2759,2759,Eukaryota,Nicotinamidase,Drosophila melanogaster,Pro,Naam,42348,871,871,Pro-Longevity,Increase,1,1,1
+753957at2759,2759,Eukaryota,Nicotinamidase,Mus musculus,No recovered member,,,,,,,0,0,0
+753957at2759,2759,Eukaryota,Nicotinamidase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+753957at2759,2759,Eukaryota,Nicotinamidase,Podospora anserina,Ortholog only,,,,,,,0,0,2
+753957at2759,2759,Eukaryota,Nicotinamidase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+753957at2759,2759,Eukaryota,Nicotinamidase,Danio rerio,No recovered member,,,,,,,0,0,0
+753957at2759,2759,Eukaryota,Nicotinamidase,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+771065at2759,2759,Eukaryota,Sorting nexin,Saccharomyces cerevisiae,Anti,SNX41,852035,1408,1408,Anti-Longevity,Increase,1,1,2
+771065at2759,2759,Eukaryota,Sorting nexin,Caenorhabditis elegans,No recovered member,,,,,,,0,0,0
+771065at2759,2759,Eukaryota,Sorting nexin,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+771065at2759,2759,Eukaryota,Sorting nexin,Mus musculus,No recovered member,,,,,,,0,0,0
+771065at2759,2759,Eukaryota,Sorting nexin,Schizosaccharomyces pombe,Anti,atg20,2539317,1995,1995,Anti-Longevity,Increase,1,1,2
+771065at2759,2759,Eukaryota,Sorting nexin,Podospora anserina,Ortholog only,,,,,,,0,0,1
+771065at2759,2759,Eukaryota,Sorting nexin,Caenorhabditis briggsae,No recovered member,,,,,,,0,0,0
+771065at2759,2759,Eukaryota,Sorting nexin,Danio rerio,No recovered member,,,,,,,0,0,0
+771065at2759,2759,Eukaryota,Sorting nexin,Mesocricetus auratus,No recovered member,,,,,,,0,0,0
+783301at2759,2759,Eukaryota,14-3-3-3,Saccharomyces cerevisiae,Pro,BMH1;BMH2,851676;856924,1033;1670,1033;1670,Pro-Longevity;Unclear,Increase;Increase and Decrease,2,2,2
+783301at2759,2759,Eukaryota,14-3-3-3,Caenorhabditis elegans,Pro,ftt-2;par-5,178113;181348,288;493,288;493,Pro-Longevity,Increase and Decrease,2,2,2
+783301at2759,2759,Eukaryota,14-3-3-3,Drosophila melanogaster,Anti,14-3-3epsilon,42186,831,831,Anti-Longevity,Increase,1,1,2
+783301at2759,2759,Eukaryota,14-3-3-3,Mus musculus,Ortholog only,,,,,,,0,0,8
+783301at2759,2759,Eukaryota,14-3-3-3,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,2
+783301at2759,2759,Eukaryota,14-3-3-3,Podospora anserina,Ortholog only,,,,,,,0,0,2
+783301at2759,2759,Eukaryota,14-3-3-3,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,2
+783301at2759,2759,Eukaryota,14-3-3-3,Danio rerio,Ortholog only,,,,,,,0,0,10
+783301at2759,2759,Eukaryota,14-3-3-3,Mesocricetus auratus,Ortholog only,,,,,,,0,0,9
+801991at2759,2759,Eukaryota,SUPEROXIDE DISMUTASE ,Saccharomyces cerevisiae,Pro,SOD1,853568,621,621,Pro-Longevity,Increase and Decrease,1,1,1
+801991at2759,2759,Eukaryota,SUPEROXIDE DISMUTASE ,Caenorhabditis elegans,Anti,sod-1,174141,984,984,Anti-Longevity,Increase,1,1,3
+801991at2759,2759,Eukaryota,SUPEROXIDE DISMUTASE ,Drosophila melanogaster,Pro,Sod,39251,622,622,Pro-Longevity,Increase and Decrease,1,1,2
+801991at2759,2759,Eukaryota,SUPEROXIDE DISMUTASE ,Mus musculus,Ortholog only,,,,,,,0,0,1
+801991at2759,2759,Eukaryota,SUPEROXIDE DISMUTASE ,Schizosaccharomyces pombe,Ortholog only,,,,,,,0,0,1
+801991at2759,2759,Eukaryota,SUPEROXIDE DISMUTASE ,Podospora anserina,Ortholog only,,,,,,,0,0,1
+801991at2759,2759,Eukaryota,SUPEROXIDE DISMUTASE ,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,3
+801991at2759,2759,Eukaryota,SUPEROXIDE DISMUTASE ,Danio rerio,Ortholog only,,,,,,,0,0,1
+801991at2759,2759,Eukaryota,SUPEROXIDE DISMUTASE ,Mesocricetus auratus,Ortholog only,,,,,,,0,0,2
+804629at2759,2759,Eukaryota,ADP/ATP translocase,Saccharomyces cerevisiae,No recovered member,,,,,,,0,0,0
+804629at2759,2759,Eukaryota,ADP/ATP translocase,Caenorhabditis elegans,Anti,C47E12.2;ant-1.1,176773;177858,666;85,666;85,Anti-Longevity,Increase,2,2,6
+804629at2759,2759,Eukaryota,ADP/ATP translocase,Drosophila melanogaster,No recovered member,,,,,,,0,0,0
+804629at2759,2759,Eukaryota,ADP/ATP translocase,Mus musculus,Pro,Slc25a4,11739,615,615,Pro-Longevity,Decrease,1,1,3
+804629at2759,2759,Eukaryota,ADP/ATP translocase,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+804629at2759,2759,Eukaryota,ADP/ATP translocase,Podospora anserina,No recovered member,,,,,,,0,0,0
+804629at2759,2759,Eukaryota,ADP/ATP translocase,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,5
+804629at2759,2759,Eukaryota,ADP/ATP translocase,Danio rerio,Ortholog only,,,,,,,0,0,4
+804629at2759,2759,Eukaryota,ADP/ATP translocase,Mesocricetus auratus,Ortholog only,,,,,,,0,0,7
+89796at2759,2759,Eukaryota,Transcription factor,Saccharomyces cerevisiae,Other,INO4,854042,1240,1240,Necessary for fitness,Decrease,1,1,1
+89796at2759,2759,Eukaryota,Transcription factor,Caenorhabditis elegans,Pro,mxl-2,175184,449,449,Pro-Longevity,Decrease,1,1,1
+89796at2759,2759,Eukaryota,Transcription factor,Drosophila melanogaster,Ortholog only,,,,,,,0,0,1
+89796at2759,2759,Eukaryota,Transcription factor,Mus musculus,Ortholog only,,,,,,,0,0,1
+89796at2759,2759,Eukaryota,Transcription factor,Schizosaccharomyces pombe,No recovered member,,,,,,,0,0,0
+89796at2759,2759,Eukaryota,Transcription factor,Podospora anserina,Ortholog only,,,,,,,0,0,1
+89796at2759,2759,Eukaryota,Transcription factor,Caenorhabditis briggsae,Ortholog only,,,,,,,0,0,1
+89796at2759,2759,Eukaryota,Transcription factor,Danio rerio,Ortholog only,,,,,,,0,0,1
+89796at2759,2759,Eukaryota,Transcription factor,Mesocricetus auratus,Ortholog only,,,,,,,0,0,1

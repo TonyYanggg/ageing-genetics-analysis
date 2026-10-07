@@ -1,0 +1,410 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A10921902+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "10921902",
+    "source": "MED",
+    "pmid": "10921902",
+    "pmcid": "PMC316829",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC316829"
+      ]
+    },
+    "doi": "10.1101/gad.14.15.1872",
+    "title": "Sip2p and its partner snf1p kinase affect aging in S. cerevisiae.",
+    "authorString": "Ashrafi K, Lin SS, Manchester JK, Gordon JI.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Ashrafi K",
+          "lastName": "Ashrafi",
+          "firstName": "K",
+          "initials": "K",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Molecular Biology and Pharmacology, Washington University School of Medicine, St. Louis, Missouri 63110 USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Lin SS",
+          "lastName": "Lin",
+          "firstName": "S S",
+          "initials": "SS"
+        },
+        {
+          "fullName": "Manchester JK",
+          "lastName": "Manchester",
+          "firstName": "J K",
+          "initials": "JK"
+        },
+        {
+          "fullName": "Gordon JI",
+          "lastName": "Gordon",
+          "firstName": "J I",
+          "initials": "JI"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "15",
+      "volume": "14",
+      "journalIssueId": 1048502,
+      "dateOfPublication": "2000 Aug",
+      "monthOfPublication": 8,
+      "yearOfPublication": 2000,
+      "journal": {
+        "medlineAbbreviation": "Genes Dev",
+        "title": "Genes & development",
+        "essn": "1549-5477",
+        "issn": "0890-9369",
+        "nlmid": "8711660",
+        "isoabbreviation": "Genes Dev"
+      },
+      "printPublicationDate": "2000-08-01"
+    },
+    "pubYear": "2000",
+    "pageInfo": "1872-1885",
+    "abstractText": "For a number of organisms, the ability to withstand periods of nutrient deprivation correlates directly with lifespan. However, the underlying molecular mechanisms are poorly understood. We show that deletion of the N-myristoylprotein, Sip2p, reduces resistance to nutrient deprivation and shortens lifespan in Saccharomyces cerevisiae. This reduced lifespan is due to accelerated aging, as defined by loss of silencing from telomeres and mating loci, nucleolar fragmentation, and accumulation of extrachromosomal rDNA. Genetic studies indicate that sip2Delta produces its effect on aging by increasing the activity of Snf1p, a serine/threonine kinase involved in regulating global cellular responses to glucose starvation. Biochemical analyses reveal that as yeast age, hexokinase activity increases as does cellular ATP and NAD(+) content. The change in glucose metabolism represents a new correlate of aging in yeast and occurs to a greater degree, and at earlier generational ages in sip2Delta cells. Sip2p and Snf1p provide new molecular links between the regulation of cellular energy utilization and aging.",
+    "affiliation": "Department of Molecular Biology and Pharmacology, Washington University School of Medicine, St. Louis, Missouri 63110 USA.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    },
+    "grantsList": {
+      "grant": [
+        {
+          "agency": "NIAID NIH HHS",
+          "acronym": "AI",
+          "grantId": "R01 AI038200",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIAID NIH HHS",
+          "acronym": "AI",
+          "grantId": "AI38200",
+          "orderIn": 0
+        }
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Telomere",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Saccharomyces cerevisiae",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Carbon",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Glucose",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Myristic Acid",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "DNA-Binding Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Trans-Activators"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Fungal Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Saccharomyces cerevisiae Proteins"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Repressor Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "DNA, Ribosomal",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Gene Expression Regulation, Fungal"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mutation"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Protein Serine-Threonine Kinases",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "SIP2 protein, S cerevisiae",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Carbon",
+          "registryNumber": "7440-44-0"
+        },
+        {
+          "name": "Fungal Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Saccharomyces cerevisiae Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Repressor Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "DNA-Binding Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Trans-Activators",
+          "registryNumber": "0"
+        },
+        {
+          "name": "DNA, Ribosomal",
+          "registryNumber": "0"
+        },
+        {
+          "name": "MIG1 protein, S cerevisiae",
+          "registryNumber": "0"
+        },
+        {
+          "name": "SNF1-related protein kinases",
+          "registryNumber": "EC 2.7.1.-"
+        },
+        {
+          "name": "Glucose",
+          "registryNumber": "IY9XDZ35W2"
+        },
+        {
+          "name": "Myristic Acid",
+          "registryNumber": "0I3V7S25AW"
+        },
+        {
+          "name": "Protein Serine-Threonine Kinases",
+          "registryNumber": "EC 2.7.11.1"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Free after 12 months",
+          "availabilityCode": "F12",
+          "documentStyle": "pdf",
+          "site": "www.genesdev.org",
+          "url": "http://www.genesdev.org/cgi/reprint/14/15/1872"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "abs",
+          "site": "www.genesdev.org",
+          "url": "http://www.genesdev.org/cgi/content/abstract/14/15/1872"
+        },
+        {
+          "availability": "Free after 12 months",
+          "availabilityCode": "F12",
+          "documentStyle": "html",
+          "site": "www.genesdev.org",
+          "url": "http://www.genesdev.org/cgi/content/full/14/15/1872"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "doi",
+          "site": "OpenAlex",
+          "url": "https://doi.org/10.1101/gad.14.15.1872"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC316829"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC316829?pdf=render"
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 119,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "Y",
+    "dbCrossReferenceList": {
+      "dbName": [
+        "INTERPRO"
+      ]
+    },
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2000-09-08",
+    "dateOfCreation": "2000-08-02",
+    "dateOfRevision": "2021-12-03",
+    "firstPublicationDate": "2000-08-01",
+    "firstIndexDate": "2009-12-23",
+    "fullTextReceivedDate": "2025-02-02",
+    "hasEvaluations": "N"
+  }
+}

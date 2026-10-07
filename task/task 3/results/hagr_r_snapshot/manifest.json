@@ -1,0 +1,30 @@
+[
+  {
+    "file": "models.csv",
+    "url": "https://raw.githubusercontent.com/maglab/HAGR-R/4e83b50142ea4b8c6625a7a86b6005ff3f606ed6/data-raw/GenAgeModel/models.csv",
+    "commit": "4e83b50142ea4b8c6625a7a86b6005ff3f606ed6",
+    "retrieved_utc": "2026-09-18T03:54:16.721863+00:00",
+    "sha256": "3b9e2e700ff952f0511c8920fe74b42976537d0229d35c6f47b8f9cfbaaf0a43"
+  },
+  {
+    "file": "longevity.csv",
+    "url": "https://raw.githubusercontent.com/maglab/HAGR-R/4e83b50142ea4b8c6625a7a86b6005ff3f606ed6/data-raw/GenAgeModel/longevity.csv",
+    "commit": "4e83b50142ea4b8c6625a7a86b6005ff3f606ed6",
+    "retrieved_utc": "2026-09-18T03:54:18.875450+00:00",
+    "sha256": "eff51aaed14ee6d21ddc6fc9f1d59018ff03f9af4cbc7e9162dc7ae6e4c16c03"
+  },
+  {
+    "file": "gene_biblio.csv",
+    "url": "https://raw.githubusercontent.com/maglab/HAGR-R/4e83b50142ea4b8c6625a7a86b6005ff3f606ed6/data-raw/GenAgeModel/gene_biblio.csv",
+    "commit": "4e83b50142ea4b8c6625a7a86b6005ff3f606ed6",
+    "retrieved_utc": "2026-09-18T03:54:19.270554+00:00",
+    "sha256": "3f6080c3092398d3ec29755f4797342056d6fb3b778d58d06b69f0f8b55a8517"
+  },
+  {
+    "file": "biblio.csv",
+    "url": "https://raw.githubusercontent.com/maglab/HAGR-R/4e83b50142ea4b8c6625a7a86b6005ff3f606ed6/data-raw/GenAgeModel/biblio.csv",
+    "commit": "4e83b50142ea4b8c6625a7a86b6005ff3f606ed6",
+    "retrieved_utc": "2026-09-18T03:54:19.657940+00:00",
+    "sha256": "419799376735d076f073e77dc918be816be70934d507fcc0ea71009348e7edfa"
+  }
+]

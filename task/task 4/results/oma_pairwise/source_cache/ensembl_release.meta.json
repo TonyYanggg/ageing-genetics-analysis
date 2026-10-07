@@ -1,0 +1,21 @@
+{
+  "url": "https://rest.ensembl.org/info/data",
+  "params": {
+    "content-type": "application/json"
+  },
+  "retrieved_utc": "2026-09-18T09:11:27.232872+00:00",
+  "sha256": "86e87c46ae1a424702676493d024d0508ce60f6c951b0b2803ce10269e09c20c",
+  "bytes": 18,
+  "response_headers": {
+    "Vary": "Content-Type, Origin",
+    "Content-Type": "application/json",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:11:26 GMT",
+    "X-RateLimit-Limit": "55000",
+    "X-RateLimit-Reset": "2914",
+    "X-Runtime": "0.073210",
+    "X-RateLimit-Period": "3600",
+    "X-RateLimit-Remaining": "54997",
+    "Content-Length": "18"
+  }
+}

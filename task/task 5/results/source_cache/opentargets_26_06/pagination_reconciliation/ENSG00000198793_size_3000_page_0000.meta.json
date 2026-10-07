@@ -1,0 +1,26 @@
+{
+  "endpoint": "https://api.platform.opentargets.org/api/v4/graphql",
+  "variables": {
+    "ensemblId": "ENSG00000198793",
+    "pageIndex": 0,
+    "pageSize": 3000
+  },
+  "direct_only": true,
+  "purpose": "recover rows obscured by unstable ordering among tied association scores",
+  "retrieved_utc": "2026-09-19T04:11:36.788708+00:00",
+  "response_headers": {
+    "Server": "nginx/1.31.5",
+    "Date": "Sat, 19 Sep 2026 04:11:35 GMT",
+    "Content-Type": "application/json",
+    "Vary": "Accept-Encoding,Origin",
+    "gql-complexity": "48004.0",
+    "Content-Encoding": "gzip",
+    "Via": "1.1 google",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "X-Content-Type-Options": "nosniff",
+    "Alt-Svc": "h3=\":443\"; ma=2592000",
+    "Transfer-Encoding": "chunked"
+  },
+  "sha256": "e429734f9a1e3ac8798b1f070648cea847d81cb3fe258c78d06a5deff99e4a16",
+  "bytes": 1456396
+}

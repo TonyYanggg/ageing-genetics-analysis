@@ -1,0 +1,318 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19197346+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "19197346",
+    "source": "MED",
+    "pmid": "19197346",
+    "pmcid": "PMC2628729",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC2628729"
+      ]
+    },
+    "doi": "10.1371/journal.pgen.1000361",
+    "title": "Deletion of the mitochondrial superoxide dismutase sod-2 extends lifespan in Caenorhabditis elegans.",
+    "authorString": "Van Raamsdonk JM, Hekimi S.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Van Raamsdonk JM",
+          "lastName": "Van Raamsdonk",
+          "firstName": "Jeremy M",
+          "initials": "JM",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Biology, McGill University, Montreal, Quebec, Canada."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Hekimi S",
+          "lastName": "Hekimi",
+          "firstName": "Siegfried",
+          "initials": "S",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-3592-5711"
+          }
+        }
+      ]
+    },
+    "authorIdList": {
+      "authorId": [
+        {
+          "type": "ORCID",
+          "value": "0000-0002-3592-5711"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "recommended_reviews",
+        "wikipedia",
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "2",
+      "volume": "5",
+      "journalIssueId": 1596419,
+      "dateOfPublication": "2009 Feb",
+      "monthOfPublication": 2,
+      "yearOfPublication": 2009,
+      "journal": {
+        "medlineAbbreviation": "PLoS Genet",
+        "title": "PLoS genetics",
+        "essn": "1553-7404",
+        "issn": "1553-7390",
+        "isoabbreviation": "PLoS Genet",
+        "nlmid": "101239074"
+      },
+      "printPublicationDate": "2009-02-01"
+    },
+    "pubYear": "2009",
+    "pageInfo": "e1000361",
+    "abstractText": "The oxidative stress theory of aging postulates that aging results from the accumulation of molecular damage caused by reactive oxygen species (ROS) generated during normal metabolism. Superoxide dismutases (SODs) counteract this process by detoxifying superoxide. It has previously been shown that elimination of either cytoplasmic or mitochondrial SOD in yeast, flies, and mice results in decreased lifespan. In this experiment, we examine the effect of eliminating each of the five individual sod genes present in Caenorhabditis elegans. In contrast to what is observed in other model organisms, none of the sod deletion mutants shows decreased lifespan compared to wild-type worms, despite a clear increase in sensitivity to paraquat- and juglone-induced oxidative stress. In fact, even mutants lacking combinations of two or three sod genes survive at least as long as wild-type worms. Examination of gene expression in these mutants reveals mild compensatory up-regulation of other sod genes. Interestingly, we find that sod-2 mutants are long-lived despite a significant increase in oxidatively damaged proteins. Testing the effect of sod-2 deletion on known pathways of lifespan extension reveals a clear interaction with genes that affect mitochondrial function: sod-2 deletion markedly increases lifespan in clk-1 worms while clearly decreasing the lifespan of isp-1 worms. Combined with the mitochondrial localization of SOD-2 and the fact that sod-2 mutant worms exhibit phenotypes that are characteristic of long-lived mitochondrial mutants-including slow development, low brood size, and slow defecation-this suggests that deletion of sod-2 extends lifespan through a similar mechanism. This conclusion is supported by our demonstration of decreased oxygen consumption in sod-2 mutant worms. Overall, we show that increased oxidative stress caused by deletion of sod genes does not result in decreased lifespan in C. elegans and that deletion of sod-2 extends worm lifespan by altering mitochondrial function.",
+    "affiliation": "Department of Biology, McGill University, Montreal, Quebec, Canada.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print-Electronic",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mitochondria",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "EN",
+                "qualifierName": "enzymology"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caenorhabditis elegans",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "EN",
+                "qualifierName": "enzymology"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Superoxide Dismutase",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caenorhabditis elegans Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "RNA, Messenger",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Sequence Deletion"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Oxidative Stress"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Oxygen Consumption",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Longevity",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Phenotype"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Genes, Helminth"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Osmotic Pressure"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Superoxide Dismutase 2"
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "RNA, Messenger",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Superoxide Dismutase",
+          "registryNumber": "EC 1.15.1.1"
+        },
+        {
+          "name": "Caenorhabditis elegans Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "superoxide dismutase 2",
+          "registryNumber": "EC 1.15.1.1"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1371/journal.pgen.1000361"
+        },
+        {
+          "availability": "Open access",
+          "availabilityCode": "OA",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC2628729"
+        },
+        {
+          "availability": "Open access",
+          "availabilityCode": "OA",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC2628729?pdf=render"
+        }
+      ]
+    },
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 399,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "license": "cc by",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2009-03-30",
+    "dateOfCreation": "2009-02-07",
+    "dateOfRevision": "2026-01-28",
+    "electronicPublicationDate": "2009-02-06",
+    "firstPublicationDate": "2009-02-06",
+    "firstIndexDate": "2009-12-23",
+    "fullTextReceivedDate": "2025-02-02",
+    "hasEvaluations": "N"
+  }
+}

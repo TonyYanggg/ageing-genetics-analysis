@@ -1,0 +1,309 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A17204841+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "17204841",
+    "source": "MED",
+    "pmid": "17204841",
+    "doi": "10.4161/auto.3636",
+    "title": "Autophagy regulates ageing in C. elegans.",
+    "authorString": "Hars ES, Qi H, Ryazanov AG, Jin S, Cai L, Hu C, Liu LF.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Hars ES",
+          "lastName": "Hars",
+          "firstName": "Eszter S",
+          "initials": "ES",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0003-3674-3562"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Pharmacology, University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical School, Piscataway, New Jersey 08854, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Qi H",
+          "lastName": "Qi",
+          "firstName": "Haiyan",
+          "initials": "H"
+        },
+        {
+          "fullName": "Ryazanov AG",
+          "lastName": "Ryazanov",
+          "firstName": "Alexey G",
+          "initials": "AG"
+        },
+        {
+          "fullName": "Jin S",
+          "lastName": "Jin",
+          "firstName": "Shengkan",
+          "initials": "S",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-5979-7232"
+          }
+        },
+        {
+          "fullName": "Cai L",
+          "lastName": "Cai",
+          "firstName": "Li",
+          "initials": "L",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0003-3344-337X"
+          }
+        },
+        {
+          "fullName": "Hu C",
+          "lastName": "Hu",
+          "firstName": "Chengcheng",
+          "initials": "C",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-8525-0356"
+          }
+        },
+        {
+          "fullName": "Liu LF",
+          "lastName": "Liu",
+          "firstName": "Leroy F",
+          "initials": "LF",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-9396-763X"
+          }
+        }
+      ]
+    },
+    "authorIdList": {
+      "authorId": [
+        {
+          "type": "ORCID",
+          "value": "0000-0001-8525-0356"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0001-9396-763X"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0002-5979-7232"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0003-3344-337X"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0003-3674-3562"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "2",
+      "volume": "3",
+      "journalIssueId": 1385889,
+      "dateOfPublication": "2007 Mar-Apr",
+      "monthOfPublication": 0,
+      "yearOfPublication": 2007,
+      "journal": {
+        "medlineAbbreviation": "Autophagy",
+        "title": "Autophagy",
+        "essn": "1554-8635",
+        "issn": "1554-8627",
+        "nlmid": "101265188",
+        "isoabbreviation": "Autophagy"
+      },
+      "printPublicationDate": "2007-03-01"
+    },
+    "pubYear": "2007",
+    "pageInfo": "93-95",
+    "abstractText": "The role of autophagy in ageing regulation has been suggested based on studies in C. elegans, in which knockdown of the expression of bec-1 (ortholog of the yeast and mammalian autophagy genes ATG6/VPS30 and beclin 1, respectively) shortens lifespan of the daf-2(e1370) mutant C. elegans. However, Beclin1/ATG6 is also known to be involved in other cellular functions in addition to autophagy. In the current study, we knocked down two other autophagy genes, atg-7 and atg-12, in C. elegans using RNAi. We showed that RNAi shortened the lifespan of both wild type and daf-2 mutant C. elegans, providing strong support for a role of autophagy in ageing regulation.",
+    "affiliation": "Department of Pharmacology, University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical School, Piscataway, New Jersey 08854, USA.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print-Electronic",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    "grantsList": {
+      "grant": [
+        {
+          "agency": "NIA NIH HHS",
+          "acronym": "AG",
+          "grantId": "AG19890",
+          "orderIn": 0
+        },
+        {
+          "agency": "NCI NIH HHS",
+          "acronym": "CA",
+          "grantId": "CA102463",
+          "orderIn": 0
+        },
+        {
+          "agency": "NCI NIH HHS",
+          "acronym": "CA",
+          "grantId": "CA39662",
+          "orderIn": 0
+        }
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caenorhabditis elegans",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caenorhabditis elegans Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Proportional Hazards Models"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Survival Analysis"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "RNA Interference"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Aging",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Longevity",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Autophagy",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "Caenorhabditis elegans Proteins",
+          "registryNumber": "0"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.4161/auto.3636"
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "N",
+    "inPMC": "N",
+    "citedByCount": 177,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "N",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2007-04-11",
+    "dateOfCreation": "2007-01-06",
+    "dateOfRevision": "2019-05-16",
+    "electronicPublicationDate": "2007-03-30",
+    "firstPublicationDate": "2007-03-30",
+    "firstIndexDate": "2008-01-29",
+    "hasEvaluations": "N"
+  }
+}

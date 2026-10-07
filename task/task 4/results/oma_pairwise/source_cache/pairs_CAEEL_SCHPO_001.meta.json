@@ -1,0 +1,32 @@
+{
+  "url": "https://omabrowser.org/api/pairs/CAEEL/SCHPO/",
+  "params": {
+    "per_page": 10000,
+    "page": 1
+  },
+  "retrieved_utc": "2026-09-18T09:08:31.653680+00:00",
+  "sha256": "68e90fc9d61ac9ff7d8e7d757cc6e6fd0c9348fb429bc6819219ece260082cbb",
+  "bytes": 2546720,
+  "response_headers": {
+    "Date": "Fri, 18 Sep 2026 09:08:30 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=yCwK67ohSLHFPgTjCkAUZfF3%2B5MbW67snLU4vybvy1%2FQE7WwJvyJIt02B2e81Ijzl0Ypb3x%2B0XVVwrg9QhHQYBwnIp8NXlslMRaLckSio54j0yiH0A3WP%2F8T5G7kpfCE\"}]}",
+    "X-Total-Count": "2273",
+    "Vary": "Accept, origin, Cookie, accept-encoding",
+    "Allow": "GET, HEAD, OPTIONS",
+    "Cache-Control": "public, max-age=86400",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Set-Cookie": "__matomo=ada16a0fa2a87e15; expires=Sun, 17-Sep-2028 09:08:30 UTC; Path=/",
+    "Strict-Transport-Security": "max-age=15768000",
+    "Content-Encoding": "gzip",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a3cf34d40cac0df8-HKG"
+  }
+}

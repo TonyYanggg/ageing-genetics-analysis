@@ -1,0 +1,28 @@
+{
+  "url": "https://omabrowser.org/api/genome/MOUSE/",
+  "params": null,
+  "retrieved_utc": "2026-09-18T09:03:34.453962+00:00",
+  "sha256": "0216cd7779ddb05e11678f28c0d212d028d89cf5b984b62cbc9ef01d0e857b3c",
+  "bytes": 2460,
+  "response_headers": {
+    "Date": "Fri, 18 Sep 2026 09:03:34 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=p77aC5dGbSDo3SvlFjregCFezh%2BT2wUVyvtoF420t6seRDnFkaUBg%2FgVMQ6OCQnoXjjxfPPUozunbjflW7aQr%2FRLwYIndZJvAW9Nf3c1sRbI1Qdb9iFzbx1ZP%2BM1Ue8s\"}]}",
+    "Vary": "Accept, origin, Cookie, accept-encoding",
+    "Allow": "GET, HEAD, OPTIONS",
+    "Cache-Control": "public, max-age=86400",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Set-Cookie": "__matomo=ada16a0fa2a87e15; expires=Sun, 17-Sep-2028 09:03:34 UTC; Path=/",
+    "Strict-Transport-Security": "max-age=15768000",
+    "Content-Encoding": "gzip",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a3cf2d9bdd3288cc-HKG"
+  }
+}

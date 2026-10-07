@@ -1,0 +1,11 @@
+# Preserve exact source bytes; large files use Git LFS.
+* -text
+"task/task 4/results/oma_pairwise/source_cache/pairs_CAEEL_CAEBR_001.json" filter=lfs diff=lfs merge=lfs -text
+"task/task 4/results/oma_pairwise/source_cache/pairs_CAEEL_DANRE_001.json" filter=lfs diff=lfs merge=lfs -text
+"task/task 4/results/oma_pairwise/source_cache/pairs_DROME_DANRE_001.json" filter=lfs diff=lfs merge=lfs -text
+"task/task 4/results/oma_pairwise/source_cache/pairs_MOUSE_DANRE_001.json" filter=lfs diff=lfs merge=lfs -text
+"task/task 4/results/oma_pairwise/source_pairs.csv" filter=lfs diff=lfs merge=lfs -text
+"task/task 5/figures/task5_human_gene_disease_review.tiff" filter=lfs diff=lfs merge=lfs -text
+"task/task 5/results/opentargets_datasource_scores.csv" filter=lfs diff=lfs merge=lfs -text
+"task/task 5/results/opentargets_datatype_scores.csv" filter=lfs diff=lfs merge=lfs -text
+"task/task 5/results/opentargets_gene_disease.csv" filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,10 @@
+{
+  "source_release": "v12.2",
+  "complete": true,
+  "source_sha256": "8717b30212a2f6039a7b70c28dff8bc5696c166e04a150f95302f90b8585c2a0",
+  "input_records": 2205,
+  "queried_identifiers": 2199,
+  "unique_identifiers": 2199,
+  "batches": 44,
+  "memberships": 11171
+}

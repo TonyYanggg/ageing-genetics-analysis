@@ -1,0 +1,18 @@
+{
+  "url": "https://data.orthodb.org/v12/species",
+  "params": {
+    "clade": "2759"
+  },
+  "retrieved_utc": "2026-09-18T06:33:25.619999+00:00",
+  "sha256": "d12553b8505e26cc3d1079cfd0ec0feab410dd0961c520473402e34322e87ff2",
+  "bytes": 955519,
+  "response_headers": {
+    "Server": "nginx/1.20.1",
+    "Date": "Fri, 18 Sep 2026 06:33:08 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Range": "0-0/*",
+    "Access-Control-Allow-Origin": "*"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://omabrowser.org/api/genome/DROME/",
+  "params": null,
+  "retrieved_utc": "2026-09-18T09:03:31.097326+00:00",
+  "sha256": "e0f70885dcaedf1f15a3bbae0d44929723de90710fc0e7f71ad894b70bd395bc",
+  "bytes": 1319,
+  "response_headers": {
+    "Date": "Fri, 18 Sep 2026 09:03:30 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Vary": "Accept, origin, Cookie, accept-encoding",
+    "Allow": "GET, HEAD, OPTIONS",
+    "Cache-Control": "public, max-age=86400",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Set-Cookie": "__matomo=424159afb266cb72; expires=Sun, 17-Sep-2028 09:03:30 UTC; Path=/",
+    "Strict-Transport-Security": "max-age=15768000",
+    "Content-Encoding": "gzip",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=WOQUPOkKieUdxLN9IYBd2M5djEt%2BSDn04uhz5bJnj%2BAM%2FhcSASnPZ9G1tmh7O%2BxGCtCyoq8jUGzCRUlKE3SbFnx18AhXp0zmvX3fDrit7riXyvka15%2FEL%2F58%2BMII6rkB\"}]}",
+    "CF-RAY": "a3cf2d874f3a49e4-HKG"
+  }
+}

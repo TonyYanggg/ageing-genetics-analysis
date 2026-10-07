@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "cached_response_hashes_checked": 62,
+  "raw_records": 2205,
+  "species": 9,
+  "raw_source_hash_unchanged": true,
+  "scope": "Integrity and table reconciliation only; not independent full reconstruction or biological validation."
+}

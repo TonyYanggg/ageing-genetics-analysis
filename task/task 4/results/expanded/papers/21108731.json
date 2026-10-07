@@ -1,0 +1,601 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A21108731+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "21108731",
+    "source": "MED",
+    "pmid": "21108731",
+    "doi": "10.1111/j.1474-9726.2010.00658.x",
+    "title": "Accelerated aging phenotype in mice with conditional deficiency for mitochondrial superoxide dismutase in the connective tissue.",
+    "authorString": "Treiber N, Maity P, Singh K, Kohn M, Keist AF, Ferchiu F, Sante L, Frese S, Bloch W, Kreppel F, Kochanek S, Sindrilaru A, Iben S, H\u00f6gel J, Ohnmacht M, Claes LE, Ignatius A, Chung JH, Lee MJ, Kamenisch Y, Berneburg M, Nikolaus T, Braunstein K, Sperfeld AD, Ludolph AC, Briviba K, Wlaschek M, Florin L, Angel P, Scharffetter-Kochanek K.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Treiber N",
+          "lastName": "Treiber",
+          "firstName": "Nicolai",
+          "initials": "N",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Dermatology and Allergic Diseases, University of Ulm, Maienweg 12, Ulm, Germany."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Maity P",
+          "lastName": "Maity",
+          "firstName": "Pallab",
+          "initials": "P",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-9769-3533"
+          }
+        },
+        {
+          "fullName": "Singh K",
+          "lastName": "Singh",
+          "firstName": "Karmveer",
+          "initials": "K"
+        },
+        {
+          "fullName": "Kohn M",
+          "lastName": "Kohn",
+          "firstName": "Matthias",
+          "initials": "M"
+        },
+        {
+          "fullName": "Keist AF",
+          "lastName": "Keist",
+          "firstName": "Alexander F",
+          "initials": "AF"
+        },
+        {
+          "fullName": "Ferchiu F",
+          "lastName": "Ferchiu",
+          "firstName": "Florentina",
+          "initials": "F"
+        },
+        {
+          "fullName": "Sante L",
+          "lastName": "Sante",
+          "firstName": "Lea",
+          "initials": "L"
+        },
+        {
+          "fullName": "Frese S",
+          "lastName": "Frese",
+          "firstName": "Sebastian",
+          "initials": "S"
+        },
+        {
+          "fullName": "Bloch W",
+          "lastName": "Bloch",
+          "firstName": "Wilhelm",
+          "initials": "W"
+        },
+        {
+          "fullName": "Kreppel F",
+          "lastName": "Kreppel",
+          "firstName": "Florian",
+          "initials": "F",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-0213-7815"
+          }
+        },
+        {
+          "fullName": "Kochanek S",
+          "lastName": "Kochanek",
+          "firstName": "Stefan",
+          "initials": "S"
+        },
+        {
+          "fullName": "Sindrilaru A",
+          "lastName": "Sindrilaru",
+          "firstName": "Anca",
+          "initials": "A",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-1691-0047"
+          }
+        },
+        {
+          "fullName": "Iben S",
+          "lastName": "Iben",
+          "firstName": "Sebastian",
+          "initials": "S"
+        },
+        {
+          "fullName": "H\u00f6gel J",
+          "lastName": "H\u00f6gel",
+          "firstName": "Josef",
+          "initials": "J"
+        },
+        {
+          "fullName": "Ohnmacht M",
+          "lastName": "Ohnmacht",
+          "firstName": "Michael",
+          "initials": "M"
+        },
+        {
+          "fullName": "Claes LE",
+          "lastName": "Claes",
+          "firstName": "Lutz E",
+          "initials": "LE"
+        },
+        {
+          "fullName": "Ignatius A",
+          "lastName": "Ignatius",
+          "firstName": "Anita",
+          "initials": "A",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-4782-1979"
+          }
+        },
+        {
+          "fullName": "Chung JH",
+          "lastName": "Chung",
+          "firstName": "Jin H",
+          "initials": "JH"
+        },
+        {
+          "fullName": "Lee MJ",
+          "lastName": "Lee",
+          "firstName": "Min J",
+          "initials": "MJ"
+        },
+        {
+          "fullName": "Kamenisch Y",
+          "lastName": "Kamenisch",
+          "firstName": "York",
+          "initials": "Y"
+        },
+        {
+          "fullName": "Berneburg M",
+          "lastName": "Berneburg",
+          "firstName": "Mark",
+          "initials": "M"
+        },
+        {
+          "fullName": "Nikolaus T",
+          "lastName": "Nikolaus",
+          "firstName": "Thorsten",
+          "initials": "T"
+        },
+        {
+          "fullName": "Braunstein K",
+          "lastName": "Braunstein",
+          "firstName": "Kerstin",
+          "initials": "K"
+        },
+        {
+          "fullName": "Sperfeld AD",
+          "lastName": "Sperfeld",
+          "firstName": "Anne-Dorte",
+          "initials": "AD"
+        },
+        {
+          "fullName": "Ludolph AC",
+          "lastName": "Ludolph",
+          "firstName": "Albert C",
+          "initials": "AC"
+        },
+        {
+          "fullName": "Briviba K",
+          "lastName": "Briviba",
+          "firstName": "Karlis",
+          "initials": "K",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0003-3338-7515"
+          }
+        },
+        {
+          "fullName": "Wlaschek M",
+          "lastName": "Wlaschek",
+          "firstName": "Meinhard",
+          "initials": "M"
+        },
+        {
+          "fullName": "Florin L",
+          "lastName": "Florin",
+          "firstName": "Lore",
+          "initials": "L"
+        },
+        {
+          "fullName": "Angel P",
+          "lastName": "Angel",
+          "firstName": "Peter",
+          "initials": "P"
+        },
+        {
+          "fullName": "Scharffetter-Kochanek K",
+          "lastName": "Scharffetter-Kochanek",
+          "firstName": "Karin",
+          "initials": "K",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-9655-685X"
+          }
+        }
+      ]
+    },
+    "authorIdList": {
+      "authorId": [
+        {
+          "type": "ORCID",
+          "value": "0000-0001-6032-0127"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0001-9769-3533"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0002-0213-7815"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0002-1691-0047"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0002-4782-1979"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0002-9655-685X"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0003-3338-7515"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "related_data",
+        "wikipedia"
+      ]
+    },
+    "journalInfo": {
+      "issue": "2",
+      "volume": "10",
+      "journalIssueId": 1815858,
+      "dateOfPublication": "2011 Apr",
+      "monthOfPublication": 4,
+      "yearOfPublication": 2011,
+      "journal": {
+        "medlineAbbreviation": "Aging Cell",
+        "title": "Aging cell",
+        "essn": "1474-9726",
+        "issn": "1474-9718",
+        "isoabbreviation": "Aging Cell",
+        "nlmid": "101130839"
+      },
+      "printPublicationDate": "2011-04-01"
+    },
+    "pubYear": "2011",
+    "pageInfo": "239-254",
+    "abstractText": "The free radical theory of aging postulates that the production of mitochondrial reactive oxygen species is the major determinant of aging and lifespan. Its role in aging of the connective tissue has not yet been established, even though the incidence of aging-related disorders in connective tissue-rich organs is high, causing major disability in the elderly. We have now addressed this question experimentally by creating mice with conditional deficiency of the mitochondrial manganese superoxide dismutase in fibroblasts and other mesenchyme-derived cells of connective tissues in all organs. Here, we have shown for the first time that the connective tissue-specific lack of superoxide anion detoxification in the mitochondria results in reduced lifespan and premature onset of aging-related phenotypes such as weight loss, skin atrophy, kyphosis (curvature of the spine), osteoporosis and muscle degeneration in mutant mice. Increase in p16(INK4a) , a robust in vivo marker for fibroblast aging, may contribute to the observed phenotype. This novel model is particularly suited to decipher the underlying mechanisms and to develop hopefully novel connective tissue-specific anti-aging strategies.",
+    "affiliation": "Department of Dermatology and Allergic Diseases, University of Ulm, Maienweg 12, Ulm, Germany.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print-Electronic",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Muscle, Skeletal",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PA",
+                "qualifierName": "pathology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Bone and Bones",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PA",
+                "qualifierName": "pathology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Connective Tissue",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "EN",
+                "qualifierName": "enzymology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Cells, Cultured"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mitochondria",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "EN",
+                "qualifierName": "enzymology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Fibroblasts",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "CY",
+                "qualifierName": "cytology"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Skin",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PA",
+                "qualifierName": "pathology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mice, Knockout"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Humans"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mice"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Kyphosis"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Superoxides",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Reactive Oxygen Species",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Superoxide Dismutase",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "DF",
+                "qualifierName": "deficiency"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Aging",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Longevity",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Phenotype"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Female"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Male"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Cyclin-Dependent Kinase Inhibitor p16",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Biomarkers",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "Superoxide Dismutase",
+          "registryNumber": "EC 1.15.1.1"
+        },
+        {
+          "name": "Superoxides",
+          "registryNumber": "11062-77-4"
+        },
+        {
+          "name": "Reactive Oxygen Species",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Cyclin-Dependent Kinase Inhibitor p16",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Cdkn2a protein, mouse",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Biomarkers",
+          "registryNumber": "0"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1111/j.1474-9726.2010.00658.x"
+        }
+      ]
+    },
+    "commentCorrectionList": {
+      "commentCorrection": [
+        {
+          "source": "MED",
+          "reference": "Aging Cell. 2011Oct;10(5):912",
+          "type": "Erratum in",
+          "note": "Florin, Lore [added]; Angel, Peter [added]",
+          "orderIn": 1
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "N",
+    "inPMC": "N",
+    "citedByCount": 93,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "N",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2011-07-05",
+    "dateOfCreation": "2010-11-27",
+    "dateOfRevision": "2015-11-19",
+    "electronicPublicationDate": "2010-12-29",
+    "firstPublicationDate": "2010-12-29",
+    "firstIndexDate": "2010-11-27",
+    "hasEvaluations": "N"
+  }
+}

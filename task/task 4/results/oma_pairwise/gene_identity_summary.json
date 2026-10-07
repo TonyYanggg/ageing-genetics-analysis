@@ -1,0 +1,16 @@
+{
+  "records": 2205,
+  "identity_states": {
+    "matched_taxon": 2187,
+    "discontinued_or_replaced": 8,
+    "missing_id": 3,
+    "taxon_mismatch": 7
+  },
+  "gene_types": {
+    "not_queried_or_unavailable": 2087,
+    "PROTEIN_CODING": 92,
+    "PSEUDO": 8,
+    "ncRNA": 17,
+    "miscRNA": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://omabrowser.org/api/pairs/MOUSE/CAEBR/",
+  "params": {
+    "per_page": 10000,
+    "page": 1
+  },
+  "retrieved_utc": "2026-09-18T09:09:37.549508+00:00",
+  "sha256": "aba72c2465753c1dc0c8234dc775cf8711b78d9f5f4470863a3f380ef8a4dd2e",
+  "bytes": 6157574,
+  "response_headers": {
+    "Date": "Fri, 18 Sep 2026 09:09:35 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "X-Total-Count": "5627",
+    "Vary": "Accept, origin, Cookie, accept-encoding",
+    "Allow": "GET, HEAD, OPTIONS",
+    "Cache-Control": "public, max-age=86400",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Set-Cookie": "__matomo=424159afb266cb72; expires=Sun, 17-Sep-2028 09:09:35 UTC; Path=/",
+    "Strict-Transport-Security": "max-age=15768000",
+    "Content-Encoding": "gzip",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=f%2FeSNazLquF5FIsa5uAmpU8Lba%2FmIzD9C0UUDmNjPEham7Aczfb7rW%2BvKCni5AXsawe6JuPKrfT9CeB9Est2P1pXvCp4ZyNhs6Dkz7XvCHjWBqWwy5SCFdAY10JiY7hW\"}]}",
+    "CF-RAY": "a3cf365cfc52c8a7-HKG"
+  }
+}

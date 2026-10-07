@@ -1,0 +1,22 @@
+{
+  "url": "https://rest.ensembl.org/lookup/id/ENSMAUG00000003914",
+  "params": {
+    "content-type": "application/json"
+  },
+  "retrieved_utc": "2026-09-18T09:12:02.944241+00:00",
+  "sha256": "5f79d9b984e342fe9137a94a45b393f783fc25680d0668eddbddb65cd8d1d5eb",
+  "bytes": 446,
+  "response_headers": {
+    "Vary": "Content-Type, Origin",
+    "Content-Type": "application/json",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:12:02 GMT",
+    "X-RateLimit-Limit": "55000",
+    "X-RateLimit-Reset": "2878",
+    "X-Runtime": "0.819670",
+    "Accept-Ranges": "bytes",
+    "X-RateLimit-Period": "3600",
+    "X-RateLimit-Remaining": "54995",
+    "Content-Length": "446"
+  }
+}

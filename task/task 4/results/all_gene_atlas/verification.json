@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "genes": 320,
+  "genage_records": 321,
+  "direct_pairs": 206,
+  "networks": 133,
+  "pages": 36,
+  "reviewed_examples": 20,
+  "catalogue_annotations": 300,
+  "all_pages_all_card_text_checked": true,
+  "all_pairs_rendered": true,
+  "all_svg_pdf_png_tiff_exports_checked": true,
+  "text_elements": 3558
+}

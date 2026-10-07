@@ -1,0 +1,68 @@
+genage_id,species,entrez_id,symbol,status,mapping_route,oma_proteins,lifespan_effect,influence,ncbi_identity_status,current_ncbi_type,current_ncbi_symbol,resolution_category,experiment_review_decision,review_pmid
+79,Caenorhabditis elegans,183342,scl-4,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,PSEUDO,scl-4,current_pseudogene_annotation,,
+128,Mesocricetus auratus,101830758,Csnk1e,source_species_unavailable,,,Increase,Unannotated,matched_taxon,PROTEIN_CODING,Csnk1e,OMA_source_species_gap,native_model_gene,12054192
+137,Podospora anserina,802462,cox1,source_species_unavailable,,,Increase,Unannotated,matched_taxon,PROTEIN_CODING,cox1,OMA_source_species_gap,mitochondrial_locus_context,10330149
+146,Podospora anserina,802462,cox1,source_species_unavailable,,,Increase,Unannotated,matched_taxon,PROTEIN_CODING,cox1,catalogue_gene_paper_conflict,catalogue_gene_paper_conflict,17081785
+176,Caenorhabditis elegans,177676,dic-1,no_exact_xref,,,Increase,Anti-Longevity,discontinued_or_replaced,not_queried_or_unavailable,dic-1,discontinued_identifier,,
+198,Drosophila melanogaster,249462,l(3)DTS3,no_exact_xref,,,Increase,Anti-Longevity,discontinued_or_replaced,not_queried_or_unavailable,l(3)DTS3,discontinued_identifier,,
+202,Caenorhabditis elegans,,eat-1,missing_id,,,Increase,Anti-Longevity,missing_id,not_queried_or_unavailable,,missing_stable_identifier,,
+203,Caenorhabditis elegans,13183021,eat-18,no_exact_xref,,,Increase,Anti-Longevity,discontinued_or_replaced,not_queried_or_unavailable,eat-18,discontinued_identifier,,
+256,Caenorhabditis elegans,185645,F42A6.1,no_exact_xref,,,Increase,Anti-Longevity,discontinued_or_replaced,not_queried_or_unavailable,F42A6.1,discontinued_identifier,,
+281,Caenorhabditis elegans,189476,fbxa-121,no_exact_xref,,,Decrease,Pro-Longevity,matched_taxon,PSEUDO,fbxa-121,current_pseudogene_annotation,,
+299,Caenorhabditis elegans,180951,gei-15,no_exact_xref,,,Increase,Anti-Longevity,discontinued_or_replaced,not_queried_or_unavailable,gei-15,discontinued_identifier,,
+343,Caenorhabditis elegans,179287,hsp-16.48,ambiguous_identifier,direct_NCBI_xref,CAEEL15012;CAEEL15013,Increase,Pro-Longevity,matched_taxon,PROTEIN_CODING,hsp-16.48,ambiguous_gene_to_protein_identity,,
+344,Caenorhabditis elegans,179288,hsp-16.49,ambiguous_identifier,direct_NCBI_xref,CAEEL15012;CAEEL15013,Increase and Decrease,Pro-Longevity,matched_taxon,PROTEIN_CODING,hsp-16.49,ambiguous_gene_to_protein_identity,,
+352,Drosophila melanogaster,,hsp70,missing_id,,,Increase,Pro-Longevity,missing_id,not_queried_or_unavailable,,missing_stable_identifier,,
+412,Caenorhabditis elegans,266860,lin-4,no_exact_xref,,,,Pro-Longevity,matched_taxon,ncRNA,lin-4,noncoding_not_assessed_by_protein_orthology,,
+523,Caenorhabditis elegans,187596,CELE_R05A10.5,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,PSEUDO,R05A10.5,current_pseudogene_annotation,,
+577,Saccharomyces cerevisiae,852479,RPS6B,ambiguous_identifier,direct_NCBI_xref,YEAST00476;YEAST06143,Increase,Anti-Longevity,matched_taxon,PROTEIN_CODING,RPS6B,ambiguous_gene_to_protein_identity,,
+618,Caenorhabditis elegans,,SNCA,missing_id,,,Increase,Pro-Longevity,missing_id,not_queried_or_unavailable,,missing_stable_identifier,,
+674,Saccharomyces cerevisiae,9164870,TLC1,no_exact_xref,,,Increase and Decrease,Pro-Longevity,matched_taxon,ncRNA,TLC1,noncoding_not_assessed_by_protein_orthology,,
+695,Drosophila melanogaster,7351,UCP2,no_exact_xref,,,Increase,Pro-Longevity,taxon_mismatch,PROTEIN_CODING,UCP2,confirmed_heterologous_construct,confirmed_heterologous_construct,16054055
+737,Caenorhabditis elegans,178446,sams-2,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,PSEUDO,sams-2,current_pseudogene_annotation,,
+750,Caenorhabditis elegans,189958,Y46G5A.6,no_exact_xref,,,Decrease,Pro-Longevity,matched_taxon,PSEUDO,Y46G5A.6,current_pseudogene_annotation,,
+751,Caenorhabditis elegans,189968,Y46H3C.6,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,PSEUDO,Y46H3C.6,current_pseudogene_annotation,,
+761,Caenorhabditis elegans,190326,Y56A3A.9,no_exact_xref,,,Increase,Anti-Longevity,discontinued_or_replaced,not_queried_or_unavailable,Y56A3A.9,discontinued_identifier,,
+779,Caenorhabditis elegans,178827,ZC132.3,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,PROTEIN_CODING,ZC132.11,protein_identifier_gap_after_stable_bridge_search,,
+930,Caenorhabditis elegans,184826,F22D3.5,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,PSEUDO,F22D3.5,current_pseudogene_annotation,,
+937,Caenorhabditis elegans,6418597,F56H1.7,no_exact_xref,,,Decrease,Pro-Longevity,discontinued_or_replaced,not_queried_or_unavailable,F56H1.7,discontinued_identifier,,
+946,Caenorhabditis elegans,188415,hpa-2,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,PSEUDO,hpa-2,current_pseudogene_annotation,,
+966,Caenorhabditis elegans,176048,numr-1,ambiguous_identifier,direct_NCBI_xref,CAEEL08062,Increase,Pro-Longevity,matched_taxon,PROTEIN_CODING,numr-1,ambiguous_gene_to_protein_identity,,
+967,Caenorhabditis elegans,176049,numr-2,ambiguous_identifier,direct_NCBI_xref,CAEEL08062,Increase,Pro-Longevity,matched_taxon,PROTEIN_CODING,numr-2,ambiguous_gene_to_protein_identity,,
+999,Caenorhabditis elegans,189168,W03G1.8,no_exact_xref,,,Increase,Anti-Longevity,discontinued_or_replaced,not_queried_or_unavailable,W03G1.8,discontinued_identifier,,
+1052,Saccharomyces cerevisiae,851993,EFT2,ambiguous_identifier,direct_NCBI_xref,YEAST01033;YEAST05975,Decrease,Necessary for fitness,matched_taxon,PROTEIN_CODING,EFT2,ambiguous_gene_to_protein_identity,,
+1167,Saccharomyces cerevisiae,853303,TIF2,ambiguous_identifier,direct_NCBI_xref,YEAST03533;YEAST03837,Increase and Decrease,Anti-Longevity,matched_taxon,PROTEIN_CODING,TIF2,ambiguous_gene_to_protein_identity,,
+1383,Saccharomyces cerevisiae,853933,TIF1,ambiguous_identifier,direct_NCBI_xref,YEAST03533;YEAST03837,Increase and Decrease,Anti-Longevity,matched_taxon,PROTEIN_CODING,TIF1,ambiguous_gene_to_protein_identity,,
+1423,Saccharomyces cerevisiae,854741,RPS24B,ambiguous_identifier,direct_NCBI_xref,YEAST01824;YEAST02125,Decrease,Necessary for fitness,matched_taxon,PROTEIN_CODING,RPS24B,ambiguous_gene_to_protein_identity,,
+1426,Saccharomyces cerevisiae,854301,EFT1,ambiguous_identifier,direct_NCBI_xref,YEAST01033;YEAST05975,Decrease,Necessary for fitness,matched_taxon,PROTEIN_CODING,EFT1,ambiguous_gene_to_protein_identity,,
+1444,Saccharomyces cerevisiae,856805,RPS24A,ambiguous_identifier,direct_NCBI_xref,YEAST01824;YEAST02125,Increase and Decrease,Anti-Longevity,matched_taxon,PROTEIN_CODING,RPS24A,ambiguous_gene_to_protein_identity,,
+1457,Saccharomyces cerevisiae,852254,RPL19B,ambiguous_identifier,direct_NCBI_xref,YEAST00236;YEAST00371,Increase,Anti-Longevity,matched_taxon,PROTEIN_CODING,RPL19B,ambiguous_gene_to_protein_identity,,
+1459,Saccharomyces cerevisiae,852026,RPL12B,ambiguous_identifier,direct_NCBI_xref,YEAST01113;YEAST01868,Increase,Anti-Longevity,matched_taxon,PROTEIN_CODING,RPL12B,ambiguous_gene_to_protein_identity,,
+1593,Saccharomyces cerevisiae,856656,RPL12A,ambiguous_identifier,direct_NCBI_xref,YEAST01113;YEAST01868,Increase,Anti-Longevity,matched_taxon,PROTEIN_CODING,RPL12A,ambiguous_gene_to_protein_identity,,
+1607,Saccharomyces cerevisiae,856015,RPS6A,ambiguous_identifier,direct_NCBI_xref,YEAST00476;YEAST06143,Increase,Anti-Longevity,matched_taxon,PROTEIN_CODING,RPS6A,ambiguous_gene_to_protein_identity,,
+1656,Saccharomyces cerevisiae,852379,RPL19A,ambiguous_identifier,direct_NCBI_xref,YEAST00236;YEAST00371,Increase,Anti-Longevity,matched_taxon,PROTEIN_CODING,RPL19A,ambiguous_gene_to_protein_identity,,
+1729,Saccharomyces cerevisiae,856156,RPL43A,ambiguous_identifier,direct_NCBI_xref,YEAST03354;YEAST06403,Decrease,Necessary for fitness,matched_taxon,PROTEIN_CODING,RPL43A,ambiguous_gene_to_protein_identity,,
+1730,Saccharomyces cerevisiae,853557,RPL43B,ambiguous_identifier,direct_NCBI_xref,YEAST06403,Increase,Anti-Longevity,matched_taxon,PROTEIN_CODING,RPL43B,ambiguous_gene_to_protein_identity,,
+1808,Mus musculus,4521,NUDT1,no_exact_xref,,,Increase,Pro-Longevity,taxon_mismatch,PROTEIN_CODING,NUDT1,confirmed_heterologous_construct,confirmed_heterologous_construct,23648059
+1833,Podospora anserina,6194500,PODANSg7134,source_species_unavailable,,,Increase,Anti-Longevity,matched_taxon,PROTEIN_CODING,PODANS_6_5980,catalogue_gene_paper_conflict,catalogue_gene_paper_conflict,20306265
+2075,Saccharomyces cerevisiae,3640787,APC10,no_exact_xref,,,Increase and Decrease,Pro-Longevity,taxon_mismatch,not_queried_or_unavailable,APC10,catalogue_taxon_conflict,catalogue_taxon_conflict,15514051
+2104,Mus musculus,2539,G6PD,no_exact_xref,,,Increase,Pro-Longevity,taxon_mismatch,PROTEIN_CODING,G6PD,confirmed_heterologous_construct,confirmed_heterologous_construct,26976705
+2153,Mus musculus,2764,GMFB,no_exact_xref,,,Decrease,Anti-Longevity,taxon_mismatch,PROTEIN_CODING,GMFB,construct_species_unresolved,construct_species_unresolved,26232943
+2163,Mus musculus,6649,SOD3,no_exact_xref,,,Decrease,Pro-Longevity,taxon_mismatch,PROTEIN_CODING,SOD3,construct_species_unresolved,construct_species_unresolved,25927599
+2164,Caenorhabditis elegans,3565990,mir-124,no_exact_xref,,,Increase,Pro-Longevity,matched_taxon,ncRNA,mir-124,noncoding_not_assessed_by_protein_orthology,,
+2165,Caenorhabditis elegans,260162,mir-34,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,ncRNA,mir-34,noncoding_not_assessed_by_protein_orthology,,
+2166,Caenorhabditis elegans,260100,mir-71,no_exact_xref,,,Decrease,Pro-Longevity,matched_taxon,ncRNA,mir-71,noncoding_not_assessed_by_protein_orthology,,
+2167,Caenorhabditis elegans,3565660,mir-246,no_exact_xref,,,Decrease,Pro-Longevity,matched_taxon,ncRNA,mir-246,noncoding_not_assessed_by_protein_orthology,,
+2168,Caenorhabditis elegans,3564977,mir-238,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,ncRNA,mir-239.1,noncoding_not_assessed_by_protein_orthology,,
+2169,Caenorhabditis elegans,3565806,mir-238,no_exact_xref,,,Decrease,Pro-Longevity,matched_taxon,ncRNA,mir-238,noncoding_not_assessed_by_protein_orthology,,
+2170,Drosophila melanogaster,12798086,mir-277,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,ncRNA,mir-277,noncoding_not_assessed_by_protein_orthology,,
+2171,Mus musculus,723905,Mir17,no_exact_xref,,,Increase,Pro-Longevity,matched_taxon,ncRNA,Mir17,noncoding_not_assessed_by_protein_orthology,,
+2172,Drosophila melanogaster,12798013,mir-125,no_exact_xref,,,Decrease,Pro-Longevity,matched_taxon,ncRNA,mir-125,noncoding_not_assessed_by_protein_orthology,,
+2173,Mus musculus,387222,Mir29a,no_exact_xref,,,,Unannotated,matched_taxon,ncRNA,Mir29a,noncoding_not_assessed_by_protein_orthology,,
+2174,Drosophila melanogaster,12798384,mir-14,no_exact_xref,,,Decrease,Pro-Longevity,matched_taxon,ncRNA,mir-14,noncoding_not_assessed_by_protein_orthology,,
+2175,Caenorhabditis elegans,3565575,mir-80,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,ncRNA,mir-80,noncoding_not_assessed_by_protein_orthology,,
+2176,Drosophila melanogaster,12798087,mir-34,no_exact_xref,,,Decrease,Pro-Longevity,matched_taxon,ncRNA,mir-34,noncoding_not_assessed_by_protein_orthology,,
+2216,Drosophila melanogaster,5009,OTC,no_exact_xref,,,Increase,Pro-Longevity,taxon_mismatch,PROTEIN_CODING,OTC,confirmed_heterologous_construct,confirmed_heterologous_construct,28891792
+2236,Drosophila melanogaster,12798012,let-7,no_exact_xref,,,,Unannotated,matched_taxon,ncRNA,mir-let7,noncoding_not_assessed_by_protein_orthology,,
+2237,Drosophila melanogaster,12798434,mir-184,no_exact_xref,,,Decrease,Anti-Longevity,matched_taxon,miscRNA,mir-184,noncoding_not_assessed_by_protein_orthology,,
+2268,Schizosaccharomyces pombe,2541246,SPBC8E4.02c,no_exact_xref,,,Increase,Anti-Longevity,matched_taxon,ncRNA,prt2,noncoding_not_assessed_by_protein_orthology,,

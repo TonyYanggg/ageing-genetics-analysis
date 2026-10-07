@@ -1,0 +1,16 @@
+{
+  "url": "https://data.orthodb.org/v12/orthodb_release_id",
+  "params": null,
+  "retrieved_utc": "2026-09-18T06:41:44.794330+00:00",
+  "sha256": "d46893d704a5fe52c24e225ed27cafd265b36e0715f5c283f67f028813c759ba",
+  "bytes": 7,
+  "response_headers": {
+    "Server": "nginx/1.20.1",
+    "Date": "Fri, 18 Sep 2026 06:41:44 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Range": "0-0/*",
+    "Access-Control-Allow-Origin": "*"
+  }
+}

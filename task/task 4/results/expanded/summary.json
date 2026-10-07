@@ -1,0 +1,25 @@
+{
+  "families": 6,
+  "displayed_genes": 20,
+  "direct_pairs": 21,
+  "pairs_by_family": {
+    "TOR": 6,
+    "S6 kinase": 2,
+    "Insulin/IGF receptor": 2,
+    "AMPK": 2,
+    "ATG7": 3,
+    "SOD2": 6
+  },
+  "candidate_networks": 133,
+  "candidates_with_at_least_three_species": 22,
+  "text_elements_checked": 117,
+  "final_mm": [
+    183,
+    247
+  ],
+  "source_sha256": {
+    "results\\complete_four_species\\all_qualifying_pairs.csv": "52f2090b26893b0f888c355c1ceb54d5c300a5c9a46bc38dfd863aeaee7091b6",
+    "notes\\focused_experiment_evidence.tsv": "2f4d87d9de863ed0ff6909a0184ceab3680ef2492edc8d8d5a3c21984a0aa714",
+    "notes\\expanded_additional_evidence.tsv": "024151845544e9a81b7cf72cf456c56b1334bde66758d876a54c869f3eb566a4"
+  }
+}

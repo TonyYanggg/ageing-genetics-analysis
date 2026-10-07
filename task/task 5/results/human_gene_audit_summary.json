@@ -1,0 +1,24 @@
+{
+  "genage_rows": 307,
+  "unique_genage_symbols": 307,
+  "unique_entrez_ids": 307,
+  "identity_states": {
+    "mapped": 306,
+    "missing_ensembl_id": 1
+  },
+  "gene_types": {
+    "PROTEIN_CODING": 306,
+    "ncRNA": 1
+  },
+  "longevitymap_records": 550,
+  "longevitymap_gene_mentions": 1354,
+  "matched_longevitymap_mentions": 408,
+  "matched_genage_genes": 126,
+  "unmatched_longevitymap_mentions": 946,
+  "ambiguous_longevitymap_mentions": 0,
+  "input_sha256": {
+    "genage_human": "3515935b6c4d40cbccf35e129aa52206cc95c1fe2b426adec784c2e41927174d",
+    "longevitymap": "1202393b6bc02c63115ef5b39fb7e438ef7252a9dbaf8721e101a2893abf013c"
+  },
+  "limitation": "LongevityMap symbol matching is an annotation audit, not proof that every historical symbol is fully resolved."
+}

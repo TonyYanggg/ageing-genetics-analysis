@@ -1,0 +1,15 @@
+{
+  "generated_utc": "2026-09-18T04:05:18.676512+00:00",
+  "script": "scripts\\plot_timeline.py",
+  "script_sha256": "57128343ad543413785d9f15b26eecb72ccc8ef764080062abc4a2608765e748",
+  "files": {
+    "results\\verified_timeline\\annual_entry_timeline.csv": "1e4e0f7e33067212f6e3d669b8b252fd1b73723dc4e9e8ab871c38dd78f80e44",
+    "results\\verified_timeline\\annual_reference_timeline.csv": "b827a11b120a9823fea73bc06545243aa2bc3ed394db81f3d3deadb85e716761",
+    "results\\verified_timeline\\audit.json": "3b79f4def3172ff6d6c7eb79340834fc59c32bfe593be5e17caed7a28d205a4a",
+    "figures\\timeline_exploratory.png": "a97a25ebd76f47acfc924d158d9370d6e7a31290f059414a042fb5db80b05dc0",
+    "figures\\timeline_exploratory.svg": "ccf763ae8fe845018c9f4c2e9ac5c7e9b4d99fe0a74e1e6c6197ed9785693136",
+    "figures\\timeline_by_organism_exploratory.png": "1d9935dcb9941c0d412b7dd54d8f72b84f75d30d8856b44facd8faa39465d44e",
+    "figures\\timeline_by_organism_exploratory.svg": "ccd2a0fe7c25b7d7bbe155e1bb98b769482c7b1799bfc569a2511652a35615fc"
+  },
+  "status": "Exploratory drafts; see verified_timeline_report.md for exclusions and interpretation"
+}

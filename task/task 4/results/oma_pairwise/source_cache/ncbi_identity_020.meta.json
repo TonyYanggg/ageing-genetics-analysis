@@ -1,0 +1,33 @@
+{
+  "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+  "params": {
+    "db": "gene",
+    "id": "856175,856183,856232,856236,856241,856253,856254,856260,856263,856276,856277,856295,856296,856315,856324,856342,856347,856357,856375,856381,856386,856387,856399,856404,856409,856415,856423,856426,856442,856463,856464,856476,856496,856504,856516,856517,856519,856524,856527,856530,856559,856561,856569,856576,856596,856600,856610,856612,856613,856646,856654,856656,856657,856662,856678,856689,856702,856704,856709,856713,856718,856737,856739,856741,856763,856765,856772,856776,856783,856784,856786,856787,856788,856794,856805,856817,856825,856831,856840,856850,856852,856866,856868,856888,856909,856911,856913,856924,856925,856935,856937,2538708,2538820,2538949,2538998,2539169,2539240,2539298,2539317,2539366",
+    "retmode": "json"
+  },
+  "retrieved_utc": "2026-09-18T09:35:32.608447+00:00",
+  "sha256": "611f9dba463d4ebc532ed0b04d185b2ab1d22428c5598c41fd71829632f69679",
+  "bytes": 100930,
+  "response_headers": {
+    "Date": "Fri, 18 Sep 2026 09:35:31 GMT",
+    "Server": "Finatra",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Content-Security-Policy": "upgrade-insecure-requests",
+    "Referrer-Policy": "origin-when-cross-origin",
+    "Ncbi-Sid": "3687E573027351F7_05A5SID",
+    "Ncbi-Phid": "1D3444813F10BF050000368DEF9444C8.1.1.m_1",
+    "Content-Type": "application/json; charset=UTF-8",
+    "Cache-Control": "private",
+    "Content-Encoding": "gzip",
+    "X-Ratelimit-Limit": "3",
+    "X-Ratelimit-Remaining": "2",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Expose-Headers": "X-RateLimit-Limit,X-RateLimit-Remaining",
+    "Set-Cookie": "ncbi_sid=3687E573027351F7_05A5SID; domain=.nih.gov; path=/; expires=Sat, 18 Sep 2027 09:35:31 GMT",
+    "X-Ua-Compatible": "IE=Edge",
+    "X-Xss-Protection": "1; mode=block",
+    "Via": "1.1 google",
+    "Alt-Svc": "clear",
+    "Transfer-Encoding": "chunked"
+  }
+}

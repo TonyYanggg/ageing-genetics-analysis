@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+	<!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
+	<title>The ZC395.10 gene and its possible relation to ageing in roundworms</title>
+	<link href="/hagr.css" rel="stylesheet" type="text/css" />
+	    	<!--[if lt IE 9]>
+	<script src="/js/IE9.js"></script>
+	<script src="/js/ie7-squish.js"></script>
+	<![endif]-->
+	<!--[if IE 6]>
+	<link href="/ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	
+<div id="global-navigation">
+  <ul class="dropdown">
+    <li class="initial-link"><a href="/"></a></li>
+    <li><a href="/" class="genomics">Genomics</a>
+      <div class="dropdown-contents">
+        <div class="dropdown-item genage"><span class="global-menu-header"><a href="/genes/">GenAge</a></span>
+          <p class="global-menu-description">A curated database of candidate human ageing-related genes and genes associated with longevity and/or ageing in model organisms.</p>
+          <form action="/genes/query.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search human</button>
+            </div>
+          </form>
+          <form action="/genes/search.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search model organisms</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item gendr"><span class="global-menu-header"><a href="/diet/">GenDR</a></span>
+          <p class="global-menu-description">A curated database of genes associated with dietary restriction in model organisms either from genetic manipulation experiments or gene expression profiling.</p>
+          <form action="/diet/search_mut.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search gene manipulations</button>
+            </div>
+          </form>
+          <form action="/diet/search_exp.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search gene expression</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item longevity"><span class="global-menu-header"><a href="/longevity/">LongevityMap</a></span>
+          <p class="global-menu-description">Database of human genetic variants associated with longevity.</p>
+          <form action="/longevity/search.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search genes/variants</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item senescence"><span class="global-menu-header"><a href="/cells/">CellAge</a></span>
+          <p class="global-menu-description">Database of human genes associated with cellular senescence.</p>
+          <form action="/cells/query.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search CellAge</button>
+            </div>
+          </form>
+	   <form action="/cells/signatures.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search signatures</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="/gene_expression/">Gene Expression</a></span>
+          <p class="global-menu-description">Projects focused on gene expression profiling of ageing and of dietary manipulations of ageing, such as caloric restriction. </p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="/sequencing/">Genomes </a></span>
+          <p class="global-menu-description">Information on developing genomic resources and methods for studying long-lived species.</p>
+        </div>		
+        <div class="dropdown-item last-item"><span class="global-menu-header"><a href="/cancer/">Cancer </a></span>
+          <p class="global-menu-description">Studies focused on cancer, in particular using genomics and bioinformatics approaches.</p>
+        </div>
+        <div class="dropdown-item last-item"><span class="global-menu-header"><a href="/software/">Software </a></span>
+          <p class="global-menu-description">Software for ageing research, including the Ageing Research Computational Tools (ARCT) perl toolkit.</p>
+        </div>
+      </div>
+    </li>
+    
+    <li><a href="/drugs/index.php" class="drugage">Drugs</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item drugage last-item"><span class="global-menu-header"><a href="/drugs/index.php">DrugAge</a></span>
+          <p class="global-menu-description">A curated database of compounds that modulate longevity in model organisms.</p>
+		     <form class="search-resource" method="get" action="/drugs/browse.php">
+	            <div class="input-append">
+	               <input type="text" name="search_term" maxlength="100" value="" />
+	               <button type="Submit" class="btn">Search</button>
+	            </div>
+		     </form>
+        </div>
+      </div>
+    </li> 
+    
+    <li><a href="/species/" class="longevity">Animal Longevity</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item anage"><span class="global-menu-header"><a href="/species/">AnAge </a></span>
+          <p class="global-menu-description">A curated database of ageing and life history information in animals, including extensive longevity records.</p>
+          <form action="/species/query.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search AnAge</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://www.naked-mole-rat.org/">Naked Mole-Rat Genome Resource </a></span>
+          <p class="global-menu-description">The benchmark genome assembly and annotation of the long-lived, cancer-resistant naked mole-rat (<em>Heterocephalus glaber</em>).</p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://www.bowhead-whale.org/">Bowhead Whale Genome Resource </a></span>
+          <p class="global-menu-description">A high-coverage genome of the bowhead whale (<em>Balaena mysticetus</em>), the longest-lived mammal.</p>
+        </div>
+        <div class="dropdown-item last-item"><span class="global-menu-header"><a href="/evolution/">Evolution </a></span>
+          <p class="global-menu-description">Analyses using the <a href="http://genomics.senescence.info/species/" class="inline-link">AnAge database</a> to study the evolution of longevity and ageing in vertebrate lineages.</p>
+        </div>		
+      </div>
+    </li>
+    
+    <li><a href="https://ageing-map.org" class="daa">Ageing Changes</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item daa last-item"><span class="global-menu-header"><a href="http://ageing-map.org/">Digital Ageing Atlas </a></span>
+          <p class="global-menu-description">A portal of ageing changes covering different biological levels, integrating molecular, physiological and pathological age-related data.</p>
+          <form action="https://ageing-map.org/atlas/results/" method="get" class="global-menu-search form">
+            <div class="input-append">
+              <input name="s" type="search"/>
+              <button type="submit" class="btn">Search</button>
+            </div>
+            <input name="species[]" type="hidden" value="9606"/>
+          </form>
+        </div>
+      </div>
+    </li>
+
+    <li><a href="https://senescence.info/" class="sen">Ageing Information</a>
+
+      <div class="dropdown-contents short">
+
+        <div class="dropdown-item sen"><span class="global-menu-header"><a href="http://senescence.info">senescence.info </a></span>
+          <p class="global-menu-description">An educational and information resource on the science of ageing. </p>
+          <p><a href="https://twitter.com/AgingBiology" class="twitter-follow-button" data-show-count="false">Follow @AgingBiology</a> <span class="fb-like" data-href="https://www.facebook.com/pages/Biology-of-Aging-News/415920998536406" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span></p>
+        </div>
+
+        <div class="dropdown-item libage"><span class="global-menu-header"><a href="http://libage.ageing-map.org" class="libage">LibAge (beta)</a></span>
+          <p class="global-menu-description">The bibliographic library for ageing research.</p>
+          <form action="https://libage.ageing-map.org/entries/search/" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="s" type="search"/>
+              <button type="submit" class="btn">Search literature</button>
+            </div>
+          </form>
+        </div>
+
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://whoswho.senescence.info">Who's Who in Gerontology </a></span>
+          <p class="global-menu-description">The WhosAge database contains people and biotech companies that are contributing to increase our understanding of ageing and life-extension.</p>
+          <form action="https://whoswho.senescence.info/companies.php" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search companies</button>
+            </div>
+            <input name="change" type="hidden" value="all"/>
+          </form>
+          <form action="https://whoswho.senescence.info/people.php" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search people</button>
+            </div>
+            <input name="change" type="hidden" value="all"/>
+          </form>
+        </div>
+        <div class="dropdown-item lab last-item"><span class="global-menu-header"><a href="https://rejuvenomicslab.com/">Genomics of Ageing and Rejuvenation Lab</a></span>
+          <p class="global-menu-description">Our lab leads the upkeep and development of HAGR. </p>
+        </div>
+      </div>
+    </li>
+  </ul>
+
+  <form id="quick-search-form" method="get" action="/search/" class="form-search form">
+    <label for="termlist" id="quick-search-label">Search all databases:</label>
+    <div class="input-append">
+      <input type="search" name="search" id="search" class="span2 search-query"/>
+      <button type="submit" class="btn">Quick Search</button>
+    </div>
+  </form>
+</div>
+	
+</head>
+<body>
+
+    
+
+<!-- HEADER INCLUDE END -->
+
+	<div id="header">
+		<a href="/genes/models.html"><img src="/images/genage_models_banner.png" alt="GenAge: The Ageing Gene Database" width="1024" height="140" /></a>
+	</div>
+
+	    	<ul id="left-navigation" class="genage">
+		<li class="centre navigation-image"><a href="/genes/models.html" title="Return to GenAge model genes page"><img src="/images/models.jpg" /></a></li>
+		<li class="navigation-infobox"><a href="release.html">Build 21</a> (28/08/2023): 2,205 genes</li>
+		<li class="navigation-returnlink"><a href="/genes/">Return to GenAge main page</a></li>
+		<li class="navigation-infobox">GenAge genes in models</li>
+		<li><form class="quick-search" method="get" action="search.php">
+            <div class="input-append">
+                <input type="text" name="search" maxlength="100" class="input-medium" />
+                <button type="submit" class="btn">Search</button>
+            </div>
+		</form></li>
+		<!--<li class="navigation-title"><a href="/genes/models.html">GenAge Models Genes</a></li>-->
+		<li><a href="/genes/search.php">Search</a></li>
+		<li><a href="/genes/search.php?show=5&sort=1&page=1">Show all genes</a></li>
+		        <li><a href="https://libage.ageing-map.org/entries/sources/genage_model/">Bibliography</a></li>
+		<li class="navigation-title">Major model organisms</li>
+		<li><a href="/genes/search.php?organism=Mus+musculus&show=5">Mouse</a></li>
+		<li><a href="/genes/search.php?organism=Drosophila+melanogaster&show=5">Fly</a></li>
+		<li><a href="/genes/search.php?organism=Caenorhabditis+elegans&show=5">Worm</a></li>
+		<li><a href="/genes/search.php?organism=Saccharomyces+cerevisiae&show=5">Yeast</a></li>
+		<li class="navigation-sep"></li>
+        <li><a href="/genes/submission.php">Submit gene to the database</a></li>
+		<li class="navigation-sep"></li>
+		<li><a href="/genes/stats.php">Statistics</a></li>
+		<li><a href="/genes/release.html">Release notes</a></li>
+		<li><a href="/help.html#genage">Help</a></li>
+		<li><a href="/download.html">Downloads</a></li>
+		<li><a href="/legal.html#citation">Citation</a></li>
+		<li><a href="/feedback.php">Feedback</a></li> 
+	</ul>
+
+	<div id="content" class="genage-model-section">
+		
+		<h1 class="page-header-with-image"><img src="/images/Caenorhabditis_elegans.jpg" alt="Caenorhabditis elegans" width="60" />GenAge entry for ZC395.10 (<em>Caenorhabditis elegans</em>)</h1>
+		
+		<h2 class="section-header">Gene information (ID: 2081)</h2>
+
+		<dl class="section-entry">
+			<dt>Symbol</dt>
+			<dd>ZC395.10</dd>
+             
+			<dt>Name</dt>
+			<dd>Co-chaperone protein daf-41</dd>
+			<dt>Organism</dt>
+			<dd><i>Caenorhabditis elegans</i> (<a href="/species/entry.php?species=Caenorhabditis_elegans">AnAge</a>)</dd>
+            		</dl>
+		
+		<h2 class="section-header">Potential relevance to longevity and/or ageing</h2>
+		
+				
+                
+        <h2 class="section-header">Homologs in other organisms</h2>
+
+                <dl class="section-entry"><dt><i>Drosophila melanogaster</i></dt><dd><a href="http://www.ncbi.nlm.nih.gov/gene/41173">CG16817</a></dd><dt><i>Saccharomyces cerevisiae</i></dt><dd><a href="http://www.ncbi.nlm.nih.gov/gene/853743">SBA1</a></dd><dt><i>Schizosaccharomyces pombe</i></dt><dd><a href="http://www.ncbi.nlm.nih.gov/gene/2542472">wos2</a></dd></dl> 
+
+        <h2 class="section-header">External links</h2>
+		
+		<dl class="section-entry">
+				    	    <dt>WormBase</dt>
+	    	    <dd><a href="http://www.wormbase.org/species/c_elegans/gene/&query=ZC395.10">Search</a></dd>
+	    	    <dt>Ensembl</dt>
+	    	    <dd><a href="http://www.ensembl.org/Caenorhabditis_elegans/searchview?species=Caenorhabditis_elegans;q=ZC395.10">Search</a></dd>
+	    		    	<dt>Entrez Gene</dt>
+                <dd><a href="http://www.ncbi.nlm.nih.gov/gene/?term=175727">View on Entrez Gene database (175727)</a></dd>
+			<dt>Homologues</dt>
+			<dd><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=Search&db=homologene&term=ZC395.10">Search HomoloGene</a></dd>
+			<dt>UniProt</dt>
+			<dd><a href="http://www.uniprot.org/uniprot/?query=ZC395.10+Caenorhabditis elegans&sort=score">Search</a></dd>
+	    	<dt>Internet</dt>
+	    	<dd><a href="http://www.google.com/search?q=ZC395.10">Search Google</a> or <a href="http://scholar.google.com/scholar?q=ZC395.10+aging">Search Google Scholar</a></dd>
+		</dl>
+	    
+	</div>
+
+
+<!-- FOOTER SECTION START -->
+	
+	<div id="footer">
+	
+		<div class="footer-links row-fluid">
+
+            <ul class="span3">
+                <li class="title">Human Ageing Genomic Resources</li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about.html">About Us</a></li>
+                <li><a href="/legal.html">Disclaimer</a></li>
+                <li><a href="/download.html">Downloads</a></li>
+                <li><a href="/feedback.php">Feedback</a></li>
+                <li><a href="/help.html">Help</a></li>
+                <li><a href="/links.html">Links</a></li>
+                <li><a href="http://genomics.senescence.info/mailman/listinfo/hagr-news_genomics.senescence.info">Mailing List</a></li>
+                <li><a href="/news/index.html">News</a></li>
+                <li><a href="/papers.html">Publications</a></li>
+                <li><a href="/science.html">Science</a></li>
+            </ul>
+
+            <ul class="span3">
+                <li class="title">Databases</li>
+                <li><a href="/genes/">Gene Database (GenAge)</a></li>
+                <li><a href="/species/">Species Database (AnAge)</a></li>
+                <li><a href="/diet/">Dietary Restriction Database (GenDR)</a></li>
+                <li><a href="/longevity/">Longevity Variants Database (LongevityMap)</a></li>
+                <li><a href="/cells/">Cell Senescence Database (CellAge)</a></li>				
+                <li><a href="/drugs/">Drugs Database (DrugAge)</a></li>
+                <li class="title">External Databases</li>
+                <li><a href="http://ageing-map.org">Digital Ageing Atlas</a></li>
+                <li><a href="http://libage.ageing-map.org">LibAge (beta version)</a></li>
+            </ul>
+
+            <ul class="span3">
+                <li class="title">Projects</li>
+                <li><a href="/gene_expression/">Gene Expression</a></li>
+                <li><a href="/cancer/">Cancer</a></li>
+                <li><a href="/sequencing/">Genome Sequencing</a></li>
+                <li><a href="/evolution/">Evolution of Ageing</a></li>
+                <li><a href="/software/">Software</a></li>
+            </ul>
+
+            <ul class="span3">
+                <li class="title">Information and News</li>
+                <li><a href="http://www.senescence.info">senescence.info</a></li>
+                <li><a href="https://rejuvenomicslab.com/">Genomics of Ageing and Rejuvenation Lab</a></li>
+                <li><a href="https://twitter.com/AgingBiology" class="twitter-follow-button" data-show-count="false">Follow @AgingBiology</a></li>
+                <li><div class="fb-like" data-href="https://www.facebook.com/BiologyAgingNews/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></li>
+            </ul>
+            
+            <ul class="span3">
+                <li class="title">Events</li>
+                <li><a href="/ageing_meeting_2017">2017 Ageing Genomics and Bioinformatics Workshop</a></li>
+            </ul>
+        </div>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+              js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+              fjs.parentNode.insertBefore(js, fjs);
+              }(document, 'script', 'facebook-jssdk'));</script>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+		
+		<p class="contact-us">Comments, suggestions, ideas, and bug reports are welcome. Please <a href="/feedback.php">contact us</a>.</p>
+		
+		<p class="legal">HAGR may be freely used for all purposes under <a href="/legal.html">some conditions</a>.</p>
+	
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+  "params": {
+    "query": "EXT_ID:20306265 AND SRC:MED",
+    "format": "json",
+    "resultType": "core"
+  },
+  "retrieved_utc": "2026-09-18T09:40:19.442087+00:00",
+  "sha256": "ce9c6f80ceea16b43ad1f29096b3ee24e1675623f8905fdb45a88fc660337917",
+  "bytes": 4734,
+  "response_headers": {
+    "vary": "accept-encoding",
+    "Content-Type": "application/json;charset=UTF-8",
+    "Content-Encoding": "gzip",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:40:18 GMT",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Set-Cookie": "JSESSIONID=B3173332E3078D4E82251FD7D5926CBF; Path=/europepmc/webservices/rest; Secure; HttpOnly"
+  }
+}

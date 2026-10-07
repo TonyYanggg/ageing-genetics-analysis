@@ -1,0 +1,20 @@
+{
+  "genes": 320,
+  "genage_records": 321,
+  "direct_pairs": 206,
+  "candidate_networks": 133,
+  "pages": 36,
+  "reviewed_examples": 20,
+  "catalogue_only": 300,
+  "text_elements": 3558,
+  "page_mm": [
+    183,
+    247
+  ],
+  "input_sha256": {
+    "task\\task 4\\results\\complete_four_species\\all_qualifying_pairs.csv": "52f2090b26893b0f888c355c1ceb54d5c300a5c9a46bc38dfd863aeaee7091b6",
+    "task\\task 4\\results\\expanded\\displayed_evidence.csv": "97b001bce07804ef3284370affdc7f68a12dfd797eee95e27cfa2f312faa3afd",
+    "task\\task 4\\results\\expanded\\candidate_screen.csv": "b50cb8312b9de277e1329bc69981b48239af6e6b34bb9311450f59385326f674",
+    "task\\task 3\\results\\verified_timeline\\entry_references.csv": "e6945ba958e66cd67113db1431aaa7f0b01a605b9c2647e2f15fb9791b716616"
+  }
+}

@@ -1,0 +1,1232 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Welcome to LibAge, the ageing reference resource</title>
+    <link href="/static/css/hagr.css" rel="stylesheet" type="text/css"/>
+    <link href="/static/css/libage.css" rel="stylesheet" type="text/css"/>
+    <link rel="shortcut icon" href="/static/favicon.ico"/>
+  </head>
+  <body>
+<div id="global-navigation">
+  <ul class="dropdown">
+    <li class="initial-link"><a href="/"></a></li>
+    <li><a href="http://genomics.senescence.info/" class="genomics">Genomics</a>
+      <div class="dropdown-contents">
+        <div class="dropdown-item genage"><span class="global-menu-header"><a href="http://genomics.senescence.info/genes/">GenAge</a></span>
+          <p class="global-menu-description">A curated database of candidate human ageing-related genes and genes associated with longevity and/or ageing in model organisms.</p>
+          <form action="http://genomics.senescence.info/genes/query.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search human</button>
+            </div>
+          </form>
+          <form action="http://genomics.senescence.info/genes/search.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search model organisms</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item gendr"><span class="global-menu-header"><a href="http://genomics.senescence.info/diet/">GenDR</a></span>
+          <p class="global-menu-description">A curated database of genes associated with dietary restriction in model organisms either from genetic manipulation experiments or gene expression profiling.</p>
+          <form action="http://genomics.senescence.info/diet/search_mut.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search gene manipulations</button>
+            </div>
+          </form>
+          <form action="http://genomics.senescence.info/diet/search_exp.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search gene expression</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item longevity"><span class="global-menu-header"><a href="http://genomics.senescence.info/longevity/">LongevityMap</a></span>
+          <p class="global-menu-description">Database of human genetic variants associated with longevity.</p>
+          <form action="http://genomics.senescence.info/longevity/search.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search genes/variants</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item gene-expression"><span class="global-menu-header"><a href="http://genomics.senescence.info/gene_expression/">Gene Expression</a></span>
+          <p class="global-menu-description">Projects focused on gene expression profiling of ageing and of dietary manipulations of ageing, such as caloric restriction. </p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/cancer/">Cancer </a></span>
+          <p class="global-menu-description">Studies focused on cancer, in particular using genomics and bioinformatics approaches.</p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/sequencing/">Genomes </a></span>
+          <p class="global-menu-description">Information on developing genomic resources and methods for studying long-lived species.</p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/evolution/">Evolution </a></span>
+          <p class="global-menu-description">Studies using the <a href="http://genomics.senescence.info/species/" class="inline-link">AnAge database</a> to study the evolution of longevity and ageing in vertebrate lineages.</p>
+        </div>
+        <div class="dropdown-item last-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/software/">Software </a></span>
+          <p class="global-menu-description">Software for ageing research, including the Ageing Research Computational Tools (ARCT) perl toolkit.</p>
+        </div>
+      </div>
+    </li>
+    <li><a href="/species/" class="longevity">Animal Longevity</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item anage last-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/species/">AnAge </a></span>
+          <p class="global-menu-description">A curated database of ageing and life history information in animals, including extensive longevity records.</p>
+          <form action="http://genomics.senescence.info/species/query.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search AnAge</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </li>
+    <li><a href="http://ageing-map.org" class="daa">Ageing Changes</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item daa last-item"><span class="global-menu-header"><a href="http://ageing-map.org/">Digital Ageing Atlas </a></span>
+          <p class="global-menu-description">A portal of ageing changes covering different biological levels, integrating molecular, physiological and pathological age-related data.</p>
+          <form action="http://ageing-map.org/atlas/results/" method="get" class="global-menu-search form">
+            <div class="input-append">
+              <input name="s" type="search"/>
+              <button type="submit" class="btn">Search</button>
+            </div>
+            <input name="species[]" type="hidden" value="9606"/>
+          </form>
+        </div>
+      </div>
+    </li>
+    <li><a href="http://senescence.info/" class="sen">Ageing Information</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item sen"><span class="global-menu-header"><a href="http://senescence.info">senescence.info </a></span>
+          <p class="global-menu-description">An educational resource on the science of ageing. </p>
+        </div>
+        <div class="dropdown-item libage"><span class="global-menu-header"><a href="http://libage.ageing-map.org" class="libage">LibAge </a></span>
+          <p class="global-menu-description">The bibliographic library for ageing research.</p>
+          <form action="http://libage.ageing-map.org/entries/search/" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="s" type="search"/>
+              <button type="submit" class="btn">Search literature</button>
+            </div>
+          </form>
+        </div>		
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://whoswho.senescence.info">Who's Who in Gerontology </a></span>
+          <p class="global-menu-description">The WhosAge database contains people and biotech companies that are contributing to increase our understanding of ageing and life-extension.</p>
+          <form action="http://whoswho.senescence.info/corp.php" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search companies</button>
+            </div>
+            <input name="change" type="hidden" value="all"/>
+          </form>
+          <form action="http://whoswho.senescence.info/people.php" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search people</button>
+            </div>
+            <input name="change" type="hidden" value="all"/>
+          </form>
+        </div>
+        <div class="dropdown-item lab"><span class="global-menu-header"><a href="http://pcwww.liv.ac.uk/~aging/">Integrative Genomics of Ageing Group</a></span>
+            <p class="global-menu-description">Our lab leads the upkeep and development of HAGR. </p>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <form id="quick-search-form" method="get" action="http://genomics.senescence.info/search/" class="form-search form">
+    <label for="search" id="quick-search-label">Search all databases:</label>
+    <div class="input-append">
+      <input type="search" name="search" id="search" class="span2 search-query"/>
+      <button type="submit" class="btn">Quick Search</button>
+    </div>
+  </form>
+</div>
+
+
+    <div id="header"><a href="/"><img width="1024" height="140" alt="LibAge, part of the Human Ageing Genomic Resources (senescence.info)" src="/static/images/header.png"/></a><span class="senescence-link">at <a href="http://www.senescence.info">senescence.info</a></span>
+    </div>
+    <div class="container">
+      <ul class="nav nav-tabs site-nav">
+        <li><a href="/">Search</a>
+        </li>
+        <li><a href="/entries/tags/">Tags</a>
+        </li>
+        <li><a href="/entries/sources/">Sources</a>
+        </li>
+        <li><a href="/tools/">Tools</a>
+        </li>
+      </ul>
+
+<div class="row">
+  <div class="span12">
+    <div class="highlight-box libage-search">
+      <form action="/entries/search/" method="get" class="form">
+        <div class="input-append">
+          <input type="search" name="s" value="" class="span8"/>
+          <button type="submit" class="btn">Search LibAge</button>
+        </div>
+        <label class="checkbox inline">
+          <input type="checkbox" name="limit" value="genage_model" checked="checked"/>Limit search to the GenAge: Ageing-Associated Genes in Model Organisms database only
+        </label>
+      </form>
+      <p>You can search for any reference by title, author, date, editor, journal and publisher. Searching is case insensitive, and allows for only partial terms (e.g. seq with pickup both RNA-Seq and sequencing) matching. You can also use advanced queries <a href="/help/">that are detailed here</a>. </p>
+    </div>
+  </div>
+</div>
+
+<h1>Entries for the source <span class="label label-warning" style="background: #BA4200">GenAge: Ageing-Associated Genes in Model Organisms</span> (710)</h1>
+
+
+
+<div class="row">
+
+  <form method="get" action="" class="sort-controls">
+    <div class="btn-group"><a class="btn disabled">Sort:</a><button type="submit" name="sort" class="btn " value="citation_count">Number of citations</button>
+<button type="submit" name="sort" class="btn active" value="-author">Author</button>
+<button type="submit" name="sort" class="btn " value="title">Title</button>
+<button type="submit" name="sort" class="btn " value="year">Year</button>
+<button type="submit" name="sort" class="btn " value="pubmed">PubMed ID</button>
+
+    </div>
+    <input type="hidden" name="s" value=""/>
+  </form>
+
+  <form action="/entries/selection/" method="get" class="form">
+    <ul class="references-list span12">
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="3541" class="results-checkbox"/>
+
+            <p><b>3541</b>: Doze et al. (2011) "<b>Long-term α1A-adrenergic receptor stimulation improves synaptic plasticity, cognitive function, mood, and longevity.</b>"  Mol. Pharmacol. <b>80</b>(4):747-758 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/21791575">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/3541/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/9/" class="label label-warning">Mice</a>
+          </li>
+          <li><a href="/entries/tags/10/" class="label label-warning">Mice, Knockout</a>
+          </li>
+          <li><a href="/entries/tags/19/" class="label label-warning">Female</a>
+          </li>
+          <li><a href="/entries/tags/26/" class="label label-warning">Male</a>
+          </li>
+          <li><a href="/entries/tags/28/" class="label label-warning">Mice, Inbred C57BL</a>
+          </li>
+          <li><a href="/entries/tags/129/" class="label label-warning">Mice, Transgenic</a>
+          </li>
+          <li><a href="/entries/tags/1924/" class="label label-warning">Longevity/drug effects/physiology</a>
+          </li>
+          <li><a href="/entries/tags/2366/" class="label label-warning">Organ Culture Techniques</a>
+          </li>
+          <li><a href="/entries/tags/2712/" class="label label-warning">Hippocampus/drug effects/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/3559/" class="label label-warning">Mice, Inbred CBA</a>
+          </li>
+          <li><a href="/entries/tags/5981/" class="label label-warning">Cognition/drug effects/physiology</a>
+          </li>
+          <li><a href="/entries/tags/8648/" class="label label-warning">Neuronal Plasticity/drug effects/physiology</a>
+          </li>
+          <li><a href="/entries/tags/11962/" class="label label-warning">Adrenergic alpha-1 Receptor Agonists/pharmacology</a>
+          </li>
+          <li><a href="/entries/tags/11963/" class="label label-warning">Affect/drug effects/physiology</a>
+          </li>
+          <li><a href="/entries/tags/11964/" class="label label-warning">Long-Term Potentiation/drug effects/physiology</a>
+          </li>
+          <li><a href="/entries/tags/11965/" class="label label-warning">Receptors, Adrenergic, alpha-1/metabolism/physiology</a>
+          </li>
+          <li><a href="/entries/tags/11966/" class="label label-warning">Synapses/drug effects/physiology</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2134" class="results-checkbox"/>
+
+            <p><b>2134</b>: Dubrovsky et al. (2010) "<b>Deficiency of circadian protein CLOCK reduces lifespan and increases age-related cataract development in mice.</b>"  Aging (Albany NY) <b>2</b>(12):936-944 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/21149897">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2134/"><span class="badge">2</span>&nbsp;citations in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/3/" class="label label-warning">Disease Models, Animal</a>
+          </li>
+          <li><a href="/entries/tags/9/" class="label label-warning">Mice</a>
+          </li>
+          <li><a href="/entries/tags/10/" class="label label-warning">Mice, Knockout</a>
+          </li>
+          <li><a href="/entries/tags/19/" class="label label-warning">Female</a>
+          </li>
+          <li><a href="/entries/tags/21/" class="label label-warning">Genotype</a>
+          </li>
+          <li><a href="/entries/tags/26/" class="label label-warning">Male</a>
+          </li>
+          <li><a href="/entries/tags/28/" class="label label-warning">Mice, Inbred C57BL</a>
+          </li>
+          <li><a href="/entries/tags/46/" class="label label-warning">Longevity</a>
+          </li>
+          <li><a href="/entries/tags/133/" class="label label-warning">Phenotype</a>
+          </li>
+          <li><a href="/entries/tags/404/" class="label label-warning">Aging/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/524/" class="label label-warning">Age Factors</a>
+          </li>
+          <li><a href="/entries/tags/8305/" class="label label-warning">Skin Aging/genetics</a>
+          </li>
+          <li><a href="/entries/tags/8737/" class="label label-warning">ARNTL Transcription Factors/deficiency/genetics</a>
+          </li>
+          <li><a href="/entries/tags/8738/" class="label label-warning">CLOCK Proteins/deficiency/genetics</a>
+          </li>
+          <li><a href="/entries/tags/8739/" class="label label-warning">Cataract/genetics/metabolism/prevention &amp; control</a>
+          </li>
+          <li><a href="/entries/tags/8740/" class="label label-warning">Circadian Clocks/genetics</a>
+          </li>
+          <li><a href="/entries/tags/8741/" class="label label-warning">Dermatitis/genetics/metabolism/prevention &amp; control</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="4429" class="results-checkbox"/>
+
+            <p><b>4429</b>: Du et al. (2014) "<b>miR-17 extends mouse lifespan by inhibiting senescence signaling mediated by MKP7.</b>"  Cell Death Dis <b>5</b>:e1355 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/25077541">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/4429/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/9/" class="label label-warning">Mice</a>
+          </li>
+          <li><a href="/entries/tags/46/" class="label label-warning">Longevity</a>
+          </li>
+          <li><a href="/entries/tags/70/" class="label label-warning">Signal Transduction</a>
+          </li>
+          <li><a href="/entries/tags/103/" class="label label-warning">Protein Binding</a>
+          </li>
+          <li><a href="/entries/tags/129/" class="label label-warning">Mice, Transgenic</a>
+          </li>
+          <li><a href="/entries/tags/279/" class="label label-warning">Cell Aging</a>
+          </li>
+          <li><a href="/entries/tags/685/" class="label label-warning">Promoter Regions, Genetic</a>
+          </li>
+          <li><a href="/entries/tags/1755/" class="label label-warning">Protein Transport</a>
+          </li>
+          <li><a href="/entries/tags/8402/" class="label label-warning">MicroRNAs/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/11107/" class="label label-warning">Insulin Receptor Substrate Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/13402/" class="label label-warning">Adenylyl Cyclases/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/13403/" class="label label-warning">Dual-Specificity Phosphatases/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/13404/" class="label label-warning">Mitogen-Activated Protein Kinase Phosphatases/genetics/metabolism</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2431" class="results-checkbox"/>
+
+            <p><b>2431</b>: Durieux et al. (2011) "<b>The cell-non-autonomous nature of electron transport chain-mediated longevity.</b>"  Cell <b>144</b>(1):79-91 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/21215371">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2431/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/46/" class="label label-warning">Longevity</a>
+          </li>
+          <li><a href="/entries/tags/63/" class="label label-warning">Oxidative Stress</a>
+          </li>
+          <li><a href="/entries/tags/279/" class="label label-warning">Cell Aging</a>
+          </li>
+          <li><a href="/entries/tags/462/" class="label label-warning">Aging/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/885/" class="label label-warning">Mitochondria/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/941/" class="label label-warning">Electron Transport</a>
+          </li>
+          <li><a href="/entries/tags/9583/" class="label label-warning">Caenorhabditis elegans/cytology/physiology</a>
+          </li>
+          <li><a href="/entries/tags/9584/" class="label label-warning">Unfolded Protein Response</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2317" class="results-checkbox"/>
+
+            <p><b>2317</b>: Easlon et al. (2007) "<b>The dihydrolipoamide acetyltransferase is a novel metabolic longevity factor and is required for calorie restriction-mediated life span extension.</b>"  J. Biol. Chem. <b>282</b>(9):6161-6171 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/17200108">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2317/"><span class="badge">2</span>&nbsp;citations in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/118/" class="label label-warning">Models, Biological</a>
+          </li>
+          <li><a href="/entries/tags/309/" class="label label-warning">Cell Survival</a>
+          </li>
+          <li><a href="/entries/tags/388/" class="label label-warning">Cell Cycle</a>
+          </li>
+          <li><a href="/entries/tags/421/" class="label label-warning">Life Expectancy</a>
+          </li>
+          <li><a href="/entries/tags/885/" class="label label-warning">Mitochondria/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/2601/" class="label label-warning">Energy Metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9289/" class="label label-warning">Dihydrolipoyllysine-Residue Acetyltransferase/metabolism/physiology</a>
+          </li>
+          <li><a href="/entries/tags/9290/" class="label label-warning">Yeasts/cytology/enzymology</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2511" class="results-checkbox"/>
+
+            <p><b>2511</b>: Easlon et al. (2008) "<b>The malate-aspartate NADH shuttle components are novel metabolic longevity regulators required for calorie restriction-mediated life span extension in yeast.</b>"  Genes Dev. <b>22</b>(7):931-944 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/18381895">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2511/"><span class="badge">8</span>&nbsp;citations in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/84/" class="label label-warning">Mutation</a>
+          </li>
+          <li><a href="/entries/tags/371/" class="label label-warning">Yeasts/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/593/" class="label label-warning">Blotting, Western</a>
+          </li>
+          <li><a href="/entries/tags/699/" class="label label-warning">Cell Nucleus/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/713/" class="label label-warning">Time Factors</a>
+          </li>
+          <li><a href="/entries/tags/885/" class="label label-warning">Mitochondria/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/899/" class="label label-warning">Signal Transduction/genetics/physiology</a>
+          </li>
+          <li><a href="/entries/tags/947/" class="label label-warning">NAD/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/1754/" class="label label-warning">Cytoplasm/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/2747/" class="label label-warning">Saccharomyces cerevisiae/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/4976/" class="label label-warning">Fungal Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/7614/" class="label label-warning">Aspartic Acid/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/8471/" class="label label-warning">Energy Metabolism/genetics/physiology</a>
+          </li>
+          <li><a href="/entries/tags/9707/" class="label label-warning">Malates/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9753/" class="label label-warning">Aspartate Aminotransferases/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9754/" class="label label-warning">Biological Transport/genetics/physiology</a>
+          </li>
+          <li><a href="/entries/tags/9755/" class="label label-warning">Electron Transport/genetics/physiology</a>
+          </li>
+          <li><a href="/entries/tags/9756/" class="label label-warning">Glycerolphosphate Dehydrogenase/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9757/" class="label label-warning">Malate Dehydrogenase/genetics/metabolism</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="3522" class="results-checkbox"/>
+
+            <p><b>3522</b>: Eisenberg et al. (2014) "<b>Nucleocytosolic depletion of the energy metabolite acetyl-coenzyme a stimulates autophagy and prolongs lifespan.</b>"  Cell Metab. <b>19</b>(3):431-444 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/24606900">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/3522/"><span class="badge">2</span>&nbsp;citations in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/39/" class="label label-warning">Aging</a>
+          </li>
+          <li><a href="/entries/tags/46/" class="label label-warning">Longevity</a>
+          </li>
+          <li><a href="/entries/tags/74/" class="label label-warning">Up-Regulation</a>
+          </li>
+          <li><a href="/entries/tags/885/" class="label label-warning">Mitochondria/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/1139/" class="label label-warning">Acetylation</a>
+          </li>
+          <li><a href="/entries/tags/1365/" class="label label-warning">Histones/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/2601/" class="label label-warning">Energy Metabolism</a>
+          </li>
+          <li><a href="/entries/tags/3329/" class="label label-warning">Saccharomyces cerevisiae/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/3733/" class="label label-warning">Membrane Proteins/deficiency/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/8013/" class="label label-warning">Autophagy</a>
+          </li>
+          <li><a href="/entries/tags/9086/" class="label label-warning">Saccharomyces cerevisiae Proteins/antagonists &amp; inhibitors/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/11916/" class="label label-warning">Acetyl Coenzyme A/biosynthesis</a>
+          </li>
+          <li><a href="/entries/tags/11917/" class="label label-warning">Coenzyme A Ligases/antagonists &amp; inhibitors/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/11918/" class="label label-warning">Drosophila/enzymology</a>
+          </li>
+          <li><a href="/entries/tags/11919/" class="label label-warning">Drosophila Proteins/antagonists &amp; inhibitors/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/11920/" class="label label-warning">Phosphotransferases (Alcohol Group Acceptor)/deficiency/genetics/metabolism</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2508" class="results-checkbox"/>
+
+            <p><b>2508</b>: Eisenberg et al. (2009) "<b>Induction of autophagy by spermidine promotes longevity.</b>"  Nat. Cell Biol. <b>11</b>(11):1305-1314 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/19801973">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2508/"><span class="badge">14</span>&nbsp;citations in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/8/" class="label label-warning">Humans</a>
+          </li>
+          <li><a href="/entries/tags/9/" class="label label-warning">Mice</a>
+          </li>
+          <li><a href="/entries/tags/19/" class="label label-warning">Female</a>
+          </li>
+          <li><a href="/entries/tags/26/" class="label label-warning">Male</a>
+          </li>
+          <li><a href="/entries/tags/28/" class="label label-warning">Mice, Inbred C57BL</a>
+          </li>
+          <li><a href="/entries/tags/212/" class="label label-warning">Adult</a>
+          </li>
+          <li><a href="/entries/tags/250/" class="label label-warning">HeLa Cells</a>
+          </li>
+          <li><a href="/entries/tags/1139/" class="label label-warning">Acetylation</a>
+          </li>
+          <li><a href="/entries/tags/1365/" class="label label-warning">Histones/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/1375/" class="label label-warning">Longevity/drug effects</a>
+          </li>
+          <li><a href="/entries/tags/1580/" class="label label-warning">Hydrogen-Ion Concentration</a>
+          </li>
+          <li><a href="/entries/tags/3880/" class="label label-warning">Necrosis</a>
+          </li>
+          <li><a href="/entries/tags/8597/" class="label label-warning">Autophagy/drug effects</a>
+          </li>
+          <li><a href="/entries/tags/9745/" class="label label-warning">Caenorhabditis elegans/drug effects/immunology/physiology</a>
+          </li>
+          <li><a href="/entries/tags/9746/" class="label label-warning">Drosophila melanogaster/drug effects/immunology/physiology</a>
+          </li>
+          <li><a href="/entries/tags/9747/" class="label label-warning">Saccharomyces cerevisiae/drug effects/immunology/physiology</a>
+          </li>
+          <li><a href="/entries/tags/9748/" class="label label-warning">Spermidine/pharmacology</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2523" class="results-checkbox"/>
+
+            <p><b>2523</b>: Eldakak et al. (2010) "<b>Asymmetrically inherited multidrug resistance transporters are recessive determinants in cellular replicative ageing.</b>"  Nat. Cell Biol. <b>12</b>(8):799-805 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/20657593">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2523/"><span class="badge">6</span>&nbsp;citations in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/2748/" class="label label-warning">Saccharomyces cerevisiae Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/4181/" class="label label-warning">Cell Division/genetics/physiology</a>
+          </li>
+          <li><a href="/entries/tags/6601/" class="label label-warning">Membrane Transport Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/7201/" class="label label-warning">Cell Cycle/genetics/physiology</a>
+          </li>
+          <li><a href="/entries/tags/9778/" class="label label-warning">Saccharomyces cerevisiae/cytology/genetics/metabolism/physiology</a>
+          </li>
+          <li><a href="/entries/tags/9793/" class="label label-warning">Antiporters/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9794/" class="label label-warning">Multidrug Resistance-Associated Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9795/" class="label label-warning">Organic Cation Transport Proteins/genetics/metabolism</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2461" class="results-checkbox"/>
+
+            <p><b>2461</b>: Elson et al. (1996) "<b>Pleiotropic defects in ataxia-telangiectasia protein-deficient mice.</b>"  Proc. Natl. Acad. Sci. U.S.A. <b>93</b>(23):13084-13089 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/8917548">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2461/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/8/" class="label label-warning">Humans</a>
+          </li>
+          <li><a href="/entries/tags/9/" class="label label-warning">Mice</a>
+          </li>
+          <li><a href="/entries/tags/10/" class="label label-warning">Mice, Knockout</a>
+          </li>
+          <li><a href="/entries/tags/19/" class="label label-warning">Female</a>
+          </li>
+          <li><a href="/entries/tags/21/" class="label label-warning">Genotype</a>
+          </li>
+          <li><a href="/entries/tags/26/" class="label label-warning">Male</a>
+          </li>
+          <li><a href="/entries/tags/28/" class="label label-warning">Mice, Inbred C57BL</a>
+          </li>
+          <li><a href="/entries/tags/34/" class="label label-warning">Homozygote</a>
+          </li>
+          <li><a href="/entries/tags/78/" class="label label-warning">Cells, Cultured</a>
+          </li>
+          <li><a href="/entries/tags/88/" class="label label-warning">Protein-Serine-Threonine Kinases</a>
+          </li>
+          <li><a href="/entries/tags/114/" class="label label-warning">Proteins/genetics</a>
+          </li>
+          <li><a href="/entries/tags/141/" class="label label-warning">Cell Cycle Proteins</a>
+          </li>
+          <li><a href="/entries/tags/143/" class="label label-warning">DNA-Binding Proteins</a>
+          </li>
+          <li><a href="/entries/tags/144/" class="label label-warning">Fibroblasts</a>
+          </li>
+          <li><a href="/entries/tags/154/" class="label label-warning">Tumor Suppressor Proteins</a>
+          </li>
+          <li><a href="/entries/tags/169/" class="label label-warning">Crosses, Genetic</a>
+          </li>
+          <li><a href="/entries/tags/282/" class="label label-warning">Karyotyping</a>
+          </li>
+          <li><a href="/entries/tags/373/" class="label label-warning">Leucine Zippers</a>
+          </li>
+          <li><a href="/entries/tags/582/" class="label label-warning">Ataxia Telangiectasia/genetics</a>
+          </li>
+          <li><a href="/entries/tags/733/" class="label label-warning">Exons</a>
+          </li>
+          <li><a href="/entries/tags/734/" class="label label-warning">Heterozygote Detection</a>
+          </li>
+          <li><a href="/entries/tags/1443/" class="label label-warning">Protein Biosynthesis</a>
+          </li>
+          <li><a href="/entries/tags/1697/" class="label label-warning">Spleen/immunology</a>
+          </li>
+          <li><a href="/entries/tags/1700/" class="label label-warning">Thymus Gland/immunology</a>
+          </li>
+          <li><a href="/entries/tags/1850/" class="label label-warning">Embryo, Mammalian</a>
+          </li>
+          <li><a href="/entries/tags/1859/" class="label label-warning">T-Lymphocytes/immunology</a>
+          </li>
+          <li><a href="/entries/tags/2834/" class="label label-warning">Chimera</a>
+          </li>
+          <li><a href="/entries/tags/3413/" class="label label-warning">Seminiferous Tubules/pathology</a>
+          </li>
+          <li><a href="/entries/tags/11776/" class="label label-warning">Ataxia Telangiectasia Mutated Proteins</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="3468" class="results-checkbox"/>
+
+            <p><b>3468</b>: Enns et al. (2009) "<b>Disruption of protein kinase A in mice enhances healthy aging.</b>"  PLoS ONE <b>4</b>(6):e5963 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/19536287">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/3468/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="3484" class="results-checkbox"/>
+
+            <p><b>3484</b>: Eren et al. (2014) "<b>PAI-1-regulated extracellular proteolysis governs senescence and survival in Klotho mice.</b>"  Proc. Natl. Acad. Sci. U.S.A. <b>111</b>(19):7090-7095 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/24778222">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/3484/"><span class="badge">3</span>&nbsp;citations in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/9/" class="label label-warning">Mice</a>
+          </li>
+          <li><a href="/entries/tags/10/" class="label label-warning">Mice, Knockout</a>
+          </li>
+          <li><a href="/entries/tags/19/" class="label label-warning">Female</a>
+          </li>
+          <li><a href="/entries/tags/25/" class="label label-warning">Longevity/physiology</a>
+          </li>
+          <li><a href="/entries/tags/26/" class="label label-warning">Male</a>
+          </li>
+          <li><a href="/entries/tags/28/" class="label label-warning">Mice, Inbred C57BL</a>
+          </li>
+          <li><a href="/entries/tags/31/" class="label label-warning">Aging/physiology</a>
+          </li>
+          <li><a href="/entries/tags/47/" class="label label-warning">Mice, Inbred C3H</a>
+          </li>
+          <li><a href="/entries/tags/133/" class="label label-warning">Phenotype</a>
+          </li>
+          <li><a href="/entries/tags/375/" class="label label-warning">Cell Aging/physiology</a>
+          </li>
+          <li><a href="/entries/tags/650/" class="label label-warning">Telomere/physiology</a>
+          </li>
+          <li><a href="/entries/tags/4263/" class="label label-warning">Cyclin-Dependent Kinase Inhibitor p16/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/7766/" class="label label-warning">Glucuronidase/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/11844/" class="label label-warning">Extracellular Space/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/11845/" class="label label-warning">Hemorrhagic Disorders/genetics/metabolism/mortality</a>
+          </li>
+          <li><a href="/entries/tags/11846/" class="label label-warning">Plasminogen Activator Inhibitor 1/deficiency/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/11847/" class="label label-warning">Proteolysis</a>
+          </li>
+          <li><a href="/entries/tags/11848/" class="label label-warning">Serpin E2/genetics/metabolism</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2306" class="results-checkbox"/>
+
+            <p><b>2306</b>: Erjavec et al. (2007) "<b>Accelerated aging and failure to segregate damaged proteins in Sir2 mutants can be suppressed by overproducing the protein aggregation-remodeling factor Hsp104p.</b>"  Genes Dev. <b>21</b>(19):2410-2421 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/17908928">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2306/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/20/" class="label label-warning">Gene Deletion</a>
+          </li>
+          <li><a href="/entries/tags/84/" class="label label-warning">Mutation</a>
+          </li>
+          <li><a href="/entries/tags/86/" class="label label-warning">Oxidation-Reduction</a>
+          </li>
+          <li><a href="/entries/tags/1194/" class="label label-warning">Histone Deacetylases/genetics</a>
+          </li>
+          <li><a href="/entries/tags/1195/" class="label label-warning">Sirtuins/genetics</a>
+          </li>
+          <li><a href="/entries/tags/1346/" class="label label-warning">Sirtuin 2</a>
+          </li>
+          <li><a href="/entries/tags/2748/" class="label label-warning">Saccharomyces cerevisiae Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/2793/" class="label label-warning">Heat-Shock Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/3734/" class="label label-warning">Oxidative Stress/drug effects</a>
+          </li>
+          <li><a href="/entries/tags/4935/" class="label label-warning">Saccharomyces cerevisiae/genetics/growth &amp; development/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9248/" class="label label-warning">Cytokinesis</a>
+          </li>
+          <li><a href="/entries/tags/9249/" class="label label-warning">Silent Information Regulator Proteins, Saccharomyces cerevisiae/genetics</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2361" class="results-checkbox"/>
+
+            <p><b>2361</b>: Esposito et al. (1999) "<b>Mitochondrial disease in mouse results in increased oxidative stress.</b>"  Proc. Natl. Acad. Sci. U.S.A. <b>96</b>(9):4820-4825 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/10220377">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2361/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/9/" class="label label-warning">Mice</a>
+          </li>
+          <li><a href="/entries/tags/63/" class="label label-warning">Oxidative Stress</a>
+          </li>
+          <li><a href="/entries/tags/93/" class="label label-warning">Reactive Oxygen Species/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/98/" class="label label-warning">DNA Damage</a>
+          </li>
+          <li><a href="/entries/tags/159/" class="label label-warning">Brain/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/232/" class="label label-warning">Myocardium/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/1388/" class="label label-warning">DNA, Mitochondrial/genetics</a>
+          </li>
+          <li><a href="/entries/tags/1773/" class="label label-warning">Muscle, Skeletal/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/2327/" class="label label-warning">Protein Isoforms/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/6372/" class="label label-warning">Mitochondria/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9407/" class="label label-warning">Mitochondria, Heart/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9408/" class="label label-warning">Mitochondrial ADP, ATP Translocases/deficiency/genetics</a>
+          </li>
+          <li><a href="/entries/tags/9409/" class="label label-warning">Mitochondrial Encephalomyopathies/genetics/metabolism</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="1358" class="results-checkbox"/>
+
+            <p><b>1358</b>: Essers et al. (2005) "<b>Functional interaction between beta-catenin and FOXO in oxidative stress signaling.</b>"  Science <b>308</b>(5725):1181-1184 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/15905404">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/1358/"><span class="badge">4</span>&nbsp;citations in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/2/" class="label label-warning">Carrier Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/8/" class="label label-warning">Humans</a>
+          </li>
+          <li><a href="/entries/tags/9/" class="label label-warning">Mice</a>
+          </li>
+          <li><a href="/entries/tags/46/" class="label label-warning">Longevity</a>
+          </li>
+          <li><a href="/entries/tags/61/" class="label label-warning">Hydrogen Peroxide/pharmacology</a>
+          </li>
+          <li><a href="/entries/tags/63/" class="label label-warning">Oxidative Stress</a>
+          </li>
+          <li><a href="/entries/tags/70/" class="label label-warning">Signal Transduction</a>
+          </li>
+          <li><a href="/entries/tags/81/" class="label label-warning">Forkhead Transcription Factors</a>
+          </li>
+          <li><a href="/entries/tags/84/" class="label label-warning">Mutation</a>
+          </li>
+          <li><a href="/entries/tags/95/" class="label label-warning">Transfection</a>
+          </li>
+          <li><a href="/entries/tags/184/" class="label label-warning">Cell Line</a>
+          </li>
+          <li><a href="/entries/tags/388/" class="label label-warning">Cell Cycle</a>
+          </li>
+          <li><a href="/entries/tags/399/" class="label label-warning">Animals, Genetically Modified</a>
+          </li>
+          <li><a href="/entries/tags/429/" class="label label-warning">Transcription Factors/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/458/" class="label label-warning">Superoxide Dismutase/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/629/" class="label label-warning">DNA-Binding Proteins/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/927/" class="label label-warning">Cyclin-Dependent Kinase Inhibitor p27</a>
+          </li>
+          <li><a href="/entries/tags/1079/" class="label label-warning">Insulin/pharmacology</a>
+          </li>
+          <li><a href="/entries/tags/1125/" class="label label-warning">beta Catenin</a>
+          </li>
+          <li><a href="/entries/tags/1198/" class="label label-warning">Receptor, Insulin/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/1231/" class="label label-warning">Caenorhabditis elegans Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/1380/" class="label label-warning">Caenorhabditis elegans/genetics/metabolism/physiology</a>
+          </li>
+          <li><a href="/entries/tags/3056/" class="label label-warning">Trans-Activators/chemistry/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/4379/" class="label label-warning">Cell Line, Tumor</a>
+          </li>
+          <li><a href="/entries/tags/6116/" class="label label-warning">Cytoskeletal Proteins/chemistry/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/6117/" class="label label-warning">Immunoprecipitation</a>
+          </li>
+          <li><a href="/entries/tags/6118/" class="label label-warning">Intracellular Signaling Peptides and Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/6119/" class="label label-warning">Lithium Chloride/pharmacology</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="4428" class="results-checkbox"/>
+
+            <p><b>4428</b>: Esslinger et al. (2013) "<b>Drosophila miR-277 controls branched-chain amino acid catabolism and affects lifespan.</b>"  RNA Biol <b>10</b>(6):1042-1056 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/23669073">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/4428/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/39/" class="label label-warning">Aging</a>
+          </li>
+          <li><a href="/entries/tags/46/" class="label label-warning">Longevity</a>
+          </li>
+          <li><a href="/entries/tags/78/" class="label label-warning">Cells, Cultured</a>
+          </li>
+          <li><a href="/entries/tags/399/" class="label label-warning">Animals, Genetically Modified</a>
+          </li>
+          <li><a href="/entries/tags/618/" class="label label-warning">Gene Expression Regulation</a>
+          </li>
+          <li><a href="/entries/tags/1028/" class="label label-warning">Insulin/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/8163/" class="label label-warning">Sequence Analysis, RNA</a>
+          </li>
+          <li><a href="/entries/tags/8183/" class="label label-warning">TOR Serine-Threonine Kinases/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/8402/" class="label label-warning">MicroRNAs/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/8891/" class="label label-warning">Drosophila melanogaster/genetics/metabolism/physiology</a>
+          </li>
+          <li><a href="/entries/tags/11820/" class="label label-warning">High-Throughput Nucleotide Sequencing</a>
+          </li>
+          <li><a href="/entries/tags/13381/" class="label label-warning">Amino Acids, Branched-Chain/metabolism</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="4764" class="results-checkbox"/>
+
+            <p><b>4764</b>: Ewald et al. (2017) "<b>NADPH oxidase-mediated redox signaling promotes oxidative stress resistance and longevity through </b>"  Elife <b>6</b>: <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/28085666">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/4764/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/46/" class="label label-warning">Longevity</a>
+          </li>
+          <li><a href="/entries/tags/63/" class="label label-warning">Oxidative Stress</a>
+          </li>
+          <li><a href="/entries/tags/70/" class="label label-warning">Signal Transduction</a>
+          </li>
+          <li><a href="/entries/tags/86/" class="label label-warning">Oxidation-Reduction</a>
+          </li>
+          <li><a href="/entries/tags/902/" class="label label-warning">Caenorhabditis elegans/physiology</a>
+          </li>
+          <li><a href="/entries/tags/12663/" class="label label-warning">Caenorhabditis elegans Proteins/antagonists &amp; inhibitors/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/13725/" class="label label-warning">Nonheme Iron Proteins/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/13726/" class="label label-warning">Oxidoreductases/antagonists &amp; inhibitors</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="4396" class="results-checkbox"/>
+
+            <p><b>4396</b>: Ewald et al. (2016) "<b>Alzheimer-related protein APL-1 modulates lifespan through heterochronic gene regulation in Caenorhabditis elegans.</b>"  Aging Cell <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/27557896">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/4396/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2453" class="results-checkbox"/>
+
+            <p><b>2453</b>: Exil et al. (2010) "<b>Stressed-induced TMEM135 protein is part of a conserved genetic network involved in fat storage and longevity regulation in Caenorhabditis elegans.</b>"  PLoS ONE <b>5</b>(12):e14228 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/21151927">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2453/"><span class="badge">1</span>&nbsp;citation in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+          </li>
+          <li><a href="/entries/tags/9/" class="label label-warning">Mice</a>
+          </li>
+          <li><a href="/entries/tags/10/" class="label label-warning">Mice, Knockout</a>
+          </li>
+          <li><a href="/entries/tags/20/" class="label label-warning">Gene Deletion</a>
+          </li>
+          <li><a href="/entries/tags/36/" class="label label-warning">Longevity/genetics</a>
+          </li>
+          <li><a href="/entries/tags/405/" class="label label-warning">Antioxidants/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/618/" class="label label-warning">Gene Expression Regulation</a>
+          </li>
+          <li><a href="/entries/tags/799/" class="label label-warning">Tissue Distribution</a>
+          </li>
+          <li><a href="/entries/tags/1164/" class="label label-warning">Adipose Tissue/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/1231/" class="label label-warning">Caenorhabditis elegans Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/1601/" class="label label-warning">Membrane Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/2401/" class="label label-warning">Fatty Acids/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/4191/" class="label label-warning">Caenorhabditis elegans</a>
+          </li>
+          <li><a href="/entries/tags/4434/" class="label label-warning">Subcellular Fractions/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9543/" class="label label-warning">Gene Regulatory Networks</a>
+          </li>
+          <li><a href="/entries/tags/9624/" class="label label-warning">Acyl-CoA Dehydrogenase, Long-Chain/deficiency/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9625/" class="label label-warning">Lipid Metabolism, Inborn Errors</a>
+          </li>
+          <li><a href="/entries/tags/9626/" class="label label-warning">Metabolism, Inborn Errors/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9627/" class="label label-warning">Mitochondrial Diseases/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9628/" class="label label-warning">Muscular Diseases/metabolism</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <div class="row">
+          <div class="span12">
+
+            <input type="checkbox" name="ids[]" value="2271" class="results-checkbox"/>
+
+            <p><b>2271</b>: Fabrizio et al. (2003) "<b>SOD2 functions downstream of Sch9 to extend longevity in yeast.</b>"  Genetics <b>163</b>(1):35-46 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/12586694">(PubMed)</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12"><span class="citation-count"><a href="/entries/entry/2271/"><span class="badge">5</span>&nbsp;citations in connected databases</a></span>
+          </div>
+        </div>
+
+        <ul class="tag-list row">
+          <li><i class="icon-tags"></i><span class="acc-hide">Tags:</span>
+          </li>
+          <li><a href="/entries/tags/84/" class="label label-warning">Mutation</a>
+          </li>
+          <li><a href="/entries/tags/260/" class="label label-warning">Saccharomyces cerevisiae Proteins</a>
+          </li>
+          <li><a href="/entries/tags/365/" class="label label-warning">Protein Kinases/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/429/" class="label label-warning">Transcription Factors/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/458/" class="label label-warning">Superoxide Dismutase/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/482/" class="label label-warning">Aconitate Hydratase/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/629/" class="label label-warning">DNA-Binding Proteins/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/3497/" class="label label-warning">ras Proteins/genetics/metabolism</a>
+          </li>
+          <li><a href="/entries/tags/9167/" class="label label-warning">Fungal Proteins</a>
+          </li>
+          <li><a href="/entries/tags/9168/" class="label label-warning">Saccharomyces cerevisiae/enzymology/growth &amp; development/metabolism</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </form>
+</div><div class="row">
+  <div class="pagination">
+    <ul>
+      <li><a href="?page=1&amp;s=&amp;sort=author">First</a>
+      </li>
+      <li><a href="?page=7&amp;s=&amp;sort=author">Previous</a>
+      </li>
+      <li><a href="?page=6&amp;s=&amp;sort=author">6</a>
+      </li>
+      <li><a href="?page=7&amp;s=&amp;sort=author">7</a>
+      </li>
+      <li class="active"><a href="?page=8&amp;s=&amp;sort=author">8 of 36</a>
+      </li>
+      <li><a href="?page=9&amp;s=&amp;sort=author">9</a>
+      </li>
+      <li><a href="?page=10&amp;s=&amp;sort=author">10</a>
+      </li>
+      <li><a href="?page=9&amp;s=&amp;sort=author">Next</a>
+      </li>
+      <li><a href="?page=36&amp;s=&amp;sort=author">Last</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+      <script src="/static/js/jquery-1.8.2.min.js"></script>
+      <script src="/static/js/bootstrap-dropdown.js"></script>
+    </div>
+    <div id="footer">    <div class="footer-links row-fluid">
+
+        <ul class="span3">
+            <li class="title">Human Ageing Genomic Resources</li>
+            <li><a href="/">Home</a></li>
+            <li><a href="http://genomics.senescence.info/about.html">About Us</a></li>
+            <li><a href="http://genomics.senescence.info/legal.html">Disclaimer</a></li>
+            <li><a href="http://genomics.senescence.info/download.html">Downloads</a></li>
+            <li><a href="http://genomics.senescence.info/feedback.php">Feedback</a></li>
+            <li><a href="http://genomics.senescence.info/help.html">Help</a></li>
+            <li><a href="http://genomics.senescence.info/links.html">Links</a></li>
+            <li><a href="http://genomics.senescence.info/mailman/listinfo/hagr-news_genomics.senescence.info">Mailing List</a></li>
+            <li><a href="http://genomics.senescence.info/news/index.html">News</a></li>
+            <li><a href="http://genomics.senescence.info/papers.html">Publications</a></li>
+            <li><a href="http://genomics.senescence.info/science.html">Science</a></li>
+        </ul>
+
+        <ul class="span3">
+            <li class="title">Databases</li>
+            <li><a href="http://genomics.senescence.info/genes/">Gene Database (GenAge)</a></li>
+            <li><a href="http://genomics.senescence.info/species/">Species Database (AnAge)</a></li>
+            <li><a href="http://genomics.senescence.info/diet/">Dietary Restriction Database (GenDR)</a></li>
+            <li><a href="http://genomics.senescence.info/longevity/">Longevity Variants Database (LongevityMap)</a></li>
+            <li class="title">Non HAGR databases</li>
+            <li><a href="http://ageing-map.org">Digital Ageing Atlas</a></li>
+            <li><a href="http://libage.ageing-map.org">LibAge</a></li>
+        </ul>
+
+        <ul class="span3">
+            <li class="title">Resources</li>
+            <li><a href="http://genomics.senescence.info/gene_expression/">Gene Expression</a></li>
+            <li><a href="http://genomics.senescence.info/cancer/">Cancer</a></li>
+            <li><a href="http://genomics.senescence.info/sequencing/">Genome Sequencing</a></li>
+            <li><a href="http://genomics.senescence.info/evolution/">Evolution of Ageing</a></li>
+            <li><a href="http://genomics.senescence.info/software/">Software</a></li>
+        </ul>
+
+        <ul class="span3">
+            <li class="title">Our Group</li>
+            <li><a href="http://www.senescence.info">senescence.info</a></li>
+            <li><a href="http://pcwww.liv.ac.uk/~aging/">The Integrative Genomics of Ageing Group</a></li>
+            <li><a href="https://twitter.com/AgingBiology" class="twitter-follow-button" data-show-count="false">Follow @AgingBiology</a></li>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </ul>
+    </div>
+    
+    <p class="contact-us">Comments, suggestions, ideas, and bug reports are welcome. Please <a href="http://genomics.senescence.info/feedback.php">contact us</a>.</p>
+    
+    <p class="legal">HAGR may be freely used for all purposes under <a href="http://genomics.senescence.info/legal.html">some conditions</a>.</p>
+
+
+      <p class="version"></p>
+    </div>
+    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-40611056-6', 'ageing-map.org');
+ga('send', 'pageview');
+    </script>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "source": "GenAge Build 21 and OMA All.May2026",
+  "unit": "direct species+Entrez gene pair",
+  "principal_species": [
+    "Saccharomyces cerevisiae",
+    "Caenorhabditis elegans",
+    "Drosophila melanogaster",
+    "Mus musculus"
+  ],
+  "genage_records_principal": 2138,
+  "qualifying_pairs": 206,
+  "distinct_genes": 320,
+  "genes_with_multiple_partners": 67,
+  "genes_with_partners_in_multiple_species": 47,
+  "direction_counts": {
+    "Anti-Longevity": 66,
+    "discordant_or_mixed": 32,
+    "Pro-Longevity": 34,
+    "unresolved": 74
+  },
+  "outside_main_comparison_records": 67,
+  "oma_unavailable_species": [
+    "Podospora anserina",
+    "Mesocricetus auratus"
+  ]
+}

@@ -1,0 +1,5 @@
+raw_row_index_zero_based,csv_line_number,GenAge ID,organism,symbol,name,entrez gene id,longevity influence,lifespan effect,raw_lifespan_change,parsed_numeric_lifespan_change,maximum_tie_count,symbol_records_in_raw_organism,symbol_records_in_figure6,symbol_is_repeated_in_raw_organism,symbol_is_repeated_in_figure6
+604,606,606,Saccharomyces cerevisiae,SIR2,Sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae),851520,Unclear,Increase,600,600.0,1,1,1,False,False
+6,8,7,Caenorhabditis elegans,age-1,"AGEing alteration AGE-1, abnormal DAuer Formation DAF-23",174762,Anti-Longevity,Increase,1000,1000.0,1,1,1,False,False
+2057,2059,2083,Drosophila melanogaster,Vinc,Vinculin,31201,Pro-Longevity,Increase,150,150.0,1,1,1,False,False
+1822,1824,1848,Mus musculus,Ghrh,growth hormone releasing hormone,14601,Anti-Longevity,Increase,46,46.0,1,1,1,False,False

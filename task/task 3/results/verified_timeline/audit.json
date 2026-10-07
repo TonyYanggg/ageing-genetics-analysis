@@ -1,0 +1,28 @@
+{
+  "total_entries": 2205,
+  "dated_entries": 2203,
+  "references": 708,
+  "verified_observations": 2733,
+  "mapped_links": 2732,
+  "unresolved_links": 22,
+  "excluded_dangling_links": 22,
+  "live_sample_entries": 205,
+  "corrected_label_assignments": 10,
+  "live_sample_observations": 282,
+  "snapshot_commit": "4e83b50142ea4b8c6625a7a86b6005ff3f606ed6",
+  "observations_without_reference": 1,
+  "missing_pilot_pairs": [],
+  "pilot_identity_conflicts": [],
+  "missing_reference_years": 0,
+  "build21_sha256": "8717b30212a2f6039a7b70c28dff8bc5696c166e04a150f95302f90b8585c2a0",
+  "input_sha256": {
+    "results\\hagr_r_snapshot\\models.csv": "3b9e2e700ff952f0511c8920fe74b42976537d0229d35c6f47b8f9cfbaaf0a43",
+    "results\\hagr_r_snapshot\\longevity.csv": "eff51aaed14ee6d21ddc6fc9f1d59018ff03f9af4cbc7e9162dc7ae6e4c16c03",
+    "results\\bibliography\\references.csv": "4495e1a06ab70c69ee00da67ae16eec6d6b5cfafaf462a87961a153b527042e5",
+    "results\\bibliography\\observation_backlinks.csv": "7eee9cd2ef8312cb2be3512330912e4b84c6b26aeb0e43fbc5174ba06e772373"
+  },
+  "mapping_status": "Official HAGR-R observation-to-entry IDs; all entry identities match Build 21; live sample and targeted gap checks agree",
+  "preview_ready": true,
+  "final_ready": false,
+  "definition": "GenAge entries by earliest associated publication, not verified historical gene discovery; distinct LibAge references for publications"
+}

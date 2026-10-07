@@ -1,0 +1,249 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A20421943+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "20421943",
+    "source": "MED",
+    "pmid": "20421943",
+    "pmcid": "PMC2858703",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC2858703"
+      ]
+    },
+    "doi": "10.1371/journal.pgen.1000921",
+    "title": "A microarray-based genetic screen for yeast chronological aging factors.",
+    "authorString": "Matecic M, Smith DL, Pan X, Maqani N, Bekiranov S, Boeke JD, Smith JS.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Matecic M",
+          "lastName": "Matecic",
+          "firstName": "Mirela",
+          "initials": "M",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Biochemistry and Molecular Genetics, University of Virginia Health System, School of Medicine, Charlottesville, Virginia, United States of America."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Smith DL",
+          "lastName": "Smith",
+          "firstName": "Daniel L",
+          "initials": "DL"
+        },
+        {
+          "fullName": "Pan X",
+          "lastName": "Pan",
+          "firstName": "Xuewen",
+          "initials": "X"
+        },
+        {
+          "fullName": "Maqani N",
+          "lastName": "Maqani",
+          "firstName": "Nazif",
+          "initials": "N"
+        },
+        {
+          "fullName": "Bekiranov S",
+          "lastName": "Bekiranov",
+          "firstName": "Stefan",
+          "initials": "S"
+        },
+        {
+          "fullName": "Boeke JD",
+          "lastName": "Boeke",
+          "firstName": "Jef D",
+          "initials": "JD",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-5322-4946"
+          }
+        },
+        {
+          "fullName": "Smith JS",
+          "lastName": "Smith",
+          "firstName": "Jeffrey S",
+          "initials": "JS"
+        }
+      ]
+    },
+    "authorIdList": {
+      "authorId": [
+        {
+          "type": "ORCID",
+          "value": "0000-0001-5322-4946"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0002-1602-2023"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data",
+        "recommended_reviews",
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "4",
+      "volume": "6",
+      "journalIssueId": 1722593,
+      "dateOfPublication": "2010 Apr",
+      "monthOfPublication": 4,
+      "yearOfPublication": 2010,
+      "journal": {
+        "medlineAbbreviation": "PLoS Genet",
+        "title": "PLoS genetics",
+        "essn": "1553-7404",
+        "issn": "1553-7390",
+        "nlmid": "101239074",
+        "isoabbreviation": "PLoS Genet"
+      },
+      "printPublicationDate": "2010-04-01"
+    },
+    "pubYear": "2010",
+    "pageInfo": "e1000921",
+    "abstractText": "Model organisms have played an important role in the elucidation of multiple genes and cellular processes that regulate aging. In this study we utilized the budding yeast, Saccharomyces cerevisiae, in a large-scale screen for genes that function in the regulation of chronological lifespan, which is defined by the number of days that non-dividing cells remain viable. A pooled collection of viable haploid gene deletion mutants, each tagged with unique identifying DNA \"bar-code\" sequences was chronologically aged in liquid culture. Viable mutants in the aging population were selected at several time points and then detected using a microarray DNA hybridization technique that quantifies abundance of the barcode tags. Multiple short- and long-lived mutants were identified using this approach. Among the confirmed short-lived mutants were those defective for autophagy, indicating a key requirement for the recycling of cellular organelles in longevity. Defects in autophagy also prevented lifespan extension induced by limitation of amino acids in the growth media. Among the confirmed long-lived mutants were those defective in the highly conserved de novo purine biosynthesis pathway (the ADE genes), which ultimately produces IMP and AMP. Blocking this pathway extended lifespan to the same degree as calorie (glucose) restriction. A recently discovered cell-extrinsic mechanism of chronological aging involving acetic acid secretion and toxicity was suppressed in a long-lived ade4Delta mutant and exacerbated by a short-lived atg16Delta autophagy mutant. The identification of multiple novel effectors of yeast chronological lifespan will greatly aid in the elucidation of mechanisms that cells and organisms utilize in slowing down the aging process.",
+    "affiliation": "Department of Biochemistry and Molecular Genetics, University of Virginia Health System, School of Medicine, Charlottesville, Virginia, United States of America.",
+    "publicationStatus": "epublish",
+    "language": "eng",
+    "pubModel": "Electronic",
+    "pubTypeList": {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    "grantsList": {
+      "grant": [
+        {
+          "agency": "NIDDK NIH HHS",
+          "acronym": "DK",
+          "grantId": "R24 DK082840",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIA NIH HHS",
+          "acronym": "AG",
+          "grantId": "R01 AG022685",
+          "orderIn": 0
+        }
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Saccharomyces cerevisiae",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Oligonucleotide Array Sequence Analysis"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Gene Expression Regulation, Fungal"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mutation"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Cellular Senescence"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1371/journal.pgen.1000921"
+        },
+        {
+          "availability": "Open access",
+          "availabilityCode": "OA",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC2858703"
+        },
+        {
+          "availability": "Open access",
+          "availabilityCode": "OA",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC2858703?pdf=render"
+        }
+      ]
+    },
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 182,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "Y",
+    "dbCrossReferenceList": {
+      "dbName": [
+        "INTERPRO",
+        "UNIPROT"
+      ]
+    },
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "license": "cc by",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+      "accessionType": [
+        "doi"
+      ]
+    },
+    "dateOfCompletion": "2010-08-10",
+    "dateOfCreation": "2010-04-28",
+    "dateOfRevision": "2021-10-20",
+    "electronicPublicationDate": "2010-04-22",
+    "firstPublicationDate": "2010-04-22",
+    "firstIndexDate": "2010-09-29",
+    "fullTextReceivedDate": "2025-02-02",
+    "hasEvaluations": "N"
+  }
+}

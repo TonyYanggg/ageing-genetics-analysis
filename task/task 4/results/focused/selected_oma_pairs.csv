@@ -1,0 +1,11 @@
+example,species1,entrez1,symbols1,genage_ids1,species2,entrez2,symbols2,genage_ids2,both_lifespan,both_directional,direction_agreement,influences1,influences2,pair_rel_types,protein_pairs,source,unit
+TOR,Caenorhabditis elegans,172167,let-363,32,Drosophila melanogaster,47396,Tor,678,True,True,Anti-Longevity,Anti-Longevity,Anti-Longevity,1:1,CAEEL00842|DROME01015,OMA All.May2026,explicit_gene_pair
+TOR,Caenorhabditis elegans,172167,let-363,32,Mus musculus,56717,Mtor,1809,True,True,Anti-Longevity,Anti-Longevity,Anti-Longevity,1:1,CAEEL00842|MOUSE39706,OMA All.May2026,explicit_gene_pair
+TOR,Caenorhabditis elegans,172167,let-363,32,Saccharomyces cerevisiae,853529,TOR1,679,True,True,Anti-Longevity,Anti-Longevity,Anti-Longevity,1:m,CAEEL00842|YEAST03436,OMA All.May2026,explicit_gene_pair
+TOR,Drosophila melanogaster,47396,Tor,678,Mus musculus,56717,Mtor,1809,True,True,Anti-Longevity,Anti-Longevity,Anti-Longevity,1:1,DROME01015|MOUSE39706,OMA All.May2026,explicit_gene_pair
+TOR,Drosophila melanogaster,47396,Tor,678,Saccharomyces cerevisiae,853529,TOR1,679,True,True,Anti-Longevity,Anti-Longevity,Anti-Longevity,1:m,DROME01015|YEAST03436,OMA All.May2026,explicit_gene_pair
+TOR,Mus musculus,56717,Mtor,1809,Saccharomyces cerevisiae,853529,TOR1,679,True,True,Anti-Longevity,Anti-Longevity,Anti-Longevity,1:m,MOUSE39706|YEAST03436,OMA All.May2026,explicit_gene_pair
+S6 kinase,Caenorhabditis elegans,176554,rsks-1,578,Drosophila melanogaster,38654,S6k,583,True,True,Anti-Longevity,Anti-Longevity,Anti-Longevity,1:1,CAEEL08925|DROME13992,OMA All.May2026,explicit_gene_pair
+S6 kinase,Drosophila melanogaster,38654,S6k,583,Mus musculus,72508,Rps6kb1,1737,True,True,Anti-Longevity,Anti-Longevity,Anti-Longevity,1:1,DROME13992|MOUSE06184,OMA All.May2026,explicit_gene_pair
+Insulin/IGF receptor,Caenorhabditis elegans,175410,daf-2,163,Drosophila melanogaster,42549,InR,368,True,True,Anti-Longevity,Anti-Longevity,Anti-Longevity,1:1,CAEEL07094|DROME19798,OMA All.May2026,explicit_gene_pair
+Insulin/IGF receptor,Caenorhabditis elegans,175410,daf-2,163,Mus musculus,16001,Igf1r,365,True,True,Anti-Longevity,Anti-Longevity,Anti-Longevity,1:n,CAEEL07094|MOUSE52615,OMA All.May2026,explicit_gene_pair

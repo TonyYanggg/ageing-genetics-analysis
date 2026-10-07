@@ -1,0 +1,414 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Entry details | Welcome to LibAge, the ageing reference resource</title>
+    <link href="/static/css/hagr.css" rel="stylesheet" type="text/css"/>
+    <link href="/static/css/libage.css" rel="stylesheet" type="text/css"/>
+    <link rel="shortcut icon" href="/static/favicon.ico"/>
+  </head>
+  <body>
+<div id="global-navigation">
+  <ul class="dropdown">
+    <li class="initial-link"><a href="/"></a></li>
+    <li><a href="http://genomics.senescence.info/" class="genomics">Genomics</a>
+      <div class="dropdown-contents">
+        <div class="dropdown-item genage"><span class="global-menu-header"><a href="http://genomics.senescence.info/genes/">GenAge</a></span>
+          <p class="global-menu-description">A curated database of candidate human ageing-related genes and genes associated with longevity and/or ageing in model organisms.</p>
+          <form action="http://genomics.senescence.info/genes/query.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search human</button>
+            </div>
+          </form>
+          <form action="http://genomics.senescence.info/genes/search.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search model organisms</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item gendr"><span class="global-menu-header"><a href="http://genomics.senescence.info/diet/">GenDR</a></span>
+          <p class="global-menu-description">A curated database of genes associated with dietary restriction in model organisms either from genetic manipulation experiments or gene expression profiling.</p>
+          <form action="http://genomics.senescence.info/diet/search_mut.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search gene manipulations</button>
+            </div>
+          </form>
+          <form action="http://genomics.senescence.info/diet/search_exp.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search gene expression</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item longevity"><span class="global-menu-header"><a href="http://genomics.senescence.info/longevity/">LongevityMap</a></span>
+          <p class="global-menu-description">Database of human genetic variants associated with longevity.</p>
+          <form action="http://genomics.senescence.info/longevity/search.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search genes/variants</button>
+            </div>
+          </form>
+        </div>
+        <div class="dropdown-item gene-expression"><span class="global-menu-header"><a href="http://genomics.senescence.info/gene_expression/">Gene Expression</a></span>
+          <p class="global-menu-description">Projects focused on gene expression profiling of ageing and of dietary manipulations of ageing, such as caloric restriction. </p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/cancer/">Cancer </a></span>
+          <p class="global-menu-description">Studies focused on cancer, in particular using genomics and bioinformatics approaches.</p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/sequencing/">Genomes </a></span>
+          <p class="global-menu-description">Information on developing genomic resources and methods for studying long-lived species.</p>
+        </div>
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/evolution/">Evolution </a></span>
+          <p class="global-menu-description">Studies using the <a href="http://genomics.senescence.info/species/" class="inline-link">AnAge database</a> to study the evolution of longevity and ageing in vertebrate lineages.</p>
+        </div>
+        <div class="dropdown-item last-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/software/">Software </a></span>
+          <p class="global-menu-description">Software for ageing research, including the Ageing Research Computational Tools (ARCT) perl toolkit.</p>
+        </div>
+      </div>
+    </li>
+    <li><a href="/species/" class="longevity">Animal Longevity</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item anage last-item"><span class="global-menu-header"><a href="http://genomics.senescence.info/species/">AnAge </a></span>
+          <p class="global-menu-description">A curated database of ageing and life history information in animals, including extensive longevity records.</p>
+          <form action="http://genomics.senescence.info/species/query.php" class="global-menu-search form">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search AnAge</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </li>
+    <li><a href="http://ageing-map.org" class="daa">Ageing Changes</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item daa last-item"><span class="global-menu-header"><a href="http://ageing-map.org/">Digital Ageing Atlas </a></span>
+          <p class="global-menu-description">A portal of ageing changes covering different biological levels, integrating molecular, physiological and pathological age-related data.</p>
+          <form action="http://ageing-map.org/atlas/results/" method="get" class="global-menu-search form">
+            <div class="input-append">
+              <input name="s" type="search"/>
+              <button type="submit" class="btn">Search</button>
+            </div>
+            <input name="species[]" type="hidden" value="9606"/>
+          </form>
+        </div>
+      </div>
+    </li>
+    <li><a href="http://senescence.info/" class="sen">Ageing Information</a>
+      <div class="dropdown-contents short">
+        <div class="dropdown-item sen"><span class="global-menu-header"><a href="http://senescence.info">senescence.info </a></span>
+          <p class="global-menu-description">An educational resource on the science of ageing. </p>
+        </div>
+        <div class="dropdown-item libage"><span class="global-menu-header"><a href="http://libage.ageing-map.org" class="libage">LibAge </a></span>
+          <p class="global-menu-description">The bibliographic library for ageing research.</p>
+          <form action="http://libage.ageing-map.org/entries/search/" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="s" type="search"/>
+              <button type="submit" class="btn">Search literature</button>
+            </div>
+          </form>
+        </div>		
+        <div class="dropdown-item"><span class="global-menu-header"><a href="http://whoswho.senescence.info">Who's Who in Gerontology </a></span>
+          <p class="global-menu-description">The WhosAge database contains people and biotech companies that are contributing to increase our understanding of ageing and life-extension.</p>
+          <form action="http://whoswho.senescence.info/corp.php" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search companies</button>
+            </div>
+            <input name="change" type="hidden" value="all"/>
+          </form>
+          <form action="http://whoswho.senescence.info/people.php" method="get" class="global-menu-search">
+            <div class="input-append">
+              <input name="search" type="search"/>
+              <button type="submit" class="btn">Search people</button>
+            </div>
+            <input name="change" type="hidden" value="all"/>
+          </form>
+        </div>
+        <div class="dropdown-item lab"><span class="global-menu-header"><a href="http://pcwww.liv.ac.uk/~aging/">Integrative Genomics of Ageing Group</a></span>
+            <p class="global-menu-description">Our lab leads the upkeep and development of HAGR. </p>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <form id="quick-search-form" method="get" action="http://genomics.senescence.info/search/" class="form-search form">
+    <label for="search" id="quick-search-label">Search all databases:</label>
+    <div class="input-append">
+      <input type="search" name="search" id="search" class="span2 search-query"/>
+      <button type="submit" class="btn">Quick Search</button>
+    </div>
+  </form>
+</div>
+
+
+    <div id="header"><a href="/"><img width="1024" height="140" alt="LibAge, part of the Human Ageing Genomic Resources (senescence.info)" src="/static/images/header.png"/></a><span class="senescence-link">at <a href="http://www.senescence.info">senescence.info</a></span>
+    </div>
+    <div class="container">
+      <ul class="nav nav-tabs site-nav">
+        <li><a href="/">Search</a>
+        </li>
+        <li><a href="/entries/tags/">Tags</a>
+        </li>
+        <li><a href="/entries/sources/">Sources</a>
+        </li>
+        <li><a href="/tools/">Tools</a>
+        </li>
+      </ul>
+
+<div class="row">
+  <div class="span12">
+    <div class="highlight-box libage-search">
+      <form action="/entries/search/" method="get" class="form">
+        <div class="input-append">
+          <input type="search" name="s" value="" class="span8"/>
+          <button type="submit" class="btn">Search LibAge</button>
+        </div>
+      </form>
+      <p>You can search for any reference by title, author, date, editor, journal and publisher. Searching is case insensitive, and allows for only partial terms (e.g. seq with pickup both RNA-Seq and sequencing) matching. You can also use advanced queries <a href="/help/">that are detailed here</a>. </p>
+    </div>
+  </div>
+</div>
+
+<h1>Entry details </h1>
+<p class="highlight-box">Kim and Sun (2007) "<b>Functional genomic approach to identify novel genes involved in the regulation of oxidative stress resistance and animal lifespan.</b>"  Aging Cell <b>6</b>(4):489-503 <a class="libage-pubmed" href="http://www.ncbi.nlm.nih.gov/pubmed/17608836">(PubMed)</a></p>
+<div class="row">
+  <div class="span12">
+    <h2>Cited by (in linked databases)</h2>
+    <ol>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=2">aat-8, Amino Acid Transporter (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=12">amt-2, AMmonium Transporter homolog (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=20">asm-3, Acid SphingoMyelinase (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=37">B0546.3 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=74">C33A12.1 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=82">ttr-5, TransThyretin-Related family domain (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=83">C42C1.3 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=84">C46G7.2 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=85">C47E12.2 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=147">cyp-33E2, CYtochrome P450 family (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=199">cyc-2.1, CYtochrome C (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=219">elt-6, Erythroid-Like Transcription factor family (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=220">epc-1, Enhancer of PolyComb-like (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=225">qars-1, glutaminyl(Q) tRNA Synthetase (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=226">F01G10.1 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=227">F08B4.7 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=230">F09G8.3 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=231">F13B6.1 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=236">F21D5.8 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=245">F29C4.2 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=248">F33D4.5 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=253">cutl-28, CUTiclin-Like (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=254">F42A6.1 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=259">F49C12.9 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=268">F56D5.5 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=298">acdh-13, Acyl CoA DeHydrogenase (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=323">grl-19, GRound-Like (grd related) (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=373">inx-8, INneXin (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=384">K07H8.8 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=392">K12H4.5 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=410">LLC1.3 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=440">mars-1, Methionyl tRNA Synthetase (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=507">pod-1, Polarity and Osmotic sensitivity Defect (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=521">R10H10.7 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=534">ral-1, RAL (Ras-related GTPase) homolog (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=565">rps-23, Ribosomal Protein, Small subunit (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=568">rps-5, Ribosomal Protein, Small subunit (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=636">T05A1.5, T05A1.5b (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=641">T20H4.5 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=645">T22B11.5 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=649">T28A8.6 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=650">T28D6.4 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=651">tag-174, Temporarily Assigned Gene name (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=654">tag-224, Temporarily Assigned Gene name (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=661">ant-1.1, Adenine Nucleotide Translocator (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=662">nduf-2.2, NADH Ubiquinone oxidoreductase Fe-S protein (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=665">tba-7, TuBulin, Alpha (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=692">ucr-1, Ubiquinol-Cytochrome c oxidoReductase complex (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=718">W03G1.5 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=725">W09D10.3 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=735">Y37D8A.18 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=742">Y43F4B.7 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=761">fbxa-220, F-box A protein (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=762">Y69A2AR.19 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=767">acs-14, fatty Acid CoA Synthetase family (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=773">yars-1, YARS-1 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=782">ZK809.3 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1145">inx-9, INneXin (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1158">nuo-4, NADH Ubiquinone Oxidoreductase (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1173">spe-26, Defective SPErmatogenesis (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1185">Y56A3A.19 (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=80">scl-8, SCP-Like extracellular protein (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=333">hhat-2, Homolog of Hedgehog AcylTransferase (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=685">tufm-1, TU elongation Factor (EF-Tu), Mitochondrial (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1156">nuo-3, NADH Ubiquinone Oxidoreductase (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+      <li><a href="http://genomics.senescence.info/genes/details.php?lid=1162">pat-4, Paralysed Arrest at Two-fold (Caenorhabditis elegans)</a>&nbsp;<span style="background: &#x23;BA4200" class="label label-default"><span>GenAge: Ageing-Associated Genes in Model Organisms</span></span>
+      </li>
+    </ol>
+  </div>
+</div>
+<div class="row">
+  <div class="span12">
+    <h2>Tagged with</h2>
+    <ul class="tag-list">
+      <li><a href="/entries/tags/1/" class="label label-warning">Animals</a>
+      </li>
+      <li><a href="/entries/tags/84/" class="label label-warning">Mutation</a>
+      </li>
+      <li><a href="/entries/tags/93/" class="label label-warning">Reactive Oxygen Species/metabolism</a>
+      </li>
+      <li><a href="/entries/tags/228/" class="label label-warning">Oxidative Stress/genetics</a>
+      </li>
+      <li><a href="/entries/tags/410/" class="label label-warning">Longevity/genetics/physiology</a>
+      </li>
+      <li><a href="/entries/tags/543/" class="label label-warning">Genes, Helminth</a>
+      </li>
+      <li><a href="/entries/tags/618/" class="label label-warning">Gene Expression Regulation</a>
+      </li>
+      <li><a href="/entries/tags/1118/" class="label label-warning">RNA Interference</a>
+      </li>
+      <li><a href="/entries/tags/3588/" class="label label-warning">Paraquat/toxicity</a>
+      </li>
+      <li><a href="/entries/tags/5605/" class="label label-warning">Drug Resistance</a>
+      </li>
+      <li><a href="/entries/tags/8220/" class="label label-warning">Forkhead Transcription Factors/genetics/metabolism</a>
+      </li>
+      <li><a href="/entries/tags/9073/" class="label label-warning">Caenorhabditis elegans/drug effects/genetics/physiology</a>
+      </li>
+      <li><a href="/entries/tags/9074/" class="label label-warning">Genomics</a>
+      </li>
+    </ul>
+  </div>
+</div>
+      <script src="/static/js/jquery-1.8.2.min.js"></script>
+      <script src="/static/js/bootstrap-dropdown.js"></script>
+    </div>
+    <div id="footer">    <div class="footer-links row-fluid">
+
+        <ul class="span3">
+            <li class="title">Human Ageing Genomic Resources</li>
+            <li><a href="/">Home</a></li>
+            <li><a href="http://genomics.senescence.info/about.html">About Us</a></li>
+            <li><a href="http://genomics.senescence.info/legal.html">Disclaimer</a></li>
+            <li><a href="http://genomics.senescence.info/download.html">Downloads</a></li>
+            <li><a href="http://genomics.senescence.info/feedback.php">Feedback</a></li>
+            <li><a href="http://genomics.senescence.info/help.html">Help</a></li>
+            <li><a href="http://genomics.senescence.info/links.html">Links</a></li>
+            <li><a href="http://genomics.senescence.info/mailman/listinfo/hagr-news_genomics.senescence.info">Mailing List</a></li>
+            <li><a href="http://genomics.senescence.info/news/index.html">News</a></li>
+            <li><a href="http://genomics.senescence.info/papers.html">Publications</a></li>
+            <li><a href="http://genomics.senescence.info/science.html">Science</a></li>
+        </ul>
+
+        <ul class="span3">
+            <li class="title">Databases</li>
+            <li><a href="http://genomics.senescence.info/genes/">Gene Database (GenAge)</a></li>
+            <li><a href="http://genomics.senescence.info/species/">Species Database (AnAge)</a></li>
+            <li><a href="http://genomics.senescence.info/diet/">Dietary Restriction Database (GenDR)</a></li>
+            <li><a href="http://genomics.senescence.info/longevity/">Longevity Variants Database (LongevityMap)</a></li>
+            <li class="title">Non HAGR databases</li>
+            <li><a href="http://ageing-map.org">Digital Ageing Atlas</a></li>
+            <li><a href="http://libage.ageing-map.org">LibAge</a></li>
+        </ul>
+
+        <ul class="span3">
+            <li class="title">Resources</li>
+            <li><a href="http://genomics.senescence.info/gene_expression/">Gene Expression</a></li>
+            <li><a href="http://genomics.senescence.info/cancer/">Cancer</a></li>
+            <li><a href="http://genomics.senescence.info/sequencing/">Genome Sequencing</a></li>
+            <li><a href="http://genomics.senescence.info/evolution/">Evolution of Ageing</a></li>
+            <li><a href="http://genomics.senescence.info/software/">Software</a></li>
+        </ul>
+
+        <ul class="span3">
+            <li class="title">Our Group</li>
+            <li><a href="http://www.senescence.info">senescence.info</a></li>
+            <li><a href="http://pcwww.liv.ac.uk/~aging/">The Integrative Genomics of Ageing Group</a></li>
+            <li><a href="https://twitter.com/AgingBiology" class="twitter-follow-button" data-show-count="false">Follow @AgingBiology</a></li>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </ul>
+    </div>
+    
+    <p class="contact-us">Comments, suggestions, ideas, and bug reports are welcome. Please <a href="http://genomics.senescence.info/feedback.php">contact us</a>.</p>
+    
+    <p class="legal">HAGR may be freely used for all purposes under <a href="http://genomics.senescence.info/legal.html">some conditions</a>.</p>
+
+
+      <p class="version"></p>
+    </div>
+    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-40611056-6', 'ageing-map.org');
+ga('send', 'pageview');
+    </script>
+  </body>
+</html>

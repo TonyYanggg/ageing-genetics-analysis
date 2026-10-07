@@ -1,0 +1,74 @@
+{
+  "ensembl_release": {
+    "releases": [
+      116
+    ]
+  },
+  "podospora_genome": {
+    "display_name": "Podospora anserina S mat+",
+    "taxon_id": "515849",
+    "division": "EnsemblFungi",
+    "common_name": null,
+    "aliases": [
+      "podospora anserina s mat+"
+    ],
+    "strain": null,
+    "release": 116,
+    "name": "podospora_anserina_s_mat_gca_000226545",
+    "assembly": "ASM22654v1",
+    "accession": "GCA_000226545.1",
+    "groups": [
+      "core"
+    ],
+    "strain_collection": null
+  },
+  "podospora_id_checks": [
+    {
+      "entrez_id": "6194500",
+      "exact_xref_hits": []
+    },
+    {
+      "entrez_id": "802462",
+      "exact_xref_hits": []
+    }
+  ],
+  "podospora_uniprot_bridge_hits": [],
+  "available_comparative_databases": {
+    "comparas": [
+      {
+        "name": "protists",
+        "release": 116
+      },
+      {
+        "name": "bacteria",
+        "release": 116
+      },
+      {
+        "release": 116,
+        "name": "plants"
+      },
+      {
+        "name": "pan_homology",
+        "release": 116
+      },
+      {
+        "name": "vertebrates",
+        "release": 116
+      },
+      {
+        "name": "metazoa",
+        "release": 116
+      },
+      {
+        "release": 116,
+        "name": "fungi"
+      }
+    ]
+  },
+  "hamster_exact_identity_confirmed": true,
+  "hamster_comparisons": [
+    "Mus musculus",
+    "Danio rerio"
+  ],
+  "limitations": "Ensembl supplements are separate pairs, not merged HOGs. Hamster versus nonvertebrates and Podospora orthology remain unassessed/unresolved; an empty xref result is not biological absence."
+}

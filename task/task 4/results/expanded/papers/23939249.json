@@ -1,0 +1,471 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23939249+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "23939249",
+    "source": "MED",
+    "pmid": "23939249",
+    "pmcid": "PMC3753544",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC3753544"
+      ]
+    },
+    "doi": "10.1038/ncomms3300",
+    "title": "Overexpression of Atg5 in mice activates autophagy and extends lifespan.",
+    "authorString": "Pyo JO, Yoo SM, Ahn HH, Nah J, Hong SH, Kam TI, Jung S, Jung YK.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Pyo JO",
+          "lastName": "Pyo",
+          "firstName": "Jong-Ok",
+          "initials": "JO",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Global Research Laboratory, School of Biological Sciences/Bio-MAX Institute, Seoul National University, Seoul 151-747, Korea."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Yoo SM",
+          "lastName": "Yoo",
+          "firstName": "Seung-Min",
+          "initials": "SM",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0003-3073-6943"
+          }
+        },
+        {
+          "fullName": "Ahn HH",
+          "lastName": "Ahn",
+          "firstName": "Hye-Hyun",
+          "initials": "HH"
+        },
+        {
+          "fullName": "Nah J",
+          "lastName": "Nah",
+          "firstName": "Jihoon",
+          "initials": "J",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0003-2254-2233"
+          }
+        },
+        {
+          "fullName": "Hong SH",
+          "lastName": "Hong",
+          "firstName": "Se-Hoon",
+          "initials": "SH"
+        },
+        {
+          "fullName": "Kam TI",
+          "lastName": "Kam",
+          "firstName": "Tae-In",
+          "initials": "TI",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-7241-4902"
+          }
+        },
+        {
+          "fullName": "Jung S",
+          "lastName": "Jung",
+          "firstName": "Sunmin",
+          "initials": "S"
+        },
+        {
+          "fullName": "Jung YK",
+          "lastName": "Jung",
+          "firstName": "Yong-Keun",
+          "initials": "YK"
+        }
+      ]
+    },
+    "authorIdList": {
+      "authorId": [
+        {
+          "type": "ORCID",
+          "value": "0000-0002-7241-4902"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0002-7665-0371"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0002-9686-3120"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0003-2254-2233"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0003-3073-6943"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "supporting_data",
+        "recommended_reviews",
+        "related_data",
+        "wikipedia"
+      ]
+    },
+    "journalInfo": {
+      "volume": "4",
+      "journalIssueId": 2012237,
+      "dateOfPublication": "2013 ",
+      "monthOfPublication": 0,
+      "yearOfPublication": 2013,
+      "journal": {
+        "medlineAbbreviation": "Nat Commun",
+        "title": "Nature communications",
+        "essn": "2041-1723",
+        "issn": "2041-1723",
+        "nlmid": "101528555",
+        "isoabbreviation": "Nat Commun"
+      },
+      "printPublicationDate": "2013-01-01"
+    },
+    "pubYear": "2013",
+    "pageInfo": "2300",
+    "abstractText": "Autophagy has been implicated in the ageing process, but whether autophagy activation extends lifespan in mammals is unknown. Here we show that ubiquitous overexpression of Atg5, a protein essential for autophagosome formation, extends median lifespan of mice by 17.2%. We demonstrate that moderate overexpression of Atg5 in mice enhances autophagy, and that Atg5 transgenic mice showed anti-ageing phenotypes, including leanness, increased insulin sensitivity and improved motor function. Furthermore, mouse embryonic fibroblasts cultured from Atg5 transgenic mice are more tolerant to oxidative damage and cell death induced by oxidative stress, and this tolerance was reversible by treatment with an autophagy inhibitor. Our observations suggest that the leanness and lifespan extension in Atg5 transgenic mice may be the result of increased autophagic activity.",
+    "affiliation": "Global Research Laboratory, School of Biological Sciences/Bio-MAX Institute, Seoul National University, Seoul 151-747, Korea.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Cells, Cultured"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mitochondria",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mice, Inbred C57BL"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mice, Transgenic"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mice"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Insulin Resistance",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Thinness",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Oxygen",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Microtubule-Associated Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "BI",
+                "qualifierName": "biosynthesis"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Body Mass Index"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Motor Activity",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Oxidative Stress",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Oxygen Consumption",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Aging",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Longevity",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Autophagy",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Female"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Male"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Muscle Strength",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Autophagy-Related Protein 5"
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "Microtubule-Associated Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Atg5 protein, mouse",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Oxygen",
+          "registryNumber": "S88TT14065"
+        },
+        {
+          "name": "Autophagy-Related Protein 5",
+          "registryNumber": "0"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Open access",
+          "availabilityCode": "OA",
+          "documentStyle": "pdf",
+          "site": "Unpaywall",
+          "url": "https://www.nature.com/articles/ncomms3300.pdf"
+        },
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1038/ncomms3300"
+        },
+        {
+          "availability": "Open access",
+          "availabilityCode": "OA",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC3753544"
+        },
+        {
+          "availability": "Open access",
+          "availabilityCode": "OA",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC3753544?pdf=render"
+        }
+      ]
+    },
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 600,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "license": "cc by-nc-sa",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2014-04-08",
+    "dateOfCreation": "2013-08-14",
+    "dateOfRevision": "2021-10-21",
+    "firstPublicationDate": "2013-01-01",
+    "firstIndexDate": "2013-08-14",
+    "fullTextReceivedDate": "2025-02-02",
+    "hasEvaluations": "N"
+  }
+}

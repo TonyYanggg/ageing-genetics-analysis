@@ -1,0 +1,21 @@
+{
+  "url": "https://rest.ensembl.org/xrefs/symbol/podospora_anserina_s_mat_gca_000226545/6194500",
+  "params": {
+    "content-type": "application/json"
+  },
+  "retrieved_utc": "2026-09-18T09:13:46.516669+00:00",
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "bytes": 2,
+  "response_headers": {
+    "Vary": "Content-Type, Origin",
+    "Content-Type": "application/json",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:13:46 GMT",
+    "X-RateLimit-Limit": "55000",
+    "X-RateLimit-Reset": "2774",
+    "X-Runtime": "0.031764",
+    "X-RateLimit-Period": "3600",
+    "X-RateLimit-Remaining": "54992",
+    "Content-Length": "2"
+  }
+}

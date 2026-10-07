@@ -1,0 +1,23 @@
+{
+  "url": "https://rest.ensembl.org/info/species",
+  "params": {
+    "content-type": "application/json",
+    "division": "EnsemblFungi"
+  },
+  "retrieved_utc": "2026-09-18T09:11:39.719475+00:00",
+  "sha256": "55f4ef228f020dd954cd5a77e917391f792307361bd1538fc40130ce12315081",
+  "bytes": 474790,
+  "response_headers": {
+    "Vary": "Content-Type, Origin",
+    "Content-Type": "application/json",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:11:37 GMT",
+    "X-RateLimit-Limit": "55000",
+    "X-RateLimit-Reset": "2903",
+    "X-Runtime": "0.058897",
+    "Accept-Ranges": "bytes",
+    "X-RateLimit-Period": "3600",
+    "X-RateLimit-Remaining": "54996",
+    "Content-Length": "474790"
+  }
+}

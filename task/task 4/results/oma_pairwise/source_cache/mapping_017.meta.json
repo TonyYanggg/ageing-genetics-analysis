@@ -1,0 +1,24 @@
+{
+  "url": "https://sparql.omabrowser.org/sparql",
+  "params": {
+    "query": "SELECT DISTINCT ?xref ?protein ?organism WHERE {\nVALUES ?xref { <https://www.ncbi.nlm.nih.gov/gene/179054> <https://www.ncbi.nlm.nih.gov/gene/179075> <https://www.ncbi.nlm.nih.gov/gene/179095> <https://www.ncbi.nlm.nih.gov/gene/179098> <https://www.ncbi.nlm.nih.gov/gene/179100> <https://www.ncbi.nlm.nih.gov/gene/179161> <https://www.ncbi.nlm.nih.gov/gene/179163> <https://www.ncbi.nlm.nih.gov/gene/179193> <https://www.ncbi.nlm.nih.gov/gene/179219> <https://www.ncbi.nlm.nih.gov/gene/179224> <https://www.ncbi.nlm.nih.gov/gene/179243> <https://www.ncbi.nlm.nih.gov/gene/179246> <https://www.ncbi.nlm.nih.gov/gene/179257> <https://www.ncbi.nlm.nih.gov/gene/179286> <https://www.ncbi.nlm.nih.gov/gene/179287> <https://www.ncbi.nlm.nih.gov/gene/179288> <https://www.ncbi.nlm.nih.gov/gene/179319> <https://www.ncbi.nlm.nih.gov/gene/179331> <https://www.ncbi.nlm.nih.gov/gene/179341> <https://www.ncbi.nlm.nih.gov/gene/179412> <https://www.ncbi.nlm.nih.gov/gene/179424> <https://www.ncbi.nlm.nih.gov/gene/179427> <https://www.ncbi.nlm.nih.gov/gene/179432> <https://www.ncbi.nlm.nih.gov/gene/179461> <https://www.ncbi.nlm.nih.gov/gene/179475> <https://www.ncbi.nlm.nih.gov/gene/179477> <https://www.ncbi.nlm.nih.gov/gene/179497> <https://www.ncbi.nlm.nih.gov/gene/179499> <https://www.ncbi.nlm.nih.gov/gene/179503> <https://www.ncbi.nlm.nih.gov/gene/179520> <https://www.ncbi.nlm.nih.gov/gene/179541> <https://www.ncbi.nlm.nih.gov/gene/179546> <https://www.ncbi.nlm.nih.gov/gene/179551> <https://www.ncbi.nlm.nih.gov/gene/179572> <https://www.ncbi.nlm.nih.gov/gene/179574> <https://www.ncbi.nlm.nih.gov/gene/179592> <https://www.ncbi.nlm.nih.gov/gene/179616> <https://www.ncbi.nlm.nih.gov/gene/179631> <https://www.ncbi.nlm.nih.gov/gene/179641> <https://www.ncbi.nlm.nih.gov/gene/179666> <https://www.ncbi.nlm.nih.gov/gene/179707> <https://www.ncbi.nlm.nih.gov/gene/179721> <https://www.ncbi.nlm.nih.gov/gene/179725> <https://www.ncbi.nlm.nih.gov/gene/179731> <https://www.ncbi.nlm.nih.gov/gene/179741> <https://www.ncbi.nlm.nih.gov/gene/179779> <https://www.ncbi.nlm.nih.gov/gene/179794> <https://www.ncbi.nlm.nih.gov/gene/179796> <https://www.ncbi.nlm.nih.gov/gene/179806> <https://www.ncbi.nlm.nih.gov/gene/179849> } VALUES ?organism { <https://omabrowser.org/oma/genome/559292> <https://omabrowser.org/oma/genome/6239> <https://omabrowser.org/oma/genome/7227> <https://omabrowser.org/oma/genome/10090> <https://omabrowser.org/oma/genome/284812> <https://omabrowser.org/oma/genome/6238> <https://omabrowser.org/oma/genome/7955> }\n?gene <http://purl.org/lscr#xrefNCBIGene> ?xref.\n?protein <http://semanticscience.org/resource/SIO_010079> ?gene;\n <http://purl.org/net/orth#organism> ?organism.\n}",
+    "format": "application/sparql-results+json"
+  },
+  "retrieved_utc": "2026-09-18T09:05:57.386971+00:00",
+  "sha256": "33e82698b9c4ea0aa29f64c9640f9a805902478b58ee3b6a3efe4e0929510001",
+  "bytes": 17545,
+  "response_headers": {
+    "Server": "nginx/1.27.1",
+    "Date": "Fri, 18 Sep 2026 09:05:56 GMT",
+    "Content-Type": "application/sparql-results+json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Accept-Ranges": "bytes",
+    "Content-disposition": "filename=sparql_2026-09-18_09-05-56Z.json",
+    "Content-Encoding": "gzip",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET, POST, OPTIONS, HEAD",
+    "Access-Control-Allow-Headers": "Content-Type",
+    "Strict-Transport-Security": "max-age=31536000"
+  }
+}

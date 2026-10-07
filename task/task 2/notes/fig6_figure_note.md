@@ -1,0 +1,3 @@
+# Figure 6 note
+
+**Fig. 6 | Reported lifespan-extension magnitude across model organisms.** Only GenAge records classified as `Increase` and containing a usable numerical lifespan-change magnitude are plotted. Boxes show the median and interquartile range; points represent individual GenAge records, including extreme observations. `Usable n` therefore differs from the total number of GenAge records. *Schizosaccharomyces pombe* was excluded because none of its 61 records contained a usable magnitude in the downloaded dataset. These record-level summary values derive from heterogeneous experiments and should be interpreted descriptively.

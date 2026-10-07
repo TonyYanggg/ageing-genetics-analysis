@@ -1,0 +1,11 @@
+observation_source_id,libage_id,genage_id_label,gene_label,genage_id_verified
+114,184,370,"ins-18, INSulin related (Caenorhabditis elegans)",114
+425,2239,2033,"mdh-1, Malate DeHydrogenase (Caenorhabditis elegans)",428
+2725,4515,177,"din-1, DAF-12 Interacting Protein (Caenorhabditis elegans)",1
+2756,4767,429,"mec-8, MEChanosensory abnormality (Caenorhabditis elegans)",2227
+2757,4767,1776,"rsr-1, Protein RSR-1 (Caenorhabditis elegans)",2228
+2758,4767,340,"hrp-1, human HnRNP A1 homolog (Caenorhabditis elegans)",2229
+2759,4769,177,"din-1, DAF-12 Interacting Protein (Caenorhabditis elegans)",2230
+2760,4770,977,"set-2, SET (trithorax/polycomb) domain containing (Caenorhabditis elegans)",2231
+2762,4771,490,"pab-1, PolyA Binding protein (Caenorhabditis elegans)",2233
+2761,4771,1751,"tdp-1, Protein TDP-1 (Caenorhabditis elegans)",2232

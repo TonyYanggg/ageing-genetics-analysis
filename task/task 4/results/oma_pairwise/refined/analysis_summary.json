@@ -1,0 +1,23 @@
+{
+  "source": "OMA All.May2026",
+  "unit": "unique species+Entrez gene pair",
+  "mapping_mode": "direct plus stable-ID bridges",
+  "bridge_candidate_genes": 63,
+  "accepted_bridge_genes": 63,
+  "raw_records": 2205,
+  "inventory_species": 9,
+  "represented_species": 7,
+  "mapped_genes": 2136,
+  "ambiguous_proteins": 16,
+  "taxonomy_mismatches": 0,
+  "all_genage_pairs": 228,
+  "longevity_pairs": 228,
+  "directional_sensitivity_pairs": 145,
+  "agreement": {
+    "Anti-Longevity": 75,
+    "unresolved": 83,
+    "discordant_or_mixed": 35,
+    "Pro-Longevity": 35
+  },
+  "limitation": "Pairs may share genes; do not interpret pair counts as independent conserved genes or groups. Missing calls are not proof of non-orthology."
+}

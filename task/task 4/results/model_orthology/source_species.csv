@@ -1,0 +1,10 @@
+species,orthodb_id,source_name,assembly,definition
+Saccharomyces cerevisiae,559292_0,Saccharomyces cerevisiae S288C,GCF_000146045.2,"{""organism"": ""Saccharomyces cerevisiae S288C"", ""strain"": ""S288C""}"
+Caenorhabditis elegans,6239_0,Caenorhabditis elegans,GCA_000002985.3,"{""organism"": ""Caenorhabditis elegans"", ""strain"": ""Bristol N2""}"
+Drosophila melanogaster,7227_0,Drosophila melanogaster,GCA_000001215.4,"{""organism"": ""Drosophila melanogaster""}"
+Mus musculus,10090_1,Mus musculus,GCF_000001635.27,"{""organism"": ""Mus musculus"", ""strain"": ""C57BL/6J""}"
+Schizosaccharomyces pombe,4896_0,Schizosaccharomyces pombe,GCA_000002945.2,"{""organism"": ""Schizosaccharomyces pombe"", ""strain"": ""972h-""}"
+Podospora anserina,515849_0,Podospora anserina S mat+,GCF_000226545.1,"{""organism"": ""Podospora anserina S mat+"", ""strain"": ""S mat+""}"
+Caenorhabditis briggsae,6238_0,Caenorhabditis briggsae,GCA_022453885.1,"{""organism"": ""Caenorhabditis briggsae""}"
+Danio rerio,7955_0,Danio rerio,GCF_000002035.6,"{""organism"": ""Danio rerio"", ""strain"": ""Tuebingen""}"
+Mesocricetus auratus,10036_0,Mesocricetus auratus,GCF_017639785.1,"{""organism"": ""Mesocricetus auratus""}"

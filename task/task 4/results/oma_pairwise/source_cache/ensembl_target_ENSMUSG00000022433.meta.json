@@ -1,0 +1,22 @@
+{
+  "url": "https://rest.ensembl.org/xrefs/id/ENSMUSG00000022433",
+  "params": {
+    "content-type": "application/json",
+    "external_db": "EntrezGene"
+  },
+  "retrieved_utc": "2026-09-18T09:13:04.630121+00:00",
+  "sha256": "8568f7e6d77ff2609a43fe7c9197febe812b3648355043bb18d576d450886387",
+  "bytes": 228,
+  "response_headers": {
+    "Vary": "Content-Type, Origin",
+    "Content-Type": "application/json",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:13:04 GMT",
+    "X-RateLimit-Limit": "55000",
+    "X-RateLimit-Reset": "2816",
+    "X-Runtime": "0.011602",
+    "X-RateLimit-Period": "3600",
+    "X-RateLimit-Remaining": "54995",
+    "Content-Length": "228"
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A18056421+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "18056421",
+    "source": "MED",
+    "pmid": "18056421",
+    "pmcid": "PMC2081972",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC2081972"
+      ]
+    },
+    "doi": "10.1101/gad.1600707",
+    "title": "Atg7-dependent autophagy promotes neuronal health, stress tolerance, and longevity but is dispensable for metamorphosis in Drosophila.",
+    "authorString": "Juh\u00e1sz G, Erdi B, Sass M, Neufeld TP.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Juh\u00e1sz G",
+          "lastName": "Juh\u00e1sz",
+          "firstName": "G\u00e1bor",
+          "initials": "G",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-8548-8874"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Genetics, Cell Biology, and Development, University of Minnesota, Minneapolis, Minnesota 55455, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Erdi B",
+          "lastName": "Erdi",
+          "firstName": "Bal\u00e1zs",
+          "initials": "B"
+        },
+        {
+          "fullName": "Sass M",
+          "lastName": "Sass",
+          "firstName": "Mikl\u00f3s",
+          "initials": "M"
+        },
+        {
+          "fullName": "Neufeld TP",
+          "lastName": "Neufeld",
+          "firstName": "Thomas P",
+          "initials": "TP",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-5659-4811"
+          }
+        }
+      ]
+    },
+    "authorIdList": {
+      "authorId": [
+        {
+          "type": "ORCID",
+          "value": "0000-0001-5659-4811"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0001-8548-8874"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "23",
+      "volume": "21",
+      "journalIssueId": 1484642,
+      "dateOfPublication": "2007 Dec",
+      "monthOfPublication": 12,
+      "yearOfPublication": 2007,
+      "journal": {
+        "medlineAbbreviation": "Genes Dev",
+        "title": "Genes & development",
+        "essn": "1549-5477",
+        "issn": "0890-9369",
+        "isoabbreviation": "Genes Dev",
+        "nlmid": "8711660"
+      },
+      "printPublicationDate": "2007-12-01"
+    },
+    "pubYear": "2007",
+    "pageInfo": "3061-3066",
+    "abstractText": "Autophagy, a cellular process of cytoplasmic degradation and recycling, is induced in Drosophila larval tissues during metamorphosis, potentially contributing to their destruction or reorganization. Unexpectedly, we find that flies lacking the core autophagy regulator Atg7 are viable, despite severe defects in autophagy. Although metamorphic cell death is perturbed in Atg7 mutants, the larval-adult midgut transition proceeds normally, with extended pupal development compensating for reduced autophagy. Atg7-/- adults are short-lived, hypersensitive to nutrient and oxidative stress, and accumulate ubiquitin-positive aggregates in degenerating neurons. Thus, normal levels of autophagy are crucial for stress survival and continuous cellular renewal, but not metamorphosis.",
+    "affiliation": "Department of Genetics, Cell Biology, and Development, University of Minnesota, Minneapolis, Minnesota 55455, USA.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    "grantsList": {
+      "grant": [
+        {
+          "agency": "NIGMS NIH HHS",
+          "acronym": "GM",
+          "grantId": "R01 GM62509",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIGMS NIH HHS",
+          "acronym": "GM",
+          "grantId": "R01 GM062509",
+          "orderIn": 0
+        }
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Digestive System",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "CY",
+                "qualifierName": "cytology"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GD",
+                "qualifierName": "growth & development"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Neurons",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "CY",
+                "qualifierName": "cytology"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Drosophila",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "CY",
+                "qualifierName": "cytology"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GD",
+                "qualifierName": "growth & development"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Starvation"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Nerve Degeneration",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Ubiquitin-Activating Enzymes",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Drosophila Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Gene Deletion"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Oxidative Stress"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Longevity",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Metamorphosis, Biological"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Larva",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "CY",
+                "qualifierName": "cytology"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GD",
+                "qualifierName": "growth & development"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mutation"
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Genes, Insect"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Autophagy",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Male"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Autophagy-Related Protein 7"
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "Drosophila Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Atg7 protein, Drosophila",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Ubiquitin-Activating Enzymes",
+          "registryNumber": "EC 6.2.1.45"
+        },
+        {
+          "name": "Autophagy-Related Protein 7",
+          "registryNumber": "EC 6.2.1.45"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1101/gad.1600707"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC2081972"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC2081972?pdf=render"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1101/gad.1600707"
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 334,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2008-01-04",
+    "dateOfCreation": "2007-12-07",
+    "dateOfRevision": "2021-10-20",
+    "firstPublicationDate": "2007-12-01",
+    "firstIndexDate": "2009-12-24",
+    "fullTextReceivedDate": "2025-02-02",
+    "hasEvaluations": "N"
+  }
+}

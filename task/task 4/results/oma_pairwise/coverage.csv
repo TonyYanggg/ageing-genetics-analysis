@@ -1,0 +1,10 @@
+species,records,identified_genes,mapped_genes,missing_id_records,source_status,mapped_fraction,mapping_states
+Saccharomyces cerevisiae,911,911,886,0,represented,0.9725576289791438,"{""ambiguous_identifier"": 14, ""mapped"": 886, ""no_exact_xref"": 11}"
+Caenorhabditis elegans,889,886,836,2,represented,0.9435665914221218,"{""ambiguous_identifier"": 4, ""mapped"": 837, ""missing_id"": 2, ""no_exact_xref"": 46}"
+Drosophila melanogaster,202,200,166,1,represented,0.83,"{""mapped"": 167, ""missing_id"": 1, ""no_exact_xref"": 34}"
+Mus musculus,136,136,127,0,represented,0.9338235294117647,"{""mapped"": 127, ""no_exact_xref"": 9}"
+Schizosaccharomyces pombe,61,61,56,0,represented,0.9180327868852459,"{""mapped"": 56, ""no_exact_xref"": 5}"
+Podospora anserina,3,2,0,0,unavailable,0.0,"{""source_species_unavailable"": 3}"
+Caenorhabditis briggsae,1,1,1,0,represented,1.0,"{""mapped"": 1}"
+Danio rerio,1,1,1,0,represented,1.0,"{""mapped"": 1}"
+Mesocricetus auratus,1,1,0,0,unavailable,0.0,"{""source_species_unavailable"": 1}"

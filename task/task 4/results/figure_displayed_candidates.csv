@@ -1,0 +1,10 @@
+human_entrez_id,human_symbol,in_human_genage,human_genage_reason,yeast_state,yeast_genes,worm_state,worm_genes,fly_state,fly_genes,mouse_state,mouse_genes,directional_species,cross_species_candidate,direction_agreement,unique_model_genes,shares_model_gene_with_other_anchor
+3480,IGF1R,True,model,No directional evidence,,Anti,daf-2,Anti,InR,Anti,Igf1r,3,True,Anti,3,True
+3643,INSR,True,model,No directional evidence,,Anti,daf-2,Anti,InR,Anti,Insr,3,True,Anti,3,True
+4482,MSRA,True,"mammal,model",Pro,MXR1,No directional evidence,,Pro,Eip71CD,Pro,Msra,3,True,Pro,3,False
+2475,MTOR,True,"mammal,model,cell",Anti,TOR1,Anti,let-363,Anti,Tor,No directional evidence,,3,True,Anti,3,False
+5052,PRDX1,True,"functional,putative",No directional evidence,,Pro,prdx-2,Pro,Jafrac1,Pro,Prdx1,3,True,Pro,3,True
+6561,SLC13A1,True,"mammal,model",No directional evidence,,Anti,nac-3,Anti,Indy,Anti,Slc13a1,3,True,Anti,3,True
+6647,SOD1,True,model,Pro,SOD1,Anti,sod-1,Pro,Sod,No directional evidence,,3,True,Mixed directions,3,False
+6648,SOD2,True,"mammal,model",Pro,SOD2,No directional evidence,,Pro,Sod2,Pro,Sod2,3,True,Pro,4,False
+7295,TXN,True,"model,functional",No directional evidence,,Pro,trx-1,Pro,Trx-2;TrxT,Pro,Txn1,3,True,Pro,4,True

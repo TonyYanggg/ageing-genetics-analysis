@@ -1,0 +1,9 @@
+metric,category,count,percent
+GenAge genes,all,307,100.0
+Queryable Open Targets genes,all,306,99.6742671009772
+Unqueryable genes,MT-CO1,1,0.32573289902280134
+Unique direct relations,disease_or_clinical_condition,393383,93.1635287152161
+Unique direct relations,phenotype_or_trait,25715,6.089994079336885
+Unique direct relations,biological_process,2376,0.5626998223801065
+Unique direct relations,medical_procedure,422,0.09994079336885732
+Unique direct relations,nonhuman_or_other,354,0.08383658969804618

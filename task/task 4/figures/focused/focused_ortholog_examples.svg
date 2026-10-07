@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740157pt" height="470.551181pt" viewBox="0 0 518.740157 470.551181" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-25T11:21:43.817794</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 470.551181 
+L 518.740157 470.551181 
+L 518.740157 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 23.343307 58.818898 
+L 495.39685 58.818898 
+L 495.39685 14.116535 
+L 23.343307 14.116535 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #f7fafb; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 119.310236 88.463622 
+L 210.219449 88.463622 
+L 210.219449 66.347717 
+L 119.310236 66.347717 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #e8eff3; stroke: #e8eff3; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 213.33189 88.463622 
+L 304.241102 88.463622 
+L 304.241102 66.347717 
+L 213.33189 66.347717 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #e8eff3; stroke: #e8eff3; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 307.353543 88.463622 
+L 398.262756 88.463622 
+L 398.262756 66.347717 
+L 307.353543 66.347717 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #e8eff3; stroke: #e8eff3; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 401.375197 88.463622 
+L 492.284409 88.463622 
+L 492.284409 66.347717 
+L 401.375197 66.347717 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #e8eff3; stroke: #e8eff3; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 23.343307 171.751181 
+L 115.160315 171.751181 
+L 115.160315 96.462992 
+L 23.343307 96.462992 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #e9f3f4; stroke: #e9f3f4; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 119.310236 171.751181 
+L 210.219449 171.751181 
+L 210.219449 96.462992 
+L 119.310236 96.462992 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 213.33189 171.751181 
+L 304.241102 171.751181 
+L 304.241102 96.462992 
+L 213.33189 96.462992 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 307.353543 171.751181 
+L 398.262756 171.751181 
+L 398.262756 96.462992 
+L 307.353543 96.462992 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 401.375197 171.751181 
+L 492.284409 171.751181 
+L 492.284409 96.462992 
+L 401.375197 96.462992 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 23.343307 256.920945 
+L 115.160315 256.920945 
+L 115.160315 181.632756 
+L 23.343307 181.632756 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #f1f2ec; stroke: #f1f2ec; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 119.310236 256.920945 
+L 210.219449 256.920945 
+L 210.219449 181.632756 
+L 119.310236 181.632756 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #f5f6f7; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 213.33189 256.920945 
+L 304.241102 256.920945 
+L 304.241102 181.632756 
+L 213.33189 181.632756 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 307.353543 256.920945 
+L 398.262756 256.920945 
+L 398.262756 181.632756 
+L 307.353543 181.632756 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 401.375197 256.920945 
+L 492.284409 256.920945 
+L 492.284409 181.632756 
+L 401.375197 181.632756 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 23.343307 342.090709 
+L 115.160315 342.090709 
+L 115.160315 266.80252 
+L 23.343307 266.80252 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #edf0f8; stroke: #edf0f8; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 119.310236 342.090709 
+L 210.219449 342.090709 
+L 210.219449 266.80252 
+L 119.310236 266.80252 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #f5f6f7; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 213.33189 342.090709 
+L 304.241102 342.090709 
+L 304.241102 266.80252 
+L 213.33189 266.80252 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 307.353543 342.090709 
+L 398.262756 342.090709 
+L 398.262756 266.80252 
+L 307.353543 266.80252 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 401.375197 342.090709 
+L 492.284409 342.090709 
+L 492.284409 266.80252 
+L 401.375197 266.80252 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 23.343307 392.439685 
+L 495.39685 392.439685 
+L 495.39685 351.031181 
+L 23.343307 351.031181 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #f7fafb; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 23.343307 458.787402 
+L 495.39685 458.787402 
+L 495.39685 398.55685 
+L 23.343307 398.55685 
+z
+" clip-path="url(#p34023df7d7)" style="fill: #fafbfc; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="30.605669" y="30.115276" transform="rotate(-0 30.605669 30.115276)">Selected longevity-associated orthologs in major model organisms</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="30.605669" y="47.055118" transform="rotate(-0 30.605669 47.055118)">Primary lifespan experiments; explicit OMA relationships; illustrative, not an exhaustive survey</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="123.978898" y="79.5635" transform="rotate(-0 123.978898 79.5635)">Budding yeast</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="218.000551" y="79.5635" transform="rotate(-0 218.000551 79.5635)">Nematode</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="312.022205" y="79.5635" transform="rotate(-0 312.022205 79.5635)">Fruit fly</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="406.043858" y="79.563211" transform="rotate(-0 406.043858 79.563211)">Mouse</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="29.568189" y="119.049449" transform="rotate(-0 29.568189 119.049449)">TOR</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="29.568189" y="141.165354" transform="rotate(-0 29.568189 141.165354)">6 OMA pairs</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="125.016378" y="113.873386" transform="rotate(-0 125.016378 113.873386)">TOR1</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="125.016378" y="132.695433" transform="rotate(-0 125.016378 132.695433)">Deletion</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147268" x="125.016378" y="149.164724" transform="rotate(-0 125.016378 149.164724)">Replicative life ↑</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="125.016378" y="165.163465" transform="rotate(-0 125.016378 165.163465)">PMID 16293764</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="219.038031" y="113.873386" transform="rotate(-0 219.038031 113.873386)">let-363</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="219.038031" y="132.695433" transform="rotate(-0 219.038031 132.695433)">RNAi</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147268" x="219.038031" y="149.164724" transform="rotate(-0 219.038031 149.164724)">Adult life ↑</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="219.038031" y="165.163465" transform="rotate(-0 219.038031 165.163465)">PMID 14668850</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="313.059685" y="113.873386" transform="rotate(-0 313.059685 113.873386)">Tor</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="313.059685" y="132.695433" transform="rotate(-0 313.059685 132.695433)">Dominant-negative</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147268" x="313.059685" y="149.164724" transform="rotate(-0 313.059685 149.164724)">Adult life ↑</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="313.059685" y="165.163465" transform="rotate(-0 313.059685 165.163465)">PMID 15186745</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="407.081339" y="113.873386" transform="rotate(-0 407.081339 113.873386)">Mtor</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="407.081339" y="132.695433" transform="rotate(-0 407.081339 132.695433)">Hypomorph</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147268" x="407.081339" y="149.164724" transform="rotate(-0 407.081339 149.164724)">Median survival ↑</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="407.081339" y="165.163465" transform="rotate(-0 407.081339 165.163465)">PMID 23994476</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="29.568189" y="204.219213" transform="rotate(-0 29.568189 204.219213)">S6 kinase</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="29.568189" y="226.335118" transform="rotate(-0 29.568189 226.335118)">2 OMA pairs</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #82919a" x="125.016378" y="221.095483" transform="rotate(-0 125.016378 221.095483)">Not selected</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="219.038031" y="199.04315" transform="rotate(-0 219.038031 199.04315)">rsks-1</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="219.038031" y="217.865197" transform="rotate(-0 219.038031 217.865197)">RNAi</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147268" x="219.038031" y="234.334488" transform="rotate(-0 219.038031 234.334488)">Mean life ↑</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="219.038031" y="250.333228" transform="rotate(-0 219.038031 250.333228)">PMID 17266680</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="313.059685" y="199.04315" transform="rotate(-0 313.059685 199.04315)">S6k</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="313.059685" y="217.865197" transform="rotate(-0 313.059685 217.865197)">Dominant-negative</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147268" x="313.059685" y="234.334488" transform="rotate(-0 313.059685 234.334488)">Adult life ↑</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="313.059685" y="250.333228" transform="rotate(-0 313.059685 250.333228)">PMID 15186745</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="407.081339" y="199.04315" transform="rotate(-0 407.081339 199.04315)">Rps6kb1</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="407.081339" y="217.865197" transform="rotate(-0 407.081339 217.865197)">Global knockout</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147268" x="407.081339" y="234.334488" transform="rotate(-0 407.081339 234.334488)">Female life ↑*</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="407.081339" y="250.333228" transform="rotate(-0 407.081339 250.333228)">PMID 19797661</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="29.568189" y="287.03622" transform="rotate(-0 29.568189 287.03622)">Insulin/IGF</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="29.568189" y="297.858898" transform="rotate(-0 29.568189 297.858898)">receptor</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="29.568189" y="319.504252" transform="rotate(-0 29.568189 319.504252)">2 OMA pairs</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #82919a" x="125.016378" y="306.265247" transform="rotate(-0 125.016378 306.265247)">Not selected</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="219.038031" y="284.212913" transform="rotate(-0 219.038031 284.212913)">daf-2</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="219.038031" y="303.034961" transform="rotate(-0 219.038031 303.034961)">Hypomorph</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147268" x="219.038031" y="319.504252" transform="rotate(-0 219.038031 319.504252)">Adult life ↑</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="219.038031" y="335.502992" transform="rotate(-0 219.038031 335.502992)">PMID 8247153</text>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="313.059685" y="284.212913" transform="rotate(-0 313.059685 284.212913)">InR</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="313.059685" y="303.034961" transform="rotate(-0 313.059685 303.034961)">Hypomorph</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147268" x="313.059685" y="319.504252" transform="rotate(-0 313.059685 319.504252)">Female life ↑</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="313.059685" y="335.502992" transform="rotate(-0 313.059685 335.502992)">PMID 11292875</text>
+   </g>
+   <g id="text_52">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="407.081339" y="284.212913" transform="rotate(-0 407.081339 284.212913)">Igf1r</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="407.081339" y="303.034961" transform="rotate(-0 407.081339 303.034961)">Heterozygous KO</text>
+   </g>
+   <g id="text_54">
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147268" x="407.081339" y="319.504252" transform="rotate(-0 407.081339 319.504252)">Female life ↑*†</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="407.081339" y="335.502992" transform="rotate(-0 407.081339 335.502992)">PMID 12483226</text>
+   </g>
+   <g id="text_56">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="30.605669" y="366.088819" transform="rotate(-0 30.605669 366.088819)">Direct OMA edges:</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="111.529134" y="366.088819" transform="rotate(-0 111.529134 366.088819)">TOR: all six pairs (yeast edges 1:many); S6K: worm–fly, fly–mouse;</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="111.529134" y="381.146457" transform="rotate(-0 111.529134 381.146457)">IIS: worm–fly, worm–mouse (1:many). No fly–mouse edge in this selection.</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="30.605669" y="412.673386" transform="rotate(-0 30.605669 412.673386)">* Female-specific mouse benefit; corresponding male increase was not significant.</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="30.605669" y="426.31937" transform="rotate(-0 30.605669 426.31937)">† The original mouse Igf1r increase was not reproduced in a later cohort (PMID 22132081).</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="30.605669" y="439.965354" transform="rotate(-0 30.605669 439.965354)">TOR and S6K share a pathway; endpoints differ. Blank cells mean not selected, not no effect.</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="30.605669" y="453.611339" transform="rotate(-0 30.605669 453.611339)">Igf1r is one of two mouse daf-2 receptor paralogs. Sources: GenAge Build 21, OMA All.May2026, cited papers.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p34023df7d7">
+   <rect x="0" y="0" width="518.740157" height="470.551181"/>
+  </clipPath>
+ </defs>
+</svg>

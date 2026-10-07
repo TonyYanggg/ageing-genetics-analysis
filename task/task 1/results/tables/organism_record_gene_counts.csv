@@ -1,0 +1,10 @@
+organism,record_count,unique_gene_symbols,unique_entrez_gene_ids
+Saccharomyces cerevisiae,911,911,911
+Caenorhabditis elegans,889,887,886
+Drosophila melanogaster,202,201,200
+Mus musculus,136,136,136
+Schizosaccharomyces pombe,61,61,61
+Podospora anserina,3,2,2
+Caenorhabditis briggsae,1,1,1
+Danio rerio,1,1,1
+Mesocricetus auratus,1,1,1

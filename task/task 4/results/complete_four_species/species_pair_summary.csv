@@ -1,0 +1,7 @@
+species1,species2,pairs,Anti-Longevity,Pro-Longevity,discordant_or_mixed,unresolved
+Saccharomyces cerevisiae,Caenorhabditis elegans,97,37,7,9,44
+Saccharomyces cerevisiae,Drosophila melanogaster,34,5,4,9,16
+Saccharomyces cerevisiae,Mus musculus,14,1,4,2,7
+Caenorhabditis elegans,Drosophila melanogaster,33,13,10,5,5
+Caenorhabditis elegans,Mus musculus,16,6,3,5,2
+Drosophila melanogaster,Mus musculus,12,4,6,2,0

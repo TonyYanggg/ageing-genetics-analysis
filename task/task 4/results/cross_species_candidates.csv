@@ -1,0 +1,67 @@
+human_entrez_id,human_symbol,in_human_genage,human_genage_reason,yeast_state,yeast_genes,worm_state,worm_genes,fly_state,fly_genes,mouse_state,mouse_genes,directional_species,cross_species_candidate,direction_agreement,unique_model_genes,shares_model_gene_with_other_anchor
+3480,IGF1R,True,model,No directional evidence,,Anti,daf-2,Anti,InR,Anti,Igf1r,3,True,Anti,3,True
+3643,INSR,True,model,No directional evidence,,Anti,daf-2,Anti,InR,Anti,Insr,3,True,Anti,3,True
+4482,MSRA,True,"mammal,model",Pro,MXR1,No directional evidence,,Pro,Eip71CD,Pro,Msra,3,True,Pro,3,False
+2475,MTOR,True,"mammal,model,cell",Anti,TOR1,Anti,let-363,Anti,Tor,No directional evidence,,3,True,Anti,3,False
+5052,PRDX1,True,"functional,putative",No directional evidence,,Pro,prdx-2,Pro,Jafrac1,Pro,Prdx1,3,True,Pro,3,True
+6561,SLC13A1,True,"mammal,model",No directional evidence,,Anti,nac-3,Anti,Indy,Anti,Slc13a1,3,True,Anti,3,True
+6647,SOD1,True,model,Pro,SOD1,Anti,sod-1,Pro,Sod,No directional evidence,,3,True,Mixed directions,3,False
+6648,SOD2,True,"mammal,model",Pro,SOD2,No directional evidence,,Pro,Sod2,Pro,Sod2,3,True,Pro,4,False
+7295,TXN,True,"model,functional",No directional evidence,,Pro,trx-1,Pro,Trx-2;TrxT,Pro,Txn1,3,True,Pro,4,True
+207,AKT1,True,"model,cell",No directional evidence,,Anti,akt-1,Pro,Akt1,No directional evidence,,2,True,Mixed directions,2,True
+208,AKT2,False,,No directional evidence,,Anti,akt-1,Pro,Akt1,No directional evidence,,2,True,Mixed directions,2,True
+10000,AKT3,False,,No directional evidence,,Anti,akt-1,Pro,Akt1,No directional evidence,,2,True,Mixed directions,2,True
+64422,ATG3,False,,No directional evidence,,Pro,atg-3,Pro,Aut1,No directional evidence,,2,True,Pro,2,False
+506,ATP5B,False,,Pro,ATP2,Anti,atp-2,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,False
+641,BLM,True,functional,Pro,SGS1,Pro,him-6,No directional evidence,,No directional evidence,,2,True,Pro,2,False
+9184,BUB3,True,mammal,No directional evidence,,Anti,bub-3,No directional evidence,,Pro,Bub3,2,True,Mixed directions,2,False
+835,CASP2,False,,No directional evidence,,Anti,ced-3,No directional evidence,,Pro,Casp2,2,True,Mixed directions,2,False
+847,CAT,True,model,No directional evidence,,No directional evidence,,Pro,Cat,Pro,Cat,2,True,Pro,2,False
+29956,CERS2,False,,Anti,LAG1,Pro,hyl-1,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+204219,CERS3,False,,Anti,LAG1,Pro,hyl-1,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+79603,CERS4,False,,Anti,LAG1,Pro,hyl-1,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+91012,CERS5,False,,Anti,LAG1,Pro,hyl-1,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+253782,CERS6,False,,Anti,LAG1,Pro,hyl-1,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+10229,COQ7,True,model,No directional evidence,,Anti,clk-1,No directional evidence,,Anti,Coq7,2,True,Anti,2,False
+1756,DMD,False,,No directional evidence,,No directional evidence,,Pro,Dys,Pro,Dmd,2,True,Pro,2,True
+2203,FBP1,False,,Anti,FBP1,Anti,fbp-1,No directional evidence,,No directional evidence,,2,True,Anti,2,True
+8789,FBP2,False,,Anti,FBP1,Anti,fbp-1,No directional evidence,,No directional evidence,,2,True,Anti,2,True
+2395,FXN,False,,No directional evidence,,No directional evidence,,Pro,fh,Pro,Fxn,2,True,Pro,2,False
+2539,G6PD,False,,No directional evidence,,No directional evidence,,Pro,Zw,Pro,G6PD,2,True,Pro,2,False
+11337,GABARAP,False,,No directional evidence,,Pro,lgg-1,Pro,Atg8a,No directional evidence,,2,True,Pro,2,True
+3065,HDAC1,True,functional,Anti,RPD3,No directional evidence,,Anti,Rpd3,No directional evidence,,2,True,Anti,2,True
+3066,HDAC2,True,"functional,upstream",Anti,RPD3,No directional evidence,,Anti,Rpd3,No directional evidence,,2,True,Anti,2,True
+3309,HSPA5,False,,No directional evidence,,Pro,hsp-4,Pro,Hsc70-3,No directional evidence,,2,True,Pro,2,False
+3419,IDH3A,False,,Anti,IDH2,Anti,idha-1,No directional evidence,,No directional evidence,,2,True,Anti,2,False
+3645,INSRR,False,,No directional evidence,,Anti,daf-2,Anti,InR,No directional evidence,,2,True,Anti,2,True
+3667,IRS1,True,model,No directional evidence,,No directional evidence,,Anti,chico,Anti,Irs1,2,True,Anti,2,True
+8660,IRS2,True,"model,putative",No directional evidence,,No directional evidence,,Anti,chico,Anti,Irs2,2,True,Anti,2,True
+4121,MAN1A1,False,,No directional evidence,,Anti,D2030.1,Anti,alpha-Man-I,No directional evidence,,2,True,Anti,2,True
+5602,MAPK10,False,,No directional evidence,,Pro,jnk-1,Pro,bsk,No directional evidence,,2,True,Pro,2,True
+5599,MAPK8,True,model,No directional evidence,,Pro,jnk-1,Pro,bsk,No directional evidence,,2,True,Pro,2,True
+5601,MAPK9,True,model,No directional evidence,,Pro,jnk-1,Pro,bsk,No directional evidence,,2,True,Pro,2,True
+5105,PCK1,True,putative,No directional evidence,,Anti,pck-2,No directional evidence,,Pro,Pck1,2,True,Mixed directions,2,True
+5110,PCMT1,True,"functional,putative",No directional evidence,,Pro,pcm-1,Pro,Pcmt,No directional evidence,,2,True,Pro,2,False
+5245,PHB,False,,Pro,PHB1,Pro,phb-1,No directional evidence,,No directional evidence,,2,True,Pro,2,False
+11331,PHB2,False,,Pro,PHB2,Pro,phb-2,No directional evidence,,No directional evidence,,2,True,Pro,2,False
+5291,PIK3CB,True,"model,downstream",No directional evidence,,Anti,age-1,Pro,Pi3K92E,No directional evidence,,2,True,Mixed directions,2,True
+5293,PIK3CD,False,,No directional evidence,,Anti,age-1,Pro,Pi3K92E,No directional evidence,,2,True,Mixed directions,2,True
+7001,PRDX2,False,,No directional evidence,,Pro,prdx-2,Pro,Jafrac1,No directional evidence,,2,True,Pro,2,True
+5562,PRKAA1,False,,Anti,SNF1,Pro,aak-2,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+5563,PRKAA2,False,,Anti,SNF1,Pro,aak-2,No directional evidence,,No directional evidence,,2,True,Mixed directions,2,True
+5571,PRKAG1,False,,Anti,SNF4,No directional evidence,,Pro,SNF4Agamma,No directional evidence,,2,True,Mixed directions,2,True
+51422,PRKAG2,False,,Anti,SNF4,No directional evidence,,Pro,SNF4Agamma,No directional evidence,,2,True,Mixed directions,2,True
+6194,RPS6,False,,Anti,RPS6B,Anti,rps-6,No directional evidence,,No directional evidence,,2,True,Anti,2,False
+6198,RPS6KB1,False,,No directional evidence,,Anti,rsks-1,Anti,S6k,No directional evidence,,2,True,Anti,2,True
+6199,RPS6KB2,False,,No directional evidence,,Anti,rsks-1,Anti,S6k,No directional evidence,,2,True,Anti,2,True
+6391,SDHC,True,model,No directional evidence,,Pro,mev-1,Pro,SdhC,No directional evidence,,2,True,Pro,2,False
+23411,SIRT1,True,"mammal,model,cell",No directional evidence,,Pro,sir-2.1,Pro,Sir2,No directional evidence,,2,True,Pro,2,False
+22933,SIRT2,False,,Pro,HST2,No directional evidence,,Pro,Sirt2,No directional evidence,,2,True,Pro,2,True
+9058,SLC13A2,False,,No directional evidence,,Anti,nac-3,Anti,Indy,No directional evidence,,2,True,Anti,2,True
+64849,SLC13A3,False,,No directional evidence,,Anti,nac-3,Anti,Indy,No directional evidence,,2,True,Anti,2,True
+284111,SLC13A5,False,,No directional evidence,,Anti,nac-3,Anti,Indy,No directional evidence,,2,True,Anti,2,True
+291,SLC25A4,False,,No directional evidence,,Anti,ant-1.1,No directional evidence,,Pro,Slc25a4,2,True,Mixed directions,2,True
+6834,SURF1,False,,No directional evidence,,No directional evidence,,Anti,Surf1,Anti,Surf1,2,True,Anti,2,False
+7351,UCP2,True,model,No directional evidence,,No directional evidence,,Pro,UCP2,Pro,Ucp2,2,True,Pro,2,False
+7381,UQCRB,False,,No directional evidence,,Anti,T02H6.11,Anti,CG17856,No directional evidence,,2,True,Anti,2,False
+7498,XDH,False,,No directional evidence,,Anti,F55B11.1,Pro,ry,No directional evidence,,2,True,Mixed directions,2,True

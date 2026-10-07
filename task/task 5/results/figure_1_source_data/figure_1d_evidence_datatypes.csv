@@ -1,0 +1,9 @@
+datatype_id,unique_gene_term_pairs,genes,display_label
+literature,208413,306,Literature
+animal_model,204644,259,Animal model
+somatic_mutation,13489,108,Somatic mutation
+genetic_association,12393,306,Genetic association
+clinical,10383,113,Clinical
+rna_expression,3424,276,RNA expression
+genetic_literature,1024,191,Genetic literature
+affected_pathway,855,237,Affected pathway

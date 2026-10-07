@@ -1,0 +1,30 @@
+{
+  "url": "https://omabrowser.org/api/xref/",
+  "params": {
+    "search": "MGI:98296"
+  },
+  "retrieved_utc": "2026-09-18T09:46:48.086562+00:00",
+  "sha256": "35855bc5a36593cda51a5c279e475a22120b644a6978c331c0b20ca31260b801",
+  "bytes": 1126,
+  "response_headers": {
+    "Date": "Fri, 18 Sep 2026 09:46:47 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=eVa4vnINMJdJvR1rd0CaoQokN9MXYIEtjU%2FRKROF%2BwM7CH9ztD4VxHPXgvwS5mVvgH7MgLQTZ%2FRAhCMVbpZU%2BJjLoFe4Eg%2FzAicrxPsm4KCmpEZtNysYx9vzLAVzz2G1\"}]}",
+    "Vary": "Accept, origin, Cookie, accept-encoding",
+    "Allow": "GET, HEAD, OPTIONS",
+    "Cache-Control": "public, max-age=86400",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Set-Cookie": "__matomo=424159afb266cb72; expires=Sun, 17-Sep-2028 09:46:47 UTC; Path=/",
+    "Strict-Transport-Security": "max-age=15768000",
+    "Content-Encoding": "gzip",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a3cf6ce8091edb3e-HKG"
+  }
+}

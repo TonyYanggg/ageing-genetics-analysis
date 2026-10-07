@@ -1,0 +1,16 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4543038/fullTextXML",
+  "params": null,
+  "format": "xml",
+  "retrieved_utc": "2026-09-18T09:48:00.894430+00:00",
+  "sha256": "17a65c13886e0a0d5fd7bf97ec42681f6cfcd422a9b427d2fb5030a2f4242946",
+  "bytes": 106842,
+  "response_headers": {
+    "Content-Type": "application/xml",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:47:59 GMT",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Set-Cookie": "JSESSIONID=FC8C6E59D80E694FA8BC678BCD308B90; Path=/europepmc/webservices/rest; Secure; HttpOnly"
+  }
+}

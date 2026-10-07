@@ -1,0 +1,29 @@
+{
+  "url": "https://api.ncbi.nlm.nih.gov/datasets/v2/gene/id/51547,51548,54840,56648,83932,253260,493856/dataset_report",
+  "params": {
+    "page_size": 1000
+  },
+  "retrieved_utc": "2026-09-19T03:57:54.870228+00:00",
+  "sha256": "1089e135fe95c35ffd276843be544704042a0be92769571871acde01bcc55d42",
+  "bytes": 65976,
+  "response_headers": {
+    "Date": "Sat, 19 Sep 2026 03:57:52 GMT",
+    "Server": "Finatra",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Content-Security-Policy": "upgrade-insecure-requests",
+    "Ncbi-Phid": "1D338FF229AFE5B500004133316E300E.1.1",
+    "Content-Type": "application/json",
+    "Content-Encoding": "gzip",
+    "Grpc-Metadata-Via": "h2 linkerd",
+    "X-Ratelimit-Limit": "5",
+    "X-Datasets-Version": "18.37.0",
+    "X-Ncbi-Total-Count": "7",
+    "X-Ratelimit-Remaining": "4",
+    "Access-Control-Expose-Headers": "X-RateLimit-Limit,X-RateLimit-Remaining",
+    "X-Ua-Compatible": "IE=Edge",
+    "X-Xss-Protection": "1; mode=block",
+    "Via": "1.1 google",
+    "Alt-Svc": "clear",
+    "Transfer-Encoding": "chunked"
+  }
+}

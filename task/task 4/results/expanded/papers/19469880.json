@@ -1,0 +1,271 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19469880+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "19469880",
+    "source": "MED",
+    "pmid": "19469880",
+    "doi": "10.1111/j.1365-2443.2009.01306.x",
+    "title": "Lifespan extension by suppression of autophagy genes in Caenorhabditis elegans.",
+    "authorString": "Hashimoto Y, Ookuma S, Nishida E.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Hashimoto Y",
+          "lastName": "Hashimoto",
+          "firstName": "Yasufumi",
+          "initials": "Y",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Cell and Developmental Biology, Graduate School of Biostudies, Kyoto University, Sakyo-ku, Kyoto, 606-8502, Japan."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Ookuma S",
+          "lastName": "Ookuma",
+          "firstName": "Sadatsugu",
+          "initials": "S"
+        },
+        {
+          "fullName": "Nishida E",
+          "lastName": "Nishida",
+          "firstName": "Eisuke",
+          "initials": "E"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "6",
+      "volume": "14",
+      "journalIssueId": 1651551,
+      "dateOfPublication": "2009 Jun",
+      "monthOfPublication": 6,
+      "yearOfPublication": 2009,
+      "journal": {
+        "medlineAbbreviation": "Genes Cells",
+        "title": "Genes to cells : devoted to molecular & cellular mechanisms",
+        "essn": "1365-2443",
+        "issn": "1356-9597",
+        "nlmid": "9607379",
+        "isoabbreviation": "Genes Cells"
+      },
+      "printPublicationDate": "2009-06-01"
+    },
+    "pubYear": "2009",
+    "pageInfo": "717-726",
+    "abstractText": "Lifespan is regulated by a complex combination of environmental and genetic factors. Autophagy, which is a bulk degradation system of macromolecules and organelles, has an important role in various biological events. In Caenorhabditis elegans, several autophagy genes have been shown to have a role in promoting longevity, but many other autophagy genes have not been examined for their role in the lifespan regulation. Here we have systematically examined the effect of RNAi suppression of 14 autophagy genes on lifespan. While maternal RNAi of autophagy genes in wild-type worms tended to reduce lifespan, maternal RNAi of each of seven autophagy genes in the insulin/IGF-1 receptor daf-2 mutants extended lifespan. Remarkably, RNAi of unc-51/atg-1, bec-1/atg-6 or atg-9, from young adult, i.e. after development, extended lifespan in both wild-type animals and daf-2 mutants, although RNAi of one or two genes shortened it. Moreover, our analysis suggests that the lifespan extension, which is induced by RNAi of unc-51, bec-1 or atg-9 after development, does not require the transcription factor daf-16, the NAD(+)-dependent protein deacetylase sir-2.1 or the genes related to mitochondrial functions. Collectively, our results suggest that autophagy may not always be beneficial to longevity, but may also function to restrict lifespan in C. elegans.",
+    "affiliation": "Department of Cell and Developmental Biology, Graduate School of Biostudies, Kyoto University, Sakyo-ku, Kyoto, 606-8502, Japan.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print-Electronic",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caenorhabditis elegans",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GD",
+                "qualifierName": "growth & development"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caenorhabditis elegans Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Gene Expression Regulation"
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "RNA Interference"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Aging",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Longevity",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mutation"
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Genes, Helminth"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Autophagy",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Female"
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "Caenorhabditis elegans Proteins",
+          "registryNumber": "0"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "pdf",
+          "site": "Unpaywall",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2443.2009.01306.x"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "abs",
+          "site": "intl.genestocellsonline.org",
+          "url": "http://intl.genestocellsonline.org/cgi/content/abstract/14/6/717"
+        },
+        {
+          "availability": "Free after 6 months",
+          "availabilityCode": "F6",
+          "documentStyle": "html",
+          "site": "intl.genestocellsonline.org",
+          "url": "http://intl.genestocellsonline.org/cgi/content/full/14/6/717"
+        },
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1111/j.1365-2443.2009.01306.x"
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "N",
+    "inPMC": "N",
+    "citedByCount": 55,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "N",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2009-12-11",
+    "dateOfCreation": "2009-05-28",
+    "dateOfRevision": "2009-09-18",
+    "electronicPublicationDate": "2009-05-14",
+    "firstPublicationDate": "2009-05-14",
+    "firstIndexDate": "2009-12-26",
+    "hasEvaluations": "N"
+  }
+}

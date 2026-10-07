@@ -1,0 +1,21 @@
+{
+  "total_entries": 2205,
+  "dated_entries": 1707,
+  "references": 710,
+  "unresolved_links": 553,
+  "missing_pilot_pairs": [],
+  "pilot_identity_conflicts": [
+    {
+      "observation_source_id": "2725",
+      "libage_id": 4515,
+      "label_genage_id": 177,
+      "pilot_genage_id": 1,
+      "gene_label": "din-1, DAF-12 Interacting Protein (Caenorhabditis elegans)"
+    }
+  ],
+  "missing_reference_years": 0,
+  "build21_sha256": "8717b30212a2f6039a7b70c28dff8bc5696c166e04a150f95302f90b8585c2a0",
+  "definition": "Counts GenAge entries, not deduplicated biological genes; earliest associated reference is not necessarily discovery.",
+  "mapping_status": "UNVALIDATED label-based candidates; do not use for scientific conclusions",
+  "final_ready": false
+}

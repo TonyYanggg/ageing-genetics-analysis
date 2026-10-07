@@ -1,0 +1,21 @@
+{
+  "url": "https://rest.ensembl.org/info/comparas",
+  "params": {
+    "content-type": "application/json"
+  },
+  "retrieved_utc": "2026-09-18T09:17:36.330767+00:00",
+  "sha256": "ee8675a389cc0e2405c63cce928e1712b785de125d6a4e703efe687c850b65e6",
+  "bytes": 253,
+  "response_headers": {
+    "Vary": "Content-Type, Origin",
+    "Content-Type": "application/json",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:17:35 GMT",
+    "X-RateLimit-Limit": "55000",
+    "X-RateLimit-Reset": "2545",
+    "X-Runtime": "0.817897",
+    "X-RateLimit-Period": "3600",
+    "X-RateLimit-Remaining": "54988",
+    "Content-Length": "253"
+  }
+}

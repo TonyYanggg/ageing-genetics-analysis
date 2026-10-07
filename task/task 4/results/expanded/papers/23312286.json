@@ -1,0 +1,403 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23312286+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "23312286",
+    "source": "MED",
+    "pmid": "23312286",
+    "pmcid": "PMC3614013",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC3614013"
+      ]
+    },
+    "doi": "10.1016/j.cmet.2012.12.006",
+    "title": "Adenosine nucleotide biosynthesis and AMPK regulate adult life span and mediate the longevity benefit of caloric restriction in flies.",
+    "authorString": "Stenesen D, Suh JM, Seo J, Yu K, Lee KS, Kim JS, Min KJ, Graff JM.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Stenesen D",
+          "lastName": "Stenesen",
+          "firstName": "Drew",
+          "initials": "D",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Developmental Biology, University of Texas Southwestern Medical Center, Dallas, Texas 75390, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Suh JM",
+          "lastName": "Suh",
+          "firstName": "Jae Myoung",
+          "initials": "JM",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-8097-4662"
+          }
+        },
+        {
+          "fullName": "Seo J",
+          "lastName": "Seo",
+          "firstName": "Jin",
+          "initials": "J"
+        },
+        {
+          "fullName": "Yu K",
+          "lastName": "Yu",
+          "firstName": "Kweon",
+          "initials": "K",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-4942-2576"
+          }
+        },
+        {
+          "fullName": "Lee KS",
+          "lastName": "Lee",
+          "firstName": "Kyu-Sun",
+          "initials": "KS"
+        },
+        {
+          "fullName": "Kim JS",
+          "lastName": "Kim",
+          "firstName": "Jong-Seok",
+          "initials": "JS"
+        },
+        {
+          "fullName": "Min KJ",
+          "lastName": "Min",
+          "firstName": "Kyung-Jin",
+          "initials": "KJ"
+        },
+        {
+          "fullName": "Graff JM",
+          "lastName": "Graff",
+          "firstName": "Jonathan M",
+          "initials": "JM"
+        }
+      ]
+    },
+    "authorIdList": {
+      "authorId": [
+        {
+          "type": "ORCID",
+          "value": "0000-0001-8097-4662"
+        },
+        {
+          "type": "ORCID",
+          "value": "0000-0002-4942-2576"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "recommended_reviews",
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "1",
+      "volume": "17",
+      "journalIssueId": 2000674,
+      "dateOfPublication": "2013 Jan",
+      "monthOfPublication": 1,
+      "yearOfPublication": 2013,
+      "journal": {
+        "medlineAbbreviation": "Cell Metab",
+        "title": "Cell metabolism",
+        "essn": "1932-7420",
+        "issn": "1550-4131",
+        "nlmid": "101233170",
+        "isoabbreviation": "Cell Metab"
+      },
+      "printPublicationDate": "2013-01-01"
+    },
+    "pubYear": "2013",
+    "pageInfo": "101-112",
+    "abstractText": "A common thread among conserved life span regulators lies within intertwined roles in metabolism and energy homeostasis. We show that heterozygous mutations of AMP biosynthetic enzymes extend Drosophila life span. The life span benefit of these mutations depends upon increased AMP:ATP and ADP:ATP ratios and adenosine monophosphate-activated protein kinase (AMPK). Transgenic expression of AMPK in adult fat body or adult muscle, key metabolic tissues, extended life span, while AMPK RNAi reduced life span. Supplementing adenine, a substrate for AMP biosynthesis, to the diet of long-lived AMP biosynthesis mutants reversed life span extension. Remarkably, this simple change in diet\u00a0also blocked the prolongevity effects of dietary restriction. These data establish AMP biosynthesis, adenosine nucleotide ratios, and AMPK as determinants of adult life span; provide a mechanistic link between cellular anabolism and energy sensing pathways; and indicate that dietary adenine manipulations might alter metabolism to influence animal life\u00a0span.",
+    "affiliation": "Department of Developmental Biology, University of Texas Southwestern Medical Center, Dallas, Texas 75390, USA.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    "grantsList": {
+      "grant": [
+        {
+          "agency": "NIDDK NIH HHS",
+          "acronym": "DK",
+          "grantId": "R56 DK064261",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIDDK NIH HHS",
+          "acronym": "DK",
+          "grantId": "R01 DK066556",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIDDK NIH HHS",
+          "acronym": "DK",
+          "grantId": "R01 DK088220",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIDDK NIH HHS",
+          "acronym": "DK",
+          "grantId": "R01 DK064261",
+          "orderIn": 0
+        }
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Fat Body",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals, Genetically Modified",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Drosophila",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "EN",
+                "qualifierName": "enzymology"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Adenylosuccinate Synthase",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Adenosine Monophosphate",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "BI",
+                "qualifierName": "biosynthesis"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Adenosine Triphosphate",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caloric Restriction"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "RNA Interference"
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Longevity"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Heterozygote"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mutation"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "AMP-Activated Protein Kinases",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "AI",
+                "qualifierName": "antagonists & inhibitors"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "Adenylosuccinate Synthase",
+          "registryNumber": "EC 6.3.4.4"
+        },
+        {
+          "name": "AMP-activated protein kinases",
+          "registryNumber": "EC 2.7.11.31"
+        },
+        {
+          "name": "Adenosine Triphosphate",
+          "registryNumber": "8L70Q75FXE"
+        },
+        {
+          "name": "Adenosine Monophosphate",
+          "registryNumber": "415SHH325A"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1016/j.cmet.2012.12.006"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC3614013"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC3614013?pdf=render"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1016/j.cmet.2012.12.006"
+        }
+      ]
+    },
+    "commentCorrectionList": {
+      "commentCorrection": [
+        {
+          "source": "MED",
+          "id": "23312278",
+          "reference": "Cell Metab. 2013 Jan 8;17(1):5-6. doi: 10.1016/j.cmet.2012.11.011",
+          "type": "Comment in",
+          "orderIn": 1
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 162,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "Y",
+    "dbCrossReferenceList": {
+      "dbName": [
+        "UNIPROT"
+      ]
+    },
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "Y",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "Y",
+    "manuscriptId": "NIHMS429120",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2013-06-24",
+    "dateOfCreation": "2013-01-15",
+    "dateOfRevision": "2021-10-21",
+    "firstPublicationDate": "2013-01-01",
+    "firstIndexDate": "2013-01-18",
+    "fullTextReceivedDate": "2025-02-05",
+    "hasEvaluations": "N"
+  }
+}

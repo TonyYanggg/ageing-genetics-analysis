@@ -1,0 +1,3 @@
+# Figure 6 caption
+
+Figure 6. Reported lifespan-extension magnitude across model organisms. GenAge model-organism records classified as Increase and containing an available numerical lifespan-change magnitude were included. Boxes show the median and interquartile range, and points represent individual GenAge records. The x-axis is logarithmic. n denotes the number of Increase records with an available numerical lifespan-change magnitude. Labels identify the maximum reported value for each plotted organism. Schizosaccharomyces pombe was not plotted because none of its 61 GenAge records contained an available lifespan-change magnitude in the downloaded dataset.

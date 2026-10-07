@@ -1,0 +1,81 @@
+rank_within_organism_and_effect,usable_records_in_group,organism,symbol,name,entrez gene id,longevity influence,lifespan effect,avg lifespan change (max obsv),GenAge ID
+1,217,Saccharomyces cerevisiae,SIR2,Sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae),851520,Unclear,Increase,600,606
+2,217,Saccharomyces cerevisiae,SCH9,Protein kinase that regulates signal transduction activity and G1 progression,856612,Anti-Longevity,Increase,300,590
+3,217,Saccharomyces cerevisiae,GRE3,trifunctional aldehyde reductase/xylose reductase/glucose 1-dehydrogenase (NADP(+)),856504,Anti-Longevity,Increase,100,1911
+4,217,Saccharomyces cerevisiae,MET17,bifunctional cysteine synthase/O-acetylhomoserine aminocarboxypropyltransferase MET17,851010,Anti-Longevity,Increase,100,1965
+5,217,Saccharomyces cerevisiae,CYR1,Adenylate cyclase,853452,Anti-Longevity,Increase,90,149
+6,217,Saccharomyces cerevisiae,RPL22A,Ribosomal Protein of the Large subunit,850750,Anti-Longevity,Increase,90,1724
+7,217,Saccharomyces cerevisiae,UGA3,Utilization of GAba,851384,Anti-Longevity,Increase,75,1735
+8,217,Saccharomyces cerevisiae,UBR2,putative ubiquitin-protein ligase UBR2,850711,Anti-Longevity,Increase,67,2021
+9,217,Saccharomyces cerevisiae,FZF1,Five Zinc Fingers,852638,Anti-Longevity,Increase,66,1734
+10,217,Saccharomyces cerevisiae,SCP1,Scp1p,854549,Anti-Longevity,Increase,65,592
+1,218,Saccharomyces cerevisiae,RPT5,proteasome regulatory particle base subunit RPT5,854284,Necessary for fitness,Decrease,85,2017
+2,218,Saccharomyces cerevisiae,SPC72,Spindle Pole Component,851250,Necessary for fitness,Decrease,80,1627
+3,218,Saccharomyces cerevisiae,CTK1,Carboxy-Terminal domain Kinase,853718,Necessary for fitness,Decrease,80,1630
+4,218,Saccharomyces cerevisiae,VMA2,Vacuolar Membrane Atpase,852424,Necessary for fitness,Decrease,80,1633
+5,218,Saccharomyces cerevisiae,BEM1,Bud EMergence,852499,Necessary for fitness,Decrease,75,1680
+6,218,Saccharomyces cerevisiae,ASF1,Anti-Silencing Function,853327,Necessary for fitness,Decrease,74,1699
+7,218,Saccharomyces cerevisiae,RAD50,"Subunit of MRX complex, with Mre11p and Xrs2p",855471,Necessary for fitness,Decrease,70,532
+8,218,Saccharomyces cerevisiae,RAD52,"RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)",854976,Necessary for fitness,Decrease,70,534
+9,218,Saccharomyces cerevisiae,ATG7,AuTophaGy related,856576,Necessary for fitness,Decrease,70,1218
+10,218,Saccharomyces cerevisiae,ATG1,AuTophaGy related,852695,Necessary for fitness,Decrease,70,1413
+1,453,Caenorhabditis elegans,age-1,"AGEing alteration AGE-1, abnormal DAuer Formation DAF-23",174762,Anti-Longevity,Increase,1000,7
+2,453,Caenorhabditis elegans,daf-2,"abnormal DAuer Formation DAF-2, fork head-related transcription factor (daf-2)",175410,Anti-Longevity,Increase,200,163
+3,453,Caenorhabditis elegans,let-363,LEThal,172167,Anti-Longevity,Increase,150,32
+4,453,Caenorhabditis elegans,osm-5,OSMotic avoidance abnormal,180585,Anti-Longevity,Increase,150,486
+5,453,Caenorhabditis elegans,unc-13,UNCoordinated,172497,Anti-Longevity,Increase,150,702
+6,453,Caenorhabditis elegans,unc-31,UNCoordinated,178233,Anti-Longevity,Increase,150,704
+7,453,Caenorhabditis elegans,rps-23,"Ribosomal Protein, Small subunit",178188,Anti-Longevity,Increase,126,569
+8,453,Caenorhabditis elegans,daf-4,abnormal DAuer Formation,175781,Anti-Longevity,Increase,120,166
+9,453,Caenorhabditis elegans,ucr-1,Ubiquinol-Cytochrome c oxidoReductase complex,175772,Anti-Longevity,Increase,110,697
+10,453,Caenorhabditis elegans,che-3,abnormal CHEmotaxis,172593,Anti-Longevity,Increase,100,121
+1,163,Caenorhabditis elegans,gsa-1,"G protein, Subunit Alpha",171687,Pro-Longevity,Decrease,84,943
+2,163,Caenorhabditis elegans,ufd-1,Ubiquitin Fusion Degradation (yeast UFD homolog),3.56586e+06,Pro-Longevity,Decrease,64,698
+3,163,Caenorhabditis elegans,cel-1,mRNA Capping Enzyme Like,172814,Pro-Longevity,Decrease,59,115
+4,163,Caenorhabditis elegans,bus-8,Bacterially Un-Swollen (M. nematophilum resistant),180821,Pro-Longevity,Decrease,58,660
+5,163,Caenorhabditis elegans,nhr-49,Nuclear Hormone Receptor family,172839,Pro-Longevity,Decrease,56,463
+6,163,Caenorhabditis elegans,dve-1,DVE (Defective proVEntriculus in Drosophila) homolog,180398,Pro-Longevity,Decrease,53,915
+7,163,Caenorhabditis elegans,hpo-31,Protein HPO-31,3.56579e+06,Pro-Longevity,Decrease,52,268
+8,163,Caenorhabditis elegans,acs-20,Protein ACS-20,178190,Pro-Longevity,Decrease,50,245
+9,163,Caenorhabditis elegans,adr-1,Adenosine Deaminase that acts on RNA,172542,Pro-Longevity,Decrease,50,885
+10,163,Caenorhabditis elegans,adr-2,Adenosine Deaminase that acts on RNA,176022,Pro-Longevity,Decrease,50,886
+1,114,Drosophila melanogaster,Vinc,Vinculin,31201,Pro-Longevity,Increase,150,2083
+2,114,Drosophila melanogaster,Nmdmc,NAD-dependent methylenetetrahydrofolate dehydrogenase,47895,Pro-Longevity,Increase,120,2098
+3,114,Drosophila melanogaster,Indy,I'm not dead yet protein,40049,Anti-Longevity,Increase,92,366
+4,114,Drosophila melanogaster,trh,trachealess,38065,Anti-Longevity,Increase,90,2088
+5,114,Drosophila melanogaster,5-HT2A,5-hydroxytryptamine (serotonin) receptor 2A,40575,Anti-Longevity,Increase,90,2089
+6,114,Drosophila melanogaster,InR,Insulin-like 1 receptor,42549,Anti-Longevity,Increase,85,368
+7,114,Drosophila melanogaster,snz,snazarus (sorting nexin lazarus),31704,Anti-Longevity,Increase,85,879
+8,114,Drosophila melanogaster,fabp,fatty acid bindin protein,3.77223e+06,Pro-Longevity,Increase,81,1962
+9,114,Drosophila melanogaster,Gadd45,CG11086 gene product from transcript CG11086-RA,35646,Pro-Longevity,Increase,77,849
+10,114,Drosophila melanogaster,E(z),Enhancer of zeste,39203,Anti-Longevity,Increase,76,844
+1,33,Drosophila melanogaster,Pex16,peroxin 16,40293,Pro-Longevity,Decrease,75,873
+2,33,Drosophila melanogaster,SdhB,Succinate dehydrogenase B,35590,Pro-Longevity,Decrease,66,593
+3,33,Drosophila melanogaster,elav,embryonic lethal abnormal vision,31000,Pro-Longevity,Decrease,66,846
+4,33,Drosophila melanogaster,p38b,CG7393-PA,34780,Pro-Longevity,Decrease,60,1831
+5,33,Drosophila melanogaster,DNApol-gamma35,DNA polymerase Gamma,3.77206e+06,Anti-Longevity,Decrease,52,842
+6,33,Drosophila melanogaster,mle,Maleless,35523,Pro-Longevity,Decrease,47.5,868
+7,33,Drosophila melanogaster,dm,diminutive,31310,Anti-Longevity,Decrease,47,1955
+8,33,Drosophila melanogaster,bchs,blue cheese,33819,Pro-Longevity,Decrease,45,41
+9,33,Drosophila melanogaster,CG3776,Juvenile hormone esterase binding protein 29 (DmP29),37996,Anti-Longevity,Decrease,42.6,857
+10,33,Drosophila melanogaster,Mpk2,CG5475-PA,42866,Pro-Longevity,Decrease,40,1832
+1,46,Mus musculus,Ghrh,growth hormone releasing hormone,14601,Anti-Longevity,Increase,46,1848
+2,46,Mus musculus,Gdf15,growth differentiation factor 15,23886,Pro-Longevity,Increase,43,1871
+3,46,Mus musculus,Ghr,Growth hormone receptor,14600,Anti-Longevity,Increase,40,302
+4,46,Mus musculus,Igf1r,Insulin-like growth factor 1 receptor,16001,Anti-Longevity,Increase,40,365
+5,46,Mus musculus,Pou1f1,"POU domain, class 1, transcription factor 1",18736,Anti-Longevity,Increase,40,506
+6,46,Mus musculus,Eps8,Epidermal growth factor receptor pathway substrate 8,13860,Anti-Longevity,Increase,37,817
+7,46,Mus musculus,Fgf21,fibroblast growth factor 21,56636,Pro-Longevity,Increase,36,1800
+8,46,Mus musculus,Txn1,Thioredoxin 1,22166,Pro-Longevity,Increase,35,691
+9,46,Mus musculus,Insr,Insulin receptor,16337,Anti-Longevity,Increase,33.3,373
+10,46,Mus musculus,Adcy5,adenylate cyclase 5,224129,Anti-Longevity,Increase,30,6
+1,25,Mus musculus,Ercc1,"excision repair cross-complementing rodent repair deficiency, complementation group 1",13870,Pro-Longevity,Decrease,83,1850
+2,25,Mus musculus,Trp63,Transformation related protein 63,22061,Pro-Longevity,Decrease,70,683
+3,25,Mus musculus,Sirt7,"Sirtuin 7 (silent mating type information regulation 2, homolog) 7 (S. cerevisiae)",209011,Pro-Longevity,Decrease,59,824
+4,25,Mus musculus,Cav1,"caveolin, caveolae protein 1",12389,Pro-Longevity,Decrease,50,93
+5,25,Mus musculus,Eef1e1,Eukaryotic translation elongation factor 1 epsilon 1,66143,Anti-Longevity,Decrease,50,816
+6,25,Mus musculus,Ncor2,nuclear receptor co-repressor 2,20602,Pro-Longevity,Decrease,50,1815
+7,25,Mus musculus,Sod2,"Superoxide dismutase 2, mitochondrial",20656,Pro-Longevity,Decrease,43,827
+8,25,Mus musculus,Topors,"Topoisomerase I binding, arginine/serine-rich ",106021,Pro-Longevity,Decrease,42,828
+9,25,Mus musculus,Xrcc5,X-ray repair complementing defective repair in Chinese hamster cells 5,22596,Pro-Longevity,Decrease,40,735
+10,25,Mus musculus,Rictor,"RPTOR independent companion of MTOR, complex 2",78757,Pro-Longevity,Decrease,40,1852

@@ -1,0 +1,16 @@
+{
+  "complete": true,
+  "source_version": {
+    "oma_version": "All.May2026",
+    "api_version": "1.11"
+  },
+  "source_sha256": "8717b30212a2f6039a7b70c28dff8bc5696c166e04a150f95302f90b8585c2a0",
+  "mapping_rows": 2127,
+  "genome_pairs": 21,
+  "source_pairs": 124274,
+  "represented_species": 7,
+  "unresolved_source_species": [
+    "Podospora anserina",
+    "Mesocricetus auratus"
+  ]
+}

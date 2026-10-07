@@ -1,0 +1,182 @@
+group_id,level,level_name,group_name,catalogue_species,lifespan_species,directional_species,direction_agreement,matched_model_genes,model_symbols,recurrent
+5006262at2759,2759,Eukaryota,frataxin,4,4,3,Unresolved,4,Fxn;YFH1;fh;frh-1,True
+2664232at2759,2759,Eukaryota,thioredoxin,3,3,3,Pro,3,TrxT;Txn1;trx-1,True
+3459473at2759,2759,Eukaryota,chaperone,3,3,2,Unresolved,3,Coq2;HSP104;SPBC16D10.08c,True
+4600842at2759,2759,Eukaryota,ubiquitin-like modifier-activating enzyme,3,3,1,Unresolved,3,ATG7;Atg7;atg-7,True
+4842397at2759,2759,Eukaryota,"5'-AMP-activated protein kinase, gamma subunit",3,3,3,Discordant,3,SNF4;SNF4Agamma;aakg-2,True
+4920361at2759,2759,Eukaryota,gamma-aminobutyric acid receptor-associated,3,3,2,Unresolved,3,ATG8;Atg8a;lgg-1,True
+4964211at2759,2759,Eukaryota,Cytochrome B-c1 complex subunit 7,3,3,2,Unresolved,3,CG17856;QCR7;T02H6.11,True
+4968978at2759,2759,Eukaryota,reductase,3,3,3,Pro,3,Eip71CD;MXR1;Msra,True
+4968995at2759,2759,Eukaryota,superoxide dismutase ,3,3,2,Unresolved,3,SOD2;Sod2;sod-2,True
+5000285at2759,2759,Eukaryota,NAD-dependent protein deacetylase,3,3,3,Pro,3,HST2;Sirt2;sir-2.1,True
+5000951at2759,2759,Eukaryota,ATP-dependent DNA helicase,3,3,2,Discordant,3,Xrcc6;YKU70;cku-70,True
+5004279at2759,2759,Eukaryota,5-demethoxyubiquinone hydroxylase_ mitochondrial,3,3,2,Unresolved,3,CAT5;Coq7;clk-1,True
+5016236at2759,2759,Eukaryota,autophagy protein,3,3,2,Unresolved,3,ATG5;Atg5;atg-5,True
+5016473at2759,2759,Eukaryota,Phosphatidylinositol,3,3,2,Discordant,3,Pi3K92E;VPS34;age-1,True
+5017370at2759,2759,Eukaryota,phosphatase,3,3,3,Pro,3,Pten;daf-18,True
+569036at2759,2759,Eukaryota,kinase,3,3,3,Anti,3,Rps6kb1;S6k;rsks-1,True
+753957at2759,2759,Eukaryota,Nicotinamidase,3,3,3,Pro,3,Naam;PNC1;pnc-1,True
+801991at2759,2759,Eukaryota,SUPEROXIDE DISMUTASE ,3,3,3,Discordant,3,SOD1;Sod;sod-1,True
+4426714at2759,2759,Eukaryota,Solute carrier family 13 member,3,3,3,Anti,4,Indy;Slc13a1;nac-2;nac-3,True
+4698001at2759,2759,Eukaryota,Nodal,3,3,3,Discordant,4,Mstn;daf-7;daw;myo,True
+4783389at2759,2759,Eukaryota,deacetylase,3,3,2,Unresolved,4,HST1;SIR2;Sir2;Sirt1,True
+4933839at2759,2759,Eukaryota,kinase,3,3,3,Discordant,4,GIN4;SNF1;SNF1A;aak-2,True
+4971847at2759,2759,Eukaryota,protein kinase,3,3,3,Discordant,4,Atr;Mtor;TOR1;let-363,True
+5001316at2759,2759,Eukaryota,CATALASE,3,3,3,Discordant,4,CTA1;CTT1;Cat,True
+4807239at2759,2759,Eukaryota,peroxiredoxin,3,3,3,Unresolved,5,PRX1;Prdx1;TSA1;prdx-2;prdx-3,True
+783301at2759,2759,Eukaryota,14-3-3-3,3,3,3,Discordant,5,14-3-3epsilon;BMH1;BMH2;ftt-2;par-5,True
+4988636at2759,2759,Eukaryota,atp-dependent rna helicase,3,3,2,Discordant,7,B0511.6;KSS1;Mpk2;bsk;jnk-1;mpk-1;p38b,True
+1192873at2759,2759,Eukaryota,mannan endo-1 6-alpha-mannosidase,2,2,2,Anti,2,DCW1;SPBC1198.07c,True
+1273001at2759,2759,Eukaryota,cytochrome C-type heme lyase,2,2,1,Unresolved,2,CYT2;cchl-1,True
+16409at2759,2759,Eukaryota,Aconitate hydratase,2,2,2,Anti,2,ACO2;aco-2,True
+1651578at2759,2759,Eukaryota,Dna excision repair protein ercc-1,2,2,1,Unresolved,2,Ercc1;RAD10,True
+1676596at2759,2759,Eukaryota,dehydrogenase,2,2,1,Unresolved,2,FOX2;maoc-1,True
+175201at2759,2759,Eukaryota,Ribosomal protein,2,2,2,Anti,2,RPL31A;rpl-31,True
+1969167at2759,2759,Eukaryota,Actin cytoskeleton-regulatory complex protein,2,2,1,Unresolved,2,SLA1;shd1,True
+1976888at2759,2759,Eukaryota,transporter,2,2,2,Anti,2,HNM1;SPCC794.03,True
+1980370at2759,2759,Eukaryota,phosphoenolpyruvate carboxykinase ,2,2,2,Discordant,2,Pck1;pck-2,True
+2163357at2759,2759,Eukaryota,kinase,2,2,2,Anti,2,SCH9;sck2,True
+2195134at2759,2759,Eukaryota,Sac1,2,2,1,Unresolved,2,SAC1;sac-1,True
+2209885at2759,2759,Eukaryota,amino acid transporter,2,2,2,Anti,2,JhI-21;aat-8,True
+2228772at2759,2759,Eukaryota,LON protease,2,2,1,Unresolved,2,C34B2.6;PIM1,True
+2604670at2759,2759,Eukaryota,Succinate dehydrogenase,2,2,2,Pro,2,SdhC;mev-1,True
+2612708at2759,2759,Eukaryota,ras,2,2,1,Unresolved,2,YPT7;rab-7,True
+2616092at2759,2759,Eukaryota,RNA binding,2,2,0,Unresolved,2,WHI3;mec-8,True
+2617408at2759,2759,Eukaryota,Charged multivesicular body protein,2,2,1,Unresolved,2,VPS20;vps-20,True
+2654958at2759,2759,Eukaryota,40S ribosomal protein S,2,2,2,Anti,2,RPS10B;rps-10,True
+2690814at2759,2759,Eukaryota,transient receptor potential cation channel subfamily v member,2,2,2,Anti,2,Trpv1;ocr-2,True
+2700426at2759,2759,Eukaryota,methyltransferase,2,2,2,Pro,2,Pcmt;pcm-1,True
+2703176at2759,2759,Eukaryota,ras-related gtp-binding a,2,2,1,Unresolved,2,GTR1;raga-1,True
+270797at2759,2759,Eukaryota,telomerase,2,2,2,Pro,2,Tert;tert,True
+2748179at2759,2759,Eukaryota,Superoxide dismutase,2,2,1,Unresolved,2,MRP1;Sod2,True
+30943at2759,2759,Eukaryota,Eukaryotic translation initiation factor 5a,2,2,2,Anti,2,Eif5a2;iff-1,True
+3160413at2759,2759,Eukaryota,complex Subunit,2,2,1,Unresolved,2,APL2;apl1,True
+3161539at2759,2759,Eukaryota,ATP-dependent Zinc metalloprotease ftsh,2,2,2,Anti,2,AFG3;spg-7,True
+3161573at2759,2759,Eukaryota,Aryl hydrocarbon receptor,2,2,1,Unresolved,2,hif-1;trh,True
+3166744at2759,2759,Eukaryota,Transaldolase,2,2,2,Anti,2,TAL1;Y24D9A.8;tald-1,True
+319257at2759,2759,Eukaryota,Dna topoisomerase,2,2,1,Unresolved,2,TOP1;top-1,True
+358641at2759,2759,Eukaryota,atp synthase beta subunit,2,2,2,Anti,2,CG5389;atp-2,True
+3679967at2759,2759,Eukaryota,aryl hydrocarbon receptor nuclear translocator,2,2,2,Pro,2,Arntl;aha-1,True
+3745658at2759,2759,Eukaryota,synaptojanin,2,2,2,Anti,2,INP54;unc-26,True
+3845611at2759,2759,Eukaryota,eukaryotic translation initiation factor 2 subunit,2,2,2,Anti,2,CELE_Y39G10AR.8;tif213,True
+399860at2759,2759,Eukaryota,Poly ADP-ribose polymerase,2,2,2,Discordant,2,Parp1;pme-1,True
+414427at2759,2759,Eukaryota,heat shock,2,2,2,Pro,2,Hsc70-3;hsp-4,True
+41484at2759,2759,Eukaryota,kinase,2,2,1,Unresolved,2,PTK2;SPCC70.05c,True
+4219358at2759,2759,Eukaryota,ribosomal protein,2,2,1,Unresolved,2,RPS0B;rps-0,True
+4326343at2759,2759,Eukaryota,Peptidase,2,2,1,Unresolved,2,SPBP4H10.16c;WHI2,True
+4397846at2759,2759,Eukaryota,Autophagy-related protein 3,2,2,2,Pro,2,Aut1;atg-3,True
+4427510at2759,2759,Eukaryota,serine/threonine-protein kinase,2,2,1,Unresolved,2,Atg1;unc-51,True
+4435917at2759,2759,Eukaryota,Adenylate cyclase,2,2,2,Discordant,2,Adcy5;rut,True
+4439199at2759,2759,Eukaryota,isoform a,2,2,2,Anti,2,Keap1;spe-26,True
+4444984at2759,2759,Eukaryota,Integrin beta,2,2,2,Discordant,2,mys;pat-3,True
+4458191at2759,2759,Eukaryota,dual specificity protein phosphatase,2,2,2,Anti,2,lip-1;puc,True
+4515582at2759,2759,Eukaryota,NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 5,2,2,2,Anti,2,CELE_C25H3.9;l(3)neo18,True
+4541095at2759,2759,Eukaryota,lamin,2,2,1,Unresolved,2,Lmna;lmn-1,True
+4617232at2759,2759,Eukaryota,Insulin receptor substrate,2,2,2,Anti,2,Irs1;chico,True
+4652851at2759,2759,Eukaryota,protein kinase,2,2,2,Anti,2,Ilk;pat-4,True
+4665101at2759,2759,Eukaryota,SHC-transforming protein,2,2,2,Discordant,2,Shc1;shc-1,True
+4665472at2759,2759,Eukaryota,5-hydroxytryptamine receptor,2,2,2,Anti,2,5-HT2A;ser-1,True
+4679019at2759,2759,Eukaryota,insulin,2,2,2,Discordant,2,Ilp2;ins-1,True
+4686251at2759,2759,Eukaryota,Surfeit 1,2,2,2,Anti,2,Surf1,True
+4701392at2759,2759,Eukaryota,Forkhead box protein,2,2,2,Pro,2,daf-16;foxo,True
+4747719at2759,2759,Eukaryota,mitochondrial carrier,2,2,0,Unresolved,2,SPAC17H9.08;YPR011C,True
+4766927at2759,2759,Eukaryota,vacuolar sorting,2,2,2,Pro,2,car;vps-33.1,True
+4768692at2759,2759,Eukaryota,bone morphogenetic protein receptor,2,2,2,Anti,2,babo;daf-1,True
+4775842at2759,2759,Eukaryota,Histone-lysine N-methyltransferase,2,2,2,Anti,2,E(z);mes-2,True
+4778746at2759,2759,Eukaryota,Heterogeneous nuclear ribonucleoprotein,2,2,2,Discordant,2,Hnrnpd;hrp-1,True
+4810304at2759,2759,Eukaryota,rapamycin-insensitive companion of,2,2,1,Unresolved,2,Rictor;rict-1,True
+4812157at2759,2759,Eukaryota,autophagy-related protein,2,2,1,Unresolved,2,ATG9;atg-9,True
+4812491at2759,2759,Eukaryota,beclin,2,2,1,Unresolved,2,VPS30;bec-1,True
+4819201at2759,2759,Eukaryota,ADP-Ribosylation factor,2,2,1,Unresolved,2,ARF1;arf-1.1,True
+4821214at2759,2759,Eukaryota,ubiquitin carboxyl-terminal hydrolase,2,2,1,Unresolved,2,UBP8;usp-48,True
+4827829at2759,2759,Eukaryota,Glutathione,2,2,1,Unresolved,2,LPD1;dld-1,True
+4836479at2759,2759,Eukaryota,"complex, subunit",2,2,2,Anti,2,aps-1;aps2,True
+4841602at2759,2759,Eukaryota,Lipase,2,2,2,Pro,2,dagl-2;inaE,True
+4843436at2759,2759,Eukaryota,mannosidase,2,2,2,Anti,2,D2030.1;alpha-Man-I,True
+4867471at2759,2759,Eukaryota,ribosomal protein,2,2,2,Anti,2,RPL23A;rpl-23,True
+4885099at2759,2759,Eukaryota,mitochondrial,2,2,1,Unresolved,2,MRS4;mfn-1,True
+4887463at2759,2759,Eukaryota,dna replication licensing factor,2,2,1,Unresolved,2,Mcm2;mcm-2,True
+4919270at2759,2759,Eukaryota,"fructose-1,6-bisphosphatase I",2,2,2,Anti,2,FBP1;fbp-1,True
+4922169at2759,2759,Eukaryota,kinase,2,2,2,Pro,2,Ire1;ire-1,True
+4929307at2759,2759,Eukaryota,DNA mismatch repair protein,2,2,1,Unresolved,2,MSH2;Msh2,True
+4932610at2759,2759,Eukaryota,Tetratricopeptide repeat,2,2,2,Discordant,2,Stub1;chn-1,True
+4937006at2759,2759,Eukaryota,Chromobox protein,2,2,2,Discordant,2,Su(var)205;hpl-2,True
+4940471at2759,2759,Eukaryota,26S protease regulatory subunit,2,2,1,Unresolved,2,RPT5;rpt-1,True
+4946261at2759,2759,Eukaryota,Cytochrome C,2,2,1,Unresolved,2,CYC1;cyc-2.1,True
+4968956at2759,2759,Eukaryota,Succinate dehydrogenase,2,2,2,Discordant,2,SDH2;SdhB,True
+4969288at2759,2759,Eukaryota,enoyl,2,2,1,Unresolved,2,ETR1;mecr-1,True
+4970114at2759,2759,Eukaryota,Endoplasmic,2,2,2,Anti,2,ERO1;ero-1,True
+4970385at2759,2759,Eukaryota,ATP synthase,2,2,2,Anti,2,ATP1;H28O16.1,True
+4970782at2759,2759,Eukaryota,malate dehydrogenase,2,2,2,Pro,2,MDH1;mdh-2,True
+4973127at2759,2759,Eukaryota,ribosomal,2,2,2,Anti,2,MRPL4;mrpl-47,True
+4975042at2759,2759,Eukaryota,DNA mismatch repair protein,2,2,1,Unresolved,2,MSH6;msh3,True
+4979533at2759,2759,Eukaryota,pyruvate dehydrogenase,2,2,2,Discordant,2,LAT1;dlat-1,True
+4981067at2759,2759,Eukaryota,kinase,2,2,1,Unresolved,2,PHO85;pef1,True
+4981273at2759,2759,Eukaryota,ribosomal protein,2,2,2,Anti,2,RPS11A;rps-11,True
+4981977at2759,2759,Eukaryota,Succinate_dehydrogenase_,2,2,1,Unresolved,2,SDH1;sdh1,True
+4983478at2759,2759,Eukaryota,Cyclin-dependent kinase,2,2,2,Pro,2,Cdk7;cdk-7,True
+4988228at2759,2759,Eukaryota,Nascent polypeptide-associated complex subunit alpha,2,2,1,Unresolved,2,EGD2;Y65B4BR.5,True
+4991169at2759,2759,Eukaryota,60s ribosomal protein,2,2,2,Anti,2,RPL4A;rpl-4,True
+4999155at2759,2759,Eukaryota,Dehydrogenase,2,2,1,Unresolved,2,KGD1;SPBC3H7.03c,True
+4999379at2759,2759,Eukaryota,NADH:ubiquinone oxidoreductase,2,2,2,Anti,2,ND75;nuo-5,True
+4999407at2759,2759,Eukaryota,DNA-directed RNA polymerase,2,2,2,Anti,2,RPO31;rpc-1,True
+4999484at2759,2759,Eukaryota,Mitochondrial import inner membrane translocase subunit,2,2,1,Unresolved,2,SPT10;ppr1,True
+4999701at2759,2759,Eukaryota,Ran-binding,2,2,2,Anti,2,VID30;Y54E5A.7,True
+5000848at2759,2759,Eukaryota,mitotic checkpoint protein,2,2,2,Discordant,2,Bub3;bub-3,True
+5001057at2759,2759,Eukaryota,Diacylglycerol kinase,2,2,2,Anti,2,dgk-5;rdgA,True
+5001304at2759,2759,Eukaryota,vacuolar sorting-associated 41,2,2,1,Unresolved,2,VPS41;lt,True
+5001817at2759,2759,Eukaryota,Ribosomal protein,2,2,1,Unresolved,2,RPL17B;rpl-17,True
+5002092at2759,2759,Eukaryota,methyltransferase,2,2,2,Anti,2,CG42358;RCM1,True
+5002707at2759,2759,Eukaryota,60s ribosomal protein,2,2,2,Anti,2,RPL7A;rpl-7,True
+5002737at2759,2759,Eukaryota,kinase,2,2,1,Unresolved,2,RIM11;gsk3,True
+5003899at2759,2759,Eukaryota,NAD-dependent protein deacetylase,2,2,2,Pro,2,Sirt6,True
+5004621at2759,2759,Eukaryota,GLUTATHION PEROXIDASE,2,2,1,Unresolved,2,GPX2;Gpx4,True
+5006073at2759,2759,Eukaryota,multidrug resistance-associated,2,2,2,Discordant,2,Mrp4;mrp-5,True
+5012534at2759,2759,Eukaryota,ribosomal protein,2,2,2,Anti,2,RPL10;rpl-10,True
+5012868at2759,2759,Eukaryota,mitochondrial pyruvate carrier,2,2,0,Unresolved,2,MPC1;SPCC1235.11,True
+5012941at2759,2759,Eukaryota,cytochrome b-c1 complex subunit Rieske,2,2,2,Anti,2,RIP1;isp-1,True
+5014569at2759,2759,Eukaryota,elongation factor 1-alpha,2,2,2,Discordant,2,Ef1alpha48D;eef-1A.1,True
+5014714at2759,2759,Eukaryota,Cyclin,2,2,1,Unresolved,2,CLG1;mug80,True
+5014990at2759,2759,Eukaryota,leucine--tRNA ligase,2,2,1,Unresolved,2,NAM2;lars-2,True
+501596at2759,2759,Eukaryota,Glucose-6-phosphate,2,2,2,Discordant,2,ZWF1;Zw,True
+5016966at2759,2759,Eukaryota,charged multivesicular body protein 3,2,2,1,Unresolved,2,T27F7.1;VPS24,True
+534261at2759,2759,Eukaryota,60S ribosomal protein,2,2,2,Anti,2,RPL8B;rpl-7A,True
+535743at2759,2759,Eukaryota,40S RIBOSOMAL PROTEIN S12,2,2,2,Anti,2,RPS12;rps-12,True
+544131at2759,2759,Eukaryota,"complex, subunit",2,2,1,Unresolved,2,APM1;cm,True
+672188at2759,2759,Eukaryota,Aldehyde oxidase,2,2,2,Discordant,2,F55B11.1;ry,True
+723134at2759,2759,Eukaryota,Actin-related protein 2/3 complex subunit,2,2,2,Discordant,2,LCL3;arx-4,True
+743444at2759,2759,Eukaryota,wd repeat,2,2,1,Unresolved,2,SWD3;wdr-5.1,True
+771065at2759,2759,Eukaryota,Sorting nexin,2,2,2,Anti,2,SNX41;atg20,True
+89796at2759,2759,Eukaryota,Transcription factor,2,2,1,Unresolved,2,INO4;mxl-2,True
+2423377at2759,2759,Eukaryota,ATP-dependent rna helicase,2,2,2,Discordant,3,TIF1;TIF2;hel-1,True
+2445478at2759,2759,Eukaryota,Mitochondrial,2,2,2,Anti,3,C33F10.12;F01G4.6;MIR1,True
+2787271at2759,2759,Eukaryota,insulin receptor a,2,2,2,Anti,3,Igf1r;InR;Insr,True
+361262at2759,2759,Eukaryota,40s ribosomal protein,2,2,2,Anti,3,RPS6A;RPS6B;rps-6,True
+436619at2759,2759,Eukaryota,Glyceraldehyde-3-phosphate dehydrogenase,2,2,2,Anti,3,TDH2;gpd-2;gpd-3,True
+4585104at2759,2759,Eukaryota,glutathione s-transferase,2,2,2,Pro,3,GstS1;gst-10;gst-5,True
+4661351at2759,2759,Eukaryota,Tumor protein,2,2,2,Discordant,3,Trp63;Trp73;p53,True
+4858627at2759,2759,Eukaryota,Elongation FacTor,2,2,0,Unresolved,3,EFT1;EFT2;eef-2,True
+4907210at2759,2759,Eukaryota,cAMP-dependent protein kinase catalytic subunit,2,2,2,Discordant,3,Pka-C1;pkg-1;tpa-1,True
+4911035at2759,2759,Eukaryota,Kinase,2,2,2,Anti,3,Akt1;Akt2;akt-1,True
+4993771at2759,2759,Eukaryota,ribosomal protein,2,2,2,Anti,3,RPL19A;RPL19B;rpl-19,True
+5002515at2759,2759,Eukaryota,TIA-1,2,2,1,Unresolved,3,PUB1;pab-1;pab-2,True
+5013221at2759,2759,Eukaryota,ribosomal protein,2,2,2,Anti,3,RPL9A;RPL9B;rpl-9,True
+530016at2759,2759,Eukaryota,tetrahydrofolate synthase,2,2,2,Discordant,3,ADE3;MIS1;Nmdmc,True
+561687at2759,2759,Eukaryota,CYTOCHROME C1,2,2,2,Anti,3,CYT1;PCH2;cyc-1,True
+653656at2759,2759,Eukaryota,Autophagy-related protein,2,2,0,Unresolved,3,ATG18;ATG21;atg-18,True
+717816at2759,2759,Eukaryota,S-adenosylmethionine,2,2,2,Anti,3,SAM1;sams-1;sams-3,True
+804629at2759,2759,Eukaryota,ADP/ATP translocase,2,2,2,Discordant,3,C47E12.2;Slc25a4;ant-1.1,True
+2741472at2759,2759,Eukaryota,transporter,2,2,2,Discordant,4,PMR1;cua-1;eat-6;sca-1,True
+4578124at2759,2759,Eukaryota,hexokinase I,2,2,2,Unresolved,4,GLK1;HXK2;Hex-A;Hex-C,True
+4620304at2759,2759,Eukaryota,mothers against decapentaplegic,2,2,2,Discordant,4,Mad;Smox;daf-14;daf-8,True
+4914091at2759,2759,Eukaryota,heat shock,2,2,2,Discordant,4,SSA3;SSA4;SSC1;hsp-6,True
+4974109at2759,2759,Eukaryota,kinase,2,2,2,Anti,4,AKL1;ARK1;PRK1;sel-5,True
+498104at2759,2759,Eukaryota,prohibitin,2,2,2,Pro,4,PHB1;PHB2;phb-1;phb-2,True
+5000555at2759,2759,Eukaryota,Kinase,2,2,2,Anti,4,PKH1;PKH2;PKH3;pdk-1,True
+5001640at2759,2759,Eukaryota,kinase,2,2,1,Unresolved,4,CLA4;SKM1;max-2;pak-1,True
+5003292at2759,2759,Eukaryota,Ubiquitin carboxyl-terminal hydrolase,2,2,2,Discordant,4,PDX3;YUH1;ubh-1;ubh-3,True
+5015601at2759,2759,Eukaryota,kinase,2,2,1,Unresolved,4,TPK1;TPK2;TPK3;pka1,True
+5020933at2759,2759,Eukaryota,transporter,2,2,2,Unresolved,4,HXT5;RGT2;SNF3;ght5,True
+5024004at2759,2759,Eukaryota,dehydrogenase,2,2,2,Anti,4,IDH1;IDH2;LYS12;idha-1,True
+4257798at2759,2759,Eukaryota,cellular retinoic acid binding protein,2,2,2,Discordant,6,fabp;lbp-4;lbp-6;lbp-7;lbp-8;lbp-9,True
+4288235at2759,2759,Eukaryota,Heat shock protein,2,2,2,Unresolved,9,Hsp22;Hsp26;Hsp27;Hsp67Bc;hsp-12.6;hsp-16.1;hsp-16.48;hsp-16.49;sip-1,True

@@ -1,0 +1,465 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A12456885+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "12456885",
+    "source": "MED",
+    "pmid": "12456885",
+    "pmcid": "PMC138582",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC138582"
+      ]
+    },
+    "doi": "10.1073/pnas.252342899",
+    "title": "RNA interference-mediated silencing of Sod2 in Drosophila leads to early adult-onset mortality and elevated endogenous oxidative stress.",
+    "authorString": "Kirby K, Hu J, Hilliker AJ, Phillips JP.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Kirby K",
+          "lastName": "Kirby",
+          "firstName": "Kim",
+          "initials": "K",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Molecular Biology and Genetics, University of Guelph, Guelph, ON, Canada N1G 2W1."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Hu J",
+          "lastName": "Hu",
+          "firstName": "Jianguo",
+          "initials": "J"
+        },
+        {
+          "fullName": "Hilliker AJ",
+          "lastName": "Hilliker",
+          "firstName": "Arthur J",
+          "initials": "AJ"
+        },
+        {
+          "fullName": "Phillips JP",
+          "lastName": "Phillips",
+          "firstName": "John P",
+          "initials": "JP"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "25",
+      "volume": "99",
+      "journalIssueId": 1142049,
+      "dateOfPublication": "2002 Dec",
+      "monthOfPublication": 12,
+      "yearOfPublication": 2002,
+      "journal": {
+        "medlineAbbreviation": "Proc Natl Acad Sci U S A",
+        "title": "Proceedings of the National Academy of Sciences of the United States of America",
+        "essn": "1091-6490",
+        "issn": "0027-8424",
+        "nlmid": "7505876",
+        "isoabbreviation": "Proc Natl Acad Sci U S A"
+      },
+      "printPublicationDate": "2002-12-01"
+    },
+    "pubYear": "2002",
+    "pageInfo": "16162-16167",
+    "abstractText": "Oxidative stress has been widely implicated as an important factor in the aging process. Because mitochondrial respiration is the principal source of reactive oxygen within cells, the mitochondrially localized superoxide dismutase (SOD) 2 is thought to play an important front-line defensive role against aging-related oxidative stress. Although genetic studies with mutants deficient in SOD1, the predominantly cytosolic isoform of SOD, have been instrumental in elucidating the role of reactive oxygen metabolism in aging in Drosophila, the lack of available mutations in the Sod2 gene has hampered an equivalent analysis of the participation of this important antioxidant enzyme in the Drosophila aging model. Here we report that ablation of mitochondrial SOD2 through expression of a GAL4-regulated, inverted-repeat Sod2 RNA-interference transgene in an otherwise normal animal causes increased endogenous oxidative stress, resulting in loss of essential enzymatic components of the mitochondrial respiratory chain and the tricarboxylic acid cycle, enhances sensitivity to applied oxidative stress, and causes early-onset mortality in young adults. In sharp contrast, ablation of SOD2 has no overt effect on the development of larvae and pupae, which may reflect a fundamental transition in oxygen utilization andor reactive oxygen metabolism that occurs during metamorphosis from larval to adult life.",
+    "affiliation": "Department of Molecular Biology and Genetics, University of Guelph, Guelph, ON, Canada N1G 2W1.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print-Electronic",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mitochondria",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "EN",
+                "qualifierName": "enzymology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Drosophila melanogaster",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "EN",
+                "qualifierName": "enzymology"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Reactive Oxygen Species",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Paraquat",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "TO",
+                "qualifierName": "toxicity"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Isoenzymes",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "DF",
+                "qualifierName": "deficiency"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Superoxide Dismutase",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "DF",
+                "qualifierName": "deficiency"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Iron-Sulfur Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "DF",
+                "qualifierName": "deficiency"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "DNA-Binding Proteins"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Saccharomyces cerevisiae Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Drosophila Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "DF",
+                "qualifierName": "deficiency"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Transcription Factors",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "RNA Interference"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Citric Acid Cycle",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Electron Transport",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Oxidative Stress",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Longevity",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Drug Resistance",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Transgenes"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Promoter Regions, Genetic"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Superoxide Dismutase 2"
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "GAL4 protein, S cerevisiae",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Isoenzymes",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Iron-Sulfur Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Superoxide Dismutase",
+          "registryNumber": "EC 1.15.1.1"
+        },
+        {
+          "name": "Saccharomyces cerevisiae Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "DNA-Binding Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Drosophila Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Transcription Factors",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Reactive Oxygen Species",
+          "registryNumber": "0"
+        },
+        {
+          "name": "superoxide dismutase 2",
+          "registryNumber": "EC 1.15.1.1"
+        },
+        {
+          "name": "Paraquat",
+          "registryNumber": "PLG39H7695"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1073/pnas.252342899"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC138582"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC138582?pdf=render"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1073/pnas.252342899"
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 169,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2003-01-28",
+    "dateOfCreation": "2002-11-29",
+    "dateOfRevision": "2026-01-28",
+    "electronicPublicationDate": "2002-11-27",
+    "firstPublicationDate": "2002-11-27",
+    "firstIndexDate": "2009-12-24",
+    "fullTextReceivedDate": "2025-02-02",
+    "hasEvaluations": "N"
+  }
+}

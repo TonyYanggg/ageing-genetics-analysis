@@ -1,0 +1,1971 @@
+candidate_id,candidate_label,node_key,code,species,entrez,symbols,genage_ids,influences,lifespan_effects,evidence_type,display_symbol,intervention,outcome,primary_pmid,review_depth,qualification,catalogue_pmids,page,pdf_file,page_file,rendered_text
+C008,TOR,Saccharomyces cerevisiae|853529,Y1,Saccharomyces cerevisiae,853529,TOR1,679,Anti-Longevity,Increase,Reviewed example,TOR1,Deletion,Replicative life ↑,16293764,primary abstract,Yeast replicative divisions are not directly comparable with animal survival.,16293764;17403371;19030232;20421943,1,all_gene_ortholog_atlas.pdf,page_01.png,"Y1  TOR1
+GenAge 679
+Reviewed example
+Deletion
+Replicative life ↑
+PMID 16293764"
+C008,TOR,Caenorhabditis elegans|172167,W1,Caenorhabditis elegans,172167,let-363,32,Anti-Longevity,Increase,Reviewed example,let-363,RNAi,Adult life ↑,14668850,primary record and GenAge entry,Early TOR loss affects development; intervention timing matters.,14668850,1,all_gene_ortholog_atlas.pdf,page_01.png,"W1  let-363
+GenAge 32
+Reviewed example
+RNAi
+Adult life ↑
+PMID 14668850"
+C008,TOR,Drosophila melanogaster|47396,F1,Drosophila melanogaster,47396,Tor,678,Anti-Longevity,Increase,Reviewed example,Tor,Dominant-negative,Adult life ↑,15186745,primary abstract and available paper metadata,Dominant-negative expression is not a deletion.,15186745,1,all_gene_ortholog_atlas.pdf,page_01.png,"F1  Tor
+GenAge 678
+Reviewed example
+Dominant-negative
+Adult life ↑
+PMID 15186745"
+C008,TOR,Mus musculus|56717,M1,Mus musculus,56717,Mtor,1809,Anti-Longevity,Increase,Reviewed example,Mtor,Hypomorph,Median survival ↑,23994476,primary abstract and figure captions,Both mTORC1 and mTORC2 activity were reduced; not a selective mTORC1 result.,23994476,1,all_gene_ortholog_atlas.pdf,page_01.png,"M1  Mtor
+GenAge 1809
+Reviewed example
+Hypomorph
+Median survival ↑
+PMID 23994476"
+C073,S6 kinase,Caenorhabditis elegans|176554,W1,Caenorhabditis elegans,176554,rsks-1,578,Anti-Longevity,Increase,Reviewed example,rsks-1,RNAi,Mean life ↑,17266680,primary abstract and figure captions,Translation and growth or reproductive context may differ from mammalian deletion.,17266679;17266680,1,all_gene_ortholog_atlas.pdf,page_01.png,"W1  rsks-1
+GenAge 578
+Reviewed example
+RNAi
+Mean life ↑
+PMID 17266680"
+C073,S6 kinase,Drosophila melanogaster|38654,F1,Drosophila melanogaster,38654,S6k,583,Anti-Longevity,Increase,Reviewed example,S6k,Dominant-negative,Adult life ↑,15186745,primary abstract and available paper metadata,Shares a paper and signalling pathway with fly TOR; not independent evidence of a second conserved mechanism.,15186745,1,all_gene_ortholog_atlas.pdf,page_01.png,"F1  S6k
+GenAge 583
+Reviewed example
+Dominant-negative
+Adult life ↑
+PMID 15186745"
+C073,S6 kinase,Mus musculus|72508,M1,Mus musculus,72508,Rps6kb1,1737,Anti-Longevity,Increase,Reviewed example,Rps6kb1,Global knockout,Female life ↑*,19797661,primary full text targeted results and 2011 correction,Sex-specific effect; the 2011 correction concerns a worm rsks-1;aak-2 strain and does not report a change to mouse survival.,19797661,1,all_gene_ortholog_atlas.pdf,page_01.png,"M1  Rps6kb1
+GenAge 1737
+Reviewed example
+Global knockout
+Female life ↑*
+PMID 19797661"
+C019,Insulin/IGF receptor,Caenorhabditis elegans|175410,W1,Caenorhabditis elegans,175410,daf-2,163,Anti-Longevity,Increase,Reviewed example,daf-2,Hypomorph,Adult life ↑,8247153,primary abstract,Genetic background and DAF-16 dependence matter.,7789761;8247153;9252323;10360574;11021802;16103914;17411345,1,all_gene_ortholog_atlas.pdf,page_01.png,"W1  daf-2
+GenAge 163
+Reviewed example
+Hypomorph
+Adult life ↑
+PMID 8247153"
+C019,Insulin/IGF receptor,Drosophila melanogaster|42549,F1,Drosophila melanogaster,42549,InR,368,Anti-Longevity,Increase,Reviewed example,InR,Hypomorph,Female life ↑,11292875,primary abstract,Sex and endocrine context differ from worm and mouse experiments.,11292875,1,all_gene_ortholog_atlas.pdf,page_01.png,"F1  InR
+GenAge 368
+Reviewed example
+Hypomorph
+Female life ↑
+PMID 11292875"
+C019,Insulin/IGF receptor,Mus musculus|16001,M1,Mus musculus,16001,Igf1r,365,Anti-Longevity,Increase,Reviewed example,Igf1r,Heterozygous KO,Female life ↑*†,12483226,primary abstract and later conflicting primary cohort,"Mouse Insr is a separate paralog; a later large-cohort Igf1r study (PMID 22132081) did not reproduce a lifespan increase, with genetic background a possible modifier (PMID 23898955).",12483226;18959478;23898955,1,all_gene_ortholog_atlas.pdf,page_01.png,"M1  Igf1r
+GenAge 365
+Reviewed example
+Heterozygous KO
+Female life ↑*†
+PMID 12483226"
+C019,Insulin/IGF receptor,Mus musculus|16337,M2,Mus musculus,16337,Insr,373,Anti-Longevity,Increase,GenAge annotation,Insr,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12543978;15713666,1,all_gene_ortholog_atlas.pdf,page_01.png,"M2  Insr
+GenAge 373
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 12543978, 15713666"
+C001,AMPK,Saccharomyces cerevisiae|852088,Y1,Saccharomyces cerevisiae,852088,SNF1,619,Anti-Longevity,Increase and Decrease,Reviewed example,SNF1,Overexpression,Replicative life ↓,10921902,primary full-text targeted results via PMC web index,Replicative assay; this does not summarize chronological ageing or imply universally harmful AMPK activity.,10921902;19030232;19164565;20421943,2,all_gene_ortholog_atlas.pdf,page_02.png,"Y1  SNF1
+GenAge 619
+Reviewed example
+Overexpression
+Replicative life ↓
+PMID 10921902"
+C001,AMPK,Caenorhabditis elegans|181727,W1,Caenorhabditis elegans,181727,aak-2,1,Pro-Longevity,Increase and Decrease,Reviewed example,aak-2,Extra gene copies,Mean life ↑,15574588,primary full-text targeted Figure 2 results via PMC web index,Gene dosage experiment; loss of aak-2 shortened lifespan in the same study.,15574588;18006689;25723162;28824175,2,all_gene_ortholog_atlas.pdf,page_02.png,"W1  aak-2
+GenAge 1
+Reviewed example
+Extra gene copies
+Mean life ↑
+PMID 15574588"
+C001,AMPK,Drosophila melanogaster|43904,F1,Drosophila melanogaster,43904,SNF1A,1846,Pro-Longevity,Increase,Reviewed example,SNF1A,Adult tissue expression,Adult life ↑,23312286,primary abstract,Adult tissue-specific expression; GenAge symbol SNF1A retained for traceability.,23312286;25199830,2,all_gene_ortholog_atlas.pdf,page_02.png,"F1  SNF1A
+GenAge 1846
+Reviewed example
+Adult tissue expression
+Adult life ↑
+PMID 23312286"
+C004,ATG7,Saccharomyces cerevisiae|856576,Y1,Saccharomyces cerevisiae,856576,ATG7,1218,Necessary for fitness,Decrease,Reviewed example,ATG7,Deletion,Chronological life ↓,19302372,primary abstract and figure captions,Nutrient composition and strain affect survival; not a replicative lifespan assay.,19302372;20421943,2,all_gene_ortholog_atlas.pdf,page_02.png,"Y1  ATG7
+GenAge 1218
+Reviewed example
+Deletion
+Chronological life ↓
+PMID 19302372"
+C004,ATG7,Caenorhabditis elegans|178005,W1,Caenorhabditis elegans,178005,atg-7,23,Unclear,Increase,Reviewed example,atg-7,RNAi in eat-2,DR benefit reduced‡,17912023,primary abstract,Selected experiment tests loss of longevity in an eat-2 background; not a universal wild-type effect. GenAge Increase/Unclear is retained separately. PMID 19469880 reports timing/background-dependent autophagy results; PMID 17204841 reports lifespan shortening with atg-7 RNAi.,17912023;19469880,2,all_gene_ortholog_atlas.pdf,page_02.png,"W1  atg-7
+GenAge 23
+Reviewed example
+RNAi in eat-2
+DR benefit reduced‡
+PMID 17912023"
+C004,ATG7,Drosophila melanogaster|37141,F1,Drosophila melanogaster,37141,Atg7,21,Pro-Longevity,Decrease,Reviewed example,Atg7,Null mutation,Adult life ↓,18056421,primary abstract,Developmental autophagy and neuronal degeneration accompany this phenotype; not an adult-only intervention.,18056421;19550147,2,all_gene_ortholog_atlas.pdf,page_02.png,"F1  Atg7
+GenAge 21
+Reviewed example
+Null mutation
+Adult life ↓
+PMID 18056421"
+C080,SOD2,Saccharomyces cerevisiae|856399,Y1,Saccharomyces cerevisiae,856399,SOD2,623,Pro-Longevity,Increase and Decrease,Reviewed example,SOD2,Deletion in sch9Δ,CLS benefit lost§,12586694,primary abstract,Background-dependent requirement experiment. SOD1/SOD2 co-overexpression in the paper must not be attributed to SOD2 alone.,12586694;17460215;20883526,2,all_gene_ortholog_atlas.pdf,page_02.png,"Y1  SOD2
+GenAge 623
+Reviewed example
+Deletion in sch9Δ
+CLS benefit lost§
+PMID 12586694"
+C080,SOD2,Caenorhabditis elegans|172632,W1,Caenorhabditis elegans,172632,sod-2,985,Unclear,Increase,Reviewed example,sod-2,Deletion,Adult life ↑,19197346,primary abstract,Mitochondrial and genetic background matter; deletion decreases lifespan in isp-1 mutants in the same paper.,10968795;19197346,2,all_gene_ortholog_atlas.pdf,page_02.png,"W1  sod-2
+GenAge 985
+Reviewed example
+Deletion
+Adult life ↑
+PMID 19197346"
+C080,SOD2,Drosophila melanogaster|36878,F1,Drosophila melanogaster,36878,Sod2,624,Pro-Longevity,Increase and Decrease,Reviewed example,Sod2,RNAi,Adult life ↓,12456885,primary abstract,Strong deficiency with oxidative injury; not evidence that every increase in antioxidant activity extends life.,12456885;18067683,2,all_gene_ortholog_atlas.pdf,page_02.png,"F1  Sod2
+GenAge 624
+Reviewed example
+RNAi
+Adult life ↓
+PMID 12456885"
+C080,SOD2,Mus musculus|20656,M1,Mus musculus,20656,Sod2,827,Pro-Longevity,Decrease,Reviewed example,Sod2,Connective-tissue KO,Survival ↓,21108731,primary abstract,Connective-tissue-specific model; not global Sod2 heterozygosity or a normal-ageing lifespan-extension intervention.,21108731,2,all_gene_ortholog_atlas.pdf,page_02.png,"M1  Sod2
+GenAge 827
+Reviewed example
+Connective-tissue KO
+Survival ↓
+PMID 21108731"
+C007,TRX1,Saccharomyces cerevisiae|850732,Y1,Saccharomyces cerevisiae,850732,TRX1,1286,Necessary for fitness,Decrease,GenAge annotation,TRX1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943;20883526,3,all_gene_ortholog_atlas.pdf,page_03.png,"Y1  TRX1
+GenAge 1286
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943, 20883526"
+C007,TRX1,Caenorhabditis elegans|181863,W1,Caenorhabditis elegans,181863,trx-1,31,Pro-Longevity,Decrease,GenAge annotation,trx-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16324156,3,all_gene_ortholog_atlas.pdf,page_03.png,"W1  trx-1
+GenAge 31
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 16324156"
+C007,TRX1,Drosophila melanogaster|34281,F1,Drosophila melanogaster,34281,Trx-2,685,Pro-Longevity,Decrease,GenAge annotation,Trx-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17567437,3,all_gene_ortholog_atlas.pdf,page_03.png,"F1  Trx-2
+GenAge 685
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17567437"
+C007,TRX1,Drosophila melanogaster|31443,F2,Drosophila melanogaster,31443,TrxT,686,Pro-Longevity,Increase,GenAge annotation,TrxT,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17301052,3,all_gene_ortholog_atlas.pdf,page_03.png,"F2  TrxT
+GenAge 686
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 17301052"
+C007,TRX1,Mus musculus|22166,M1,Mus musculus,22166,Txn1,691,Pro-Longevity,Increase,GenAge annotation,Txn1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12230882;21873593,3,all_gene_ortholog_atlas.pdf,page_03.png,"M1  Txn1
+GenAge 691
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 12230882, 21873593"
+C064,TSA1,Saccharomyces cerevisiae|854980,Y1,Saccharomyces cerevisiae,854980,TSA1,2109,Pro-Longevity,Increase,GenAge annotation,TSA1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,27264606,3,all_gene_ortholog_atlas.pdf,page_03.png,"Y1  TSA1
+GenAge 2109
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 27264606"
+C064,TSA1,Caenorhabditis elegans|266858,W1,Caenorhabditis elegans,266858,prdx-2,516,Pro-Longevity,Decrease,GenAge annotation,prdx-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16673436,3,all_gene_ortholog_atlas.pdf,page_03.png,"W1  prdx-2
+GenAge 516
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 16673436"
+C064,TSA1,Drosophila melanogaster|53578,F1,Drosophila melanogaster,53578,Jafrac1,856,Pro-Longevity,Increase,GenAge annotation,Jafrac1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19720829;20976250,3,all_gene_ortholog_atlas.pdf,page_03.png,"F1  Jafrac1
+GenAge 856
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 19720829, 20976250"
+C064,TSA1,Mus musculus|18477,M1,Mus musculus,18477,Prdx1,518,Pro-Longevity,Decrease,GenAge annotation,Prdx1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12891360,3,all_gene_ortholog_atlas.pdf,page_03.png,"M1  Prdx1
+GenAge 518
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 12891360"
+C077,AAC3,Saccharomyces cerevisiae|852380,Y1,Saccharomyces cerevisiae,852380,AAC3,1553,Anti-Longevity,Increase,GenAge annotation,AAC3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,3,all_gene_ortholog_atlas.pdf,page_03.png,"Y1  AAC3
+GenAge 1553
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043"
+C077,AAC3,Saccharomyces cerevisiae|852250,Y2,Saccharomyces cerevisiae,852250,PET9,1595,Pro-Longevity,Decrease,GenAge annotation,PET9,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18809618,3,all_gene_ortholog_atlas.pdf,page_03.png,"Y2  PET9
+GenAge 1595
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18809618"
+C077,AAC3,Caenorhabditis elegans|176773,W1,Caenorhabditis elegans,176773,ant-1.1,666,Anti-Longevity,Increase,GenAge annotation,ant-1.1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17608836,3,all_gene_ortholog_atlas.pdf,page_03.png,"W1  ant-1.1
+GenAge 666
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17608836"
+C077,AAC3,Mus musculus|11739,M1,Mus musculus,11739,Slc25a4,615,Pro-Longevity,Decrease,GenAge annotation,Slc25a4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,10220377,3,all_gene_ortholog_atlas.pdf,page_03.png,"M1  Slc25a4
+GenAge 615
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 10220377"
+C002,akt-1,Caenorhabditis elegans|179424,W1,Caenorhabditis elegans,179424,akt-1,10,Anti-Longevity,Increase,GenAge annotation,akt-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15998808;23935948,4,all_gene_ortholog_atlas.pdf,page_04.png,"W1  akt-1
+GenAge 10
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 15998808, 23935948"
+C002,akt-1,Drosophila melanogaster|41957,F1,Drosophila melanogaster,41957,Akt1,832,Pro-Longevity,Decrease,GenAge annotation,Akt1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20976250,4,all_gene_ortholog_atlas.pdf,page_04.png,"F1  Akt1
+GenAge 832
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 20976250"
+C002,akt-1,Mus musculus|11651,M1,Mus musculus,11651,Akt1,1810,Anti-Longevity,Increase,GenAge annotation,Akt1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,23935948,4,all_gene_ortholog_atlas.pdf,page_04.png,"M1  Akt1
+GenAge 1810
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 23935948"
+C002,akt-1,Mus musculus|11652,M2,Mus musculus,11652,Akt2,2231,Anti-Longevity,Increase,GenAge annotation,Akt2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,28681509,4,all_gene_ortholog_atlas.pdf,page_04.png,"M2  Akt2
+GenAge 2231
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 28681509"
+C104,ATG5,Saccharomyces cerevisiae|855954,Y1,Saccharomyces cerevisiae,855954,ATG5,1305,Necessary for fitness,Decrease,GenAge annotation,ATG5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,4,all_gene_ortholog_atlas.pdf,page_04.png,"Y1  ATG5
+GenAge 1305
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C104,ATG5,Caenorhabditis elegans|171735,W1,Caenorhabditis elegans,171735,atg-5,897,Pro-Longevity,Decrease,GenAge annotation,atg-5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19469880,4,all_gene_ortholog_atlas.pdf,page_04.png,"W1  atg-5
+GenAge 897
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 19469880"
+C104,ATG5,Mus musculus|11793,M1,Mus musculus,11793,Atg5,1862,Pro-Longevity,Increase,GenAge annotation,Atg5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,23939249,4,all_gene_ortholog_atlas.pdf,page_04.png,"M1  Atg5
+GenAge 1862
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 23939249"
+C005,ATG8,Saccharomyces cerevisiae|852200,Y1,Saccharomyces cerevisiae,852200,ATG8,1306,Necessary for fitness,Decrease,GenAge annotation,ATG8,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,4,all_gene_ortholog_atlas.pdf,page_04.png,"Y1  ATG8
+GenAge 1306
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C005,ATG8,Caenorhabditis elegans|174050,W1,Caenorhabditis elegans,174050,lgg-1,955,Pro-Longevity,Decrease,GenAge annotation,lgg-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18219227;19469880,4,all_gene_ortholog_atlas.pdf,page_04.png,"W1  lgg-1
+GenAge 955
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18219227, 19469880"
+C005,ATG8,Drosophila melanogaster|32001,F1,Drosophila melanogaster,32001,Atg8a,22,Pro-Longevity,Increase and Decrease,GenAge annotation,Atg8a,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17617737;18059160;19550147,4,all_gene_ortholog_atlas.pdf,page_04.png,"F1  Atg8a
+GenAge 22
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 17617737, 18059160
+      19550147"
+C034,BMH1,Saccharomyces cerevisiae|856924,Y1,Saccharomyces cerevisiae,856924,BMH1,1033,Unclear,Increase and Decrease,GenAge annotation,BMH1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19805817;20657825,5,all_gene_ortholog_atlas.pdf,page_05.png,"Y1  BMH1
+GenAge 1033
+GenAge annotation
+Unclear
+Lifespan: Increase +
+Decrease
+Refs: 19805817, 20657825"
+C034,BMH1,Saccharomyces cerevisiae|851676,Y2,Saccharomyces cerevisiae,851676,BMH2,1670,Pro-Longevity,Increase,GenAge annotation,BMH2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19805817,5,all_gene_ortholog_atlas.pdf,page_05.png,"Y2  BMH2
+GenAge 1670
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 19805817"
+C034,BMH1,Caenorhabditis elegans|181348,W1,Caenorhabditis elegans,181348,ftt-2,288,Pro-Longevity,Increase and Decrease,GenAge annotation,ftt-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16860373;18423931,5,all_gene_ortholog_atlas.pdf,page_05.png,"W1  ftt-2
+GenAge 288
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 16860373, 18423931"
+C034,BMH1,Caenorhabditis elegans|178113,W2,Caenorhabditis elegans,178113,par-5,493,Pro-Longevity,Increase and Decrease,GenAge annotation,par-5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16860373;18423931,5,all_gene_ortholog_atlas.pdf,page_05.png,"W2  par-5
+GenAge 493
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 16860373, 18423931"
+C034,BMH1,Drosophila melanogaster|42186,F1,Drosophila melanogaster,42186,14-3-3epsilon,831,Anti-Longevity,Increase,GenAge annotation,14-3-3epsilon,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18665908,5,all_gene_ortholog_atlas.pdf,page_05.png,"F1  14-3-3epsilon
+GenAge 831
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18665908"
+C017,CAT5,Saccharomyces cerevisiae|854292,Y1,Saccharomyces cerevisiae,854292,CAT5,1436,Necessary for fitness,Decrease,GenAge annotation,CAT5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17492370;18340043,5,all_gene_ortholog_atlas.pdf,page_05.png,"Y1  CAT5
+GenAge 1436
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 17492370, 18340043"
+C017,CAT5,Caenorhabditis elegans|175729,W1,Caenorhabditis elegans,175729,clk-1,130,Anti-Longevity,Increase and Decrease,GenAge annotation,clk-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,8638122;10202142;12709403;15269213,5,all_gene_ortholog_atlas.pdf,page_05.png,"W1  clk-1
+GenAge 130
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 8638122, 10202142
+      12709403, 15269213"
+C017,CAT5,Mus musculus|12850,M1,Mus musculus,12850,Coq7,136,Anti-Longevity,Increase,GenAge annotation,Coq7,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16195414;25106098,5,all_gene_ortholog_atlas.pdf,page_05.png,"M1  Coq7
+GenAge 136
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16195414, 25106098"
+C012,CTA1,Saccharomyces cerevisiae|851843,Y1,Saccharomyces cerevisiae,851843,CTA1,1694,Anti-Longevity,Increase and Decrease,GenAge annotation,CTA1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20696905,5,all_gene_ortholog_atlas.pdf,page_05.png,"Y1  CTA1
+GenAge 1694
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 20696905"
+C012,CTA1,Drosophila melanogaster|40048,F1,Drosophila melanogaster,40048,Cat,91,Pro-Longevity,Increase,GenAge annotation,Cat,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,8108730,5,all_gene_ortholog_atlas.pdf,page_05.png,"F1  Cat
+GenAge 91
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 8108730"
+C012,CTA1,Mus musculus|12359,M1,Mus musculus,12359,Cat,92,Pro-Longevity,Increase,GenAge annotation,Cat,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15879174;16144468,5,all_gene_ortholog_atlas.pdf,page_05.png,"M1  Cat
+GenAge 92
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 15879174, 16144468"
+C046,KSS1,Saccharomyces cerevisiae|852931,Y1,Saccharomyces cerevisiae,852931,KSS1,397,Necessary for fitness,Decrease,GenAge annotation,KSS1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17662940,6,all_gene_ortholog_atlas.pdf,page_06.png,"Y1  KSS1
+GenAge 397
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 17662940"
+C046,KSS1,Caenorhabditis elegans|175545,W1,Caenorhabditis elegans,175545,mpk-1,961,Pro-Longevity,Decrease,GenAge annotation,mpk-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18059442;20624915,6,all_gene_ortholog_atlas.pdf,page_06.png,"W1  mpk-1
+GenAge 961
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18059442, 20624915"
+C046,KSS1,Drosophila melanogaster|42866,F1,Drosophila melanogaster,42866,Mpk2,1832,Pro-Longevity,Decrease,GenAge annotation,Mpk2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22014527,6,all_gene_ortholog_atlas.pdf,page_06.png,"F1  Mpk2
+GenAge 1832
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 22014527"
+C046,KSS1,Drosophila melanogaster|34780,F2,Drosophila melanogaster,34780,p38b,1831,Pro-Longevity,Decrease,GenAge annotation,p38b,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22014527,6,all_gene_ortholog_atlas.pdf,page_06.png,"F2  p38b
+GenAge 1831
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 22014527"
+C099,MNS1,Saccharomyces cerevisiae|853595,Y1,Saccharomyces cerevisiae,853595,MNS1,1513,Anti-Longevity,Increase,GenAge annotation,MNS1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20657825,6,all_gene_ortholog_atlas.pdf,page_06.png,"Y1  MNS1
+GenAge 1513
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 20657825"
+C099,MNS1,Caenorhabditis elegans|172510,W1,Caenorhabditis elegans,172510,D2030.1,912,Anti-Longevity,Increase,GenAge annotation,D2030.1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19302370,6,all_gene_ortholog_atlas.pdf,page_06.png,"W1  D2030.1
+GenAge 912
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 19302370"
+C099,MNS1,Drosophila melanogaster|31957,F1,Drosophila melanogaster,31957,alpha-Man-I,833,Anti-Longevity,Increase,GenAge annotation,alpha-Man-I,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19302370,6,all_gene_ortholog_atlas.pdf,page_06.png,"F1  alpha-Man-I
+GenAge 833
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 19302370"
+C044,nac-2,Caenorhabditis elegans|187898,W1,Caenorhabditis elegans,187898,nac-2,452,Anti-Longevity,Increase,GenAge annotation,nac-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,14678010,6,all_gene_ortholog_atlas.pdf,page_06.png,"W1  nac-2
+GenAge 452
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 14678010"
+C044,nac-2,Caenorhabditis elegans|176429,W2,Caenorhabditis elegans,176429,nac-3,453,Anti-Longevity,Increase,GenAge annotation,nac-3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12480943,6,all_gene_ortholog_atlas.pdf,page_06.png,"W2  nac-3
+GenAge 453
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 12480943"
+C044,nac-2,Drosophila melanogaster|40049,F1,Drosophila melanogaster,40049,Indy,366,Anti-Longevity,Increase,GenAge annotation,Indy,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,11118146;17571923;18460334,6,all_gene_ortholog_atlas.pdf,page_06.png,"F1  Indy
+GenAge 366
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 11118146, 17571923
+      18460334"
+C044,nac-2,Mus musculus|55961,M1,Mus musculus,55961,Slc13a1,825,Anti-Longevity,Increase,GenAge annotation,Slc13a1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,21651971,6,all_gene_ortholog_atlas.pdf,page_06.png,"M1  Slc13a1
+GenAge 825
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 21651971"
+C084,QCR7,Saccharomyces cerevisiae|852142,Y1,Saccharomyces cerevisiae,852142,QCR7,1130,Necessary for fitness,Decrease,GenAge annotation,QCR7,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;20657825,7,all_gene_ortholog_atlas.pdf,page_07.png,"Y1  QCR7
+GenAge 1130
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043, 20657825"
+C084,QCR7,Caenorhabditis elegans|173459,W1,Caenorhabditis elegans,173459,T02H6.11,639,Anti-Longevity,Increase,GenAge annotation,T02H6.11,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12447374;20688098,7,all_gene_ortholog_atlas.pdf,page_07.png,"W1  T02H6.11
+GenAge 639
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 12447374, 20688098"
+C084,QCR7,Drosophila melanogaster|43369,F1,Drosophila melanogaster,43369,CG17856,838,Anti-Longevity,Increase,GenAge annotation,CG17856,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19747824,7,all_gene_ortholog_atlas.pdf,page_07.png,"F1  CG17856
+GenAge 838
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 19747824"
+C045,RIM11,Saccharomyces cerevisiae|855170,Y1,Saccharomyces cerevisiae,855170,RIM11,1320,Necessary for fitness,Decrease,GenAge annotation,RIM11,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,7,all_gene_ortholog_atlas.pdf,page_07.png,"Y1  RIM11
+GenAge 1320
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C045,RIM11,Caenorhabditis elegans|177460,W1,Caenorhabditis elegans,177460,jnk-1,381,Pro-Longevity,Increase and Decrease,GenAge annotation,jnk-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15767565;18832074,7,all_gene_ortholog_atlas.pdf,page_07.png,"W1  jnk-1
+GenAge 381
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 15767565, 18832074"
+C045,RIM11,Drosophila melanogaster|44801,F1,Drosophila melanogaster,44801,bsk,837,Pro-Longevity,Decrease,GenAge annotation,bsk,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20976250,7,all_gene_ortholog_atlas.pdf,page_07.png,"F1  bsk
+GenAge 837
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 20976250"
+C079,SOD1,Saccharomyces cerevisiae|853568,Y1,Saccharomyces cerevisiae,853568,SOD1,621,Pro-Longevity,Increase and Decrease,GenAge annotation,SOD1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12586694;15659212;17460215,7,all_gene_ortholog_atlas.pdf,page_07.png,"Y1  SOD1
+GenAge 621
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 12586694, 15659212
+      17460215"
+C079,SOD1,Caenorhabditis elegans|174141,W1,Caenorhabditis elegans,174141,sod-1,984,Anti-Longevity,Increase,GenAge annotation,sod-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18073424,7,all_gene_ortholog_atlas.pdf,page_07.png,"W1  sod-1
+GenAge 984
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18073424"
+C079,SOD1,Drosophila melanogaster|39251,F1,Drosophila melanogaster,39251,Sod,622,Pro-Longevity,Increase and Decrease,GenAge annotation,Sod,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,2539600;8108730;9858546,7,all_gene_ortholog_atlas.pdf,page_07.png,"F1  Sod
+GenAge 622
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 2539600, 8108730
+      9858546"
+C016,YKU70,Saccharomyces cerevisiae|855328,Y1,Saccharomyces cerevisiae,855328,YKU70,776,Necessary for fitness,Decrease,GenAge annotation,YKU70,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,10521401;20657825,7,all_gene_ortholog_atlas.pdf,page_07.png,"Y1  YKU70
+GenAge 776
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 10521401, 20657825"
+C016,YKU70,Caenorhabditis elegans|176546,W1,Caenorhabditis elegans,176546,cku-70,129,Anti-Longevity,Increase,GenAge annotation,cku-70,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16099946,7,all_gene_ortholog_atlas.pdf,page_07.png,"W1  cku-70
+GenAge 129
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16099946"
+C016,YKU70,Mus musculus|14375,M1,Mus musculus,14375,Xrcc6,736,Pro-Longevity,Decrease,GenAge annotation,Xrcc6,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17875923,7,all_gene_ortholog_atlas.pdf,page_07.png,"M1  Xrcc6
+GenAge 736
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17875923"
+C023,acdh-13,Caenorhabditis elegans|177654,W1,Caenorhabditis elegans,177654,acdh-13,300,Anti-Longevity,Increase,GenAge annotation,acdh-13,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17608836,8,all_gene_ortholog_atlas.pdf,page_08.png,"W1  acdh-13
+GenAge 300
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17608836"
+C023,acdh-13,Drosophila melanogaster|36242,F1,Drosophila melanogaster,36242,Egm,215,Anti-Longevity,Increase,GenAge annotation,Egm,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16434470,8,all_gene_ortholog_atlas.pdf,page_08.png,"F1  Egm
+GenAge 215
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16434470"
+C095,AFG3,Saccharomyces cerevisiae|856737,Y1,Saccharomyces cerevisiae,856737,AFG3,1650,Anti-Longevity,Increase,GenAge annotation,AFG3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,8,all_gene_ortholog_atlas.pdf,page_08.png,"Y1  AFG3
+GenAge 1650
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043"
+C095,AFG3,Caenorhabditis elegans|171915,W1,Caenorhabditis elegans,171915,spg-7,753,Anti-Longevity,Increase,GenAge annotation,spg-7,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17411345,8,all_gene_ortholog_atlas.pdf,page_08.png,"W1  spg-7
+GenAge 753
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17411345"
+C100,atg-3,Caenorhabditis elegans|176921,W1,Caenorhabditis elegans,176921,atg-3,894,Pro-Longevity,Decrease,GenAge annotation,atg-3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19469880,8,all_gene_ortholog_atlas.pdf,page_08.png,"W1  atg-3
+GenAge 894
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 19469880"
+C100,atg-3,Drosophila melanogaster|40044,F1,Drosophila melanogaster,40044,Aut1,835,Pro-Longevity,Decrease,GenAge annotation,Aut1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18219227,8,all_gene_ortholog_atlas.pdf,page_08.png,"F1  Aut1
+GenAge 835
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18219227"
+C038,ATP1,Saccharomyces cerevisiae|852177,Y1,Saccharomyces cerevisiae,852177,ATP1,1604,Anti-Longevity,Increase and Decrease,GenAge annotation,ATP1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17492370;18340043,8,all_gene_ortholog_atlas.pdf,page_08.png,"Y1  ATP1
+GenAge 1604
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 17492370, 18340043"
+C038,ATP1,Caenorhabditis elegans|173134,W1,Caenorhabditis elegans,173134,H28O16.1,331,Anti-Longevity,Increase,GenAge annotation,H28O16.1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17411345,8,all_gene_ortholog_atlas.pdf,page_08.png,"W1  H28O16.1
+GenAge 331
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17411345"
+C006,ATP2,Saccharomyces cerevisiae|853585,Y1,Saccharomyces cerevisiae,853585,ATP2,29,Pro-Longevity,Decrease,GenAge annotation,ATP2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12242224;18340043,9,all_gene_ortholog_atlas.pdf,page_09.png,"Y1  ATP2
+GenAge 29
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 12242224, 18340043"
+C006,ATP2,Caenorhabditis elegans|175716,W1,Caenorhabditis elegans,175716,atp-2,25,Anti-Longevity,Increase,GenAge annotation,atp-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,11410594;12471266;17411345;22103665,9,all_gene_ortholog_atlas.pdf,page_09.png,"W1  atp-2
+GenAge 25
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 11410594, 12471266
+      17411345, 22103665"
+C009,BCY1,Saccharomyces cerevisiae|854778,Y1,Saccharomyces cerevisiae,854778,BCY1,42,Necessary for fitness,Decrease,GenAge annotation,BCY1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,8195187;20421943,9,all_gene_ortholog_atlas.pdf,page_09.png,"Y1  BCY1
+GenAge 42
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 8195187, 20421943"
+C009,BCY1,Mus musculus|19088,M1,Mus musculus,19088,Prkar2b,1738,Anti-Longevity,Increase,GenAge annotation,Prkar2b,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19536287,9,all_gene_ortholog_atlas.pdf,page_09.png,"M1  Prkar2b
+GenAge 1738
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 19536287"
+C010,bub-3,Caenorhabditis elegans|175018,W1,Caenorhabditis elegans,175018,bub-3,900,Anti-Longevity,Increase,GenAge annotation,bub-3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18059442,9,all_gene_ortholog_atlas.pdf,page_09.png,"W1  bub-3
+GenAge 900
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18059442"
+C010,bub-3,Mus musculus|12237,M1,Mus musculus,12237,Bub3,51,Pro-Longevity,Decrease,GenAge annotation,Bub3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16476774,9,all_gene_ortholog_atlas.pdf,page_09.png,"M1  Bub3
+GenAge 51
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 16476774"
+C105,CDH1,Saccharomyces cerevisiae|852881,Y1,Saccharomyces cerevisiae,852881,CDH1,1629,Necessary for fitness,Decrease,GenAge annotation,CDH1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,9,all_gene_ortholog_atlas.pdf,page_09.png,"Y1  CDH1
+GenAge 1629
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043"
+C105,CDH1,Caenorhabditis elegans|266859,W1,Caenorhabditis elegans,266859,fzy-1,941,Anti-Longevity,Increase,GenAge annotation,fzy-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18059442,9,all_gene_ortholog_atlas.pdf,page_09.png,"W1  fzy-1
+GenAge 941
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18059442"
+C014,cdk-7,Caenorhabditis elegans|171784,W1,Caenorhabditis elegans,171784,cdk-7,107,Pro-Longevity,Decrease,GenAge annotation,cdk-7,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18006689,9,all_gene_ortholog_atlas.pdf,page_09.png,"W1  cdk-7
+GenAge 107
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18006689"
+C014,cdk-7,Mus musculus|12572,M1,Mus musculus,12572,Cdk7,1813,Pro-Longevity,Decrease,GenAge annotation,Cdk7,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22505032,9,all_gene_ortholog_atlas.pdf,page_09.png,"M1  Cdk7
+GenAge 1813
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 22505032"
+C101,CELE_C25H3.9,Caenorhabditis elegans|173963,W1,Caenorhabditis elegans,173963,CELE_C25H3.9,905,Anti-Longevity,Increase,GenAge annotation,CELE_C25H3.9,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20688098,10,all_gene_ortholog_atlas.pdf,page_10.png,"W1  CELE_C25H3.9
+GenAge 905
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 20688098"
+C101,CELE_C25H3.9,Drosophila melanogaster|46260,F1,Drosophila melanogaster,46260,l(3)neo18,862,Anti-Longevity,Increase,GenAge annotation,l(3)neo18,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19747824,10,all_gene_ortholog_atlas.pdf,page_10.png,"F1  l(3)neo18
+GenAge 862
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 19747824"
+C082,chn-1,Caenorhabditis elegans|172303,W1,Caenorhabditis elegans,172303,chn-1,1771,Anti-Longevity,Increase,GenAge annotation,chn-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,23144747,10,all_gene_ortholog_atlas.pdf,page_10.png,"W1  chn-1
+GenAge 1771
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 23144747"
+C082,chn-1,Mus musculus|56424,M1,Mus musculus,56424,Stub1,633,Pro-Longevity,Decrease,GenAge annotation,Stub1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18411298,10,all_gene_ortholog_atlas.pdf,page_10.png,"M1  Stub1
+GenAge 633
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18411298"
+C089,COR1,Saccharomyces cerevisiae|852235,Y1,Saccharomyces cerevisiae,852235,COR1,1223,Necessary for fitness,Decrease,GenAge annotation,COR1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,10,all_gene_ortholog_atlas.pdf,page_10.png,"Y1  COR1
+GenAge 1223
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C089,COR1,Caenorhabditis elegans|175772,W1,Caenorhabditis elegans,175772,ucr-1,697,Anti-Longevity,Increase,GenAge annotation,ucr-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17608836;20688098;22103665,10,all_gene_ortholog_atlas.pdf,page_10.png,"W1  ucr-1
+GenAge 697
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17608836, 20688098
+      22103665"
+C021,CYC1,Saccharomyces cerevisiae|853507,Y1,Saccharomyces cerevisiae,853507,CYC1,1045,Necessary for fitness,Decrease,GenAge annotation,CYC1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19030232;20657825;20883526,10,all_gene_ortholog_atlas.pdf,page_10.png,"Y1  CYC1
+GenAge 1045
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 19030232, 20657825
+      20883526"
+C021,CYC1,Caenorhabditis elegans|177243,W1,Caenorhabditis elegans,177243,cyc-2.1,200,Anti-Longevity,Increase,GenAge annotation,cyc-2.1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17608836,10,all_gene_ortholog_atlas.pdf,page_10.png,"W1  cyc-2.1
+GenAge 200
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17608836"
+C013,CYC3,Saccharomyces cerevisiae|851192,Y1,Saccharomyces cerevisiae,851192,CYC3,1414,Necessary for fitness,Decrease,GenAge annotation,CYC3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,11,all_gene_ortholog_atlas.pdf,page_11.png,"Y1  CYC3
+GenAge 1414
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043"
+C013,CYC3,Saccharomyces cerevisiae|853775,Y2,Saccharomyces cerevisiae,853775,CYT2,1047,Necessary for fitness,Decrease,GenAge annotation,CYT2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;19030232;20657825,11,all_gene_ortholog_atlas.pdf,page_11.png,"Y2  CYT2
+GenAge 1047
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043, 19030232
+      20657825"
+C013,CYC3,Caenorhabditis elegans|174713,W1,Caenorhabditis elegans,174713,cchl-1,94,Anti-Longevity,Increase,GenAge annotation,cchl-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12447374;16103914,11,all_gene_ortholog_atlas.pdf,page_11.png,"W1  cchl-1
+GenAge 94
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 12447374, 16103914"
+C123,CYS4,Saccharomyces cerevisiae|853059,Y1,Saccharomyces cerevisiae,853059,CYS4,1569,Anti-Longevity,Increase,GenAge annotation,CYS4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20883526,11,all_gene_ortholog_atlas.pdf,page_11.png,"Y1  CYS4
+GenAge 1569
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 20883526"
+C123,CYS4,Drosophila melanogaster|33081,F1,Drosophila melanogaster,33081,Cbs,1791,Pro-Longevity,Increase,GenAge annotation,Cbs,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,21930912,11,all_gene_ortholog_atlas.pdf,page_11.png,"F1  Cbs
+GenAge 1791
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 21930912"
+C018,CYT1,Saccharomyces cerevisiae|854231,Y1,Saccharomyces cerevisiae,854231,CYT1,1701,Anti-Longevity,Increase and Decrease,GenAge annotation,CYT1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,11,all_gene_ortholog_atlas.pdf,page_11.png,"Y1  CYT1
+GenAge 1701
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 18340043"
+C018,CYT1,Caenorhabditis elegans|172582,W1,Caenorhabditis elegans,172582,cyc-1,145,Anti-Longevity,Increase,GenAge annotation,cyc-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16103914;20688098,11,all_gene_ortholog_atlas.pdf,page_11.png,"W1  cyc-1
+GenAge 145
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16103914, 20688098"
+C132,dgk-5,Caenorhabditis elegans|174068,W1,Caenorhabditis elegans,174068,dgk-5,1931,Anti-Longevity,Increase,GenAge annotation,dgk-5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,24889782,11,all_gene_ortholog_atlas.pdf,page_11.png,"W1  dgk-5
+GenAge 1931
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 24889782"
+C132,dgk-5,Drosophila melanogaster|31826,F1,Drosophila melanogaster,31826,rdgA,1929,Anti-Longevity,Increase,GenAge annotation,rdgA,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,24889782,11,all_gene_ortholog_atlas.pdf,page_11.png,"F1  rdgA
+GenAge 1929
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 24889782"
+C020,DNM1,Saccharomyces cerevisiae|850686,Y1,Saccharomyces cerevisiae,850686,DNM1,185,Anti-Longevity,Increase,GenAge annotation,DNM1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17173038,12,all_gene_ortholog_atlas.pdf,page_12.png,"Y1  DNM1
+GenAge 185
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17173038"
+C020,DNM1,Drosophila melanogaster|33445,F1,Drosophila melanogaster,33445,Drp1,2215,Pro-Longevity,Increase,GenAge annotation,Drp1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,28878259,12,all_gene_ortholog_atlas.pdf,page_12.png,"F1  Drp1
+GenAge 2215
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 28878259"
+C098,Dys,Drosophila melanogaster|42327,F1,Drosophila melanogaster,42327,Dys,843,Pro-Longevity,Decrease,GenAge annotation,Dys,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18221418,12,all_gene_ortholog_atlas.pdf,page_12.png,"F1  Dys
+GenAge 843
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18221418"
+C098,Dys,Mus musculus|13405,M1,Mus musculus,13405,Dmd,815,Pro-Longevity,Decrease,GenAge annotation,Dmd,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17360850,12,all_gene_ortholog_atlas.pdf,page_12.png,"M1  Dmd
+GenAge 815
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17360850"
+C022,eef-1A.1,Caenorhabditis elegans|175975,W1,Caenorhabditis elegans,175975,eef-1A.1,2034,Anti-Longevity,Increase,GenAge annotation,eef-1A.1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,12,all_gene_ortholog_atlas.pdf,page_12.png,"W1  eef-1A.1
+GenAge 2034
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C022,eef-1A.1,Drosophila melanogaster|36271,F1,Drosophila melanogaster,36271,Ef1alpha48D,208,Pro-Longevity,Increase,GenAge annotation,Ef1alpha48D,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,2508089,12,all_gene_ortholog_atlas.pdf,page_12.png,"F1  Ef1alpha48D
+GenAge 208
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 2508089"
+C097,EGD2,Saccharomyces cerevisiae|856600,Y1,Saccharomyces cerevisiae,856600,EGD2,1415,Necessary for fitness,Decrease,GenAge annotation,EGD2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,12,all_gene_ortholog_atlas.pdf,page_12.png,"Y1  EGD2
+GenAge 1415
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043"
+C097,EGD2,Caenorhabditis elegans|171646,W1,Caenorhabditis elegans,171646,Y65B4BR.5,765,Anti-Longevity,Increase,GenAge annotation,Y65B4BR.5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17411345,12,all_gene_ortholog_atlas.pdf,page_12.png,"W1  Y65B4BR.5
+GenAge 765
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17411345"
+C024,ERO1,Saccharomyces cerevisiae|854909,Y1,Saccharomyces cerevisiae,854909,ERO1,1863,Anti-Longevity,Increase,GenAge annotation,ERO1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,24391512,12,all_gene_ortholog_atlas.pdf,page_12.png,"Y1  ERO1
+GenAge 1863
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 24391512"
+C024,ERO1,Caenorhabditis elegans|173325,W1,Caenorhabditis elegans,173325,ero-1,225,Anti-Longevity,Increase,GenAge annotation,ero-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17411345,12,all_gene_ortholog_atlas.pdf,page_12.png,"W1  ero-1
+GenAge 225
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17411345"
+C029,F55B11.1,Caenorhabditis elegans|178381,W1,Caenorhabditis elegans,178381,F55B11.1,265,Anti-Longevity,Increase,GenAge annotation,F55B11.1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15998808,13,all_gene_ortholog_atlas.pdf,page_13.png,"W1  F55B11.1
+GenAge 265
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 15998808"
+C029,F55B11.1,Drosophila melanogaster|41605,F1,Drosophila melanogaster,41605,ry,582,Pro-Longevity,Decrease,GenAge annotation,ry,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17435236,13,all_gene_ortholog_atlas.pdf,page_13.png,"F1  ry
+GenAge 582
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17435236"
+C026,FAT1,Saccharomyces cerevisiae|852329,Y1,Saccharomyces cerevisiae,852329,FAT1,1231,Necessary for fitness,Decrease,GenAge annotation,FAT1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,13,all_gene_ortholog_atlas.pdf,page_13.png,"Y1  FAT1
+GenAge 1231
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C026,FAT1,Caenorhabditis elegans|178190,W1,Caenorhabditis elegans,178190,acs-20,245,Pro-Longevity,Decrease,GenAge annotation,acs-20,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18006689,13,all_gene_ortholog_atlas.pdf,page_13.png,"W1  acs-20
+GenAge 245
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18006689"
+C032,FBP1,Saccharomyces cerevisiae|851092,Y1,Saccharomyces cerevisiae,851092,FBP1,280,Anti-Longevity,Decrease,GenAge annotation,FBP1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16199065,13,all_gene_ortholog_atlas.pdf,page_13.png,"Y1  FBP1
+GenAge 280
+GenAge annotation
+Anti-Longevity
+Lifespan: Decrease
+Refs: 16199065"
+C032,FBP1,Caenorhabditis elegans|266822,W1,Caenorhabditis elegans,266822,fbp-1,279,Anti-Longevity,Increase,GenAge annotation,fbp-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17673661,13,all_gene_ortholog_atlas.pdf,page_13.png,"W1  fbp-1
+GenAge 279
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17673661"
+C033,frh-1,Caenorhabditis elegans|174002,W1,Caenorhabditis elegans,174002,frh-1,287,Unclear,Increase and Decrease,GenAge annotation,frh-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15771615;16293572;23247094,13,all_gene_ortholog_atlas.pdf,page_13.png,"W1  frh-1
+GenAge 287
+GenAge annotation
+Unclear
+Lifespan: Increase +
+Decrease
+Refs: 15771615, 16293572
+      23247094"
+C033,frh-1,Drosophila melanogaster|31845,F1,Drosophila melanogaster,31845,fh,848,Pro-Longevity,Increase,GenAge annotation,fh,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18258192,13,all_gene_ortholog_atlas.pdf,page_13.png,"F1  fh
+GenAge 848
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 18258192"
+C111,GDH3,Saccharomyces cerevisiae|851237,Y1,Saccharomyces cerevisiae,851237,GDH3,1059,Necessary for fitness,Decrease,GenAge annotation,GDH3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20657825,14,all_gene_ortholog_atlas.pdf,page_14.png,"Y1  GDH3
+GenAge 1059
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20657825"
+C111,GDH3,Caenorhabditis elegans|178130,W1,Caenorhabditis elegans,178130,gdh-1,2043,Anti-Longevity,Increase,GenAge annotation,gdh-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,14,all_gene_ortholog_atlas.pdf,page_14.png,"W1  gdh-1
+GenAge 2043
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C042,GLK1,Saccharomyces cerevisiae|850317,Y1,Saccharomyces cerevisiae,850317,GLK1,1624,Necessary for fitness,Decrease,GenAge annotation,GLK1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19030232;24586198,14,all_gene_ortholog_atlas.pdf,page_14.png,"Y1  GLK1
+GenAge 1624
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 19030232, 24586198"
+C042,GLK1,Saccharomyces cerevisiae|852639,Y2,Saccharomyces cerevisiae,852639,HXK2,357,Anti-Longevity,Increase,GenAge annotation,HXK2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,11000115;20421943,14,all_gene_ortholog_atlas.pdf,page_14.png,"Y2  HXK2
+GenAge 357
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 11000115, 20421943"
+C042,GLK1,Drosophila melanogaster|45875,F1,Drosophila melanogaster,45875,Hex-A,2150,Anti-Longevity,Increase,GenAge annotation,Hex-A,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,26378219,14,all_gene_ortholog_atlas.pdf,page_14.png,"F1  Hex-A
+GenAge 2150
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 26378219"
+C042,GLK1,Drosophila melanogaster|44008,F2,Drosophila melanogaster,44008,Hex-C,2151,Anti-Longevity,Increase,GenAge annotation,Hex-C,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,26378219,14,all_gene_ortholog_atlas.pdf,page_14.png,"F2  Hex-C
+GenAge 2151
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 26378219"
+C035,GPA2,Saccharomyces cerevisiae|856741,Y1,Saccharomyces cerevisiae,856741,GPA2,319,Anti-Longevity,Increase and Decrease,GenAge annotation,GPA2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,11000115;20421943,15,all_gene_ortholog_atlas.pdf,page_15.png,"Y1  GPA2
+GenAge 319
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 11000115, 20421943"
+C035,GPA2,Caenorhabditis elegans|171751,W1,Caenorhabditis elegans,171751,egl-30,919,Anti-Longevity,Increase,GenAge annotation,egl-30,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19043554;20647387,15,all_gene_ortholog_atlas.pdf,page_15.png,"W1  egl-30
+GenAge 919
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 19043554, 20647387"
+C035,GPA2,Caenorhabditis elegans|172505,W2,Caenorhabditis elegans,172505,goa-1,942,Pro-Longevity,Decrease,GenAge annotation,goa-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19043554,15,all_gene_ortholog_atlas.pdf,page_15.png,"W2  goa-1
+GenAge 942
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 19043554"
+C035,GPA2,Caenorhabditis elegans|179319,W3,Caenorhabditis elegans,179319,gpa-3,314,Pro-Longevity,Decrease,GenAge annotation,gpa-3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17187771,15,all_gene_ortholog_atlas.pdf,page_15.png,"W3  gpa-3
+GenAge 314
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17187771"
+C035,GPA2,Caenorhabditis elegans|171687,W4,Caenorhabditis elegans,171687,gsa-1,943,Pro-Longevity,Decrease,GenAge annotation,gsa-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18059442,15,all_gene_ortholog_atlas.pdf,page_15.png,"W4  gsa-1
+GenAge 943
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18059442"
+C035,GPA2,Caenorhabditis elegans|179806,W5,Caenorhabditis elegans,179806,odr-3,481,Anti-Longevity,Increase,GenAge annotation,odr-3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17187771;20332814,15,all_gene_ortholog_atlas.pdf,page_15.png,"W5  odr-3
+GenAge 481
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17187771, 20332814"
+C037,GPX2,Saccharomyces cerevisiae|852546,Y1,Saccharomyces cerevisiae,852546,GPX2,1578,Necessary for fitness,Decrease,GenAge annotation,GPX2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19030232,15,all_gene_ortholog_atlas.pdf,page_15.png,"Y1  GPX2
+GenAge 1578
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 19030232"
+C037,GPX2,Mus musculus|625249,M1,Mus musculus,625249,Gpx4,324,Anti-Longevity,Increase,GenAge annotation,Gpx4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17895430,15,all_gene_ortholog_atlas.pdf,page_15.png,"M1  Gpx4
+GenAge 324
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17895430"
+C114,GSY2,Saccharomyces cerevisiae|850962,Y1,Saccharomyces cerevisiae,850962,GSY2,1364,Necessary for fitness,Decrease,GenAge annotation,GSY2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20883526,16,all_gene_ortholog_atlas.pdf,page_16.png,"Y1  GSY2
+GenAge 1364
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20883526"
+C114,GSY2,Drosophila melanogaster|41823,F1,Drosophila melanogaster,41823,GlyS,1919,Anti-Longevity,Increase,GenAge annotation,GlyS,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,25059425,16,all_gene_ortholog_atlas.pdf,page_16.png,"F1  GlyS
+GenAge 1919
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 25059425"
+C128,GTR1,Saccharomyces cerevisiae|854918,Y1,Saccharomyces cerevisiae,854918,GTR1,1746,Necessary for fitness,Decrease,GenAge annotation,GTR1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22912585,16,all_gene_ortholog_atlas.pdf,page_16.png,"Y1  GTR1
+GenAge 1746
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 22912585"
+C128,GTR1,Caenorhabditis elegans|174726,W1,Caenorhabditis elegans,174726,raga-1,2062,Anti-Longevity,Increase,GenAge annotation,raga-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22560223,16,all_gene_ortholog_atlas.pdf,page_16.png,"W1  raga-1
+GenAge 2062
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22560223"
+C039,hsp-4,Caenorhabditis elegans|174203,W1,Caenorhabditis elegans,174203,hsp-4,345,Pro-Longevity,Decrease,GenAge annotation,hsp-4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16741121,16,all_gene_ortholog_atlas.pdf,page_16.png,"W1  hsp-4
+GenAge 345
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 16741121"
+C039,hsp-4,Drosophila melanogaster|32133,F1,Drosophila melanogaster,32133,Hsc70-3,853,Pro-Longevity,Increase,GenAge annotation,Hsc70-3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18059160,16,all_gene_ortholog_atlas.pdf,page_16.png,"F1  Hsc70-3
+GenAge 853
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 18059160"
+C112,HXT5,Saccharomyces cerevisiae|856496,Y1,Saccharomyces cerevisiae,856496,HXT5,1239,Necessary for fitness,Decrease,GenAge annotation,HXT5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,16,all_gene_ortholog_atlas.pdf,page_16.png,"Y1  HXT5
+GenAge 1239
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C112,HXT5,Caenorhabditis elegans|173525,W1,Caenorhabditis elegans,173525,fgt-1,1912,Anti-Longevity,Increase,GenAge annotation,fgt-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,24024580,16,all_gene_ortholog_atlas.pdf,page_16.png,"W1  fgt-1
+GenAge 1912
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 24024580"
+C028,IDH2,Saccharomyces cerevisiae|854303,Y1,Saccharomyces cerevisiae,854303,IDH2,358,Anti-Longevity,Increase,GenAge annotation,IDH2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16293764;18340043;19030232,16,all_gene_ortholog_atlas.pdf,page_16.png,"Y1  IDH2
+GenAge 358
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16293764, 18340043
+      19030232"
+C028,IDH2,Caenorhabditis elegans|172655,W1,Caenorhabditis elegans,172655,idha-1,260,Anti-Longevity,Increase,GenAge annotation,idha-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15998808,16,all_gene_ortholog_atlas.pdf,page_16.png,"W1  idha-1
+GenAge 260
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 15998808"
+C031,IDP1,Saccharomyces cerevisiae|851493,Y1,Saccharomyces cerevisiae,851493,IDP1,1346,Anti-Longevity,Increase,GenAge annotation,IDP1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;20421943,17,all_gene_ortholog_atlas.pdf,page_17.png,"Y1  IDP1
+GenAge 1346
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043, 20421943"
+C031,IDP1,Saccharomyces cerevisiae|850871,Y2,Saccharomyces cerevisiae,850871,IDP2,1366,Anti-Longevity,Increase and Decrease,GenAge annotation,IDP2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;20883526,17,all_gene_ortholog_atlas.pdf,page_17.png,"Y2  IDP2
+GenAge 1366
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 18340043, 20883526"
+C031,IDP1,Saccharomyces cerevisiae|855723,Y3,Saccharomyces cerevisiae,855723,IDP3,1642,Anti-Longevity,Increase and Decrease,GenAge annotation,IDP3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;19030232,17,all_gene_ortholog_atlas.pdf,page_17.png,"Y3  IDP3
+GenAge 1642
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 18340043, 19030232"
+C031,IDP1,Caenorhabditis elegans|177775,W1,Caenorhabditis elegans,177775,idh-1,275,Anti-Longevity,Increase,GenAge annotation,idh-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15998808,17,all_gene_ortholog_atlas.pdf,page_17.png,"W1  idh-1
+GenAge 275
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 15998808"
+C090,INP53,Saccharomyces cerevisiae|854276,Y1,Saccharomyces cerevisiae,854276,INP53,1367,Necessary for fitness,Decrease,GenAge annotation,INP53,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16293764;18340043;20883526,17,all_gene_ortholog_atlas.pdf,page_17.png,"Y1  INP53
+GenAge 1367
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 16293764, 18340043
+      20883526"
+C090,INP53,Caenorhabditis elegans|178284,W1,Caenorhabditis elegans,178284,unc-26,703,Anti-Longevity,Increase,GenAge annotation,unc-26,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,9789046,17,all_gene_ortholog_atlas.pdf,page_17.png,"W1  unc-26
+GenAge 703
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 9789046"
+C106,ire-1,Caenorhabditis elegans|174305,W1,Caenorhabditis elegans,174305,ire-1,948,Pro-Longevity,Decrease,GenAge annotation,ire-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20460307,17,all_gene_ortholog_atlas.pdf,page_17.png,"W1  ire-1
+GenAge 948
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 20460307"
+C106,ire-1,Drosophila melanogaster|42358,F1,Drosophila melanogaster,42358,Ire1,2148,Pro-Longevity,Decrease,GenAge annotation,Ire1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,27783936,17,all_gene_ortholog_atlas.pdf,page_17.png,"F1  Ire1
+GenAge 2148
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 27783936"
+C085,KGD1,Saccharomyces cerevisiae|854681,Y1,Saccharomyces cerevisiae,854681,KGD1,1078,Necessary for fitness,Decrease,GenAge annotation,KGD1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20657825;20883526,18,all_gene_ortholog_atlas.pdf,page_18.png,"Y1  KGD1
+GenAge 1078
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20657825, 20883526"
+C085,KGD1,Caenorhabditis elegans|177235,W1,Caenorhabditis elegans,177235,ogdh-1,650,Anti-Longevity,Increase,GenAge annotation,ogdh-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17608836,18,all_gene_ortholog_atlas.pdf,page_18.png,"W1  ogdh-1
+GenAge 650
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17608836"
+C047,LAT1,Saccharomyces cerevisiae|855653,Y1,Saccharomyces cerevisiae,855653,LAT1,400,Pro-Longevity,Increase,GenAge annotation,LAT1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17200108,18,all_gene_ortholog_atlas.pdf,page_18.png,"Y1  LAT1
+GenAge 400
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 17200108"
+C047,LAT1,Caenorhabditis elegans|179945,W1,Caenorhabditis elegans,179945,dlat-1,2030,Anti-Longevity,Increase,GenAge annotation,dlat-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,18,all_gene_ortholog_atlas.pdf,page_18.png,"W1  dlat-1
+GenAge 2030
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C048,lbp-6,Caenorhabditis elegans|172390,W1,Caenorhabditis elegans,172390,lbp-6,402,Unclear,Increase and Decrease,GenAge annotation,lbp-6,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16673436;19764929,18,all_gene_ortholog_atlas.pdf,page_18.png,"W1  lbp-6
+GenAge 402
+GenAge annotation
+Unclear
+Lifespan: Increase +
+Decrease
+Refs: 16673436, 19764929"
+C048,lbp-6,Drosophila melanogaster|3772232,F1,Drosophila melanogaster,3772232,fabp,1962,Pro-Longevity,Increase,GenAge annotation,fabp,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22997544,18,all_gene_ortholog_atlas.pdf,page_18.png,"F1  fabp
+GenAge 1962
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 22997544"
+C049,LPD1,Saccharomyces cerevisiae|850527,Y1,Saccharomyces cerevisiae,850527,LPD1,1245,Necessary for fitness,Decrease,GenAge annotation,LPD1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,18,all_gene_ortholog_atlas.pdf,page_18.png,"Y1  LPD1
+GenAge 1245
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C049,LPD1,Caenorhabditis elegans|178387,W1,Caenorhabditis elegans,178387,dld-1,413,Anti-Longevity,Increase,GenAge annotation,dld-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17608836;23173729,18,all_gene_ortholog_atlas.pdf,page_18.png,"W1  dld-1
+GenAge 413
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17608836, 23173729"
+C052,mcm-2,Caenorhabditis elegans|174841,W1,Caenorhabditis elegans,174841,mcm-2,426,Unclear,Increase and Decrease,GenAge annotation,mcm-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17411345;18006689,19,all_gene_ortholog_atlas.pdf,page_19.png,"W1  mcm-2
+GenAge 426
+GenAge annotation
+Unclear
+Lifespan: Increase +
+Decrease
+Refs: 17411345, 18006689"
+C052,mcm-2,Mus musculus|17216,M1,Mus musculus,17216,Mcm2,427,Pro-Longevity,Decrease,GenAge annotation,Mcm2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17717065,19,all_gene_ortholog_atlas.pdf,page_19.png,"M1  Mcm2
+GenAge 427
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17717065"
+C053,MDH1,Saccharomyces cerevisiae|853777,Y1,Saccharomyces cerevisiae,853777,MDH1,1615,Pro-Longevity,Increase,GenAge annotation,MDH1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18381895,19,all_gene_ortholog_atlas.pdf,page_19.png,"Y1  MDH1
+GenAge 1615
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 18381895"
+C053,MDH1,Saccharomyces cerevisiae|853994,Y2,Saccharomyces cerevisiae,853994,MDH2,1616,Pro-Longevity,Increase,GenAge annotation,MDH2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18381895,19,all_gene_ortholog_atlas.pdf,page_19.png,"Y2  MDH2
+GenAge 1616
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 18381895"
+C053,MDH1,Caenorhabditis elegans|175936,W1,Caenorhabditis elegans,175936,mdh-2,428,Pro-Longevity,Decrease,GenAge annotation,mdh-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18006689,19,all_gene_ortholog_atlas.pdf,page_19.png,"W1  mdh-2
+GenAge 428
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18006689"
+C003,MEP2,Saccharomyces cerevisiae|855580,Y1,Saccharomyces cerevisiae,855580,MEP2,432,Anti-Longevity,Increase,GenAge annotation,MEP2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16418483,19,all_gene_ortholog_atlas.pdf,page_19.png,"Y1  MEP2
+GenAge 432
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16418483"
+C003,MEP2,Saccharomyces cerevisiae|856260,Y2,Saccharomyces cerevisiae,856260,MEP3,433,Anti-Longevity,Increase,GenAge annotation,MEP3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16418483,19,all_gene_ortholog_atlas.pdf,page_19.png,"Y2  MEP3
+GenAge 433
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16418483"
+C003,MEP2,Caenorhabditis elegans|186047,W1,Caenorhabditis elegans,186047,amt-2,12,Anti-Longevity,Increase,GenAge annotation,amt-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17608836,19,all_gene_ortholog_atlas.pdf,page_19.png,"W1  amt-2
+GenAge 12
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17608836"
+C054,mev-1,Caenorhabditis elegans|260040,W1,Caenorhabditis elegans,260040,mev-1,435,Pro-Longevity,Decrease,GenAge annotation,mev-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,9716135;15269213,20,all_gene_ortholog_atlas.pdf,page_20.png,"W1  mev-1
+GenAge 435
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 9716135, 15269213"
+C054,mev-1,Drosophila melanogaster|41340,F1,Drosophila melanogaster,41340,SdhC,594,Pro-Longevity,Decrease,GenAge annotation,SdhC,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17854771,20,all_gene_ortholog_atlas.pdf,page_20.png,"F1  SdhC
+GenAge 594
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17854771"
+C117,MRS4,Saccharomyces cerevisiae|853926,Y1,Saccharomyces cerevisiae,853926,MRS4,1439,Necessary for fitness,Decrease,GenAge annotation,MRS4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;19030232,20,all_gene_ortholog_atlas.pdf,page_20.png,"Y1  MRS4
+GenAge 1439
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043, 19030232"
+C117,MRS4,Caenorhabditis elegans|174752,W1,Caenorhabditis elegans,174752,mfn-1,1750,Anti-Longevity,Increase,GenAge annotation,mfn-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22253756,20,all_gene_ortholog_atlas.pdf,page_20.png,"W1  mfn-1
+GenAge 1750
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22253756"
+C055,MSH2,Saccharomyces cerevisiae|854063,Y1,Saccharomyces cerevisiae,854063,MSH2,1371,Necessary for fitness,Decrease,GenAge annotation,MSH2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20883526,20,all_gene_ortholog_atlas.pdf,page_20.png,"Y1  MSH2
+GenAge 1371
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20883526"
+C055,MSH2,Mus musculus|17685,M1,Mus musculus,17685,Msh2,444,Pro-Longevity,Decrease,GenAge annotation,Msh2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12629043,20,all_gene_ortholog_atlas.pdf,page_20.png,"M1  Msh2
+GenAge 444
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 12629043"
+C056,MXR1,Saccharomyces cerevisiae|856765,Y1,Saccharomyces cerevisiae,856765,MXR1,450,Pro-Longevity,Increase and Decrease,GenAge annotation,MXR1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15141092;19049972,20,all_gene_ortholog_atlas.pdf,page_20.png,"Y1  MXR1
+GenAge 450
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 15141092, 19049972"
+C056,MXR1,Mus musculus|110265,M1,Mus musculus,110265,Msra,446,Pro-Longevity,Decrease,GenAge annotation,Msra,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,11606777;19487311,20,all_gene_ortholog_atlas.pdf,page_20.png,"M1  Msra
+GenAge 446
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 11606777, 19487311"
+C050,NAM2,Saccharomyces cerevisiae|851098,Y1,Saccharomyces cerevisiae,851098,NAM2,1259,Necessary for fitness,Decrease,GenAge annotation,NAM2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,20,all_gene_ortholog_atlas.pdf,page_20.png,"Y1  NAM2
+GenAge 1259
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C050,NAM2,Caenorhabditis elegans|172499,W1,Caenorhabditis elegans,172499,lars-2,417,Anti-Longevity,Increase,GenAge annotation,lars-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12447374,20,all_gene_ortholog_atlas.pdf,page_20.png,"W1  lars-2
+GenAge 417
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 12447374"
+C131,nsun-5,Caenorhabditis elegans|175153,W1,Caenorhabditis elegans,175153,nsun-5,2079,Anti-Longevity,Increase,GenAge annotation,nsun-5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,25635753,21,all_gene_ortholog_atlas.pdf,page_21.png,"W1  nsun-5
+GenAge 2079
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 25635753"
+C131,nsun-5,Drosophila melanogaster|7354421,F1,Drosophila melanogaster,7354421,CG42358,1854,Anti-Longevity,Increase and Decrease,GenAge annotation,CG42358,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,25635753,21,all_gene_ortholog_atlas.pdf,page_21.png,"F1  CG42358
+GenAge 1854
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 25635753"
+C058,nuo-5,Caenorhabditis elegans|178735,W1,Caenorhabditis elegans,178735,nuo-5,480,Anti-Longevity,Increase,GenAge annotation,nuo-5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15998808,21,all_gene_ortholog_atlas.pdf,page_21.png,"W1  nuo-5
+GenAge 480
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 15998808"
+C058,nuo-5,Drosophila melanogaster|31762,F1,Drosophila melanogaster,31762,ND75,1898,Anti-Longevity,Increase,GenAge annotation,ND75,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,24243023,21,all_gene_ortholog_atlas.pdf,page_21.png,"F1  ND75
+GenAge 1898
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 24243023"
+C057,pat-3,Caenorhabditis elegans|175504,W1,Caenorhabditis elegans,175504,pat-3,1786,Pro-Longevity,Decrease,GenAge annotation,pat-3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,23144747,21,all_gene_ortholog_atlas.pdf,page_21.png,"W1  pat-3
+GenAge 1786
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 23144747"
+C057,pat-3,Drosophila melanogaster|44885,F1,Drosophila melanogaster,44885,mys,451,Anti-Longevity,Increase,GenAge annotation,mys,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,14570233;24400780,21,all_gene_ortholog_atlas.pdf,page_21.png,"F1  mys
+GenAge 451
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 14570233, 24400780"
+C059,pat-4,Caenorhabditis elegans|175175,W1,Caenorhabditis elegans,175175,pat-4,494,Anti-Longevity,Increase,GenAge annotation,pat-4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16103914;17411345;17608836,21,all_gene_ortholog_atlas.pdf,page_21.png,"W1  pat-4
+GenAge 494
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16103914, 17411345
+      17608836"
+C059,pat-4,Drosophila melanogaster|53573,F1,Drosophila melanogaster,53573,Ilk,1910,Anti-Longevity,Increase,GenAge annotation,Ilk,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,24400780,21,all_gene_ortholog_atlas.pdf,page_21.png,"F1  Ilk
+GenAge 1910
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 24400780"
+C060,pcm-1,Caenorhabditis elegans|178981,W1,Caenorhabditis elegans,178981,pcm-1,969,Pro-Longevity,Increase,GenAge annotation,pcm-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18772467,22,all_gene_ortholog_atlas.pdf,page_22.png,"W1  pcm-1
+GenAge 969
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 18772467"
+C060,pcm-1,Drosophila melanogaster|40668,F1,Drosophila melanogaster,40668,Pcmt,498,Pro-Longevity,Increase,GenAge annotation,Pcmt,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,11742076;18772467,22,all_gene_ortholog_atlas.pdf,page_22.png,"F1  Pcmt
+GenAge 498
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 11742076, 18772467"
+C061,PHB1,Saccharomyces cerevisiae|853033,Y1,Saccharomyces cerevisiae,853033,PHB1,504,Pro-Longevity,Decrease,GenAge annotation,PHB1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,9259555;12882345,22,all_gene_ortholog_atlas.pdf,page_22.png,"Y1  PHB1
+GenAge 504
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 9259555, 12882345"
+C061,PHB1,Caenorhabditis elegans|171768,W1,Caenorhabditis elegans,171768,phb-1,970,Pro-Longevity,Decrease,GenAge annotation,phb-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19812672,22,all_gene_ortholog_atlas.pdf,page_22.png,"W1  phb-1
+GenAge 970
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 19812672"
+C062,PHB2,Saccharomyces cerevisiae|853146,Y1,Saccharomyces cerevisiae,853146,PHB2,505,Pro-Longevity,Decrease,GenAge annotation,PHB2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,9259555;12882345;16710639,22,all_gene_ortholog_atlas.pdf,page_22.png,"Y1  PHB2
+GenAge 505
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 9259555, 12882345
+      16710639"
+C062,PHB2,Caenorhabditis elegans|174034,W1,Caenorhabditis elegans,174034,phb-2,971,Pro-Longevity,Decrease,GenAge annotation,phb-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19812672,22,all_gene_ortholog_atlas.pdf,page_22.png,"W1  phb-2
+GenAge 971
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 19812672"
+C015,PHO85,Saccharomyces cerevisiae|856076,Y1,Saccharomyces cerevisiae,856076,PHO85,1317,Necessary for fitness,Decrease,GenAge annotation,PHO85,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;20421943,22,all_gene_ortholog_atlas.pdf,page_22.png,"Y1  PHO85
+GenAge 1317
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043, 20421943"
+C015,PHO85,Drosophila melanogaster|36727,F1,Drosophila melanogaster,36727,Cdk5,108,Pro-Longevity,Decrease,GenAge annotation,Cdk5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17368005,22,all_gene_ortholog_atlas.pdf,page_22.png,"F1  Cdk5
+GenAge 108
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17368005"
+C120,PIM1,Saccharomyces cerevisiae|852259,Y1,Saccharomyces cerevisiae,852259,PIM1,1467,Necessary for fitness,Decrease,GenAge annotation,PIM1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20883526,22,all_gene_ortholog_atlas.pdf,page_22.png,"Y1  PIM1
+GenAge 1467
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20883526"
+C120,PIM1,Caenorhabditis elegans|172966,W1,Caenorhabditis elegans,172966,C34B2.6,2028,Anti-Longevity,Increase,GenAge annotation,C34B2.6,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,22,all_gene_ortholog_atlas.pdf,page_22.png,"W1  C34B2.6
+GenAge 2028
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C110,pme-1,Caenorhabditis elegans|266823,W1,Caenorhabditis elegans,266823,pme-1,1757,Anti-Longevity,Increase,GenAge annotation,pme-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,23870130,23,all_gene_ortholog_atlas.pdf,page_23.png,"W1  pme-1
+GenAge 1757
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 23870130"
+C110,pme-1,Mus musculus|11545,M1,Mus musculus,11545,Parp1,1010,Pro-Longevity,Decrease,GenAge annotation,Parp1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20561897,23,all_gene_ortholog_atlas.pdf,page_23.png,"M1  Parp1
+GenAge 1010
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 20561897"
+C093,pnc-1,Caenorhabditis elegans|176833,W1,Caenorhabditis elegans,176833,pnc-1,741,Pro-Longevity,Decrease,GenAge annotation,pnc-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17335870,23,all_gene_ortholog_atlas.pdf,page_23.png,"W1  pnc-1
+GenAge 741
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17335870"
+C093,pnc-1,Drosophila melanogaster|42348,F1,Drosophila melanogaster,42348,Naam,871,Pro-Longevity,Increase,GenAge annotation,Naam,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18678867,23,all_gene_ortholog_atlas.pdf,page_23.png,"F1  Naam
+GenAge 871
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 18678867"
+C115,PTC5,Saccharomyces cerevisiae|854257,Y1,Saccharomyces cerevisiae,854257,PTC5,1373,Necessary for fitness,Decrease,GenAge annotation,PTC5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20883526,23,all_gene_ortholog_atlas.pdf,page_23.png,"Y1  PTC5
+GenAge 1373
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20883526"
+C115,PTC5,Caenorhabditis elegans|172035,W1,Caenorhabditis elegans,172035,pdp-1,2065,Pro-Longevity,Increase,GenAge annotation,pdp-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,21533078,23,all_gene_ortholog_atlas.pdf,page_23.png,"W1  pdp-1
+GenAge 2065
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 21533078"
+C102,Pten,Drosophila melanogaster|43991,F1,Drosophila melanogaster,43991,Pten,876,Pro-Longevity,Increase,GenAge annotation,Pten,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,21111239,23,all_gene_ortholog_atlas.pdf,page_23.png,"F1  Pten
+GenAge 876
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 21111239"
+C102,Pten,Mus musculus|19211,M1,Mus musculus,19211,Pten,1012,Pro-Longevity,Increase and Decrease,GenAge annotation,Pten,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17400585;22405073,23,all_gene_ortholog_atlas.pdf,page_23.png,"M1  Pten
+GenAge 1012
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 17400585, 22405073"
+C066,RPD3,Saccharomyces cerevisiae|855386,Y1,Saccharomyces cerevisiae,855386,RPD3,555,Anti-Longevity,Increase,GenAge annotation,RPD3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,10512855,23,all_gene_ortholog_atlas.pdf,page_23.png,"Y1  RPD3
+GenAge 555
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 10512855"
+C066,RPD3,Drosophila melanogaster|38565,F1,Drosophila melanogaster,38565,Rpd3,556,Anti-Longevity,Increase,GenAge annotation,Rpd3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,12459580,23,all_gene_ortholog_atlas.pdf,page_23.png,"F1  Rpd3
+GenAge 556
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 12459580"
+C069,RPL10,Saccharomyces cerevisiae|850764,Y1,Saccharomyces cerevisiae,850764,RPL10,561,Anti-Longevity,Increase,GenAge annotation,RPL10,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17174052,24,all_gene_ortholog_atlas.pdf,page_24.png,"Y1  RPL10
+GenAge 561
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17174052"
+C069,RPL10,Caenorhabditis elegans|174311,W1,Caenorhabditis elegans,174311,rpl-10,2047,Anti-Longevity,Increase,GenAge annotation,rpl-10,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,24,all_gene_ortholog_atlas.pdf,page_24.png,"W1  rpl-10
+GenAge 2047
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C121,RPL17B,Saccharomyces cerevisiae|853262,Y1,Saccharomyces cerevisiae,853262,RPL17B,1503,Necessary for fitness,Decrease,GenAge annotation,RPL17B,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18423200,24,all_gene_ortholog_atlas.pdf,page_24.png,"Y1  RPL17B
+GenAge 1503
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18423200"
+C121,RPL17B,Caenorhabditis elegans|171692,W1,Caenorhabditis elegans,171692,rpl-17,2050,Anti-Longevity,Increase,GenAge annotation,rpl-17,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,24,all_gene_ortholog_atlas.pdf,page_24.png,"W1  rpl-17
+GenAge 2050
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C119,RPL1B,Saccharomyces cerevisiae|852742,Y1,Saccharomyces cerevisiae,852742,RPL1B,1460,Anti-Longevity,Increase,GenAge annotation,RPL1B,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18423200,24,all_gene_ortholog_atlas.pdf,page_24.png,"Y1  RPL1B
+GenAge 1460
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18423200"
+C119,RPL1B,Caenorhabditis elegans|171853,W1,Caenorhabditis elegans,171853,rpl-1,2042,Anti-Longevity,Increase,GenAge annotation,rpl-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,24,all_gene_ortholog_atlas.pdf,page_24.png,"W1  rpl-1
+GenAge 2042
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C126,RPL23A,Saccharomyces cerevisiae|852191,Y1,Saccharomyces cerevisiae,852191,RPL23A,1725,Anti-Longevity,Increase,GenAge annotation,RPL23A,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18423200,24,all_gene_ortholog_atlas.pdf,page_24.png,"Y1  RPL23A
+GenAge 1725
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18423200"
+C126,RPL23A,Caenorhabditis elegans|175796,W1,Caenorhabditis elegans,175796,rpl-23,2038,Anti-Longevity,Increase,GenAge annotation,rpl-23,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,24,all_gene_ortholog_atlas.pdf,page_24.png,"W1  rpl-23
+GenAge 2038
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C070,RPL31A,Saccharomyces cerevisiae|851484,Y1,Saccharomyces cerevisiae,851484,RPL31A,562,Anti-Longevity,Increase and Decrease,GenAge annotation,RPL31A,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16293764;17174052;18423200;19030232;20883526,25,all_gene_ortholog_atlas.pdf,page_25.png,"Y1  RPL31A
+GenAge 562
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 16293764, 17174052
+      18423200, 19030232
+      20883526"
+C070,RPL31A,Caenorhabditis elegans|173235,W1,Caenorhabditis elegans,173235,rpl-31,2040,Anti-Longevity,Increase,GenAge annotation,rpl-31,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,25,all_gene_ortholog_atlas.pdf,page_25.png,"W1  rpl-31
+GenAge 2040
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C067,RPL4A,Saccharomyces cerevisiae|852319,Y1,Saccharomyces cerevisiae,852319,RPL4A,1461,Anti-Longevity,Increase,GenAge annotation,RPL4A,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;18423200,25,all_gene_ortholog_atlas.pdf,page_25.png,"Y1  RPL4A
+GenAge 1461
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043, 18423200"
+C067,RPL4A,Caenorhabditis elegans|172074,W1,Caenorhabditis elegans,172074,rpl-4,559,Anti-Longevity,Increase,GenAge annotation,rpl-4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17266679,25,all_gene_ortholog_atlas.pdf,page_25.png,"W1  rpl-4
+GenAge 559
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17266679"
+C127,RPL7A,Saccharomyces cerevisiae|852804,Y1,Saccharomyces cerevisiae,852804,RPL7A,1731,Anti-Longevity,Increase,GenAge annotation,RPL7A,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18423200,25,all_gene_ortholog_atlas.pdf,page_25.png,"Y1  RPL7A
+GenAge 1731
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18423200"
+C127,RPL7A,Caenorhabditis elegans|171602,W1,Caenorhabditis elegans,171602,rpl-7,2048,Anti-Longevity,Increase,GenAge annotation,rpl-7,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,25,all_gene_ortholog_atlas.pdf,page_25.png,"W1  rpl-7
+GenAge 2048
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C122,RPL8B,Saccharomyces cerevisiae|850682,Y1,Saccharomyces cerevisiae,850682,RPL8B,1563,Anti-Longevity,Increase,GenAge annotation,RPL8B,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18423200,25,all_gene_ortholog_atlas.pdf,page_25.png,"Y1  RPL8B
+GenAge 1563
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18423200"
+C122,RPL8B,Caenorhabditis elegans|177203,W1,Caenorhabditis elegans,177203,rpl-7A,2055,Anti-Longevity,Increase,GenAge annotation,rpl-7A,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,25,all_gene_ortholog_atlas.pdf,page_25.png,"W1  rpl-7A
+GenAge 2055
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C068,RPL9A,Saccharomyces cerevisiae|852730,Y1,Saccharomyces cerevisiae,852730,RPL9A,1657,Anti-Longevity,Increase,GenAge annotation,RPL9A,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;18423200,26,all_gene_ortholog_atlas.pdf,page_26.png,"Y1  RPL9A
+GenAge 1657
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043, 18423200"
+C068,RPL9A,Saccharomyces cerevisiae|855658,Y2,Saccharomyces cerevisiae,855658,RPL9B,1658,Anti-Longevity,Increase,GenAge annotation,RPL9B,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;18423200,26,all_gene_ortholog_atlas.pdf,page_26.png,"Y2  RPL9B
+GenAge 1658
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043, 18423200"
+C068,RPL9A,Caenorhabditis elegans|176071,W1,Caenorhabditis elegans,176071,rpl-9,560,Anti-Longevity,Increase,GenAge annotation,rpl-9,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17266679,26,all_gene_ortholog_atlas.pdf,page_26.png,"W1  rpl-9
+GenAge 560
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17266679"
+C133,RPO31,Saccharomyces cerevisiae|854283,Y1,Saccharomyces cerevisiae,854283,RPO31,2240,Anti-Longevity,Increase,GenAge annotation,RPO31,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,29186112,26,all_gene_ortholog_atlas.pdf,page_26.png,"Y1  RPO31
+GenAge 2240
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 29186112"
+C133,RPO31,Caenorhabditis elegans|177491,W1,Caenorhabditis elegans,177491,rpc-1,2239,Anti-Longevity,Increase,GenAge annotation,rpc-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,29186112,26,all_gene_ortholog_atlas.pdf,page_26.png,"W1  rpc-1
+GenAge 2239
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 29186112"
+C116,RPS0B,Saccharomyces cerevisiae|850737,Y1,Saccharomyces cerevisiae,850737,RPS0B,1422,Necessary for fitness,Decrease,GenAge annotation,RPS0B,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18423200,26,all_gene_ortholog_atlas.pdf,page_26.png,"Y1  RPS0B
+GenAge 1422
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18423200"
+C116,RPS0B,Caenorhabditis elegans|175628,W1,Caenorhabditis elegans,175628,rps-0,2035,Anti-Longevity,Increase,GenAge annotation,rps-0,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22103665,26,all_gene_ortholog_atlas.pdf,page_26.png,"W1  rps-0
+GenAge 2035
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 22103665"
+C071,RPS11A,Saccharomyces cerevisiae|851589,Y1,Saccharomyces cerevisiae,851589,RPS11A,1606,Anti-Longevity,Increase,GenAge annotation,RPS11A,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;18423200,26,all_gene_ortholog_atlas.pdf,page_26.png,"Y1  RPS11A
+GenAge 1606
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043, 18423200"
+C071,RPS11A,Caenorhabditis elegans|178083,W1,Caenorhabditis elegans,178083,rps-11,566,Anti-Longevity,Increase,GenAge annotation,rps-11,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17266679;17411345;22103665;23935948,26,all_gene_ortholog_atlas.pdf,page_26.png,"W1  rps-11
+GenAge 566
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17266679, 17411345
+      22103665, 23935948"
+C129,RPS12,Saccharomyces cerevisiae|854551,Y1,Saccharomyces cerevisiae,854551,RPS12,2126,Anti-Longevity,Increase,GenAge annotation,RPS12,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,26456335,27,all_gene_ortholog_atlas.pdf,page_27.png,"Y1  RPS12
+GenAge 2126
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 26456335"
+C129,RPS12,Caenorhabditis elegans|175786,W1,Caenorhabditis elegans,175786,rps-12,1767,Anti-Longevity,Increase,GenAge annotation,rps-12,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,23144747,27,all_gene_ortholog_atlas.pdf,page_27.png,"W1  rps-12
+GenAge 1767
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 23144747"
+C072,RPS26B,Saccharomyces cerevisiae|856868,Y1,Saccharomyces cerevisiae,856868,RPS26B,1712,Anti-Longevity,Increase,GenAge annotation,RPS26B,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,27,all_gene_ortholog_atlas.pdf,page_27.png,"Y1  RPS26B
+GenAge 1712
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043"
+C072,RPS26B,Caenorhabditis elegans|173342,W1,Caenorhabditis elegans,173342,rps-26,570,Anti-Longevity,Increase,GenAge annotation,rps-26,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17266679,27,all_gene_ortholog_atlas.pdf,page_27.png,"W1  rps-26
+GenAge 570
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17266679"
+C130,RPT1,Saccharomyces cerevisiae|853712,Y1,Saccharomyces cerevisiae,853712,RPT1,2014,Necessary for fitness,Decrease,GenAge annotation,RPT1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,21931558,27,all_gene_ortholog_atlas.pdf,page_27.png,"Y1  RPT1
+GenAge 2014
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 21931558"
+C130,RPT1,Caenorhabditis elegans|179641,W1,Caenorhabditis elegans,179641,rpt-1,1787,Pro-Longevity,Decrease,GenAge annotation,rpt-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,23144747,27,all_gene_ortholog_atlas.pdf,page_27.png,"W1  rpt-1
+GenAge 1787
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 23144747"
+C094,RTC2,Saccharomyces cerevisiae|852444,Y1,Saccharomyces cerevisiae,852444,RTC2,1274,Necessary for fitness,Decrease,GenAge annotation,RTC2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,27,all_gene_ortholog_atlas.pdf,page_27.png,"Y1  RTC2
+GenAge 1274
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C094,RTC2,Saccharomyces cerevisiae|854061,Y2,Saccharomyces cerevisiae,854061,YPQ1,1748,Necessary for fitness,Decrease,GenAge annotation,YPQ1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22912585,27,all_gene_ortholog_atlas.pdf,page_27.png,"Y2  YPQ1
+GenAge 1748
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 22912585"
+C094,RTC2,Caenorhabditis elegans|3565323,W1,Caenorhabditis elegans,3565323,Y43H11AL.2,749,Anti-Longevity,Increase,GenAge annotation,Y43H11AL.2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15998808,27,all_gene_ortholog_atlas.pdf,page_27.png,"W1  Y43H11AL.2
+GenAge 749
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 15998808"
+C027,SAC1,Saccharomyces cerevisiae|853668,Y1,Saccharomyces cerevisiae,853668,SAC1,1501,Necessary for fitness,Decrease,GenAge annotation,SAC1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,28,all_gene_ortholog_atlas.pdf,page_28.png,"Y1  SAC1
+GenAge 1501
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043"
+C027,SAC1,Caenorhabditis elegans|172778,W1,Caenorhabditis elegans,172778,sac-1,248,Pro-Longevity,Decrease,GenAge annotation,sac-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18006689,28,all_gene_ortholog_atlas.pdf,page_28.png,"W1  sac-1
+GenAge 248
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18006689"
+C074,SAM1,Saccharomyces cerevisiae|850877,Y1,Saccharomyces cerevisiae,850877,SAM1,1660,Anti-Longevity,Increase,GenAge annotation,SAM1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,28,all_gene_ortholog_atlas.pdf,page_28.png,"Y1  SAM1
+GenAge 1660
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043"
+C074,SAM1,Caenorhabditis elegans|181370,W1,Caenorhabditis elegans,181370,sams-1,584,Anti-Longevity,Increase,GenAge annotation,sams-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16103914,28,all_gene_ortholog_atlas.pdf,page_28.png,"W1  sams-1
+GenAge 584
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16103914"
+C074,SAM1,Caenorhabditis elegans|177355,W2,Caenorhabditis elegans,177355,sams-3,903,Anti-Longevity,Increase,GenAge annotation,sams-3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18006689,28,all_gene_ortholog_atlas.pdf,page_28.png,"W2  sams-3
+GenAge 903
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18006689"
+C075,SDH2,Saccharomyces cerevisiae|850685,Y1,Saccharomyces cerevisiae,850685,SDH2,2136,Anti-Longevity,Increase,GenAge annotation,SDH2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,26456335,28,all_gene_ortholog_atlas.pdf,page_28.png,"Y1  SDH2
+GenAge 2136
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 26456335"
+C075,SDH2,Drosophila melanogaster|35590,F1,Drosophila melanogaster,35590,SdhB,593,Pro-Longevity,Decrease,GenAge annotation,SdhB,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17056719,28,all_gene_ortholog_atlas.pdf,page_28.png,"F1  SdhB
+GenAge 593
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17056719"
+C030,SIP2,Saccharomyces cerevisiae|852664,Y1,Saccharomyces cerevisiae,852664,SIP2,603,Unclear,Increase and Decrease,GenAge annotation,SIP2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,10921902;19030232;20421943;21906795,28,all_gene_ortholog_atlas.pdf,page_28.png,"Y1  SIP2
+GenAge 603
+GenAge annotation
+Unclear
+Lifespan: Increase +
+Decrease
+Refs: 10921902, 19030232
+      20421943, 21906795"
+C030,SIP2,Caenorhabditis elegans|181492,W1,Caenorhabditis elegans,181492,aakb-1,269,Pro-Longevity,Decrease,GenAge annotation,aakb-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16673436,28,all_gene_ortholog_atlas.pdf,page_28.png,"W1  aakb-1
+GenAge 269
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 16673436"
+C076,Sirt6,Drosophila melanogaster|41254,F1,Drosophila melanogaster,41254,Sirt6,611,Pro-Longevity,Decrease,GenAge annotation,Sirt6,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17159295,29,all_gene_ortholog_atlas.pdf,page_29.png,"F1  Sirt6
+GenAge 611
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17159295"
+C076,Sirt6,Mus musculus|50721,M1,Mus musculus,50721,Sirt6,610,Pro-Longevity,Increase and Decrease,GenAge annotation,Sirt6,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16439206;22367546,29,all_gene_ortholog_atlas.pdf,page_29.png,"M1  Sirt6
+GenAge 610
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 16439206, 22367546"
+C124,SKM1,Saccharomyces cerevisiae|854036,Y1,Saccharomyces cerevisiae,854036,SKM1,1608,Necessary for fitness,Decrease,GenAge annotation,SKM1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,29,all_gene_ortholog_atlas.pdf,page_29.png,"Y1  SKM1
+GenAge 1608
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043"
+C124,SKM1,Caenorhabditis elegans|180873,W1,Caenorhabditis elegans,180873,pak-1,1897,Unannotated,Increase,GenAge annotation,pak-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,23524941,29,all_gene_ortholog_atlas.pdf,page_29.png,"W1  pak-1
+GenAge 1897
+GenAge annotation
+Unannotated
+Lifespan: Increase
+Refs: 23524941"
+C078,SNF4,Saccharomyces cerevisiae|852763,Y1,Saccharomyces cerevisiae,852763,SNF4,620,Anti-Longevity,Increase,GenAge annotation,SNF4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,10921902,29,all_gene_ortholog_atlas.pdf,page_29.png,"Y1  SNF4
+GenAge 620
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 10921902"
+C078,SNF4,Caenorhabditis elegans|181736,W1,Caenorhabditis elegans,181736,aakg-2,1849,Pro-Longevity,Increase,GenAge annotation,aakg-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22737090,29,all_gene_ortholog_atlas.pdf,page_29.png,"W1  aakg-2
+GenAge 1849
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 22737090"
+C081,SPT4,Saccharomyces cerevisiae|852955,Y1,Saccharomyces cerevisiae,852955,SPT4,1716,Anti-Longevity,Increase,GenAge annotation,SPT4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,29,all_gene_ortholog_atlas.pdf,page_29.png,"Y1  SPT4
+GenAge 1716
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043"
+C081,SPT4,Caenorhabditis elegans|175172,W1,Caenorhabditis elegans,175172,spt-4,627,Anti-Longevity,Increase,GenAge annotation,spt-4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15998808,29,all_gene_ortholog_atlas.pdf,page_29.png,"W1  spt-4
+GenAge 627
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 15998808"
+C041,SSA3,Saccharomyces cerevisiae|852203,Y1,Saccharomyces cerevisiae,852203,SSA3,1538,Anti-Longevity,Increase,GenAge annotation,SSA3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20883526,30,all_gene_ortholog_atlas.pdf,page_30.png,"Y1  SSA3
+GenAge 1538
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 20883526"
+C041,SSA3,Saccharomyces cerevisiae|856840,Y2,Saccharomyces cerevisiae,856840,SSA4,1159,Necessary for fitness,Decrease,GenAge annotation,SSA4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943;20657825,30,all_gene_ortholog_atlas.pdf,page_30.png,"Y2  SSA4
+GenAge 1159
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943, 20657825"
+C041,SSA3,Drosophila melanogaster|42852,F1,Drosophila melanogaster,42852,Hsp68,351,Pro-Longevity,Increase,GenAge annotation,Hsp68,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,14602080;20976250,30,all_gene_ortholog_atlas.pdf,page_30.png,"F1  Hsp68
+GenAge 351
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 14602080, 20976250"
+C040,SSC1,Saccharomyces cerevisiae|853503,Y1,Saccharomyces cerevisiae,853503,SSC1,2110,Anti-Longevity,Increase,GenAge annotation,SSC1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,27346163,30,all_gene_ortholog_atlas.pdf,page_30.png,"Y1  SSC1
+GenAge 2110
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 27346163"
+C040,SSC1,Caenorhabditis elegans|178873,W1,Caenorhabditis elegans,178873,hsp-6,346,Pro-Longevity,Increase and Decrease,GenAge annotation,hsp-6,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,11959102;17189267,30,all_gene_ortholog_atlas.pdf,page_30.png,"W1  hsp-6
+GenAge 346
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 11959102, 17189267"
+C092,SSO1,Saccharomyces cerevisiae|855844,Y1,Saccharomyces cerevisiae,855844,SSO1,1381,Necessary for fitness,Decrease,GenAge annotation,SSO1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20883526,30,all_gene_ortholog_atlas.pdf,page_30.png,"Y1  SSO1
+GenAge 1381
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20883526"
+C092,SSO1,Saccharomyces cerevisiae|855221,Y2,Saccharomyces cerevisiae,855221,SSO2,1281,Necessary for fitness,Decrease,GenAge annotation,SSO2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,30,all_gene_ortholog_atlas.pdf,page_30.png,"Y2  SSO2
+GenAge 1281
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C092,SSO1,Caenorhabditis elegans|176743,W1,Caenorhabditis elegans,176743,unc-64,710,Unannotated,Increase,GenAge annotation,unc-64,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,10377425,30,all_gene_ortholog_atlas.pdf,page_30.png,"W1  unc-64
+GenAge 710
+GenAge annotation
+Unannotated
+Lifespan: Increase
+Refs: 10377425"
+C083,Surf1,Drosophila melanogaster|44498,F1,Drosophila melanogaster,44498,Surf1,636,Anti-Longevity,Increase,GenAge annotation,Surf1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16172499,31,all_gene_ortholog_atlas.pdf,page_31.png,"F1  Surf1
+GenAge 636
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16172499"
+C083,Surf1,Mus musculus|20930,M1,Mus musculus,20930,Surf1,637,Anti-Longevity,Increase,GenAge annotation,Surf1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17210671,31,all_gene_ortholog_atlas.pdf,page_31.png,"M1  Surf1
+GenAge 637
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17210671"
+C025,SWD1,Saccharomyces cerevisiae|851265,Y1,Saccharomyces cerevisiae,851265,SWD1,1418,Necessary for fitness,Decrease,GenAge annotation,SWD1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,31,all_gene_ortholog_atlas.pdf,page_31.png,"Y1  SWD1
+GenAge 1418
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043"
+C025,SWD1,Caenorhabditis elegans|174019,W1,Caenorhabditis elegans,174019,F21H12.1,238,Anti-Longevity,Increase,GenAge annotation,F21H12.1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,15998808,31,all_gene_ortholog_atlas.pdf,page_31.png,"W1  F21H12.1
+GenAge 238
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 15998808"
+C109,SWD3,Saccharomyces cerevisiae|852472,Y1,Saccharomyces cerevisiae,852472,SWD3,1586,Necessary for fitness,Decrease,GenAge annotation,SWD3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,31,all_gene_ortholog_atlas.pdf,page_31.png,"Y1  SWD3
+GenAge 1586
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043"
+C109,SWD3,Caenorhabditis elegans|175474,W1,Caenorhabditis elegans,175474,wdr-5.1,1000,Anti-Longevity,Increase,GenAge annotation,wdr-5.1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20555324;22012258,31,all_gene_ortholog_atlas.pdf,page_31.png,"W1  wdr-5.1
+GenAge 1000
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 20555324, 22012258"
+C118,TAL1,Saccharomyces cerevisiae|851068,Y1,Saccharomyces cerevisiae,851068,TAL1,1449,Anti-Longevity,Increase,GenAge annotation,TAL1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19030232,31,all_gene_ortholog_atlas.pdf,page_31.png,"Y1  TAL1
+GenAge 1449
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 19030232"
+C118,TAL1,Caenorhabditis elegans|177202,W1,Caenorhabditis elegans,177202,Y24D9A.8;tald-1,1939;2213,Anti-Longevity,Increase,GenAge annotation,Y24D9A.8 / tald-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,24662282;28355222,31,all_gene_ortholog_atlas.pdf,page_31.png,"W1  Y24D9A.8
+tald-1
+GenAge 1939, 2213
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 24662282, 28355222"
+C036,TDH2,Saccharomyces cerevisiae|853465,Y1,Saccharomyces cerevisiae,853465,TDH2,2078,Anti-Longevity,Increase,GenAge annotation,TDH2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,23342062,32,all_gene_ortholog_atlas.pdf,page_32.png,"Y1  TDH2
+GenAge 2078
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 23342062"
+C036,TDH2,Caenorhabditis elegans|3565504,W1,Caenorhabditis elegans,3565504,gpd-2,321,Anti-Longevity,Increase,GenAge annotation,gpd-2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17673661,32,all_gene_ortholog_atlas.pdf,page_32.png,"W1  gpd-2
+GenAge 321
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17673661"
+C036,TDH2,Caenorhabditis elegans|180601,W2,Caenorhabditis elegans,180601,gpd-3,1778,Anti-Longevity,Increase,GenAge annotation,gpd-3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,23144747,32,all_gene_ortholog_atlas.pdf,page_32.png,"W2  gpd-3
+GenAge 1778
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 23144747"
+C043,TIF4632,Saccharomyces cerevisiae|852833,Y1,Saccharomyces cerevisiae,852833,TIF4632,1661,Anti-Longevity,Increase,GenAge annotation,TIF4632,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,32,all_gene_ortholog_atlas.pdf,page_32.png,"Y1  TIF4632
+GenAge 1661
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 18340043"
+C043,TIF4632,Caenorhabditis elegans|174322,W1,Caenorhabditis elegans,174322,ifg-1,362,Anti-Longevity,Increase,GenAge annotation,ifg-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16720740;17266679;17266680;17411345;20700440,32,all_gene_ortholog_atlas.pdf,page_32.png,"W1  ifg-1
+GenAge 362
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 16720740, 17266679
+      17266680, 17411345
+      20700440"
+C087,TOP1,Saccharomyces cerevisiae|854156,Y1,Saccharomyces cerevisiae,854156,TOP1,1547,Necessary for fitness,Decrease,GenAge annotation,TOP1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19030232,32,all_gene_ortholog_atlas.pdf,page_32.png,"Y1  TOP1
+GenAge 1547
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 19030232"
+C087,TOP1,Caenorhabditis elegans|266847,W1,Caenorhabditis elegans,266847,top-1,676,Pro-Longevity,Decrease,GenAge annotation,top-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18006689,32,all_gene_ortholog_atlas.pdf,page_32.png,"W1  top-1
+GenAge 676
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18006689"
+C063,TPK1,Saccharomyces cerevisiae|853275,Y1,Saccharomyces cerevisiae,853275,TPK1,1502,Necessary for fitness,Decrease,GenAge annotation,TPK1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,33,all_gene_ortholog_atlas.pdf,page_33.png,"Y1  TPK1
+GenAge 1502
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043"
+C063,TPK1,Saccharomyces cerevisiae|855898,Y2,Saccharomyces cerevisiae,855898,TPK2,681,Anti-Longevity,Increase,GenAge annotation,TPK2,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,11000115,33,all_gene_ortholog_atlas.pdf,page_33.png,"Y2  TPK2
+GenAge 681
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 11000115"
+C063,TPK1,Saccharomyces cerevisiae|853688,Y3,Saccharomyces cerevisiae,853688,TPK3,1632,Necessary for fitness,Decrease,GenAge annotation,TPK3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,33,all_gene_ortholog_atlas.pdf,page_33.png,"Y3  TPK3
+GenAge 1632
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043"
+C063,TPK1,Drosophila melanogaster|34284,F1,Drosophila melanogaster,34284,Pka-C1,507,Pro-Longevity,Increase,GenAge annotation,Pka-C1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17369827,33,all_gene_ortholog_atlas.pdf,page_33.png,"F1  Pka-C1
+GenAge 507
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 17369827"
+C108,unc-51,Caenorhabditis elegans|180311,W1,Caenorhabditis elegans,180311,unc-51,996,Unclear,Increase and Decrease,GenAge annotation,unc-51,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18219227;19469880,33,all_gene_ortholog_atlas.pdf,page_33.png,"W1  unc-51
+GenAge 996
+GenAge annotation
+Unclear
+Lifespan: Increase +
+Decrease
+Refs: 18219227, 19469880"
+C108,unc-51,Drosophila melanogaster|39454,F1,Drosophila melanogaster,39454,Atg1,1908,Pro-Longevity,Increase,GenAge annotation,Atg1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,25199830,33,all_gene_ortholog_atlas.pdf,page_33.png,"F1  Atg1
+GenAge 1908
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 25199830"
+C091,VPH1,Saccharomyces cerevisiae|854444,Y1,Saccharomyces cerevisiae,854444,VPH1,1719,Anti-Longevity,Increase and Decrease,GenAge annotation,VPH1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,34,all_gene_ortholog_atlas.pdf,page_34.png,"Y1  VPH1
+GenAge 1719
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 18340043"
+C091,VPH1,Caenorhabditis elegans|176257,W1,Caenorhabditis elegans,176257,unc-32,705,Anti-Longevity,Increase,GenAge annotation,unc-32,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,10747056,34,all_gene_ortholog_atlas.pdf,page_34.png,"W1  unc-32
+GenAge 705
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 10747056"
+C091,VPH1,Caenorhabditis elegans|174743,W2,Caenorhabditis elegans,174743,vha-6,715,Anti-Longevity,Increase,GenAge annotation,vha-6,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17411345,34,all_gene_ortholog_atlas.pdf,page_34.png,"W2  vha-6
+GenAge 715
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 17411345"
+C011,vps-33.1,Caenorhabditis elegans|176221,W1,Caenorhabditis elegans,176221,vps-33.1,720,Pro-Longevity,Decrease,GenAge annotation,vps-33.1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18006689,34,all_gene_ortholog_atlas.pdf,page_34.png,"W1  vps-33.1
+GenAge 720
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18006689"
+C011,vps-33.1,Drosophila melanogaster|32947,F1,Drosophila melanogaster,32947,car,89,Pro-Longevity,Increase,GenAge annotation,car,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17435236,34,all_gene_ortholog_atlas.pdf,page_34.png,"F1  car
+GenAge 89
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 17435236"
+C096,VPS20,Saccharomyces cerevisiae|855101,Y1,Saccharomyces cerevisiae,855101,VPS20,1745,Necessary for fitness,Decrease,GenAge annotation,VPS20,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,22912585,34,all_gene_ortholog_atlas.pdf,page_34.png,"Y1  VPS20
+GenAge 1745
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 22912585"
+C096,VPS20,Caenorhabditis elegans|171654,W1,Caenorhabditis elegans,171654,vps-20,764,Pro-Longevity,Decrease,GenAge annotation,vps-20,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18006689,34,all_gene_ortholog_atlas.pdf,page_34.png,"W1  vps-20
+GenAge 764
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18006689"
+C107,VPS21,Saccharomyces cerevisiae|854256,Y1,Saccharomyces cerevisiae,854256,VPS21,1180,Necessary for fitness,Decrease,GenAge annotation,VPS21,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20657825,34,all_gene_ortholog_atlas.pdf,page_34.png,"Y1  VPS21
+GenAge 1180
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20657825"
+C107,VPS21,Caenorhabditis elegans|172755,W1,Caenorhabditis elegans,172755,rab-5,975,Pro-Longevity,Decrease,GenAge annotation,rab-5,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19627265;23144747,34,all_gene_ortholog_atlas.pdf,page_34.png,"W1  rab-5
+GenAge 975
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 19627265, 23144747"
+C086,VPS24,Saccharomyces cerevisiae|853825,Y1,Saccharomyces cerevisiae,853825,VPS24,1330,Necessary for fitness,Decrease,GenAge annotation,VPS24,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,35,all_gene_ortholog_atlas.pdf,page_35.png,"Y1  VPS24
+GenAge 1330
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C086,VPS24,Caenorhabditis elegans|173863,W1,Caenorhabditis elegans,173863,T27F7.1,652,Pro-Longevity,Decrease,GenAge annotation,T27F7.1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18006689,35,all_gene_ortholog_atlas.pdf,page_35.png,"W1  T27F7.1
+GenAge 652
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18006689"
+C051,VPS41,Saccharomyces cerevisiae|851653,Y1,Saccharomyces cerevisiae,851653,VPS41,1331,Necessary for fitness,Decrease,GenAge annotation,VPS41,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,19030232;20421943,35,all_gene_ortholog_atlas.pdf,page_35.png,"Y1  VPS41
+GenAge 1331
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 19030232, 20421943"
+C051,VPS41,Drosophila melanogaster|3355130,F1,Drosophila melanogaster,3355130,lt,419,Pro-Longevity,Decrease,GenAge annotation,lt,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,17435236,35,all_gene_ortholog_atlas.pdf,page_35.png,"F1  lt
+GenAge 419
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 17435236"
+C113,YIH1,Saccharomyces cerevisiae|850423,Y1,Saccharomyces cerevisiae,850423,YIH1,1297,Necessary for fitness,Decrease,GenAge annotation,YIH1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,35,all_gene_ortholog_atlas.pdf,page_35.png,"Y1  YIH1
+GenAge 1297
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 20421943"
+C113,YIH1,Caenorhabditis elegans|173001,W1,Caenorhabditis elegans,173001,impt-1,2087,Anti-Longevity,Increase,GenAge annotation,impt-1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,27717342,35,all_gene_ortholog_atlas.pdf,page_35.png,"W1  impt-1
+GenAge 2087
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 27717342"
+C125,YOR1,Saccharomyces cerevisiae|853198,Y1,Saccharomyces cerevisiae,853198,YOR1,1677,Pro-Longevity,Increase and Decrease,GenAge annotation,YOR1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20657593,35,all_gene_ortholog_atlas.pdf,page_35.png,"Y1  YOR1
+GenAge 1677
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 20657593"
+C125,YOR1,Drosophila melanogaster|41387,F1,Drosophila melanogaster,41387,Mrp4,1874,Pro-Longevity,Increase and Decrease,GenAge annotation,Mrp4,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,25474322,35,all_gene_ortholog_atlas.pdf,page_35.png,"F1  Mrp4
+GenAge 1874
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase +
+Decrease
+Refs: 25474322"
+C065,YPT7,Saccharomyces cerevisiae|855012,Y1,Saccharomyces cerevisiae,855012,YPT7,1208,Necessary for fitness,Decrease,GenAge annotation,YPT7,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043;18690010;20657825,36,all_gene_ortholog_atlas.pdf,page_36.png,"Y1  YPT7
+GenAge 1208
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043, 18690010
+      20657825"
+C065,YPT7,Caenorhabditis elegans|174834,W1,Caenorhabditis elegans,174834,rab-7,530,Pro-Longevity,Decrease,GenAge annotation,rab-7,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18006689,36,all_gene_ortholog_atlas.pdf,page_36.png,"W1  rab-7
+GenAge 530
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 18006689"
+C088,YUH1,Saccharomyces cerevisiae|853562,Y1,Saccharomyces cerevisiae,853562,YUH1,1442,Necessary for fitness,Decrease,GenAge annotation,YUH1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18340043,36,all_gene_ortholog_atlas.pdf,page_36.png,"Y1  YUH1
+GenAge 1442
+GenAge annotation
+Necessary for fitness
+Lifespan: Decrease
+Refs: 18340043"
+C088,YUH1,Caenorhabditis elegans|259626,W1,Caenorhabditis elegans,259626,ubh-3,694,Pro-Longevity,Decrease,GenAge annotation,ubh-3,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,16673436,36,all_gene_ortholog_atlas.pdf,page_36.png,"W1  ubh-3
+GenAge 694
+GenAge annotation
+Pro-Longevity
+Lifespan: Decrease
+Refs: 16673436"
+C103,ZWF1,Saccharomyces cerevisiae|855480,Y1,Saccharomyces cerevisiae,855480,ZWF1,1412,Anti-Longevity,Increase,GenAge annotation,ZWF1,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,20421943,36,all_gene_ortholog_atlas.pdf,page_36.png,"Y1  ZWF1
+GenAge 1412
+GenAge annotation
+Anti-Longevity
+Lifespan: Increase
+Refs: 20421943"
+C103,ZWF1,Drosophila melanogaster|32974,F1,Drosophila melanogaster,32974,Zw,883,Pro-Longevity,Increase,GenAge annotation,Zw,,,,Catalogue only; intervention not reviewed,Catalogue labels do not specify an intervention or comparable causal effect.,18809674,36,all_gene_ortholog_atlas.pdf,page_36.png,"F1  Zw
+GenAge 883
+GenAge annotation
+Pro-Longevity
+Lifespan: Increase
+Refs: 18809674"

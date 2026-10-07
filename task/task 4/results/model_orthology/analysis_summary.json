@@ -1,0 +1,28 @@
+{
+  "records": 2205,
+  "identified_species_genes": 2199,
+  "mapping_memberships": 11171,
+  "taxonomy_mismatches": 0,
+  "ambiguous_gene_level_assignments": 14,
+  "eukaryota_groups": 1671,
+  "recurrent_eukaryota_groups": 181,
+  "recurrence_distribution": {
+    "4": 1,
+    "3": 26,
+    "2": 154
+  },
+  "agreement_distribution": {
+    "Unresolved": 67,
+    "Pro": 20,
+    "Discordant": 37,
+    "Anti": 57
+  },
+  "mapped_records": 2084,
+  "mapping_status_counts": {
+    "mapped": 2084,
+    "no_eukaryota_group": 57,
+    "no_exact_species_xref": 58,
+    "missing_entrez_id": 3,
+    "ambiguous_eukaryota_groups": 3
+  }
+}

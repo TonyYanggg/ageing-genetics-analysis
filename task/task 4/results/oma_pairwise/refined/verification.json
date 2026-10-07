@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "cached_hashes": 216,
+  "raw_source_unchanged": true,
+  "full_genome_pairs": 21,
+  "source_protein_pairs": 124274,
+  "reconstructed_gene_pairs": 228,
+  "reconstructed_longevity_pairs": 228,
+  "reconstructed_directional_pairs": 145,
+  "interpretation": "Independent computational reconstruction, not experimental or evolutionary ground truth."
+}

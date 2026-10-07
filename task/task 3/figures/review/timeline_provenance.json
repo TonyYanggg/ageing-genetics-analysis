@@ -1,0 +1,18 @@
+{
+  "generated_utc": "2026-09-18T05:17:39.995486+00:00",
+  "script": "scripts\\plot_timeline.py",
+  "script_sha256": "6040634f109565acc4687c7f2df880da97fb5e1cc419502900d4d6cbead10c7e",
+  "files": {
+    "results\\verified_timeline\\annual_entry_timeline.csv": "1e4e0f7e33067212f6e3d669b8b252fd1b73723dc4e9e8ab871c38dd78f80e44",
+    "results\\verified_timeline\\annual_reference_timeline.csv": "b827a11b120a9823fea73bc06545243aa2bc3ed394db81f3d3deadb85e716761",
+    "results\\verified_timeline\\audit.json": "3b79f4def3172ff6d6c7eb79340834fc59c32bfe593be5e17caed7a28d205a4a",
+    "results\\verified_timeline\\entry_coverage.csv": "663a75042fbfadaaa102dde51316c1ed002683a9fa19862a16071587bec0e881",
+    "figures\\review\\timeline_review.png": "59eff79da23fa9a02ff0e8887505d8df029a3cfbc977b49628d888d9cb33f996",
+    "figures\\review\\timeline_review.svg": "5a58d51b2e292352535898aa8823175c59ce625429318e087ee673050ea2e720",
+    "figures\\review\\timeline_review.pdf": "7b310616955201367a1bead2243baa6bf4d1f986a564b6280def6eb45a547d79",
+    "figures\\review\\timeline_by_organism_review.png": "8f214e48b5c7b99df4f5110c80d574c52e8dfcaf649078266ec6ced6d3a7c588",
+    "figures\\review\\timeline_by_organism_review.svg": "0b7dc3c93eb4a06e82c2f0e92d5358230f67d8f71fae9bd2e7bcfd7c197a7d6c",
+    "figures\\review\\timeline_by_organism_review.pdf": "f6a54982655b708093c8129c2e8c2cca7bf3209fdb6a0e4bea06c1f3457d5dbf"
+  },
+  "status": "Exploratory drafts; see verified_timeline_report.md for exclusions and interpretation"
+}

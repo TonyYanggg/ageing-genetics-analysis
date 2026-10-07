@@ -1,0 +1,29 @@
+{
+  "url": "https://api.ncbi.nlm.nih.gov/datasets/v2/gene/id/181362,182749,183228,183342,184367,184826,185603,185645,187596,187837,188415,189168,189476,189684,189761,189875,189958,189968,190326,190489,191014,246599,249462,260100,260162,266860,387222,723905,802462,850389,850417,851993,852026,852125,852254,852379,852479,853303,853557,853933,854234,854301,854489,854741,855213,856015,856051,856156,856656,856678/dataset_report",
+  "params": {
+    "page_size": 1000
+  },
+  "retrieved_utc": "2026-09-18T09:38:14.449035+00:00",
+  "sha256": "78f132076f86995363cbca741501a2ea09a12ffc93be889b3b286664b9628499",
+  "bytes": 96648,
+  "response_headers": {
+    "Date": "Fri, 18 Sep 2026 09:38:13 GMT",
+    "Server": "Finatra",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Content-Security-Policy": "upgrade-insecure-requests",
+    "Ncbi-Phid": "1D3444813F10BF050000258EF0633983.1.1",
+    "Content-Type": "application/json",
+    "Content-Encoding": "gzip",
+    "Grpc-Metadata-Via": "h2 linkerd",
+    "X-Ratelimit-Limit": "5",
+    "X-Datasets-Version": "18.37.0",
+    "X-Ncbi-Total-Count": "50",
+    "X-Ratelimit-Remaining": "4",
+    "Access-Control-Expose-Headers": "X-RateLimit-Limit,X-RateLimit-Remaining",
+    "X-Ua-Compatible": "IE=Edge",
+    "X-Xss-Protection": "1; mode=block",
+    "Via": "1.1 google",
+    "Alt-Svc": "clear",
+    "Transfer-Encoding": "chunked"
+  }
+}

@@ -1,0 +1,10 @@
+organism,Increase,Decrease,Increase and Decrease,Missing,percentage_total
+Saccharomyces cerevisiae,32.7113,56.6411,9.8793,0.7684,100.0001
+Caenorhabditis elegans,68.3915,27.6715,3.4871,0.4499,100.0
+Drosophila melanogaster,65.3465,27.7228,6.4356,0.495,99.9999
+Mus musculus,41.1765,50.0,7.3529,1.4706,100.0
+Schizosaccharomyces pombe,91.8033,8.1967,0.0,0.0,100.0
+Podospora anserina,100.0,0.0,0.0,0.0,100.0
+Caenorhabditis briggsae,100.0,0.0,0.0,0.0,100.0
+Danio rerio,0.0,100.0,0.0,0.0,100.0
+Mesocricetus auratus,100.0,0.0,0.0,0.0,100.0

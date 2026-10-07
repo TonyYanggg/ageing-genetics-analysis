@@ -1,0 +1,10 @@
+species,records,identified_genes,missing_id_records,proposed_orthodb_organism,annotation_counts
+Saccharomyces cerevisiae,911,911,0,559292_0,"{""Anti-Longevity"": 349, ""Necessary for fitness"": 492, ""Pro-Longevity"": 51, ""Unannotated"": 10, ""Unclear"": 9}"
+Caenorhabditis elegans,889,886,2,6239_0,"{""Anti-Longevity"": 578, ""Pro-Longevity"": 283, ""Unannotated"": 15, ""Unclear"": 13}"
+Drosophila melanogaster,202,200,1,7227_0,"{""Anti-Longevity"": 73, ""Pro-Longevity"": 125, ""Unannotated"": 1, ""Unclear"": 3}"
+Mus musculus,136,136,0,10090_1,"{""Anti-Longevity"": 45, ""Pro-Longevity"": 85, ""Unannotated"": 4, ""Unclear"": 2}"
+Schizosaccharomyces pombe,61,61,0,4896_0,"{""Anti-Longevity"": 54, ""Necessary for fitness"": 5, ""Pro-Longevity"": 1, ""Unannotated"": 1}"
+Podospora anserina,3,2,0,515849_0,"{""Anti-Longevity"": 1, ""Unannotated"": 2}"
+Caenorhabditis briggsae,1,1,0,6238_0,"{""Anti-Longevity"": 1}"
+Danio rerio,1,1,0,7955_0,"{""Pro-Longevity"": 1}"
+Mesocricetus auratus,1,1,0,10036_0,"{""Unannotated"": 1}"

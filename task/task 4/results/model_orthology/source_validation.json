@@ -1,0 +1,29 @@
+{
+  "status": "source_audit_only",
+  "accepted_biological_group_count": null,
+  "concern": "OrthoDB Eukaryota group combines Coq2 and HSP104; OMA assigns different root HOGs.",
+  "orthodb_group": "3459473at2759",
+  "orthodb_search": {
+    "data": [
+      "3459473at2759"
+    ],
+    "count": "1",
+    "status": "ok",
+    "bigdata": [
+      {
+        "id": "3459473at2759",
+        "d2t": 3,
+        "name": "chaperone",
+        "public_id": "3459473at2759",
+        "relevance": 31204.066,
+        "gene_count": "19845",
+        "level_name": "Eukaryota",
+        "present_in": "5896"
+      }
+    ],
+    "message": null
+  },
+  "oma_coq2_root": 848365,
+  "oma_hsp104_root": 848368,
+  "limitation": "One independent cross-check; neither resource is presumed ground truth. Full group validation remains pending."
+}

@@ -1,0 +1,831 @@
+raw_row_index_zero_based,csv_line_number,GenAge ID,organism,symbol,name,entrez gene id,longevity influence,lifespan effect,raw_lifespan_change,parsed_numeric_lifespan_change
+1,3,2,Caenorhabditis elegans,aat-8,Amino Acid Transporter,185079,Anti-Longevity,Increase,30,30.0
+2,4,3,Caenorhabditis elegans,abu-11,Activated in Blocked Unfolded protein response,173404,Pro-Longevity,Increase,28,28.0
+4,6,5,Caenorhabditis elegans,aco-2,ACOnitase,176121,Anti-Longevity,Increase,20.5,20.5
+5,7,6,Mus musculus,Adcy5,adenylate cyclase 5,224129,Anti-Longevity,Increase,30,30.0
+6,8,7,Caenorhabditis elegans,age-1,"AGEing alteration AGE-1, abnormal DAuer Formation DAF-23",174762,Anti-Longevity,Increase,1000,1000.0
+11,13,12,Caenorhabditis elegans,amt-2,AMmonium Transporter homolog,186047,Anti-Longevity,Increase,20,20.0
+19,21,20,Caenorhabditis elegans,asm-3,Acid SphingoMyelinase,176879,Anti-Longevity,Increase,50,50.0
+24,26,25,Caenorhabditis elegans,atp-2,ATP synthase F1 subunit gamma,175716,Anti-Longevity,Increase,43,43.0
+25,27,26,Caenorhabditis elegans,atp-3,ATP synthase subunit,172195,Anti-Longevity,Increase,21,21.0
+31,33,32,Caenorhabditis elegans,let-363,LEThal,172167,Anti-Longevity,Increase,150,150.0
+32,34,33,Caenorhabditis elegans,mrpl-47,Protein MRPL-47,172164,Anti-Longevity,Increase,20,20.0
+34,36,35,Caenorhabditis elegans,B0491.5,Protein B0491.5,174734,Anti-Longevity,Increase,60,60.0
+35,37,36,Caenorhabditis elegans,B0511.6,Protein B0511.6,172954,Anti-Longevity,Increase,50,50.0
+36,38,37,Caenorhabditis elegans,B0546.3,Protein B0546.3,182030,Anti-Longevity,Increase,27,27.0
+53,55,54,Caenorhabditis elegans,sco-1,Protein SCO-1,173763,Anti-Longevity,Increase,23,23.0
+62,64,63,Caenorhabditis elegans,C18E9.4,Protein C18E9.4,174428,Anti-Longevity,Increase,60,60.0
+73,75,74,Caenorhabditis elegans,CELE_C33A12.1,Protein C33A12.1,177786,Anti-Longevity,Increase,50,50.0
+79,81,80,Caenorhabditis elegans,scl-8,SCP-Like extracellular protein,183345,Anti-Longevity,Increase,18,18.0
+81,83,82,Caenorhabditis elegans,ttr-5,TransThyretin-Related family domain,176312,Anti-Longevity,Increase,14,14.0
+82,84,83,Caenorhabditis elegans,C42C1.3,Protein C42C1.3,183399,Anti-Longevity,Increase,60,60.0
+83,85,84,Caenorhabditis elegans,C46G7.2,Protein C46G7.2,177367,Anti-Longevity,Increase,44,44.0
+84,86,85,Caenorhabditis elegans,C47E12.2,Protein C47E12.2,177858,Anti-Longevity,Increase,36,36.0
+85,87,86,Caenorhabditis elegans,C48E7.2,Protein C48E7.2,172321,Anti-Longevity,Increase,26,26.0
+86,88,87,Caenorhabditis elegans,C56G2.1,Protein C56G2.1,175898,Anti-Longevity,Increase,20,20.0
+90,92,91,Drosophila melanogaster,Cat,Catalase,40048,Pro-Longevity,Increase,33,33.0
+91,93,92,Mus musculus,Cat,Catalase,12359,Pro-Longevity,Increase,21,21.0
+93,95,94,Caenorhabditis elegans,cchl-1,Cytochrome C Heme-Lyase,174713,Anti-Longevity,Increase,50,50.0
+94,96,95,Caenorhabditis elegans,cco-1,Cytochrome C Oxidase,172832,Anti-Longevity,Increase,80,80.0
+95,97,96,Caenorhabditis elegans,cco-2,Cytochrome C Oxidase,176707,Anti-Longevity,Increase,60,60.0
+98,100,99,Caenorhabditis elegans,cct-4,Chaperonin Containing TCP-1,174330,Anti-Longevity,Increase,28,28.0
+99,101,100,Caenorhabditis elegans,cct-6,Chaperonin Containing TCP-1,175819,Anti-Longevity,Increase,20,20.0
+100,102,101,Drosophila melanogaster,Cct1,CTP:phosphocholine cytidylyltransferase 1,117353,Pro-Longevity,Increase,8,8.0
+103,105,104,Caenorhabditis elegans,cdc-25.3,Cell Division Cycle related,176260,Anti-Longevity,Increase,40,40.0
+104,106,105,Saccharomyces cerevisiae,CDC25,Cdc25p,851019,Anti-Longevity,Increase,50,50.0
+105,107,106,Saccharomyces cerevisiae,CDC6,Cell Division Cycle,853244,Anti-Longevity,Increase,20,20.0
+111,113,112,Caenorhabditis elegans,ced-3,CEll Death abnormality,178272,Anti-Longevity,Increase,19,19.0
+113,115,114,Caenorhabditis elegans,T15B12.1,INSulin related,188527,Anti-Longevity,Increase,40,40.0
+115,117,116,Caenorhabditis elegans,cep-1,C. Elegans P-53-like protein,172616,Anti-Longevity,Increase,33,33.0
+117,119,118,Caenorhabditis elegans,che-11,abnormal CHEmotaxis,179666,Anti-Longevity,Increase,40,40.0
+118,120,119,Caenorhabditis elegans,che-13,abnormal CHEmotaxis,186607,Anti-Longevity,Increase,40,40.0
+119,121,120,Caenorhabditis elegans,che-2,abnormal CHEmotaxis,180401,Anti-Longevity,Increase,50,50.0
+120,122,121,Caenorhabditis elegans,che-3,abnormal CHEmotaxis,172593,Anti-Longevity,Increase,100,100.0
+122,124,123,Drosophila melanogaster,cher,cheerio,42066,Pro-Longevity,Increase,9,9.0
+123,125,124,Drosophila melanogaster,chico,Insulin receptor substrate-1,64880,Anti-Longevity,Increase,48,48.0
+124,126,125,Caenorhabditis elegans,chk-1,CHeckpoint Kinase,3565921,Anti-Longevity,Increase,25,25.0
+130,132,131,Caenorhabditis elegans,clk-2,CLocK (biological timing) abnormality,176065,Unannotated,Increase,25,25.0
+133,135,134,Caenorhabditis elegans,cnb-1,CalciNeurin B,179572,Anti-Longevity,Increase,30,30.0
+135,137,136,Mus musculus,Coq7,demethyl-Q 7,12850,Anti-Longevity,Increase,30,30.0
+137,139,138,Caenorhabditis elegans,crn-5,Cell-death-Related Nuclease,174634,Anti-Longevity,Increase,41,41.0
+144,146,145,Caenorhabditis elegans,cyc-1,Cytochrome c1,172582,Anti-Longevity,Increase,87,87.0
+146,148,147,Caenorhabditis elegans,cyp-33E2,CYtochrome P450 family,185653,Anti-Longevity,Increase,18,18.0
+148,150,149,Saccharomyces cerevisiae,CYR1,Adenylate cyclase,853452,Anti-Longevity,Increase,90,90.0
+149,151,150,Caenorhabditis elegans,CELE_D1054.14,Protein D1054.14,179499,Anti-Longevity,Increase,36,36.0
+152,154,153,Caenorhabditis elegans,D2030.4,Protein D2030.4,172513,Anti-Longevity,Increase,40,40.0
+153,155,154,Caenorhabditis elegans,wdr-23,WD Repeat protein,172518,Anti-Longevity,Increase,24,24.0
+155,157,156,Caenorhabditis elegans,daf-1,abnormal DAuer Formation,176829,Anti-Longevity,Increase,46,46.0
+157,159,158,Caenorhabditis elegans,daf-14,abnormal DAuer Formation,177908,Anti-Longevity,Increase,44,44.0
+161,163,162,Caenorhabditis elegans,daf-19,Abnormal DAuer Formation,174577,Anti-Longevity,Increase,50,50.0
+162,164,163,Caenorhabditis elegans,daf-2,"abnormal DAuer Formation DAF-2, fork head-related transcription factor (daf-2)",175410,Anti-Longevity,Increase,200,200.0
+163,165,164,Caenorhabditis elegans,daf-28,Abnormal DAuer Formation,191014,Pro-Longevity,Increase,15,15.0
+165,167,166,Caenorhabditis elegans,daf-4,abnormal DAuer Formation,175781,Anti-Longevity,Increase,120,120.0
+167,169,168,Caenorhabditis elegans,daf-6,abnormal DAuer Formation,181584,Anti-Longevity,Increase,50,50.0
+168,170,169,Caenorhabditis elegans,daf-7,abnormal DAuer Formation,175237,Anti-Longevity,Increase,50,50.0
+169,171,170,Caenorhabditis elegans,daf-8,abnormal DAuer Formation,187612,Anti-Longevity,Increase,31,31.0
+170,172,171,Caenorhabditis elegans,daf-9,abnormal DAuer Formation,180889,Anti-Longevity,Increase,74,74.0
+171,173,172,Caenorhabditis elegans,ddl-1,Daf-16-Dependent Longevity (WT but not daf-16 lifespan increased),173954,Anti-Longevity,Increase,24,24.0
+172,174,173,Caenorhabditis elegans,ddl-2,Daf-16-Dependent Longevity (WT but not daf-16 lifespan increased),190025,Anti-Longevity,Increase,24,24.0
+174,176,175,Caenorhabditis elegans,des-2,DEgeneration Suppressor,179574,Anti-Longevity,Increase,60,60.0
+175,177,176,Caenorhabditis elegans,dic-1,human DICE1 (Deleted In Cancer) homolog,177676,Anti-Longevity,Increase,22,22.0
+179,181,180,Caenorhabditis elegans,dkf-2,D Kinase Family,180121,Anti-Longevity,Increase,40,40.0
+197,199,198,Drosophila melanogaster,l(3)DTS3,lethal (3) DTS3,249462,Anti-Longevity,Increase,42,42.0
+199,201,200,Caenorhabditis elegans,cyc-2.1,CYtochrome C,177243,Anti-Longevity,Increase,80,80.0
+201,203,202,Caenorhabditis elegans,eat-1,EATing: abnormal pharyngeal pumping,,Anti-Longevity,Increase,30,30.0
+202,204,203,Caenorhabditis elegans,eat-18,EATing: abnormal pharyngeal pumping,13183021,Anti-Longevity,Increase,60,60.0
+204,206,205,Caenorhabditis elegans,eat-3,EATing: abnormal pharyngeal pumping,174476,Anti-Longevity,Increase,10,10.0
+205,207,206,Caenorhabditis elegans,eat-6,EATing: abnormal pharyngeal pumping,179796,Anti-Longevity,Increase,40,40.0
+206,208,207,Drosophila melanogaster,EcR,Ecdysone receptor,35540,Anti-Longevity,Increase,50,50.0
+207,209,208,Drosophila melanogaster,Ef1alpha48D,Elongation factor 148D,36271,Pro-Longevity,Increase,41,41.0
+211,213,212,Caenorhabditis elegans,egl-3,EGg Laying defective,179412,Anti-Longevity,Increase,65,65.0
+212,214,213,Caenorhabditis elegans,pkg-1,EGg Laying defective,176991,Anti-Longevity,Increase,55,55.0
+213,215,214,Caenorhabditis elegans,egl-45,EGg Laying defective,176094,Anti-Longevity,Increase,52,52.0
+216,218,217,Caenorhabditis elegans,eif-3.B,Eukaryotic Initiation Factor,175138,Anti-Longevity,Increase,51,51.0
+217,219,218,Caenorhabditis elegans,eif-3.F,Eukaryotic Initiation Factor,174478,Anti-Longevity,Increase,32,32.0
+219,221,220,Caenorhabditis elegans,elt-6,Erythroid-Like Transcription factor family,176993,Anti-Longevity,Increase,34,34.0
+220,222,221,Caenorhabditis elegans,epc-1,Enhancer of PolyComb-like,176679,Anti-Longevity,Increase,20,20.0
+223,225,224,Caenorhabditis elegans,erm-1,Ezrin/Radixin/Moesin,172174,Anti-Longevity,Increase,15,15.0
+224,226,225,Caenorhabditis elegans,ero-1,Endoplasmic Reticulum Oxidase,173325,Anti-Longevity,Increase,32,32.0
+225,227,226,Caenorhabditis elegans,qars-1,glutaminyl(Q) tRNA Synthetase,178415,Anti-Longevity,Increase,40,40.0
+226,228,227,Caenorhabditis elegans,tkt-1,Protein TKT-1,177906,Anti-Longevity,Increase,25,25.0
+227,229,228,Caenorhabditis elegans,F08B4.7,Protein F08B4.7,177674,Anti-Longevity,Increase,21,21.0
+230,232,231,Caenorhabditis elegans,mrps-9,Protein MRPS-9,184267,Anti-Longevity,Increase,60,60.0
+231,233,232,Caenorhabditis elegans,F13B6.1,Protein F13B6.1,184407,Anti-Longevity,Increase,50,50.0
+232,234,233,Caenorhabditis elegans,F13G3.7,Protein F13G3.7,172478,Anti-Longevity,Increase,25,25.0
+233,235,234,Caenorhabditis elegans,F14B4.3,Protein F14B4.3,172752,Anti-Longevity,Increase,15,15.0
+234,236,235,Caenorhabditis elegans,set-9,SET (trithorax/polycomb) domain containing,177196,Anti-Longevity,Increase,22,22.0
+235,237,236,Caenorhabditis elegans,F19B6.1,Protein F19B6.1,178181,Anti-Longevity,Increase,35,35.0
+236,238,237,Caenorhabditis elegans,mrps-33,Protein MRPS-33,184770,Anti-Longevity,Increase,36,36.0
+238,240,239,Caenorhabditis elegans,daf-10,abnormal DAuer Formation,184883,Anti-Longevity,Increase,60,60.0
+239,241,240,Caenorhabditis elegans,symk-1,Protein SYMK-1,182490,Anti-Longevity,Increase,24,24.0
+240,242,241,Caenorhabditis elegans,F26A3.4,Protein F26A3.4,172525,Anti-Longevity,Increase,27,27.0
+241,243,242,Caenorhabditis elegans,F26E4.4,Protein F26E4.4,259393,Anti-Longevity,Increase,17,17.0
+242,244,243,Caenorhabditis elegans,F26E4.6,Protein F26E4.6,3565338,Anti-Longevity,Increase,60,60.0
+243,245,244,Caenorhabditis elegans,F28B3.5,Protein F28B3.5,172111,Anti-Longevity,Increase,30,30.0
+245,247,246,Caenorhabditis elegans,CELE_F29C4.2,Protein F29C4.2,176828,Anti-Longevity,Increase,100,100.0
+248,250,249,Caenorhabditis elegans,F33D4.5,Protein F33D4.5,177549,Anti-Longevity,Increase,57,57.0
+254,256,255,Caenorhabditis elegans,cutl-28,CUTiclin-Like,176895,Anti-Longevity,Increase,28,28.0
+255,257,256,Caenorhabditis elegans,F42A6.1,hypothetical protein,185645,Anti-Longevity,Increase,22,22.0
+258,260,259,Caenorhabditis elegans,mtch-1,Protein MTCH-1,174207,Anti-Longevity,Increase,21,21.0
+260,262,261,Caenorhabditis elegans,F49C12.9,Protein F49C12.9,177752,Anti-Longevity,Increase,19,19.0
+263,265,264,Caenorhabditis elegans,CELE_F53F4.11,Protein F53F4.11,179849,Anti-Longevity,Increase,27,27.0
+269,271,270,Caenorhabditis elegans,CELE_F56D5.5,Protein F56D5.5,177772,Anti-Longevity,Increase,20,20.0
+270,272,271,Caenorhabditis elegans,F57B10.3,Protein F57B10.3,172376,Anti-Longevity,Increase,20,20.0
+272,274,273,Caenorhabditis elegans,mrpl-24,Protein MRPL-24,172204,Anti-Longevity,Increase,14,14.0
+275,277,276,Caenorhabditis elegans,exos-3,EXOSome (multiexonuclease complex) component,186604,Anti-Longevity,Increase,12,12.0
+276,278,277,Caenorhabditis elegans,CELE_F59C6.5,Protein F59C6.5,172933,Anti-Longevity,Increase,70,70.0
+283,285,284,Saccharomyces cerevisiae,FOB1,Fob1p,851688,Anti-Longevity,Increase,50,50.0
+285,287,286,Drosophila melanogaster,foxo,"Forkhead box, sub-group O",41709,Pro-Longevity,Increase,33,33.0
+288,290,289,Drosophila melanogaster,fwd,four wheel drive,45374,Pro-Longevity,Increase,9,9.0
+292,294,293,Drosophila melanogaster,Gclc,Glutamate-cysteine ligase catalytic subunit,53581,Pro-Longevity,Increase,50,50.0
+293,295,294,Drosophila melanogaster,Gclm,Glutamate-cysteine ligase modifier subunit,248194,Pro-Longevity,Increase,24,24.0
+296,298,297,Caenorhabditis elegans,gcy-6,Guanylyl CYclase,191644,Anti-Longevity,Increase,25,25.0
+298,300,299,Caenorhabditis elegans,gei-15,GEX Interacting protein,180951,Anti-Longevity,Increase,13,13.0
+299,301,300,Caenorhabditis elegans,acdh-13,Acyl CoA DeHydrogenase,177654,Anti-Longevity,Increase,57,57.0
+301,303,302,Mus musculus,Ghr,Growth hormone receptor,14600,Anti-Longevity,Increase,40,40.0
+302,304,303,Mus musculus,Ghrhr,Growth hormone releasing hormone receptor,14602,Anti-Longevity,Increase,20,20.0
+307,309,308,Caenorhabditis elegans,glp-1,abnormal Germ Line Proliferation,176286,Anti-Longevity,Increase,33,33.0
+310,312,311,Caenorhabditis elegans,gpa-11,"G Protein, Alpha subunit",173759,Pro-Longevity,Increase,25,25.0
+315,317,316,Caenorhabditis elegans,gpa-6,"G Protein, Alpha subunit",181442,Anti-Longevity,Increase,10,10.0
+319,321,320,Caenorhabditis elegans,gpc-1,"G Protein, Gamma subunit",181424,Anti-Longevity,Increase,10,10.0
+322,324,323,Saccharomyces cerevisiae,GPR1,Gpr1p,851527,Anti-Longevity,Increase,50,50.0
+323,325,324,Mus musculus,Gpx4,Glutathione peroxidase 4,625249,Anti-Longevity,Increase,7,7.0
+324,326,325,Caenorhabditis elegans,grl-19,GRound-Like (grd related),176843,Anti-Longevity,Increase,27,27.0
+325,327,326,Caenorhabditis elegans,gro-1,abnormal GROwth rate,175725,Unannotated,Increase,29,29.0
+330,332,331,Caenorhabditis elegans,H28O16.1,Protein H28O16.1,173134,Anti-Longevity,Increase,27,27.0
+332,334,333,Saccharomyces cerevisiae,HAT2,Hat2p,856654,Unannotated,Increase,30,30.0
+334,336,335,Caenorhabditis elegans,hhat-2,Homolog of Hedgehog AcylTransferase,190374,Anti-Longevity,Increase,50,50.0
+339,341,340,Caenorhabditis elegans,hrp-1,human HnRNP A1 homolog,177101,Anti-Longevity,Increase,49,49.0
+347,349,349,Drosophila melanogaster,Hsp26,Heat shock protein 26,39075,Pro-Longevity,Increase,30,30.0
+348,350,350,Drosophila melanogaster,Hsp27,Heat shock protein 27,39078,Pro-Longevity,Increase,30,30.0
+349,351,351,Drosophila melanogaster,Hsp68,Heat shock protein 68,42852,Pro-Longevity,Increase,20,20.0
+352,354,354,Caenorhabditis elegans,htp-3,Him-Three Paralog,172099,Anti-Longevity,Increase,19,19.0
+354,356,356,Caenorhabditis elegans,hus-1,human HUS1 related,171939,Anti-Longevity,Increase,11,11.0
+355,357,357,Saccharomyces cerevisiae,HXK2,hexokinase 2,852639,Anti-Longevity,Increase,50,50.0
+356,358,358,Saccharomyces cerevisiae,IDH2,Idh2p,854303,Anti-Longevity,Increase,30,30.0
+360,362,362,Caenorhabditis elegans,ifg-1,Initiation Factor 4G (eIF4G) family,174322,Anti-Longevity,Increase,55,55.0
+361,363,363,Caenorhabditis elegans,ifta-2,IntraFlagellar Transport Associated,189055,Anti-Longevity,Increase,50,50.0
+363,365,365,Mus musculus,Igf1r,Insulin-like growth factor 1 receptor,16001,Anti-Longevity,Increase,40,40.0
+364,366,366,Drosophila melanogaster,Indy,I'm not dead yet protein,40049,Anti-Longevity,Increase,92,92.0
+366,368,368,Drosophila melanogaster,InR,Insulin-like 1 receptor,42549,Anti-Longevity,Increase,85,85.0
+367,369,369,Caenorhabditis elegans,ins-1,INSulin related,177936,Pro-Longevity,Increase,25,25.0
+370,372,372,Caenorhabditis elegans,ins-7,INSulin related,191688,Anti-Longevity,Increase,12,12.0
+371,373,373,Mus musculus,Insr,Insulin receptor,16337,Anti-Longevity,Increase,33.29999924,33.29999924
+373,375,375,Caenorhabditis elegans,inx-8,INneXin,178101,Anti-Longevity,Increase,19,19.0
+374,376,376,Caenorhabditis elegans,inx-9,INneXin,191694,Anti-Longevity,Increase,28,28.0
+375,377,377,Mus musculus,Irs1,insulin receptor substrate 1,16367,Anti-Longevity,Increase,18,18.0
+376,378,378,Mus musculus,Irs2,insulin receptor substrate 2,384783,Anti-Longevity,Increase,18,18.0
+377,379,379,Caenorhabditis elegans,isp-1,Iron-Sulfur Protein,177609,Anti-Longevity,Increase,60,60.0
+380,382,382,Caenorhabditis elegans,mrpl-10,Protein MRPL-10,186840,Anti-Longevity,Increase,17,17.0
+381,383,383,Caenorhabditis elegans,K01C8.7,Protein K01C8.7,186841,Anti-Longevity,Increase,20,20.0
+384,386,386,Caenorhabditis elegans,K07H8.8,Protein K07H8.8,187128,Anti-Longevity,Increase,22,22.0
+390,392,392,Caenorhabditis elegans,K11B4.1,Protein K11B4.1,173349,Anti-Longevity,Increase,16,16.0
+392,394,394,Caenorhabditis elegans,K12H4.5,Protein K12H4.5,187337,Anti-Longevity,Increase,58,58.0
+396,398,398,Saccharomyces cerevisiae,LAG1,Ceramide synthase component,856386,Anti-Longevity,Increase,50,50.0
+397,399,399,Saccharomyces cerevisiae,LAG2,Lag2p,854133,Pro-Longevity,Increase,36,36.0
+398,400,400,Saccharomyces cerevisiae,LAT1,"Dihydrolipoamide acetyltransferase component (E2) of pyruvate dehydrogenase complex, which catalyzes",855653,Pro-Longevity,Increase,20,20.0
+407,409,409,Caenorhabditis elegans,lin-14,abnormal cell LINeage,181337,Anti-Longevity,Increase,31,31.0
+411,413,413,Caenorhabditis elegans,dld-1,Protein DLD-1,178387,Anti-Longevity,Increase,61,61.0
+414,416,416,Caenorhabditis elegans,lpd-5,LiPid Depleted,172037,Anti-Longevity,Increase,17,17.0
+432,434,434,Caenorhabditis elegans,mes-1,Maternal Effect Sterile,181362,Anti-Longevity,Increase,60,60.0
+441,443,443,Caenorhabditis elegans,mars-1,Methionyl tRNA Synthetase,178089,Anti-Longevity,Increase,23,23.0
+443,445,445,Drosophila melanogaster,Eip71CD,Ecdysone-induced protein 28/29kD,39675,Pro-Longevity,Increase,70,70.0
+445,447,447,Drosophila melanogaster,mth,methuselah,38058,Unclear,Increase,35,35.0
+449,451,451,Drosophila melanogaster,mys,myospheroid,44885,Anti-Longevity,Increase,44,44.0
+450,452,452,Caenorhabditis elegans,nac-2,NADC (Na+-coupled dicarboxylate transporter) family,187898,Anti-Longevity,Increase,19,19.0
+451,453,453,Caenorhabditis elegans,nac-3,NADC (Na+-coupled dicarboxylate transporter) family,176429,Anti-Longevity,Increase,15,15.0
+453,455,455,Saccharomyces cerevisiae,NDE1,NADH-ubiquinone reductase (H(+)-translocating) NDE1,855176,Unclear,Increase,25,25.0
+454,456,456,Saccharomyces cerevisiae,NDE2,NADH-ubiquinone reductase (H(+)-translocating) NDE2,851474,Pro-Longevity,Increase,25,25.0
+457,459,459,Drosophila melanogaster,Nf1,Neurofibromin 1,43149,Pro-Longevity,Increase,68,68.0
+462,464,464,Caenorhabditis elegans,nhx-2,Na/H eXchanger,174242,Anti-Longevity,Increase,40,40.0
+465,467,467,Caenorhabditis elegans,npa-1,Nematode Polyprotein Allergen related,179095,Anti-Longevity,Increase,32,32.0
+469,471,471,Caenorhabditis elegans,nars-1,asparagiNyl tRNA Synthetase,172442,Anti-Longevity,Increase,11,11.0
+474,476,476,Caenorhabditis elegans,nuo-1,NADH Ubiquinone Oxidoreductase,174696,Anti-Longevity,Increase,50,50.0
+476,478,478,Caenorhabditis elegans,nuo-3,NADH Ubiquinone Oxidoreductase,178404,Anti-Longevity,Increase,77,77.0
+477,479,479,Caenorhabditis elegans,nuo-4,NADH Ubiquinone Oxidoreductase,176001,Anti-Longevity,Increase,38,38.0
+479,481,481,Caenorhabditis elegans,odr-3,ODoRant response abnormal,179806,Anti-Longevity,Increase,30,30.0
+480,482,482,Caenorhabditis elegans,pept-1,OligoPeptide Transporter,180919,Anti-Longevity,Increase,40,40.0
+481,483,483,Drosophila melanogaster,Orco,Odorant receptor co-receptor,40650,Anti-Longevity,Increase,56,56.0
+482,484,484,Caenorhabditis elegans,osm-1,OSMotic avoidance abnormal,181715,Anti-Longevity,Increase,40,40.0
+484,486,486,Caenorhabditis elegans,osm-5,OSMotic avoidance abnormal,180585,Anti-Longevity,Increase,150,150.0
+485,487,487,Caenorhabditis elegans,osm-6,OSMotic avoidance abnormal,179631,Anti-Longevity,Increase,40,40.0
+486,488,488,Drosophila melanogaster,ovo,CG6824-PA,31429,Anti-Longevity,Increase,50,50.0
+487,489,489,Drosophila melanogaster,p53,CG33336-PA,2768677,Anti-Longevity,Increase,58,58.0
+488,490,490,Caenorhabditis elegans,pab-1,PolyA Binding protein,172920,Anti-Longevity,Increase,30,30.0
+490,492,492,Mus musculus,Pappa,Pregnancy-associated plasma protein A,18491,Anti-Longevity,Increase,30,30.0
+492,494,494,Caenorhabditis elegans,pat-4,Paralysed Arrest at Two-fold,175175,Anti-Longevity,Increase,24,24.0
+493,495,495,Caenorhabditis elegans,pat-6,Paralysed Arrest at Two-fold,176848,Anti-Longevity,Increase,60,60.0
+496,498,498,Drosophila melanogaster,Pcmt,Protein-L-isoaspartate (D-aspartate) O-methyltransferase,40668,Pro-Longevity,Increase,39,39.0
+497,499,499,Caenorhabditis elegans,pdk-1,PDK-class protein kinase,180475,Anti-Longevity,Increase,60,60.0
+504,506,506,Mus musculus,Pou1f1,"POU domain, class 1, transcription factor 1",18736,Anti-Longevity,Increase,40,40.0
+507,509,509,Mus musculus,Plau,"Plasminogen activator, urokinase",18792,Pro-Longevity,Increase,20,20.0
+509,511,511,Caenorhabditis elegans,pod-1,Polarity and Osmotic sensitivity Defect,176784,Anti-Longevity,Increase,45,45.0
+511,513,513,Caenorhabditis elegans,pos-1,POsterior Segregation,179224,Anti-Longevity,Increase,20,20.0
+512,514,514,Drosophila melanogaster,POSH,Plenty of SH3s,36990,Pro-Longevity,Increase,14,14.0
+518,520,520,Caenorhabditis elegans,prx-5,PeRoXisome assembly factor,174392,Anti-Longevity,Increase,30,30.0
+523,525,525,Caenorhabditis elegans,R10H10.7,Protein R10H10.7,177932,Anti-Longevity,Increase,22,22.0
+525,527,527,Caenorhabditis elegans,set-15,SET (trithorax/polycomb) domain containing,187813,Anti-Longevity,Increase,10,10.0
+527,529,529,Caenorhabditis elegans,R53.4,Protein R53.4,174554,Anti-Longevity,Increase,20,20.0
+536,538,538,Caenorhabditis elegans,ral-1,RAL (Ras-related GTPase) homolog,175433,Anti-Longevity,Increase,19,19.0
+537,539,539,Saccharomyces cerevisiae,RAS1,GTPase involved in G-protein signaling in the adenylate cyclase activating pathway,854268,Anti-Longevity,Increase,23,23.0
+538,540,540,Saccharomyces cerevisiae,RAS2,"GTP-binding protein that regulates the nitrogen starvation response, sporulation, and filamentous gr",855625,Unclear,Increase,43,43.0
+541,543,543,Drosophila melanogaster,Rdh,CG14975-PA,2769007,Pro-Longevity,Increase,8,8.0
+542,544,544,Saccharomyces cerevisiae,REI1,Cytoplasmic pre-60S factor,852569,Anti-Longevity,Increase,40,40.0
+543,545,545,Caenorhabditis elegans,rha-2,RNA HelicAse,176207,Anti-Longevity,Increase,32,32.0
+547,549,549,Caenorhabditis elegans,ril-1,RNAi-Induced Longevity,179958,Anti-Longevity,Increase,32,32.0
+552,554,554,Saccharomyces cerevisiae,ROM2,GDP/GTP exchange protein (GEP) for Rho1p and Rho2p,851086,Anti-Longevity,Increase,50,50.0
+553,555,555,Saccharomyces cerevisiae,RPD3,Histone deacetylase,855386,Anti-Longevity,Increase,41,41.0
+554,556,556,Drosophila melanogaster,Rpd3,CG7471-PA,38565,Anti-Longevity,Increase,52,52.0
+556,558,558,Caenorhabditis elegans,rpl-30,"Ribosomal Protein, Large subunit",172921,Anti-Longevity,Increase,13,13.0
+559,561,561,Saccharomyces cerevisiae,RPL10,ribosomal 60S subunit protein L10,850764,Anti-Longevity,Increase,24,24.0
+561,563,563,Saccharomyces cerevisiae,RPL6B,ribosomal 60S subunit protein L6B,851169,Anti-Longevity,Increase,40,40.0
+564,566,566,Caenorhabditis elegans,rps-11,"Ribosomal Protein, Small subunit",178083,Anti-Longevity,Increase,29.79999924,29.79999924
+565,567,567,Caenorhabditis elegans,rps-15,"Ribosomal Protein, Small subunit",172693,Anti-Longevity,Increase,50,50.0
+567,569,569,Caenorhabditis elegans,rps-23,"Ribosomal Protein, Small subunit",178188,Anti-Longevity,Increase,126,126.0
+569,571,571,Caenorhabditis elegans,rps-3,"Ribosomal Protein, Small subunit",175879,Anti-Longevity,Increase,32,32.0
+570,572,572,Caenorhabditis elegans,rps-5,"Ribosomal Protein, Small subunit",178012,Anti-Longevity,Increase,75,75.0
+572,574,574,Caenorhabditis elegans,rps-8,"Ribosomal Protein, Small subunit",177503,Anti-Longevity,Increase,18,18.0
+573,575,575,Saccharomyces cerevisiae,RPS18A,ribosomal 40S subunit protein S18A,852061,Anti-Longevity,Increase,15,15.0
+574,576,576,Saccharomyces cerevisiae,RPS18B,ribosomal 40S subunit protein S18B,854982,Anti-Longevity,Increase,15,15.0
+575,577,577,Saccharomyces cerevisiae,RPS6B,ribosomal 40S subunit protein S6B,852479,Anti-Longevity,Increase,45,45.0
+576,578,578,Caenorhabditis elegans,rsks-1,RSK-pSeventy (RSK-p70 kinase) homolog,176554,Anti-Longevity,Increase,47,47.0
+582,584,584,Caenorhabditis elegans,sams-1,S-Adenosyl Methionine Synthetase,181370,Anti-Longevity,Increase,15,15.0
+583,585,585,Caenorhabditis elegans,sas-5,Spindle ASsembly abnormal,179592,Anti-Longevity,Increase,30,30.0
+585,587,587,Caenorhabditis elegans,sca-1,SERCA (Sarco-Endoplasmic Reticulum Calcium ATPase),176512,Anti-Longevity,Increase,18.60000038,18.60000038
+588,590,590,Saccharomyces cerevisiae,SCH9,Protein kinase that regulates signal transduction activity and G1 progression,856612,Anti-Longevity,Increase,300,300.0
+590,592,592,Saccharomyces cerevisiae,SCP1,Scp1p,854549,Anti-Longevity,Increase,65,65.0
+593,595,595,Caenorhabditis elegans,sel-5,Suppressor/Enhancer of Lin-12,175599,Anti-Longevity,Increase,29,29.0
+594,596,596,Caenorhabditis elegans,sem-5,SEx Muscle abnormal,181055,Anti-Longevity,Increase,24,24.0
+595,597,597,Caenorhabditis elegans,ser-1,SERotonin/octopamine receptor family,181716,Anti-Longevity,Increase,46,46.0
+599,601,601,Mus musculus,Shc1,SHC (Src homology 2 domain containing) transforming protein 1,20416,Anti-Longevity,Increase,30,30.0
+604,606,606,Saccharomyces cerevisiae,SIR2,Sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae),851520,Unclear,Increase,600,600.0
+616,618,618,Caenorhabditis elegans,SNCA,"synuclein, alpha (non A4 component of amyloid precursor)",,Pro-Longevity,Increase,25,25.0
+618,620,620,Saccharomyces cerevisiae,SNF4,Protein kinase activator found in a complex containing Snf1p and members of the Sip1p/Sip2p/Gal83p f,852763,Anti-Longevity,Increase,20,20.0
+623,625,625,Caenorhabditis elegans,spe-26,Defective SPErmatogenesis,177929,Anti-Longevity,Increase,65,65.0
+632,634,634,Drosophila melanogaster,sug,sugarbabe,36424,Pro-Longevity,Increase,9,9.0
+635,637,637,Mus musculus,Surf1,surfeit gene 1,20930,Anti-Longevity,Increase,20,20.0
+637,639,639,Caenorhabditis elegans,T02H6.11,Protein T02H6.11,173459,Anti-Longevity,Increase,60,60.0
+639,641,641,Caenorhabditis elegans,T05A1.5,T05A1.5b,188077,Anti-Longevity,Increase,20,20.0
+641,643,643,Caenorhabditis elegans,T07A9.8,Protein T07A9.8,176864,Anti-Longevity,Increase,24,24.0
+644,646,646,Caenorhabditis elegans,T20H4.5,Protein T20H4.5,176023,Anti-Longevity,Increase,51,51.0
+645,647,647,Caenorhabditis elegans,mrpl-50,Protein MRPL-50,174422,Anti-Longevity,Increase,17,17.0
+648,650,650,Caenorhabditis elegans,ogdh-1,Protein OGDH-1,177235,Anti-Longevity,Increase,79,79.0
+649,651,651,Caenorhabditis elegans,rab-10,RAB family,266836,Anti-Longevity,Increase,16,16.0
+651,653,653,Caenorhabditis elegans,eif-1,Protein EIF-1,266853,Anti-Longevity,Increase,25,25.0
+652,654,654,Caenorhabditis elegans,T28A8.6,Protein T28A8.6,176780,Anti-Longevity,Increase,28,28.0
+653,655,655,Caenorhabditis elegans,T28D6.4,Protein T28D6.4,176566,Anti-Longevity,Increase,33,33.0
+654,656,656,Caenorhabditis elegans,tag-174,Temporarily Assigned Gene name,175693,Anti-Longevity,Increase,25,25.0
+655,657,657,Caenorhabditis elegans,abcx-1,"ABC transporter, eXtended",183860,Anti-Longevity,Increase,16,16.0
+656,658,658,Caenorhabditis elegans,wts-1,WarTS (Drosophila) protein kinase homolog,172896,Anti-Longevity,Increase,21,21.0
+657,659,659,Caenorhabditis elegans,tes-1,Temporarily Assigned Gene name,177515,Anti-Longevity,Increase,60,60.0
+659,661,661,Caenorhabditis elegans,mrps-30,Temporarily Assigned Gene name,172957,Anti-Longevity,Increase,21,21.0
+660,662,662,Caenorhabditis elegans,spe-5,Temporarily Assigned Gene name,172137,Anti-Longevity,Increase,23,23.0
+664,666,666,Caenorhabditis elegans,ant-1.1,Adenine Nucleotide Translocator,176773,Anti-Longevity,Increase,40,40.0
+665,667,667,Caenorhabditis elegans,nduf-2.2,NADH Ubiquinone oxidoreductase Fe-S protein,188912,Anti-Longevity,Increase,20,20.0
+666,668,668,Caenorhabditis elegans,tax-4,abnormal CHEmotaxis,176297,Anti-Longevity,Increase,100,100.0
+667,669,669,Caenorhabditis elegans,tax-6,abnormal CHEmotaxis,177943,Anti-Longevity,Increase,27,27.0
+668,670,670,Caenorhabditis elegans,tba-7,"TuBulin, Alpha",176568,Anti-Longevity,Increase,13,13.0
+671,673,673,Caenorhabditis elegans,old-1,Overexpression Longevity Determinant,191737,Pro-Longevity,Increase,65,65.0
+677,679,679,Saccharomyces cerevisiae,TOR1,PIK-related protein kinase and rapamycin target,853529,Anti-Longevity,Increase,30,30.0
+678,680,680,Caenorhabditis elegans,tpa-1,TPA (tetradecanoyl phorbol acetate) resistant,176825,Anti-Longevity,Increase,28,28.0
+679,681,681,Saccharomyces cerevisiae,TPK2,Tpk2p,855898,Anti-Longevity,Increase,25,25.0
+682,684,684,Caenorhabditis elegans,tars-1,Threonyl Amino-acyl tRNA Synthetase,174790,Anti-Longevity,Increase,12,12.0
+684,686,686,Drosophila melanogaster,TrxT,Thioredoxin T,31443,Pro-Longevity,Increase,15,15.0
+686,688,688,Caenorhabditis elegans,ttr-1,TransThyretin-Related family domain,186958,Anti-Longevity,Increase,19,19.0
+688,690,690,Caenorhabditis elegans,tufm-1,"TU elongation Factor (EF-Tu), Mitochondrial",175398,Anti-Longevity,Increase,89,89.0
+689,691,691,Mus musculus,Txn1,Thioredoxin 1,22166,Pro-Longevity,Increase,35,35.0
+693,695,695,Drosophila melanogaster,UCP2,"uncoupling protein 2 (mitochondrial, proton carrier)",7351,Pro-Longevity,Increase,30,30.0
+694,696,696,Mus musculus,Ucp2,"uncoupling protein 2 (mitochondrial, proton carrier)",22228,Pro-Longevity,Increase,20,20.0
+695,697,697,Caenorhabditis elegans,ucr-1,Ubiquinol-Cytochrome c oxidoReductase complex,175772,Anti-Longevity,Increase,110,110.0
+700,702,702,Caenorhabditis elegans,unc-13,UNCoordinated,172497,Anti-Longevity,Increase,150,150.0
+701,703,703,Caenorhabditis elegans,unc-26,UNCoordinated,178284,Anti-Longevity,Increase,50,50.0
+702,704,704,Caenorhabditis elegans,unc-31,UNCoordinated,178233,Anti-Longevity,Increase,150,150.0
+704,706,706,Caenorhabditis elegans,unc-4,UNCoordinated,174544,Unannotated,Increase,100,100.0
+705,707,707,Caenorhabditis elegans,unc-52,UNCoordinated,175126,Anti-Longevity,Increase,11,11.0
+707,709,709,Caenorhabditis elegans,unc-62,UNCoordinated,178845,Anti-Longevity,Increase,38,38.0
+709,711,711,Caenorhabditis elegans,unc-76,UNCoordinated,180014,Unannotated,Increase,50,50.0
+711,713,713,Saccharomyces cerevisiae,URE2,Ure2p,855492,Anti-Longevity,Increase,20,20.0
+712,714,714,Saccharomyces cerevisiae,UTH1,Uth1p,853916,Anti-Longevity,Increase,15,15.0
+713,715,715,Caenorhabditis elegans,vha-6,Vacuolar H ATPase,174743,Anti-Longevity,Increase,24,24.0
+714,716,716,Drosophila melanogaster,VhaSFD,Vacuolar H+-ATPase SFD subunit,34997,Pro-Longevity,Increase,10,10.0
+720,722,722,Caenorhabditis elegans,nol-5,NucleOLar protein,171901,Anti-Longevity,Increase,15,15.0
+721,723,723,Caenorhabditis elegans,W03G1.5,Protein W03G1.5,189167,Anti-Longevity,Increase,54,54.0
+725,727,727,Caenorhabditis elegans,nol-1,NucleOLar protein,173437,Anti-Longevity,Increase,31,31.0
+726,728,728,Caenorhabditis elegans,dct-15,"DAF-16/FOXO Controlled, germline Tumor affecting",189289,Anti-Longevity,Increase,10,10.0
+727,729,729,Caenorhabditis elegans,CELE_W09C5.8,Protein W09C5.8,173237,Anti-Longevity,Increase,100,100.0
+728,730,730,Caenorhabditis elegans,mrpl-12,Protein MRPL-12,176495,Anti-Longevity,Increase,51,51.0
+735,737,737,Caenorhabditis elegans,sams-2,,178446,Anti-Longevity,Increase,27,27.0
+736,738,738,Caenorhabditis elegans,dct-13,"DAF-16/FOXO Controlled, germline Tumor affecting",178476,Anti-Longevity,Increase,23,23.0
+738,740,740,Caenorhabditis elegans,mrps-10,Protein MRPS-10,189618,Anti-Longevity,Increase,39,39.0
+740,742,742,Caenorhabditis elegans,dct-14,"DAF-16/FOXO Controlled, germline Tumor affecting",189684,Anti-Longevity,Increase,19,19.0
+742,744,744,Caenorhabditis elegans,CELE_Y39G10AR.8,Protein Y39G10AR.8,171792,Anti-Longevity,Increase,24,24.0
+745,747,747,Caenorhabditis elegans,Y43F4B.7,Protein Y43F4B.7,259544,Anti-Longevity,Increase,11,11.0
+751,753,753,Caenorhabditis elegans,spg-7,human SPG (spastic paraplegia),171915,Anti-Longevity,Increase,23,23.0
+753,755,755,Caenorhabditis elegans,Y48G1A.4,Protein Y48G1A.4,171622,Anti-Longevity,Increase,21,21.0
+755,757,757,Caenorhabditis elegans,CELE_Y54E10BR.4,Protein Y54E10BR.4,171874,Anti-Longevity,Increase,15,15.0
+758,760,760,Caenorhabditis elegans,Y56A3A.19,Protein Y56A3A.19,176622,Anti-Longevity,Increase,37,37.0
+760,762,762,Caenorhabditis elegans,dct-12,"DAF-16/FOXO Controlled, germline Tumor affecting",190351,Anti-Longevity,Increase,14,14.0
+763,765,765,Caenorhabditis elegans,Y65B4BR.5,Protein Y65B4BR.5,171646,Anti-Longevity,Increase,17,17.0
+764,766,766,Caenorhabditis elegans,fbxa-220,F-box A protein,190489,Anti-Longevity,Increase,25,25.0
+765,767,767,Caenorhabditis elegans,CELE_Y69A2AR.19,Protein Y69A2AR.19,177036,Anti-Longevity,Increase,19,19.0
+770,772,772,Caenorhabditis elegans,acs-5,fatty Acid CoA Synthetase family,176785,Anti-Longevity,Increase,52,52.0
+772,774,774,Saccharomyces cerevisiae,YBR238C,hypothetical protein,852540,Anti-Longevity,Increase,30,30.0
+776,778,778,Caenorhabditis elegans,yars-1,YARS-1,177237,Anti-Longevity,Increase,55,55.0
+777,779,779,Caenorhabditis elegans,ZC132.3,Protein ZC132.3,178827,Anti-Longevity,Increase,26,26.0
+779,781,781,Saccharomyces cerevisiae,ZDS1,Zds1p,855316,Anti-Longevity,Increase,37,37.0
+781,783,783,Caenorhabditis elegans,ZK1127.5,Protein ZK1127.5,174151,Anti-Longevity,Increase,24,24.0
+784,786,786,Caenorhabditis elegans,ZK686.2,Protein ZK686.2,176088,Anti-Longevity,Increase,24,24.0
+785,787,787,Caenorhabditis elegans,ZK809.3,Protein ZK809.3,178096,Anti-Longevity,Increase,100,100.0
+788,790,811,Mus musculus,Agtr1a,"Angiotensin II receptor, type 1a",11607,Anti-Longevity,Increase,26,26.0
+794,796,817,Mus musculus,Eps8,Epidermal growth factor receptor pathway substrate 8,13860,Anti-Longevity,Increase,37,37.0
+797,799,820,Mus musculus,Htt,Huntingtin,15194,Anti-Longevity,Increase,18,18.0
+799,801,822,Mus musculus,Kcna3,"Potassium voltage-gated channel, shaker-related subfamily, member 3",16491,Anti-Longevity,Increase,22,22.0
+802,804,825,Mus musculus,Slc13a1,"Solute carrier family 13 (sodium/sulfate symporters), member 1",55961,Anti-Longevity,Increase,25,25.0
+808,810,831,Drosophila melanogaster,14-3-3epsilon,CG31196 gene product from transcript CG31196-RA,42186,Anti-Longevity,Increase,49,49.0
+810,812,833,Drosophila melanogaster,alpha-Man-I,Alpha Mannosidase I,31957,Anti-Longevity,Increase,39,39.0
+811,813,834,Drosophila melanogaster,Atg2,Autophagy-specific gene 2,38344,Pro-Longevity,Increase,28,28.0
+813,815,836,Drosophila melanogaster,bam,bag of marbles,43038,Pro-Longevity,Increase,50,50.0
+815,817,838,Drosophila melanogaster,CG17856,CG17856 gene product from transcript CG17856-RA,43369,Anti-Longevity,Increase,18,18.0
+816,818,839,Drosophila melanogaster,CG18809,CG18809 gene product from transcript CG18809-RA,59170,Anti-Longevity,Increase,19,19.0
+817,819,840,Drosophila melanogaster,CG5389,CG5389 gene product from transcript CG5389-RA,39761,Anti-Longevity,Increase,11,11.0
+818,820,841,Drosophila melanogaster,CG9172,CG9172 gene product from transcript CG9172-RA,32565,Anti-Longevity,Increase,46,46.0
+821,823,844,Drosophila melanogaster,E(z),Enhancer of zeste,39203,Anti-Longevity,Increase,76,76.0
+822,824,845,Drosophila melanogaster,Edem1,CG3810 gene product from transcript CG3810-RC,31154,Anti-Longevity,Increase,30,30.0
+824,826,847,Drosophila melanogaster,esc,extra sexcombs,34595,Anti-Longevity,Increase,59,59.0
+825,827,848,Drosophila melanogaster,fh,frataxin homolog,31845,Pro-Longevity,Increase,35,35.0
+826,828,849,Drosophila melanogaster,Gadd45,CG11086 gene product from transcript CG11086-RA,35646,Pro-Longevity,Increase,77,77.0
+827,829,850,Drosophila melanogaster,Gr63a,Gustatory receptor 63a,38453,Anti-Longevity,Increase,30,30.0
+828,830,851,Drosophila melanogaster,GstS1,Glutathione S transferase S1,36927,Pro-Longevity,Increase,33,33.0
+829,831,852,Drosophila melanogaster,hebe,hebe gene product from transcript hebe-RD ,36011,Pro-Longevity,Increase,24,24.0
+830,832,853,Drosophila melanogaster,Hsc70-3,Heat shock protein cognate 3,32133,Pro-Longevity,Increase,27,27.0
+832,834,855,Drosophila melanogaster,Ilp2,Insulin-related peptide   ,39150,Anti-Longevity,Increase,47,47.0
+833,835,856,Drosophila melanogaster,Jafrac1,Thioredoxin peroxidase 1,53578,Pro-Longevity,Increase,29,29.0
+836,838,859,Drosophila melanogaster,Keap1,CG3962 gene product from transcript CG3962-RA,42062,Anti-Longevity,Increase,10,10.0
+839,841,862,Drosophila melanogaster,l(3)neo18,l(3)neo18,46260,Anti-Longevity,Increase,24,24.0
+841,843,864,Drosophila melanogaster,Lnk,CG17367 gene product from transcript CG17367-RC,43130,Anti-Longevity,Increase,33,33.0
+843,845,867,Drosophila melanogaster,magu,magu  gene product from transcript magu -RD,36048,Pro-Longevity,Increase,5.300000191,5.300000191
+846,848,870,Drosophila melanogaster,MTF-1,Metal response element-binding Transcription Factor-1,39089,Pro-Longevity,Increase,40,40.0
+847,849,871,Drosophila melanogaster,Naam,Naam gene product from transcript Naam-RA,42348,Pro-Longevity,Increase,30,30.0
+851,853,875,Drosophila melanogaster,Prx5,Peroxiredoxin 5,3771951,Pro-Longevity,Increase,30,30.0
+852,854,876,Drosophila melanogaster,Pten,CG5671 gene product from transcript CG5671-RB,43991,Pro-Longevity,Increase,12.69999981,12.69999981
+855,857,879,Drosophila melanogaster,snz,snazarus (sorting nexin lazarus),31704,Anti-Longevity,Increase,85,85.0
+856,858,880,Drosophila melanogaster,Thor,CG8846 gene product from transcript CG8846-RA,33569,Pro-Longevity,Increase,22,22.0
+857,859,881,Drosophila melanogaster,to,takeout,43036,Pro-Longevity,Increase,26,26.0
+859,861,883,Drosophila melanogaster,Zw,Zwischenferment,32974,Pro-Longevity,Increase,38,38.0
+860,862,884,Caenorhabditis elegans,ace-1,abnormal ACEtylcholinesterase,181706,Anti-Longevity,Increase,8,8.0
+864,866,888,Caenorhabditis elegans,aps-3,"daPtin, Small chain (clathrin associated complex)",171691,Anti-Longevity,Increase,40,40.0
+866,868,890,Caenorhabditis elegans,arf-1.1,ADP-Ribosylation Factor related,191609,Anti-Longevity,Increase,10,10.0
+867,869,891,Caenorhabditis elegans,arr-1,ARRestin family ,180446,Anti-Longevity,Increase,35,35.0
+868,870,892,Caenorhabditis elegans,ash-2,"ASH histone methyltransferase complex subunit (Drosophila absent, small or homeotic discs) ",174838,Anti-Longevity,Increase,30,30.0
+875,877,899,Caenorhabditis elegans,B0024.4,hypothetical protein,179432,Anti-Longevity,Increase,15,15.0
+876,878,900,Caenorhabditis elegans,bub-3, yeast BUB homolog,175018,Anti-Longevity,Increase,6,6.0
+877,879,901,Caenorhabditis elegans,acs-7,hypothetical protein,174472,Anti-Longevity,Increase,20,20.0
+878,880,902,Caenorhabditis elegans,C03H5.3,hypothetical protein,173427,Anti-Longevity,Increase,20,20.0
+879,881,903,Caenorhabditis elegans,sams-3,hypothetical protein,177355,Anti-Longevity,Increase,50,50.0
+880,882,904,Caenorhabditis elegans,CELE_C17H1.7,hypothetical protein,182749,Anti-Longevity,Increase,15,15.0
+881,883,905,Caenorhabditis elegans,CELE_C25H3.9,hypothetical protein,173963,Anti-Longevity,Increase,30,30.0
+882,884,906,Caenorhabditis elegans,CELE_C31B8.4,hypothetical protein,183078,Anti-Longevity,Increase,13,13.0
+887,889,911,Caenorhabditis elegans,cyp-13B1,CYtochrome P450 family,181462,Anti-Longevity,Increase,20,20.0
+888,890,912,Caenorhabditis elegans,D2030.1,"Alpha-1,2-mannosidase I",172510,Anti-Longevity,Increase,9,9.0
+893,895,917,Caenorhabditis elegans,eak-7,hypothetical protein,3564920,Unclear,Increase,30,30.0
+895,897,919,Caenorhabditis elegans,egl-30,EGg Laying defective   ,171751,Anti-Longevity,Increase,38,38.0
+896,898,920,Caenorhabditis elegans,egl-8,EGg Laying defective   ,178537,Anti-Longevity,Increase,83,83.0
+897,899,921,Caenorhabditis elegans,egl-9,EGg Laying defective,179461,Anti-Longevity,Increase,20,20.0
+899,901,923,Caenorhabditis elegans,ets-4,ETS class transcription factor,180927,Anti-Longevity,Increase,40,40.0
+901,903,925,Caenorhabditis elegans,CELE_F11A3.2,hypothetical protein,179331,Anti-Longevity,Increase,14,14.0
+902,904,926,Caenorhabditis elegans,F11G11.13,hypothetical protein,184367,Anti-Longevity,Increase,20,20.0
+903,905,927,Caenorhabditis elegans,F15B9.6,hypothetical protein,184523,Anti-Longevity,Increase,17,17.0
+904,906,928,Caenorhabditis elegans,F15D3.8,hypothetical protein,184528,Anti-Longevity,Increase,10,10.0
+905,907,929,Caenorhabditis elegans,ent-5,hypothetical protein,184599,Anti-Longevity,Increase,20,20.0
+906,908,930,Caenorhabditis elegans,F22D3.5,hypothetical protein,184826,Anti-Longevity,Increase,10,10.0
+907,909,931,Caenorhabditis elegans,CELE_F23F12.3,hypothetical protein,175926,Anti-Longevity,Increase,15,15.0
+908,910,932,Caenorhabditis elegans,F25B3.5,hypothetical protein,184916,Anti-Longevity,Increase,20,20.0
+909,911,933,Caenorhabditis elegans,grld-1,hypothetical protein,176827,Anti-Longevity,Increase,10,10.0
+910,912,934,Caenorhabditis elegans,F36A2.7,hypothetical protein,172692,Anti-Longevity,Increase,80,80.0
+911,913,935,Caenorhabditis elegans,F45H10.2,hypothetical protein,174992,Anti-Longevity,Increase,40,40.0
+912,914,936,Caenorhabditis elegans,CELE_F53H1.3,hypothetical protein,176945,Anti-Longevity,Increase,30,30.0
+914,916,938,Caenorhabditis elegans,F58F9.7,hypothetical protein,177386,Anti-Longevity,Increase,15,15.0
+915,917,939,Caenorhabditis elegans,slcf-1,hypothetical protein,186633,Anti-Longevity,Increase,40,40.0
+916,918,940,Caenorhabditis elegans,fbxa-188,F-box A protein,185954,Anti-Longevity,Increase,13,13.0
+917,919,941,Caenorhabditis elegans,fzy-1,FiZzY (CDC20 protein family) homolog,266859,Anti-Longevity,Increase,25,25.0
+920,922,944,Caenorhabditis elegans,hpa-1,hypothetical protein,186781,Anti-Longevity,Increase,30,30.0
+921,923,945,Caenorhabditis elegans,hcf-1,human HCF1 related,177560,Anti-Longevity,Increase,40,40.0
+922,924,946,Caenorhabditis elegans,hpa-2,hypothetical protein,188415,Anti-Longevity,Increase,15,15.0
+925,927,949,Caenorhabditis elegans,itr-1,Inositol Triphosphate Receptor,177546,Pro-Longevity,Increase,53,53.0
+933,935,958,Caenorhabditis elegans,lys-10,LYSozyme,184622,Anti-Longevity,Increase,20,20.0
+934,936,959,Caenorhabditis elegans,lys-6,LYSozyme,178087,Anti-Longevity,Increase,13,13.0
+935,937,960,Caenorhabditis elegans,max-2,Motor AXon guidance,3565400,Anti-Longevity,Increase,25,25.0
+937,939,962,Caenorhabditis elegans,mpz-1,Multiple PDZ domain protein,174657,Anti-Longevity,Increase,31,31.0
+944,946,969,Caenorhabditis elegans,pcm-1,Protein Carboxymethyltransferase,178981,Pro-Longevity,Increase,30,30.0
+947,949,972,Caenorhabditis elegans,CELE_R03D7.4,hypothetical protein,174683,Anti-Longevity,Increase,13,13.0
+948,950,973,Caenorhabditis elegans,R07E4.3,hypothetical protein,180862,Anti-Longevity,Increase,20,20.0
+949,951,974,Caenorhabditis elegans,R12E2.2,hypothetical protein,172011,Anti-Longevity,Increase,50,50.0
+952,954,977,Caenorhabditis elegans,set-2,SET (trithorax/polycomb) domain containing,175662,Anti-Longevity,Increase,30,30.0
+953,955,978,Caenorhabditis elegans,set-4,SET (trithorax/polycomb) domain containing,174045,Anti-Longevity,Increase,20,20.0
+956,958,981,Caenorhabditis elegans,skr-5,SKp1 Related (ubiquitin ligase complex component),180148,Anti-Longevity,Increase,10,10.0
+957,959,982,Caenorhabditis elegans,sma-10,hypothetical protein,176849,Anti-Longevity,Increase,30,30.0
+958,960,983,Caenorhabditis elegans,smg-1,Suppressor with Morphological effect on Genitalia,172418,Anti-Longevity,Increase,30,30.0
+960,962,985,Caenorhabditis elegans,sod-2,Superoxide dismutase (24.5 kD) (sod-2),172632,Unclear,Increase,44,44.0
+961,963,986,Caenorhabditis elegans,spp-17,SaPosin-like Protein family,171681,Anti-Longevity,Increase,20,20.0
+963,965,988,Caenorhabditis elegans,srt-56,"Serpentine Receptor, class T",190663,Anti-Longevity,Increase,30,30.0
+964,966,989,Caenorhabditis elegans,T12E12.1,hypothetical protein,177339,Anti-Longevity,Increase,30,30.0
+965,967,990,Caenorhabditis elegans,T27E9.2,hypothetical protein,176772,Anti-Longevity,Increase,20,20.0
+970,972,995,Caenorhabditis elegans,ucr-2.3,Ubiquinol-Cytochrome c oxidoReductase complex,175248,Anti-Longevity,Increase,15,15.0
+972,974,997,Caenorhabditis elegans,vab-1,Variable ABnormal morphology,173794,Pro-Longevity,Increase,20,20.0
+973,975,998,Caenorhabditis elegans,vhl-1,von Hippel-Lindau tumor suppressor homolog,181321,Anti-Longevity,Increase,30,30.0
+974,976,999,Caenorhabditis elegans,W03G1.8,hypothetical protein,189168,Anti-Longevity,Increase,20,20.0
+975,977,1000,Caenorhabditis elegans,wdr-5.1,Temporarily Assigned Gene name,175474,Anti-Longevity,Increase,30,30.0
+976,978,1001,Caenorhabditis elegans,crtc-1,hypothetical protein,259368,Anti-Longevity,Increase,53,53.0
+977,979,1002,Caenorhabditis elegans,CELE_Y39B6A.3,hypothetical protein,180262,Anti-Longevity,Increase,50,50.0
+978,980,1003,Caenorhabditis elegans,CELE_Y41C4A.11,hypothetical protein,189814,Anti-Longevity,Increase,13,13.0
+979,981,1004,Caenorhabditis elegans,Y43C5A.3,hypothetical protein,189848,Anti-Longevity,Increase,20,20.0
+980,982,1005,Caenorhabditis elegans,CELE_Y46G5A.20,hypothetical protein,174915,Anti-Longevity,Increase,15,15.0
+982,984,1007,Caenorhabditis elegans,CELE_Y47H9C.1,hypothetical protein,173061,Anti-Longevity,Increase,10,10.0
+984,986,1009,Caenorhabditis elegans,Y71H2AM.5,hypothetical protein,3565081,Anti-Longevity,Increase,40,40.0
+1314,1316,1340,Saccharomyces cerevisiae,BAS1,BASal,853974,Anti-Longevity,Increase,30,30.0
+1320,1322,1346,Saccharomyces cerevisiae,IDP1,"Isocitrate Dehydrogenase, NADP-specific",851493,Anti-Longevity,Increase,15,15.0
+1419,1421,1445,Saccharomyces cerevisiae,BSC2,Bypass of Stop Codon,851868,Anti-Longevity,Increase,20,20.0
+1421,1423,1447,Saccharomyces cerevisiae,SEC28,SECretory,854734,Anti-Longevity,Increase,20,20.0
+1422,1424,1448,Saccharomyces cerevisiae,SWI5,SWItching deficient,851724,Anti-Longevity,Increase,20,20.0
+1423,1425,1449,Saccharomyces cerevisiae,TAL1,TransALdolase,851068,Anti-Longevity,Increase,20,20.0
+1424,1426,1450,Saccharomyces cerevisiae,YDR248C,gluconokinase,851835,Anti-Longevity,Increase,20,20.0
+1425,1427,1451,Saccharomyces cerevisiae,YSC84,Ysc84p,856409,Anti-Longevity,Increase,25,25.0
+1426,1428,1452,Saccharomyces cerevisiae,AKL1,Ark family Kinase-Like protein,852351,Anti-Longevity,Increase,20,20.0
+1427,1429,1453,Saccharomyces cerevisiae,BPT1,Bile Pigment Transporter,850645,Anti-Longevity,Increase,20,20.0
+1428,1430,1454,Saccharomyces cerevisiae,BSC1,Bypass of Stop Codon,851524,Anti-Longevity,Increase,20,20.0
+1429,1431,1455,Saccharomyces cerevisiae,HRB1,Hypothetical RNA-Binding protein,855728,Anti-Longevity,Increase,20,20.0
+1430,1432,1456,Saccharomyces cerevisiae,RFX1,Rfx1p,850873,Anti-Longevity,Increase,20,20.0
+1431,1433,1457,Saccharomyces cerevisiae,RPL19B,Ribosomal Protein of the Large subunit,852254,Anti-Longevity,Increase,20,20.0
+1432,1434,1458,Saccharomyces cerevisiae,SEG2,Stability of Eisosomes Guaranteed,853756,Anti-Longevity,Increase,20,20.0
+1433,1435,1459,Saccharomyces cerevisiae,RPL12B,Ribosomal Protein of the Large subunit,852026,Anti-Longevity,Increase,20,20.0
+1434,1436,1460,Saccharomyces cerevisiae,RPL1B,Ribosomal Protein of the Large subunit,852742,Anti-Longevity,Increase,20,20.0
+1435,1437,1461,Saccharomyces cerevisiae,RPL4A,Ribosomal Protein of the Large subunit,852319,Anti-Longevity,Increase,20,20.0
+1495,1497,1521,Saccharomyces cerevisiae,PMT7,Pmt7p,851902,Anti-Longevity,Increase,30,30.0
+1496,1498,1522,Saccharomyces cerevisiae,YER186C,hypothetical protein,856935,Anti-Longevity,Increase,30,30.0
+1497,1499,1523,Saccharomyces cerevisiae,YER187W,hypothetical protein,856937,Anti-Longevity,Increase,30,30.0
+1498,1500,1524,Saccharomyces cerevisiae,AGC1,Aspartate-Glutamate Carrier,856132,Anti-Longevity,Increase,30,30.0
+1499,1501,1525,Saccharomyces cerevisiae,LSB1,Las Seventeen Binding protein,853037,Anti-Longevity,Increase,30,30.0
+1500,1502,1526,Saccharomyces cerevisiae,PRK1,p53 Regulatory Kinase,854713,Anti-Longevity,Increase,30,30.0
+1501,1503,1527,Saccharomyces cerevisiae,YMR010W,hypothetical protein,855022,Anti-Longevity,Increase,30,30.0
+1502,1504,1528,Saccharomyces cerevisiae,RPL13A,Ribosomal Protein of the Large subunit,851477,Anti-Longevity,Increase,30,30.0
+1503,1505,1529,Saccharomyces cerevisiae,RPL21A,Ribosomal Protein of the Large subunit,852489,Anti-Longevity,Increase,30,30.0
+1504,1506,1530,Saccharomyces cerevisiae,MAD2,Mitotic Arrest-Deficient,853422,Anti-Longevity,Increase,50,50.0
+1505,1507,1531,Saccharomyces cerevisiae,ALG5,Asparagine-Linked Glycosylation,855874,Anti-Longevity,Increase,50,50.0
+1506,1508,1532,Saccharomyces cerevisiae,DIE2,Derepression of ITR1 Expression,853142,Anti-Longevity,Increase,50,50.0
+1507,1509,1533,Saccharomyces cerevisiae,HMT1,HnRNP MethylTransferase,852322,Anti-Longevity,Increase,50,50.0
+1508,1510,1534,Saccharomyces cerevisiae,IBA57,Iron-sulfur cluster assembly factor for Biotin synthase and Aconitase-like mitochondrial proteins,853586,Anti-Longevity,Increase,50,50.0
+1509,1511,1535,Saccharomyces cerevisiae,LSB6,Las Seventeen Binding protein,853345,Anti-Longevity,Increase,50,50.0
+1510,1512,1536,Saccharomyces cerevisiae,PCH2,Pachytene CHeckpoint,852484,Anti-Longevity,Increase,50,50.0
+1511,1513,1537,Saccharomyces cerevisiae,PHO89,PHOsphate metabolism,852599,Anti-Longevity,Increase,50,50.0
+1512,1514,1538,Saccharomyces cerevisiae,SSA3,Stress-Seventy subfamily A,852203,Anti-Longevity,Increase,50,50.0
+1513,1515,1539,Saccharomyces cerevisiae,UGA1,Utilization of GAba,852902,Anti-Longevity,Increase,50,50.0
+1514,1516,1540,Saccharomyces cerevisiae,YTA7,Yeast Tat-binding Analog,853186,Anti-Longevity,Increase,50,50.0
+1515,1517,1541,Saccharomyces cerevisiae,BOI2,Bem1 (One) Interacting protein,856850,Anti-Longevity,Increase,25,25.0
+1517,1519,1543,Saccharomyces cerevisiae,CRC1,CaRnitine Carrier,854267,Anti-Longevity,Increase,25,25.0
+1518,1520,1544,Saccharomyces cerevisiae,GIS1,GIg1-2 Suppressor,851670,Anti-Longevity,Increase,25,25.0
+1519,1521,1545,Saccharomyces cerevisiae,PIB1,PhosphatidylInositol(3)-phosphate Binding,851908,Anti-Longevity,Increase,25,25.0
+1526,1528,1552,Saccharomyces cerevisiae,YLR422W,hypothetical protein,851141,Anti-Longevity,Increase,25,25.0
+1527,1529,1553,Saccharomyces cerevisiae,AAC3,ADP/ATP Carrier,852380,Anti-Longevity,Increase,15,15.0
+1528,1530,1554,Saccharomyces cerevisiae,DAS2,Dst1-delta 6-Azauracil Sensitivity,851583,Anti-Longevity,Increase,25,25.0
+1530,1532,1556,Saccharomyces cerevisiae,MIR1,Mir1p,853540,Anti-Longevity,Increase,25,25.0
+1531,1533,1557,Saccharomyces cerevisiae,PIN3,Psi+ INducibility,856277,Anti-Longevity,Increase,15,15.0
+1532,1534,1558,Saccharomyces cerevisiae,PKH1,Pkb-activating Kinase Homolog,852101,Anti-Longevity,Increase,15,15.0
+1533,1535,1559,Saccharomyces cerevisiae,RIP1,Rieske Iron-sulfur Protein,856689,Anti-Longevity,Increase,15,15.0
+1534,1536,1560,Saccharomyces cerevisiae,SDP1,Stress-inducible Dual specificity Phosphatase,854693,Anti-Longevity,Increase,25,25.0
+1535,1537,1561,Saccharomyces cerevisiae,RPL33B,Ribosomal Protein of the Large subunit,854409,Anti-Longevity,Increase,15,15.0
+1536,1538,1562,Saccharomyces cerevisiae,RPL35B,Ribosomal Protein of the Large subunit,851419,Anti-Longevity,Increase,25,25.0
+1537,1539,1563,Saccharomyces cerevisiae,RPL8B,Ribosomal Protein of the Large subunit,850682,Anti-Longevity,Increase,25,25.0
+1539,1541,1565,Saccharomyces cerevisiae,IPK1,Inositol Polyphosphate Kinase,851910,Anti-Longevity,Increase,40,40.0
+1540,1542,1566,Saccharomyces cerevisiae,LIN1,LINk,856561,Anti-Longevity,Increase,40,40.0
+1543,1545,1569,Saccharomyces cerevisiae,CYS4,CYStathionine beta-synthase,853059,Anti-Longevity,Increase,50,50.0
+1544,1546,1570,Saccharomyces cerevisiae,ALD4,ALdehyde Dehydrogenase,854556,Anti-Longevity,Increase,50,50.0
+1545,1547,1571,Saccharomyces cerevisiae,DNF1,Drs2 Neo1 Family,856913,Anti-Longevity,Increase,50,50.0
+1546,1548,1572,Saccharomyces cerevisiae,PDX3,PyriDoXine auxotrophy,852323,Anti-Longevity,Increase,50,50.0
+1547,1549,1573,Saccharomyces cerevisiae,PRS3,PhosphoRibosylpyrophosphate Synthetase,856375,Anti-Longevity,Increase,50,50.0
+1548,1550,1574,Saccharomyces cerevisiae,RNH201,RNase H,855652,Anti-Longevity,Increase,50,50.0
+1549,1551,1575,Saccharomyces cerevisiae,UBC12,UBiquitin-Conjugating,851015,Anti-Longevity,Increase,50,50.0
+1553,1555,1579,Saccharomyces cerevisiae,LOC1,LOCalization of ASH1 mRNA,850551,Anti-Longevity,Increase,40,40.0
+1557,1559,1583,Saccharomyces cerevisiae,CST26,Chromosome STability,852330,Anti-Longevity,Increase,40,40.0
+1558,1560,1584,Saccharomyces cerevisiae,LSB3,Las Seventeen Binding protein,850580,Anti-Longevity,Increase,40,40.0
+1561,1563,1587,Saccharomyces cerevisiae,RPP1B,Ribosomal Protein P1 Beta,851427,Anti-Longevity,Increase,40,40.0
+1565,1567,1591,Saccharomyces cerevisiae,RGS2,Regulator of heterotrimeric G protein Signaling,854274,Anti-Longevity,Increase,35,35.0
+1566,1568,1592,Saccharomyces cerevisiae,YMR018W,hypothetical protein,855032,Anti-Longevity,Increase,35,35.0
+1567,1569,1593,Saccharomyces cerevisiae,RPL12A,Ribosomal Protein of the Large subunit,856656,Anti-Longevity,Increase,35,35.0
+1568,1570,1594,Saccharomyces cerevisiae,RPL37B,Ribosomal Protein of the Large subunit,852111,Anti-Longevity,Increase,35,35.0
+1580,1582,1606,Saccharomyces cerevisiae,RPS11A,Ribosomal Protein of the Small subunit,851589,Anti-Longevity,Increase,30,30.0
+1581,1583,1607,Saccharomyces cerevisiae,RPS6A,Ribosomal Protein of the Small subunit,856015,Anti-Longevity,Increase,30,30.0
+1586,1588,1612,Saccharomyces cerevisiae,AAT1,Aspartate AminoTransferase,853755,Pro-Longevity,Increase,25,25.0
+1587,1589,1613,Saccharomyces cerevisiae,AAT2,Aspartate AminoTransferase,850714,Pro-Longevity,Increase,15,15.0
+1588,1590,1614,Saccharomyces cerevisiae,GUT2,Glycerol UTilization,854651,Pro-Longevity,Increase,25,25.0
+1589,1591,1615,Saccharomyces cerevisiae,MDH1,Malate DeHydrogenase,853777,Pro-Longevity,Increase,25,25.0
+1590,1592,1616,Saccharomyces cerevisiae,MDH2,Malate DeHydrogenase,853994,Pro-Longevity,Increase,15,15.0
+1599,1601,1625,Saccharomyces cerevisiae,INP51,INositol polyphosphate 5-Phosphatase,854815,Anti-Longevity,Increase,10,10.0
+1602,1604,1628,Saccharomyces cerevisiae,TMA19,Translation Machinery Associated,853809,Anti-Longevity,Increase,30,30.0
+1614,1616,1640,Saccharomyces cerevisiae,ATP3,ATP synthase,852327,Anti-Longevity,Increase,50,50.0
+1617,1619,1643,Saccharomyces cerevisiae,PHD1,PseudoHyphal Determinant,853823,Anti-Longevity,Increase,20,20.0
+1618,1620,1644,Saccharomyces cerevisiae,RIM1,Replication In Mitochondria,850395,Anti-Longevity,Increase,20,20.0
+1619,1621,1645,Saccharomyces cerevisiae,TIF4631,Translation Initiation Factor,853071,Anti-Longevity,Increase,20,20.0
+1620,1622,1646,Saccharomyces cerevisiae,TOM1,Temperature dependent Organization in Mitotic nucleus,852068,Anti-Longevity,Increase,30,30.0
+1623,1625,1649,Saccharomyces cerevisiae,ADH1,Alcohol DeHydrogenase,854068,Anti-Longevity,Increase,20,20.0
+1624,1626,1650,Saccharomyces cerevisiae,AFG3,ATPase Family Gene,856737,Anti-Longevity,Increase,20,20.0
+1627,1629,1653,Saccharomyces cerevisiae,CTH1,Cysteine-Three-Histidine,851729,Anti-Longevity,Increase,20,20.0
+1629,1631,1655,Saccharomyces cerevisiae,PKH3,Pkb-activating Kinase Homolog,852077,Anti-Longevity,Increase,10,10.0
+1630,1632,1656,Saccharomyces cerevisiae,RPL19A,Ribosomal Protein of the Large subunit,852379,Anti-Longevity,Increase,50,50.0
+1631,1633,1657,Saccharomyces cerevisiae,RPL9A,Ribosomal Protein of the Large subunit,852730,Anti-Longevity,Increase,30,30.0
+1632,1634,1658,Saccharomyces cerevisiae,RPL9B,Ribosomal Protein of the Large subunit,855658,Anti-Longevity,Increase,30,30.0
+1634,1636,1660,Saccharomyces cerevisiae,SAM1,S-AdenosylMethionine requiring,850877,Anti-Longevity,Increase,20,20.0
+1635,1637,1661,Saccharomyces cerevisiae,TIF4632,Translation Initiation Factor,852833,Anti-Longevity,Increase,20,20.0
+1637,1639,1663,Saccharomyces cerevisiae,YVH1,Yeast vaccinia virus VH1 Homolog,854844,Anti-Longevity,Increase,50,50.0
+1645,1647,1671,Saccharomyces cerevisiae,SKN1,Suppressor of Kre Null,853045,Anti-Longevity,Increase,60,60.0
+1646,1648,1672,Saccharomyces cerevisiae,NMT1,N-Myristoyl Transferase,850892,Anti-Longevity,Increase,50,50.0
+1652,1654,1678,Saccharomyces cerevisiae,PGA3,Processing of Gas1p and ALP,854914,Pro-Longevity,Increase,30,30.0
+1658,1660,1684,Saccharomyces cerevisiae,ELP4,ELongator Protein,856002,Anti-Longevity,Increase,30,30.0
+1660,1662,1686,Saccharomyces cerevisiae,RAD34,Homologous to RAD4,851909,Anti-Longevity,Increase,30,30.0
+1661,1663,1687,Saccharomyces cerevisiae,RPL20B,Ribosomal Protein of the Large subunit,854489,Anti-Longevity,Increase,50,50.0
+1663,1665,1689,Saccharomyces cerevisiae,SOK1,Suppressor Of Kinase,851569,Anti-Longevity,Increase,50,50.0
+1664,1666,1690,Saccharomyces cerevisiae,SPS1,SPorulation Specific,852135,Anti-Longevity,Increase,25,25.0
+1667,1669,1693,Saccharomyces cerevisiae,YPT6,Yeast Protein Two,850966,Anti-Longevity,Increase,30,30.0
+1672,1674,1698,Saccharomyces cerevisiae,ALG12,Asparagine-Linked Glycosylation,855764,Anti-Longevity,Increase,25,25.0
+1676,1678,1702,Saccharomyces cerevisiae,DBP3,Dead Box Protein,852802,Anti-Longevity,Increase,35,35.0
+1679,1681,1705,Saccharomyces cerevisiae,IDH1,Isocitrate DeHydrogenase,855691,Anti-Longevity,Increase,15,15.0
+1681,1683,1707,Saccharomyces cerevisiae,KAR3,KARyogamy,856263,Anti-Longevity,Increase,55,55.0
+1684,1686,1710,Saccharomyces cerevisiae,PKH2,Pkb-activating Kinase Homolog,854053,Anti-Longevity,Increase,20,20.0
+1685,1687,1711,Saccharomyces cerevisiae,PMR1,Plasma Membrane ATPase Related,852709,Anti-Longevity,Increase,40,40.0
+1686,1688,1712,Saccharomyces cerevisiae,RPS26B,Ribosomal Protein of the Small subunit,856868,Anti-Longevity,Increase,20,20.0
+1687,1689,1713,Saccharomyces cerevisiae,SIS2,SIt4 Suppressor,853946,Anti-Longevity,Increase,50,50.0
+1690,1692,1716,Saccharomyces cerevisiae,SPT4,SuPpressor of Ty's,852955,Anti-Longevity,Increase,40,40.0
+1691,1693,1717,Saccharomyces cerevisiae,TIS11,similar to the mammalian TPA Induced Sequence gene family,850827,Anti-Longevity,Increase,30,30.0
+1695,1697,1721,Saccharomyces cerevisiae,YGR130C,hypothetical protein,853031,Anti-Longevity,Increase,30,30.0
+1697,1699,1723,Saccharomyces cerevisiae,RPL21B,Ribosomal Protein of the Large subunit,856026,Anti-Longevity,Increase,50,50.0
+1698,1700,1724,Saccharomyces cerevisiae,RPL22A,Ribosomal Protein of the Large subunit,850750,Anti-Longevity,Increase,90,90.0
+1699,1701,1725,Saccharomyces cerevisiae,RPL23A,Ribosomal Protein of the Large subunit,852191,Anti-Longevity,Increase,40,40.0
+1700,1702,1726,Saccharomyces cerevisiae,RPL29,Ribosomal Protein of the Large subunit,850592,Anti-Longevity,Increase,35,35.0
+1701,1703,1727,Saccharomyces cerevisiae,RPL34B,Ribosomal Protein of the Large subunit,854759,Anti-Longevity,Increase,60,60.0
+1704,1706,1730,Saccharomyces cerevisiae,RPL43B,Ribosomal Protein of the Large subunit,853557,Anti-Longevity,Increase,30,30.0
+1705,1707,1731,Saccharomyces cerevisiae,RPL7A,Ribosomal Protein of the Large subunit,852804,Anti-Longevity,Increase,40,40.0
+1707,1709,1733,Saccharomyces cerevisiae,RPP2B,Ribosomal Protein P2 Beta,851990,Anti-Longevity,Increase,55,55.0
+1708,1710,1734,Saccharomyces cerevisiae,FZF1,Five Zinc Fingers,852638,Anti-Longevity,Increase,66,66.0
+1709,1711,1735,Saccharomyces cerevisiae,UGA3,Utilization of GAba,851384,Anti-Longevity,Increase,75,75.0
+1710,1712,1736,Saccharomyces cerevisiae,URH1,URidine Hydrolase,852009,Anti-Longevity,Increase,24,24.0
+1711,1713,1737,Mus musculus,Rps6kb1,"ribosomal protein S6 kinase, polypeptide 1",72508,Anti-Longevity,Increase,19,19.0
+1712,1714,1738,Mus musculus,Prkar2b,"protein kinase, cAMP dependent regulatory, type II beta",19088,Anti-Longevity,Increase,14,14.0
+1714,1716,1740,Drosophila melanogaster,Spargel,Spargel,40562,Pro-Longevity,Increase,33,33.0
+1717,1719,1743,Saccharomyces cerevisiae,OPT2,OligoPeptide Transporter 2,856324,Anti-Longevity,Increase,23,23.0
+1718,1720,1744,Saccharomyces cerevisiae,RCR2,Resistance to Congo Red 2,851566,Anti-Longevity,Increase,18,18.0
+1721,1723,1747,Saccharomyces cerevisiae,FRE6,Ferric REductase 6,850675,Anti-Longevity,Increase,14,14.0
+1723,1725,1749,Caenorhabditis elegans,utx-1,Protein UTX-1,181110,Anti-Longevity,Increase,30,30.0
+1724,1726,1750,Caenorhabditis elegans,mfn-1,Protein MFN-1,174752,Anti-Longevity,Increase,64,64.0
+1725,1727,1751,Caenorhabditis elegans,tdp-1,Protein TDP-1,174436,Anti-Longevity,Increase,20,20.0
+1726,1728,1752,Caenorhabditis elegans,vang-1,Protein VANG-1,180579,Anti-Longevity,Increase,40,40.0
+1727,1729,1753,Caenorhabditis elegans,hpl-2,Protein HPL-2,176506,Anti-Longevity,Increase,17,17.0
+1728,1730,1754,Caenorhabditis elegans,nuo-6,Protein NUO-6,172438,Anti-Longevity,Increase,73,73.0
+1729,1731,1755,Caenorhabditis elegans,rheb-1,Protein RHEB-1,176327,Anti-Longevity,Increase,19.10000038,19.10000038
+1730,1732,1756,Drosophila melanogaster,Ilp6,Insulin-like peptide 6,31220,Pro-Longevity,Increase,15.60000038,15.60000038
+1731,1733,1757,Caenorhabditis elegans,pme-1,Protein PME-1,266823,Anti-Longevity,Increase,29,29.0
+1732,1734,1758,Caenorhabditis elegans,atx-3,Protein ATX-3,180049,Anti-Longevity,Increase,50,50.0
+1733,1735,1759,Caenorhabditis elegans,cdc-48.1,Protein CDC-48.1,174624,Anti-Longevity,Increase,50,50.0
+1736,1738,1762,Caenorhabditis elegans,T23D8.3,Protein T23D8.3,172857,Anti-Longevity,Increase,25.70000076,25.70000076
+1737,1739,1763,Caenorhabditis elegans,rps-14,Protein RPS-14,176006,Anti-Longevity,Increase,16.60000038,16.60000038
+1738,1740,1764,Caenorhabditis elegans,lin-5,Protein LIN-5,174267,Anti-Longevity,Increase,16.39999962,16.39999962
+1739,1741,1765,Caenorhabditis elegans,rnr-2,Protein RNR-2,175525,Anti-Longevity,Increase,14.19999981,14.19999981
+1740,1742,1766,Caenorhabditis elegans,CELE_R02D3.3,Protein R02D3.3,176838,Anti-Longevity,Increase,13,13.0
+1741,1743,1767,Caenorhabditis elegans,rps-12,Protein RPS-12,175786,Anti-Longevity,Increase,11.60000038,11.60000038
+1742,1744,1768,Caenorhabditis elegans,emb-27,Protein EMB-27,174314,Anti-Longevity,Increase,10.5,10.5
+1743,1745,1769,Caenorhabditis elegans,F09F7.3,Protein F09F7.3,175767,Anti-Longevity,Increase,8.100000381,8.100000381
+1744,1746,1770,Caenorhabditis elegans,aps-1,Protein APS-1,178989,Anti-Longevity,Increase,7.900000095,7.900000095
+1745,1747,1771,Caenorhabditis elegans,chn-1,Protein CHN-1,172303,Anti-Longevity,Increase,7.099999905,7.099999905
+1746,1748,1772,Caenorhabditis elegans,mel-28,Protein MEL-28,175634,Anti-Longevity,Increase,6.5,6.5
+1747,1749,1773,Caenorhabditis elegans,hmg-4,Protein HMG-4,176052,Anti-Longevity,Increase,6.5,6.5
+1748,1750,1774,Caenorhabditis elegans,asb-1,Protein ASB-1,175605,Anti-Longevity,Increase,6.400000095,6.400000095
+1749,1751,1775,Caenorhabditis elegans,rpb-8,Protein RPB-8,175660,Anti-Longevity,Increase,6.400000095,6.400000095
+1750,1752,1776,Caenorhabditis elegans,rsr-1,Protein RSR-1,173013,Anti-Longevity,Increase,6.099999905,6.099999905
+1751,1753,1777,Caenorhabditis elegans,C47D12.2,Protein C47D12.2,174789,Anti-Longevity,Increase,5.5,5.5
+1752,1754,1778,Caenorhabditis elegans,gpd-3,Protein GPD-3,180601,Anti-Longevity,Increase,5.300000191,5.300000191
+1753,1755,1779,Caenorhabditis elegans,rpa-1,Protein RPA-1,174238,Anti-Longevity,Increase,5.099999905,5.099999905
+1754,1756,1780,Caenorhabditis elegans,nhr-23,Protein NHR-23,172460,Anti-Longevity,Increase,4.900000095,4.900000095
+1764,1766,1790,Caenorhabditis elegans,egl-27,Protein EGL-27,174121,Pro-Longevity,Increase,17.89999962,17.89999962
+1765,1767,1791,Drosophila melanogaster,Cbs,Cystathionine beta-synthase,33081,Pro-Longevity,Increase,43,43.0
+1767,1769,1793,Caenorhabditis elegans,trpa-1,Protein TRPA-1,178118,Pro-Longevity,Increase,33.5,33.5
+1770,1772,1796,Mus musculus,Mif,macrophage migration inhibitory factor,17319,Anti-Longevity,Increase,16,16.0
+1771,1773,1797,Mus musculus,Dgat1,diacylglycerol O-acyltransferase 1,13350,Anti-Longevity,Increase,23,23.0
+1772,1774,1798,Mus musculus,Gsta4,"glutathione S-transferase, alpha 4",14860,Anti-Longevity,Increase,13,13.0
+1773,1775,1799,Mus musculus,Mt1,metallothionein 1,17748,Pro-Longevity,Increase,14,14.0
+1774,1776,1800,Mus musculus,Fgf21,fibroblast growth factor 21,56636,Pro-Longevity,Increase,36,36.0
+1777,1779,1803,Caenorhabditis elegans,mrps-5,Protein MRPS-5,179721,Anti-Longevity,Increase,60,60.0
+1778,1780,1804,Caenorhabditis elegans,nkcc-1,Protein NKCC-1,3565648,Anti-Longevity,Increase,23,23.0
+1779,1781,1805,Caenorhabditis elegans,mrpl-2,Protein MRPL-2,176903,Anti-Longevity,Increase,54,54.0
+1780,1782,1806,Caenorhabditis elegans,mrpl-37,Protein MRPL-37,175001,Anti-Longevity,Increase,41,41.0
+1782,1784,1808,Mus musculus,NUDT1,nudix (nucleoside diphosphate linked moiety X)-type motif 1,4521,Pro-Longevity,Increase,16,16.0
+1783,1785,1809,Mus musculus,Mtor,mechanistic target of rapamycin (serine/threonine kinase),56717,Anti-Longevity,Increase,20,20.0
+1784,1786,1810,Mus musculus,Akt1,thymoma viral proto-oncogene 1,11651,Anti-Longevity,Increase,11.5,11.5
+1785,1787,1811,Mus musculus,Ikbkb,inhibitor of kappaB kinase beta,16150,Anti-Longevity,Increase,23,23.0
+1793,1795,1819,Caenorhabditis elegans,ceh-23,Protein CEH-23,176096,Pro-Longevity,Increase,25,25.0
+1803,1805,1829,Caenorhabditis elegans,nhr-265,Protein NHR-265,185603,Anti-Longevity,Increase,4,4.0
+1804,1806,1830,Drosophila melanogaster,ImpL2,Ecdysone-inducible gene L2,38513,Pro-Longevity,Increase,23,23.0
+1808,1810,1834,Saccharomyces cerevisiae,SOV1,Sov1p,855088,Anti-Longevity,Increase,30,30.0
+1809,1811,1835,Saccharomyces cerevisiae,CBS1,Cbs1p,851491,Anti-Longevity,Increase,37,37.0
+1810,1812,1836,Saccharomyces cerevisiae,SUV3,Suv3p,856078,Anti-Longevity,Increase,25,25.0
+1811,1813,1837,Saccharomyces cerevisiae,CBP6,Cbp6p,852417,Anti-Longevity,Increase,25,25.0
+1812,1814,1838,Saccharomyces cerevisiae,PET127,Pet127p,854182,Anti-Longevity,Increase,35,35.0
+1813,1815,1839,Saccharomyces cerevisiae,PET309,Pet309p,850756,Anti-Longevity,Increase,25,25.0
+1814,1816,1840,Saccharomyces cerevisiae,OSH6,oxysterol-binding protein OSH6,853872,Pro-Longevity,Increase,23,23.0
+1816,1818,1842,Caenorhabditis elegans,C28H8.11,Protein C28H8.11,175836,Anti-Longevity,Increase,15,15.0
+1817,1819,1843,Drosophila melanogaster,park,parkin,40336,Pro-Longevity,Increase,28,28.0
+1819,1821,1845,Caenorhabditis elegans,B0303.2,Protein B0303.2,176217,Anti-Longevity,Increase,5,5.0
+1820,1822,1846,Drosophila melanogaster,SNF1A,SNF1A/AMP-activated protein kinase,43904,Pro-Longevity,Increase,20,20.0
+1821,1823,1847,Drosophila melanogaster,Rpi,Ribose-5-phosphate isomerase,246599,Anti-Longevity,Increase,38,38.0
+1822,1824,1848,Mus musculus,Ghrh,growth hormone releasing hormone,14601,Anti-Longevity,Increase,46,46.0
+1823,1825,1849,Caenorhabditis elegans,aakg-2,Protein AAKG-2,181736,Pro-Longevity,Increase,47,47.0
+1833,1835,1859,Saccharomyces cerevisiae,TCB3,Tcb3p,854903,Anti-Longevity,Increase,18,18.0
+1834,1836,1860,Saccharomyces cerevisiae,SNA3,Sna3p,853290,Anti-Longevity,Increase,27,27.0
+1835,1837,1861,Saccharomyces cerevisiae,PST2,Pst2p,851596,Anti-Longevity,Increase,36,36.0
+1836,1838,1862,Mus musculus,Atg5,autophagy related 5,11793,Pro-Longevity,Increase,17,17.0
+1837,1839,1863,Saccharomyces cerevisiae,ERO1,ER oxidoreductin,854909,Anti-Longevity,Increase,28,28.0
+1838,1840,1864,Saccharomyces cerevisiae,MPD1,protein disulfide isomerase MPD1,854462,Anti-Longevity,Increase,17,17.0
+1839,1841,1865,Saccharomyces cerevisiae,DER1,Der1p,852500,Anti-Longevity,Increase,16,16.0
+1840,1842,1866,Saccharomyces cerevisiae,UBX2,Ubx2p,854995,Anti-Longevity,Increase,24,24.0
+1841,1843,1867,Saccharomyces cerevisiae,ALG3,"dolichyl-P-Man:Man(5)GlcNAc(2)-PP-dolichol alpha-1,3-mannosyltransferase",852196,Anti-Longevity,Increase,10,10.0
+1842,1844,1868,Saccharomyces cerevisiae,OST3,dolichyl-diphosphooligosaccharide--protein glycotransferase OST3,854252,Anti-Longevity,Increase,20,20.0
+1843,1845,1869,Saccharomyces cerevisiae,BST1,Bst1p,850519,Anti-Longevity,Increase,25,25.0
+1844,1846,1870,Saccharomyces cerevisiae,HCM1,Hcm1p,850429,Pro-Longevity,Increase,30,30.0
+1845,1847,1871,Mus musculus,Gdf15,growth differentiation factor 15,23886,Pro-Longevity,Increase,43,43.0
+1846,1848,1872,Caenorhabditis elegans,pch-2,Putative pachytene checkpoint protein 2,174313,Pro-Longevity,Increase,22,22.0
+1847,1849,1873,Caenorhabditis elegans,ctbp-1,C-terminal-binding protein 1,180853,Anti-Longevity,Increase,20,20.0
+1849,1851,1875,Caenorhabditis elegans,ndg-4,hypothetical protein,175582,Anti-Longevity,Increase,71,71.0
+1850,1852,1876,Mus musculus,Myc,myelocytomatosis oncogene,17869,Anti-Longevity,Increase,21,21.0
+1851,1853,1877,Mus musculus,Ctf1,cardiotrophin 1,13019,Anti-Longevity,Increase,18,18.0
+1853,1855,1879,Caenorhabditis elegans,atf-6,ATF (cAMP-dependent transcription factor) family,181405,Anti-Longevity,Increase,18,18.0
+1854,1856,1880,Drosophila melanogaster,myo,myoglianin,43811,Pro-Longevity,Increase,25,25.0
+1855,1857,1881,Caenorhabditis elegans,lipl-4,LIPase Like,179046,Pro-Longevity,Increase,55,55.0
+1856,1858,1882,Caenorhabditis elegans,lbp-8,Lipid Binding Protein,188761,Pro-Longevity,Increase,30,30.0
+1870,1872,1896,Caenorhabditis elegans,spr-3,Suppressor of presenilin protein 3,180722,Anti-Longevity,Increase,26,26.0
+1871,1873,1897,Caenorhabditis elegans,pak-1,Serine/threonine-protein kinase pak-1,180873,Unannotated,Increase,50,50.0
+1872,1874,1898,Drosophila melanogaster,ND75,NADH:ubiquinone reductase 75kD subunit precursor,31762,Anti-Longevity,Increase,15,15.0
+1873,1875,1899,Drosophila melanogaster,daw,dawdle,33474,Anti-Longevity,Increase,35.29999924,35.29999924
+1874,1876,1900,Drosophila melanogaster,GlyP,Glycogen phosphorylase,33386,Anti-Longevity,Increase,17.10000038,17.10000038
+1875,1877,1901,Drosophila melanogaster,Tsp42Ef,Tetraspanin 42Ef,35615,Anti-Longevity,Increase,18.20000076,18.20000076
+1878,1880,1904,Drosophila melanogaster,Smox,Smad on X,31738,Anti-Longevity,Increase,10,10.0
+1879,1881,1905,Drosophila melanogaster,babo,baboon,35900,Anti-Longevity,Increase,16.38999939,16.38999939
+1880,1882,1906,Caenorhabditis elegans,let-418,Protein let-418,178970,Anti-Longevity,Increase,25,25.0
+1881,1883,1907,Caenorhabditis elegans,mdl-1,MAD-Like,180942,Anti-Longevity,Increase,16,16.0
+1882,1884,1908,Drosophila melanogaster,Atg1,Autophagy-specific gene 1,39454,Pro-Longevity,Increase,25,25.0
+1883,1885,1909,Drosophila melanogaster,CG11165,CG11165,35751,Pro-Longevity,Increase,54,54.0
+1884,1886,1910,Drosophila melanogaster,Ilk,Integrin linked kinase,53573,Anti-Longevity,Increase,63,63.0
+1885,1887,1911,Saccharomyces cerevisiae,GRE3,trifunctional aldehyde reductase/xylose reductase/glucose 1-dehydrogenase (NADP(+)),856504,Anti-Longevity,Increase,100,100.0
+1886,1888,1912,Caenorhabditis elegans,fgt-1,Facilitated Glucose Transporter,173525,Anti-Longevity,Increase,25,25.0
+1887,1889,1913,Drosophila melanogaster,kra,krasavietz,40680,Anti-Longevity,Increase,25,25.0
+1890,1892,1916,Saccharomyces cerevisiae,MCA1,Ca(2+)-dependent cysteine protease MCA1,854372,Pro-Longevity,Increase,56,56.0
+1893,1895,1919,Drosophila melanogaster,GlyS,Glycogen synthase,41823,Anti-Longevity,Increase,10,10.0
+1894,1896,1920,Caenorhabditis elegans,sptl-1,Serine Palmitoyl Transferase famiLy,173389,Anti-Longevity,Increase,33,33.0
+1895,1897,1921,Caenorhabditis elegans,ttm-5,Putative sphingolipid delta(4)-desaturase/C4-hydroxylase,173327,Anti-Longevity,Increase,40,40.0
+1896,1898,1922,Caenorhabditis elegans,cgt-2,Ceramide glucosyltransferase 2,181790,Anti-Longevity,Increase,40,40.0
+1899,1901,1925,Drosophila melanogaster,ppk28,pickpocket 28,32671,Anti-Longevity,Increase,44,44.0
+1900,1902,1926,Mus musculus,Trpv1,"transient receptor potential cation channel, subfamily V, member 1",193034,Anti-Longevity,Increase,15.89999962,15.89999962
+1901,1903,1927,Drosophila melanogaster,CG2789,CG2789,33231,Anti-Longevity,Increase,27,27.0
+1902,1904,1928,Drosophila melanogaster,inaE,inactivation no afterpotential E,32343,Pro-Longevity,Increase,73,73.0
+1903,1905,1929,Drosophila melanogaster,rdgA,retinal degeneration A,31826,Anti-Longevity,Increase,44,44.0
+1904,1906,1930,Caenorhabditis elegans,dagl-2,DiAcylGlycerol Lipase homolog,3565075,Pro-Longevity,Increase,13,13.0
+1905,1907,1931,Caenorhabditis elegans,dgk-5,Putative diacylglycerol kinase K06A1.6,174068,Anti-Longevity,Increase,11,11.0
+1906,1908,1932,Caenorhabditis elegans,rec-8,hypothetical protein,178295,Anti-Longevity,Increase,26,26.0
+1907,1909,1933,Saccharomyces cerevisiae,REC8,Rec8p,856115,Anti-Longevity,Increase,20,20.0
+1909,1911,1935,Saccharomyces cerevisiae,TAT2,aromatic amino acid transmembrane transporter TAT2,854139,Anti-Longevity,Increase,23,23.0
+1911,1913,1937,Caenorhabditis elegans,hif-1,HIF (Hypoxia Inducible Factor) homologa,180359,Unclear,Increase,34,34.0
+1913,1915,1939,Caenorhabditis elegans,Y24D9A.8,Transaldolase,177202,Anti-Longevity,Increase,25.60000038,25.60000038
+1914,1916,1940,Caenorhabditis elegans,letm-1,"LETM1 (Leucine zipper, EF-hand, TransMembrane mitochondrial protein) homolog",179854,Anti-Longevity,Increase,21.10000038,21.10000038
+1915,1917,1941,Caenorhabditis elegans,let-630,hypothetical protein,172153,Anti-Longevity,Increase,17.89999962,17.89999962
+1916,1918,1942,Caenorhabditis elegans,F02A9.4,"Probable methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",176285,Anti-Longevity,Increase,13.30000019,13.30000019
+1917,1919,1943,Caenorhabditis elegans,wah-1,Worm AIF (apoptosis inducing factor) Homolog,176635,Anti-Longevity,Increase,12.69999981,12.69999981
+1918,1920,1944,Caenorhabditis elegans,Y54G9A.7,hypothetical protein,175017,Anti-Longevity,Increase,12,12.0
+1919,1921,1945,Caenorhabditis elegans,lpd-9,LiPid Depleted,179477,Anti-Longevity,Increase,10.19999981,10.19999981
+1927,1929,1953,Mus musculus,Adra1a,"adrenergic receptor, alpha 1a",11549,Pro-Longevity,Increase,10,10.0
+1931,1933,1957,Caenorhabditis elegans,pat-10,Paralysed Arrest at Two-fold,172127,Pro-Longevity,Increase,30,30.0
+1932,1934,1958,Mus musculus,Ubd,ubiquitin D,24108,Anti-Longevity,Increase,20,20.0
+1935,1937,1961,Caenorhabditis elegans,gcy-18,Guanylyl CYclase,178237,Anti-Longevity,Increase,25,25.0
+1936,1938,1962,Drosophila melanogaster,fabp,fatty acid bindin protein,3772232,Pro-Longevity,Increase,81,81.0
+1937,1939,1963,Drosophila melanogaster,CG13890,CG13890,38100,Pro-Longevity,Increase,31,31.0
+1938,1940,1964,Caenorhabditis elegans,drl-1,Dietary Restriction Like,3565236,Anti-Longevity,Increase,60,60.0
+1939,1941,1965,Saccharomyces cerevisiae,MET17,bifunctional cysteine synthase/O-acetylhomoserine aminocarboxypropyltransferase MET17,851010,Anti-Longevity,Increase,100,100.0
+1940,1942,1966,Saccharomyces cerevisiae,ISW2,Isw2p,854480,Anti-Longevity,Increase,24,24.0
+1941,1943,1967,Saccharomyces cerevisiae,ITC1,Itc1p,852744,Anti-Longevity,Increase,18,18.0
+1942,1944,1968,Saccharomyces cerevisiae,DLS1,Dls1p,853381,Anti-Longevity,Increase,20,20.0
+1944,1946,1970,Caenorhabditis elegans,klf-1,Kruppel-Like Factor (zinc finger protein),175404,Pro-Longevity,Increase,15,15.0
+1947,1949,1973,Caenorhabditis elegans,cbs-1,Cystathionine Beta-Synthase,181215,Pro-Longevity,Increase,50,50.0
+1953,1955,1979,Drosophila melanogaster,Men,Malic enzyme,47173,Pro-Longevity,Increase,45,45.0
+1954,1956,1980,Caenorhabditis elegans,pbs-5,Proteasome subunit beta type,173334,Pro-Longevity,Increase,25,25.0
+1955,1957,1981,Caenorhabditis elegans,rict-1,hypothetical protein,3565035,Unannotated,Increase,10,10.0
+1982,1984,2008,Caenorhabditis elegans,tatn-1,Tyrosine AminoTraNsferase,181574,Anti-Longevity,Increase,10,10.0
+1984,1986,2010,Drosophila melanogaster,Pink1,PTEN-induced putative kinase 1,31607,Pro-Longevity,Increase,18,18.0
+1985,1987,2011,Caenorhabditis elegans,mics-1,MItoChondrial Scaffolding protei,179475,Anti-Longevity,Increase,54,54.0
+1986,1988,2012,Caenorhabditis elegans,atad-3,ATPase family AAA domain-containing protein 3,174590,Anti-Longevity,Increase,29,29.0
+1987,1989,2013,Drosophila melanogaster,Coq2,Coenzyme Q biosynthesis protein 2,40988,Anti-Longevity,Increase,30.79999924,30.79999924
+1995,1997,2021,Saccharomyces cerevisiae,UBR2,putative ubiquitin-protein ligase UBR2,850711,Anti-Longevity,Increase,67,67.0
+1996,1998,2022,Saccharomyces cerevisiae,MUB1,Mub1p,855126,Anti-Longevity,Increase,29,29.0
+1998,2000,2024,Caenorhabditis elegans,lip-1,Lateral-signal-Induced Phosphatase,191704,Anti-Longevity,Increase,8,8.0
+2001,2003,2027,Caenorhabditis elegans,rps-16,40S ribosomal protein S16,179998,Anti-Longevity,Increase,8.300000191,8.300000191
+2002,2004,2028,Caenorhabditis elegans,C34B2.6,"Lon protease homolog, mitochondrial",172966,Anti-Longevity,Increase,10.80000019,10.80000019
+2003,2005,2029,Caenorhabditis elegans,his-37,Histone H4,179341,Anti-Longevity,Increase,4.5,4.5
+2004,2006,2030,Caenorhabditis elegans,dlat-1,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,179945,Anti-Longevity,Increase,9.899999619,9.899999619
+2005,2007,2031,Caenorhabditis elegans,F01G4.6,"Phosphate carrier protein, mitochondrial",178020,Anti-Longevity,Increase,11.89999962,11.89999962
+2006,2008,2032,Caenorhabditis elegans,pyc-1,PYruvate Carboxylase,179616,Anti-Longevity,Increase,4.900000095,4.900000095
+2007,2009,2033,Caenorhabditis elegans,mdh-1,Malate DeHydrogenase,179041,Anti-Longevity,Increase,4.099999905,4.099999905
+2008,2010,2034,Caenorhabditis elegans,eef-1A.1,Elongation factor 1-alpha,175975,Anti-Longevity,Increase,18.10000038,18.10000038
+2009,2011,2035,Caenorhabditis elegans,rps-0,40S ribosomal protein SA,175628,Anti-Longevity,Increase,15.10000038,15.10000038
+2010,2012,2036,Caenorhabditis elegans,tbb-2,Tubulin beta-2 chain,175519,Anti-Longevity,Increase,5.099999905,5.099999905
+2011,2013,2037,Caenorhabditis elegans,rla-0,60S acidic ribosomal protein P0,172943,Anti-Longevity,Increase,6.599999905,6.599999905
+2012,2014,2038,Caenorhabditis elegans,rpl-23,60S ribosomal protein L23,175796,Anti-Longevity,Increase,17.70000076,17.70000076
+2013,2015,2039,Caenorhabditis elegans,rps-20,"Ribosomal Protein, Small subunit",173309,Anti-Longevity,Increase,23.60000038,23.60000038
+2014,2016,2040,Caenorhabditis elegans,rpl-31,60S ribosomal protein L31,173235,Anti-Longevity,Increase,15.5,15.5
+2015,2017,2041,Caenorhabditis elegans,F09F7.4,hypothetical protein,175766,Anti-Longevity,Increase,10.69999981,10.69999981
+2016,2018,2042,Caenorhabditis elegans,rpl-1,60S ribosomal protein L10a,171853,Anti-Longevity,Increase,23.20000076,23.20000076
+2017,2019,2043,Caenorhabditis elegans,gdh-1,Glutamate dehydrogenase,178130,Anti-Longevity,Increase,11.10000038,11.10000038
+2018,2020,2044,Caenorhabditis elegans,cpn-3,CalPoNin,171986,Anti-Longevity,Increase,9.899999619,9.899999619
+2019,2021,2045,Caenorhabditis elegans,B0250.5,"Probable 3-hydroxyisobutyrate dehydrogenase, mitochondrial",180344,Anti-Longevity,Increase,10.19999981,10.19999981
+2020,2022,2046,Caenorhabditis elegans,rars-1,"Probable arginine--tRNA ligase, cytoplasmic",175659,Anti-Longevity,Increase,26.60000038,26.60000038
+2021,2023,2047,Caenorhabditis elegans,rpl-10,60S ribosomal protein L10,174311,Anti-Longevity,Increase,20.39999962,20.39999962
+2022,2024,2048,Caenorhabditis elegans,rpl-7,60S ribosomal protein L7,171602,Anti-Longevity,Increase,9.5,9.5
+2023,2025,2049,Caenorhabditis elegans,cct-1,T-complex protein 1 subunit alpha,174318,Anti-Longevity,Increase,10.10000038,10.10000038
+2024,2026,2050,Caenorhabditis elegans,rpl-17,60S ribosomal protein L17,171692,Anti-Longevity,Increase,13.19999981,13.19999981
+2025,2027,2051,Caenorhabditis elegans,acs-4,fatty Acid CoA Synthetase family,176005,Anti-Longevity,Increase,6.099999905,6.099999905
+2026,2028,2052,Caenorhabditis elegans,rpl-3,60S ribosomal protein L3,175501,Anti-Longevity,Increase,28.60000038,28.60000038
+2027,2029,2053,Caenorhabditis elegans,rack-1,Guanine nucleotide-binding protein subunit beta-2-like 1,177895,Anti-Longevity,Increase,9.800000191,9.800000191
+2028,2030,2054,Caenorhabditis elegans,cct-8,Chaperonin Containing TCP-1,176928,Anti-Longevity,Increase,16,16.0
+2029,2031,2055,Caenorhabditis elegans,rpl-7A,60S ribosomal protein L7a,177203,Anti-Longevity,Increase,12.30000019,12.30000019
+2030,2032,2056,Caenorhabditis elegans,set-26,SET (trithorax/polycomb) domain containing,178463,Anti-Longevity,Increase,22,22.0
+2031,2033,2057,Caenorhabditis elegans,mes-2,Histone-lysine N-methyltransferase mes-2,175096,Anti-Longevity,Increase,6,6.0
+2032,2034,2058,Caenorhabditis elegans,jmjd-2,Lysine-specific demethylase 4,175080,Anti-Longevity,Increase,13,13.0
+2033,2035,2059,Caenorhabditis elegans,tcer-1,TransCription Elongation Regulator homolog,174150,Pro-Longevity,Increase,15,15.0
+2034,2036,2060,Caenorhabditis elegans,odr-2,hypothetical protein,179098,Anti-Longevity,Increase,25,25.0
+2035,2037,2061,Caenorhabditis elegans,odr-7,Nuclear hormone receptor family member odr-7,181403,Anti-Longevity,Increase,27,27.0
+2036,2038,2062,Caenorhabditis elegans,raga-1,RAs-related GTP-binding protein A,174726,Anti-Longevity,Increase,27,27.0
+2037,2039,2063,Caenorhabditis elegans,ragc-1,RAs-related GTP binding protein C homolog,178084,Anti-Longevity,Increase,26,26.0
+2038,2040,2064,Saccharomyces cerevisiae,BUL2,ubiquitin-ubiquitin ligase BUL2,854929,Unannotated,Increase,16,16.0
+2039,2041,2065,Caenorhabditis elegans,pdp-1,Pyruvate Dehydrogenase Phosphatase homolog,172035,Pro-Longevity,Increase,17,17.0
+2040,2042,2066,Caenorhabditis elegans,eat-18,hypothetical protein,24105308,Anti-Longevity,Increase,14,14.0
+2041,2043,2067,Caenorhabditis elegans,elo-1,fatty acid ELOngation,177787,Anti-Longevity,Increase,11,11.0
+2042,2044,2068,Caenorhabditis elegans,elo-2,fatty acid ELOngation,178532,Anti-Longevity,Increase,9,9.0
+2043,2045,2069,Caenorhabditis elegans,fat-4,Delta(5) fatty acid desaturase fat-4,177819,Anti-Longevity,Increase,25,25.0
+2044,2046,2070,Drosophila melanogaster,mub,mushroom-body expressed,40436,Anti-Longevity,Increase,21.39999962,21.39999962
+2045,2047,2071,Drosophila melanogaster,crol,crooked legs,34592,Anti-Longevity,Increase,26.79999924,26.79999924
+2046,2048,2072,Drosophila melanogaster,esg,escargot,34903,Anti-Longevity,Increase,21.10000038,21.10000038
+2052,2054,2078,Saccharomyces cerevisiae,TDH2,glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) TDH2,853465,Anti-Longevity,Increase,29,29.0
+2053,2055,2079,Caenorhabditis elegans,nsun-5,Nop2 (NOP2)/SUN domain family member,175153,Anti-Longevity,Increase,17,17.0
+2054,2056,2080,Mus musculus,Mstn,myostatin,17700,Anti-Longevity,Increase,15,15.0
+2057,2059,2083,Drosophila melanogaster,Vinc,Vinculin,31201,Pro-Longevity,Increase,150,150.0
+2058,2060,2084,Drosophila melanogaster,AhcyL1,Adenosylhomocysteinase like 1,38342,Anti-Longevity,Increase,13,13.0
+2059,2061,2085,Drosophila melanogaster,AhcyL2,Adenosylhomocysteinase like 2,42043,Anti-Longevity,Increase,21,21.0
+2060,2062,2086,Drosophila melanogaster,teq,Tequila,39048,Anti-Longevity,Increase,31,31.0
+2061,2063,2087,Caenorhabditis elegans,impt-1,Protein IMPACT homolog,173001,Anti-Longevity,Increase,16,16.0
+2062,2064,2088,Drosophila melanogaster,trh,trachealess,38065,Anti-Longevity,Increase,90,90.0
+2063,2065,2089,Drosophila melanogaster,5-HT2A,5-hydroxytryptamine (serotonin) receptor 2A,40575,Anti-Longevity,Increase,90,90.0
+2064,2066,2090,Drosophila melanogaster,JhI-21,CG12317-PA,34624,Anti-Longevity,Increase,32,32.0
+2065,2067,2091,Caenorhabditis elegans,eif-3.K,Eukaryotic translation initiation factor 3 subunit K,179779,Anti-Longevity,Increase,40,40.0
+2066,2068,2092,Caenorhabditis elegans,lin-28,Protein lin-28,172626,Anti-Longevity,Increase,20,20.0
+2067,2069,2093,Caenorhabditis elegans,apl-1,Beta-amyloid-like protein,180783,Pro-Longevity,Increase,30,30.0
+2069,2071,2095,Caenorhabditis elegans,miro-1,Mitochondrial Rho GTPase 1,177238,Anti-Longevity,Increase,50,50.0
+2071,2073,2097,Caenorhabditis elegans,elc-1,ELongin C,190775,Anti-Longevity,Increase,12,12.0
+2072,2074,2098,Drosophila melanogaster,Nmdmc,NAD-dependent methylenetetrahydrofolate dehydrogenase,47895,Pro-Longevity,Increase,120,120.0
+2074,2076,2100,Caenorhabditis elegans,bmk-1,Kinesin-like protein,179948,Pro-Longevity,Increase,25,25.0
+2075,2077,2101,Caenorhabditis elegans,acn-1,Inactive angiotensin-converting enzyme-related protein,180780,Anti-Longevity,Increase,21,21.0
+2076,2078,2102,Drosophila melanogaster,CG14207,CG14207-PA,32955,Pro-Longevity,Increase,5,5.0
+2077,2079,2103,Drosophila melanogaster,Hsp67Bc,Heat shock gene 67Bc,39071,Pro-Longevity,Increase,6,6.0
+2078,2080,2104,Mus musculus,G6PD,glucose-6-phosphate dehydrogenase,2539,Pro-Longevity,Increase,14,14.0
+2079,2081,2105,Drosophila melanogaster,ATPCL,ATP citrate lyase,36760,Anti-Longevity,Increase,32,32.0
+2080,2082,2106,Drosophila melanogaster,chm,chameau,43928,Anti-Longevity,Increase,24,24.0
+2081,2083,2107,Caenorhabditis elegans,argk-1,ARGinine Kinase,180080,Pro-Longevity,Increase,25,25.0
+2084,2086,2110,Saccharomyces cerevisiae,SSC1,Hsp70 family ATPase SSC1,853503,Anti-Longevity,Increase,40,40.0
+2085,2087,2111,Saccharomyces cerevisiae,PHO84,phosphate transporter PHO84,854916,Pro-Longevity,Increase,14,14.0
+2086,2088,2112,Caenorhabditis elegans,bcat-1,"Branched-chain-amino-acid aminotransferase, cytosolic",181423,Anti-Longevity,Increase,25,25.0
+2096,2098,2122,Saccharomyces cerevisiae,RPL16B,ribosomal 60S subunit protein L16B,855655,Anti-Longevity,Increase,23,23.0
+2097,2099,2123,Saccharomyces cerevisiae,RPL26A,ribosomal 60S subunit protein L26A,851058,Anti-Longevity,Increase,22,22.0
+2098,2100,2124,Saccharomyces cerevisiae,RPL2B,ribosomal 60S subunit protein L2B,854794,Anti-Longevity,Increase,38,38.0
+2099,2101,2125,Saccharomyces cerevisiae,RPL35A,ribosomal 60S subunit protein L35A,851336,Anti-Longevity,Increase,41,41.0
+2100,2102,2126,Saccharomyces cerevisiae,RPS12,ribosomal 40S subunit protein S12,854551,Anti-Longevity,Increase,38,38.0
+2101,2103,2127,Saccharomyces cerevisiae,IMG1,mitochondrial 54S ribosomal protein IMG1,850413,Anti-Longevity,Increase,23,23.0
+2102,2104,2128,Saccharomyces cerevisiae,IMG2,mitochondrial 54S ribosomal protein IMG2,850434,Anti-Longevity,Increase,28,28.0
+2103,2105,2129,Saccharomyces cerevisiae,MRPL33,mitochondrial 54S ribosomal protein YmL33,855330,Anti-Longevity,Increase,16,16.0
+2104,2106,2130,Saccharomyces cerevisiae,MRPL40,mitochondrial 54S ribosomal protein YmL40,855930,Anti-Longevity,Increase,21,21.0
+2105,2107,2131,Saccharomyces cerevisiae,MRPL49,mitochondrial 54S ribosomal protein YmL49,853349,Anti-Longevity,Increase,25,25.0
+2106,2108,2132,Saccharomyces cerevisiae,MSK1,lysine--tRNA ligase MSK1,855651,Anti-Longevity,Increase,12,12.0
+2107,2109,2133,Saccharomyces cerevisiae,MRX14,putative mitochondrial 54S ribosomal protein,851692,Anti-Longevity,Increase,12,12.0
+2108,2110,2134,Saccharomyces cerevisiae,SDH5,succinate dehydrogenase assembly factor SDH5,854083,Anti-Longevity,Increase,28,28.0
+2109,2111,2135,Saccharomyces cerevisiae,SDH1,succinate dehydrogenase flavoprotein subunit SDH1,853709,Anti-Longevity,Increase,25,25.0
+2110,2112,2136,Saccharomyces cerevisiae,SDH2,succinate dehydrogenase iron-sulfur protein subunit SDH2,850685,Anti-Longevity,Increase,21,21.0
+2111,2113,2137,Saccharomyces cerevisiae,ALG6,"dolichyl-P-Glc:Man(9)GlcNAc(2)-PP-dolichol alpha-1,3-glucosyltransferase",854163,Anti-Longevity,Increase,15,15.0
+2112,2114,2138,Saccharomyces cerevisiae,EOS1,Eos1p,855644,Anti-Longevity,Increase,24,24.0
+2113,2115,2139,Saccharomyces cerevisiae,MNN1,"alpha-1,3-mannosyltransferase MNN1",856718,Anti-Longevity,Increase,15,15.0
+2114,2116,2140,Saccharomyces cerevisiae,MNN2,"alpha-1,2-mannosyltransferase MNN2",852303,Anti-Longevity,Increase,16,16.0
+2115,2117,2141,Saccharomyces cerevisiae,PMT5,putative dolichyl-phosphate-mannose-protein mannosyltransferase PMT5,851464,Anti-Longevity,Increase,21,21.0
+2116,2118,2142,Saccharomyces cerevisiae,YUR1,mannosyltransferase YUR1,853302,Anti-Longevity,Increase,19,19.0
+2117,2119,2143,Saccharomyces cerevisiae,SGF11,SAGA histone acetyltransferase complex subunit SGF11,856060,Anti-Longevity,Increase,26,26.0
+2118,2120,2144,Mus musculus,Mtbp,"Mdm2, transformed 3T3 cell double minute p53 binding protein",105837,Anti-Longevity,Increase,20,20.0
+2119,2121,2145,Caenorhabditis elegans,hlh-30,Helix Loop Helix,177157,Pro-Longevity,Increase,20,20.0
+2123,2125,2149,Saccharomyces cerevisiae,NAT4,Nat4p,855091,Anti-Longevity,Increase,21,21.0
+2124,2126,2150,Drosophila melanogaster,Hex-A,Hexokinase A,45875,Anti-Longevity,Increase,10,10.0
+2126,2128,2152,Drosophila melanogaster,Gpdh,Glycerol 3 phosphate dehydrogenase,33824,Anti-Longevity,Increase,20,20.0
+2128,2130,2154,Caenorhabditis elegans,fmo-2,Dimethylaniline monooxygenase [N-oxide-forming],177958,Pro-Longevity,Increase,20,20.0
+2129,2131,2155,Caenorhabditis elegans,vit-1,Vitellogenin-1,181034,Anti-Longevity,Increase,40,40.0
+2138,2140,2164,Caenorhabditis elegans,mir-124,mir-124,3565990,Pro-Longevity,Increase,16,16.0
+2139,2141,2165,Caenorhabditis elegans,mir-34,mir-34,260162,Anti-Longevity,Increase,62,62.0
+2142,2144,2168,Caenorhabditis elegans,mir-238,mir-238,3564977,Anti-Longevity,Increase,20,20.0
+2144,2146,2170,Drosophila melanogaster,mir-277,mir-277 stem loop,12798086,Anti-Longevity,Increase,70,70.0
+2145,2147,2171,Mus musculus,Mir17,microRNA 17,723905,Pro-Longevity,Increase,16,16.0
+2151,2153,2213,Caenorhabditis elegans,tald-1,Transaldolase,177202,Anti-Longevity,Increase,14,14.0
+2152,2154,2215,Drosophila melanogaster,Drp1,Dynamin related protein 1,33445,Pro-Longevity,Increase,21,21.0
+2153,2155,2216,Drosophila melanogaster,OTC,ornithine carbamoyltransferase,5009,Pro-Longevity,Increase,21,21.0
+2155,2157,2220,Caenorhabditis elegans,npr-1,NeuroPeptide Receptor family,180752,Anti-Longevity,Increase,16,16.0
+2156,2158,2221,Caenorhabditis elegans,memo-1,MEdiator of cell MOtility 1 homolog,179163,Anti-Longevity,Increase,38,38.0
+2159,2161,2224,Saccharomyces cerevisiae,CAN1,arginine permease CAN1,856646,Anti-Longevity,Increase,30,30.0
+2160,2162,2225,Caenorhabditis elegans,kynu-1,kynu-1,180883,Anti-Longevity,Increase,38,38.0
+2161,2163,2226,Caenorhabditis elegans,iglr-1,iglr-1,184720,Anti-Longevity,Increase,34,34.0
+2162,2164,2227,Caenorhabditis elegans,tsp-3,TetraSPanin 3,192059,Anti-Longevity,Increase,41,41.0
+2163,2165,2228,Caenorhabditis elegans,rcan-1,Regulator of CAalciNeurin,175788,Anti-Longevity,Increase,38,38.0
+2164,2166,2229,Caenorhabditis elegans,unc-36,unc-36,176155,Anti-Longevity,Increase,34,34.0
+2165,2167,2230,Drosophila melanogaster,Prp19,Pre-RNA processing factor 19,37123,Pro-Longevity,Increase,25,25.0
+2166,2168,2231,Mus musculus,Akt2,thymoma viral proto-oncogene 2,11652,Anti-Longevity,Increase,9,9.0
+2167,2169,2232,Caenorhabditis elegans,ergo-1,Endogenous-RNAi deficient arGOnaute,178602,Anti-Longevity,Increase,19,19.0
+2168,2170,2233,Caenorhabditis elegans,dot-1.1,DOT1 histone methyltransferase,171797,Anti-Longevity,Increase,15,15.0
+2169,2171,2234,Caenorhabditis elegans,cyk-3,cyk-3,175853,Anti-Longevity,Increase,15,15.0
+2170,2172,2235,Drosophila melanogaster,Sirt4,Sirtuin 4,31480,Pro-Longevity,Increase,20,20.0
+2173,2175,2238,Drosophila melanogaster,RpIIIC53,RNA polymerase III subunit C53,40002,Anti-Longevity,Increase,11,11.0
+2174,2176,2239,Caenorhabditis elegans,rpc-1,"RNA Polymerase, Class III",177491,Anti-Longevity,Increase,36,36.0
+2176,2178,2241,Drosophila melanogaster,fkh,fork head,43383,Pro-Longevity,Increase,14,14.0

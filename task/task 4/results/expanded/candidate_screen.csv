@@ -1,0 +1,134 @@
+candidate_id,gene_ids,genes,species_count,gene_count,direct_pair_count,selected_example,decision,unit
+C001,1|619|1846,aak-2|SNF1|SNF1A,3,3,2,AMPK,Selected; see selection rationale,connected candidate network; not an OMA orthogroup
+C002,10|832|1810|2231,akt-1|Akt1|Akt1|Akt2,3,4,5,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C003,12|432|433,amt-2|MEP2|MEP3,2,3,2,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C004,21|23|1218,Atg7|atg-7|ATG7,3,3,3,ATG7,Selected; see selection rationale,connected candidate network; not an OMA orthogroup
+C005,22|955|1306,Atg8a|lgg-1|ATG8,3,3,3,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C006,25|29,atp-2|ATP2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C007,31|685|686|691|1286,trx-1|Trx-2|TrxT|Txn1|TRX1,4,5,5,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C008,32|678|679|1809,let-363|Tor|TOR1|Mtor,4,4,6,TOR,Selected; see selection rationale,connected candidate network; not an OMA orthogroup
+C009,42|1738,BCY1|Prkar2b,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C010,51|900,Bub3|bub-3,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C011,89|720,car|vps-33.1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C012,91|92|1694,Cat|Cat|CTA1,3,3,3,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C013,94|1047|1414,cchl-1|CYT2|CYC3,2,3,2,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C014,107|1813,cdk-7|Cdk7,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C015,108|1317,Cdk5|PHO85,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C016,129|736|776,cku-70|Xrcc6|YKU70,3,3,2,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C017,130|136|1436,clk-1|Coq7|CAT5,3,3,3,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C018,145|1701,cyc-1|CYT1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C019,163|365|368|373,daf-2|Igf1r|InR|Insr,3,4,3,Insulin/IGF receptor,Selected; see selection rationale,connected candidate network; not an OMA orthogroup
+C020,185|2215,DNM1|Drp1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C021,200|1045,cyc-2.1|CYC1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C022,208|2034,Ef1alpha48D|eef-1A.1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C023,215|300,Egm|acdh-13,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C024,225|1863,ero-1|ERO1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C025,238|1418,F21H12.1|SWD1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C026,245|1231,acs-20|FAT1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C027,248|1501,sac-1|SAC1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C028,260|358,idha-1|IDH2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C029,265|582,F55B11.1|ry,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C030,269|603,aakb-1|SIP2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C031,275|1346|1366|1642,idh-1|IDP1|IDP2|IDP3,2,4,3,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C032,279|280,fbp-1|FBP1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C033,287|848,frh-1|fh,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C034,288|493|831|1033|1670,ftt-2|par-5|14-3-3epsilon|BMH1|BMH2,3,5,6,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C035,314|319|481|919|942|943,gpa-3|GPA2|odr-3|egl-30|goa-1|gsa-1,2,6,5,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C036,321|1778|2078,gpd-2|gpd-3|TDH2,2,3,2,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C037,324|1578,Gpx4|GPX2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C038,331|1604,H28O16.1|ATP1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C039,345|853,hsp-4|Hsc70-3,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C040,346|2110,hsp-6|SSC1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C041,351|1159|1538,Hsp68|SSA4|SSA3,2,3,2,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C042,357|1624|2150|2151,HXK2|GLK1|Hex-A|Hex-C,2,4,4,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C043,362|1661,ifg-1|TIF4632,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C044,366|452|453|825,Indy|nac-2|nac-3|Slc13a1,3,4,3,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C045,381|837|1320,jnk-1|bsk|RIM11,3,3,2,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C046,397|961|1831|1832,KSS1|mpk-1|p38b|Mpk2,3,4,3,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C047,400|2030,LAT1|dlat-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C048,402|1962,lbp-6|fabp,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C049,413|1245,dld-1|LPD1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C050,417|1259,lars-2|NAM2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C051,419|1331,lt|VPS41,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C052,426|427,mcm-2|Mcm2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C053,428|1615|1616,mdh-2|MDH1|MDH2,2,3,2,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C054,435|594,mev-1|SdhC,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C055,444|1371,Msh2|MSH2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C056,446|450,Msra|MXR1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C057,451|1786,mys|pat-3,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C058,480|1898,nuo-5|ND75,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C059,494|1910,pat-4|Ilk,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C060,498|969,Pcmt|pcm-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C061,504|970,PHB1|phb-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C062,505|971,PHB2|phb-2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C063,507|681|1502|1632,Pka-C1|TPK2|TPK1|TPK3,2,4,3,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C064,516|518|856|2109,prdx-2|Prdx1|Jafrac1|TSA1,4,4,3,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C065,530|1208,rab-7|YPT7,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C066,555|556,RPD3|Rpd3,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C067,559|1461,rpl-4|RPL4A,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C068,560|1657|1658,rpl-9|RPL9A|RPL9B,2,3,2,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C069,561|2047,RPL10|rpl-10,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C070,562|2040,RPL31A|rpl-31,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C071,566|1606,rps-11|RPS11A,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C072,570|1712,rps-26|RPS26B,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C073,578|583|1737,rsks-1|S6k|Rps6kb1,3,3,2,S6 kinase,Selected; see selection rationale,connected candidate network; not an OMA orthogroup
+C074,584|903|1660,sams-1|sams-3|SAM1,2,3,2,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C075,593|2136,SdhB|SDH2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C076,610|611,Sirt6|Sirt6,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C077,615|666|1553|1595,Slc25a4|ant-1.1|AAC3|PET9,3,4,5,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C078,620|1849,SNF4|aakg-2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C079,621|622|984,SOD1|Sod|sod-1,3,3,3,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C080,623|624|827|985,SOD2|Sod2|Sod2|sod-2,4,4,6,SOD2,Selected; see selection rationale,connected candidate network; not an OMA orthogroup
+C081,627|1716,spt-4|SPT4,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C082,633|1771,Stub1|chn-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C083,636|637,Surf1|Surf1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C084,639|838|1130,T02H6.11|CG17856|QCR7,3,3,2,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C085,650|1078,ogdh-1|KGD1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C086,652|1330,T27F7.1|VPS24,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C087,676|1547,top-1|TOP1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C088,694|1442,ubh-3|YUH1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C089,697|1223,ucr-1|COR1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C090,703|1367,unc-26|INP53,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C091,705|715|1719,unc-32|vha-6|VPH1,2,3,2,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C092,710|1281|1381,unc-64|SSO2|SSO1,2,3,2,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C093,741|871,pnc-1|Naam,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C094,749|1274|1748,Y43H11AL.2|RTC2|YPQ1,2,3,2,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C095,753|1650,spg-7|AFG3,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C096,764|1745,vps-20|VPS20,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C097,765|1415,Y65B4BR.5|EGD2,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C098,815|843,Dmd|Dys,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C099,833|912|1513,alpha-Man-I|D2030.1|MNS1,3,3,2,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C100,835|894,Aut1|atg-3,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C101,862|905,l(3)neo18|CELE_C25H3.9,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C102,876|1012,Pten|Pten,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C103,883|1412,Zw|ZWF1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C104,897|1305|1862,atg-5|ATG5|Atg5,3,3,2,,Eligible breadth; not selected or fully paper-reviewed,connected candidate network; not an OMA orthogroup
+C105,941|1629,fzy-1|CDH1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C106,948|2148,ire-1|Ire1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C107,975|1180,rab-5|VPS21,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C108,996|1908,unc-51|Atg1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C109,1000|1586,wdr-5.1|SWD3,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C110,1010|1757,Parp1|pme-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C111,1059|2043,GDH3|gdh-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C112,1239|1912,HXT5|fgt-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C113,1297|2087,YIH1|impt-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C114,1364|1919,GSY2|GlyS,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C115,1373|2065,PTC5|pdp-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C116,1422|2035,RPS0B|rps-0,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C117,1439|1750,MRS4|mfn-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C118,1449|1939;2213,TAL1|Y24D9A.8,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C119,1460|2042,RPL1B|rpl-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C120,1467|2028,PIM1|C34B2.6,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C121,1503|2050,RPL17B|rpl-17,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C122,1563|2055,RPL8B|rpl-7A,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C123,1569|1791,CYS4|Cbs,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C124,1608|1897,SKM1|pak-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C125,1677|1874,YOR1|Mrp4,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C126,1725|2038,RPL23A|rpl-23,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C127,1731|2048,RPL7A|rpl-7,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C128,1746|2062,GTR1|raga-1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C129,1767|2126,rps-12|RPS12,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C130,1787|2014,rpt-1|RPT1,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C131,1854|2079,CG42358|nsun-5,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C132,1929|1931,rdgA|dgk-5,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup
+C133,2239|2240,rpc-1|RPO31,2,2,1,,Two-species candidate; below preferred breadth,connected candidate network; not an OMA orthogroup

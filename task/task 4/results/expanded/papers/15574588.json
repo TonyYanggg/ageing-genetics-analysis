@@ -1,0 +1,422 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15574588+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "15574588",
+    "source": "MED",
+    "pmid": "15574588",
+    "pmcid": "PMC535911",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC535911"
+      ]
+    },
+    "doi": "10.1101/gad.1255404",
+    "title": "The AMP-activated protein kinase AAK-2 links energy levels and insulin-like signals to lifespan in C. elegans.",
+    "authorString": "Apfeld J, O'Connor G, McDonagh T, DiStefano PS, Curtis R.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Apfeld J",
+          "lastName": "Apfeld",
+          "firstName": "Javier",
+          "initials": "J",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-9897-5671"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Elixir Pharmaceuticals, Cambridge, Massachusetts 02139, USA. japfeld@elixirpharm.com"
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "O'Connor G",
+          "lastName": "O'Connor",
+          "firstName": "Greg",
+          "initials": "G"
+        },
+        {
+          "fullName": "McDonagh T",
+          "lastName": "McDonagh",
+          "firstName": "Tom",
+          "initials": "T"
+        },
+        {
+          "fullName": "DiStefano PS",
+          "lastName": "DiStefano",
+          "firstName": "Peter S",
+          "initials": "PS"
+        },
+        {
+          "fullName": "Curtis R",
+          "lastName": "Curtis",
+          "firstName": "Rory",
+          "initials": "R"
+        }
+      ]
+    },
+    "authorIdList": {
+      "authorId": [
+        {
+          "type": "ORCID",
+          "value": "0000-0001-9897-5671"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "24",
+      "volume": "18",
+      "journalIssueId": 1211980,
+      "dateOfPublication": "2004 Dec",
+      "monthOfPublication": 12,
+      "yearOfPublication": 2004,
+      "journal": {
+        "medlineAbbreviation": "Genes Dev",
+        "title": "Genes & development",
+        "essn": "1549-5477",
+        "issn": "0890-9369",
+        "nlmid": "8711660",
+        "isoabbreviation": "Genes Dev"
+      },
+      "printPublicationDate": "2004-12-01"
+    },
+    "pubYear": "2004",
+    "pageInfo": "3004-3009",
+    "abstractText": "Although limiting energy availability extends lifespan in many organisms, it is not understood how lifespan is coupled to energy levels. We find that the AMP:ATP ratio, a measure of energy levels, increases with age in Caenorhabditis elegans and can be used to predict life expectancy. The C. elegans AMP-activated protein kinase alpha subunit AAK-2 is activated by AMP and functions to extend lifespan. In addition, either an environmental stressor that increases the AMP:ATP ratio or mutations that lower insulin-like signaling extend lifespan in an aak-2-dependent manner. Thus, AAK-2 is a sensor that couples lifespan to information about energy levels and insulin-like signals.",
+    "affiliation": "Elixir Pharmaceuticals, Cambridge, Massachusetts 02139, USA. japfeld@elixirpharm.com",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print-Electronic",
+    "pubTypeList": {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Animals, Genetically Modified"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Caenorhabditis elegans",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Multienzyme Complexes",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Insulin",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Green Fluorescent Proteins"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "DNA Primers"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Adenosine Monophosphate",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Adenosine Triphosphate",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Crosses, Genetic"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Gene Transfer Techniques"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Sequence Analysis, DNA"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Immunoprecipitation"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Temperature"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Age Factors"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Signal Transduction",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mutagenesis"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Energy Metabolism",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Aging",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Longevity",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "DE",
+                "qualifierName": "drug effects"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "AMP-Activated Protein Kinases"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Protein Serine-Threonine Kinases",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "Multienzyme Complexes",
+          "registryNumber": "0"
+        },
+        {
+          "name": "DNA Primers",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Green Fluorescent Proteins",
+          "registryNumber": "147336-22-9"
+        },
+        {
+          "name": "AMP-activated protein kinases",
+          "registryNumber": "EC 2.7.11.31"
+        },
+        {
+          "name": "Insulin",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Adenosine Triphosphate",
+          "registryNumber": "8L70Q75FXE"
+        },
+        {
+          "name": "Adenosine Monophosphate",
+          "registryNumber": "415SHH325A"
+        },
+        {
+          "name": "Protein Serine-Threonine Kinases",
+          "registryNumber": "EC 2.7.11.1"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1101/gad.1255404"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC535911"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC535911?pdf=render"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1101/gad.1255404"
+        }
+      ]
+    },
+    "commentCorrectionList": {
+      "commentCorrection": [
+        {
+          "source": "MED",
+          "reference": "Genes Dev. 2005 Feb 1;19(3):411",
+          "type": "Erratum in",
+          "orderIn": 1
+        },
+        {
+          "source": "MED",
+          "reference": "Genes Dev. 2005 Jan 1;19(1):188",
+          "type": "Erratum in",
+          "orderIn": 2
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 534,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "Y",
+    "dbCrossReferenceList": {
+      "dbName": [
+        "INTERPRO",
+        "UNIPROT"
+      ]
+    },
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2005-03-02",
+    "dateOfCreation": "2004-12-03",
+    "dateOfRevision": "2022-02-28",
+    "electronicPublicationDate": "2004-12-01",
+    "firstPublicationDate": "2004-12-01",
+    "firstIndexDate": "2009-12-23",
+    "fullTextReceivedDate": "2025-02-05",
+    "hasEvaluations": "N"
+  }
+}

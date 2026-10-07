@@ -1,0 +1,398 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A12586694+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "12586694",
+    "source": "MED",
+    "pmid": "12586694",
+    "pmcid": "PMC1462415",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC1462415"
+      ]
+    },
+    "doi": "10.1093/genetics/163.1.35",
+    "title": "SOD2 functions downstream of Sch9 to extend longevity in yeast.",
+    "authorString": "Fabrizio P, Liou LL, Moy VN, Diaspro A, Valentine JS, Gralla EB, Longo VD.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Fabrizio P",
+          "lastName": "Fabrizio",
+          "firstName": "Paola",
+          "initials": "P",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Andrus Gerontology Center and Department of Biological Sciences, University of Southern California, Los Angeles, California 90089-0191, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Liou LL",
+          "lastName": "Liou",
+          "firstName": "Lee-Loung",
+          "initials": "LL"
+        },
+        {
+          "fullName": "Moy VN",
+          "lastName": "Moy",
+          "firstName": "Vanessa N",
+          "initials": "VN"
+        },
+        {
+          "fullName": "Diaspro A",
+          "lastName": "Diaspro",
+          "firstName": "Alberto",
+          "initials": "A"
+        },
+        {
+          "fullName": "Valentine JS",
+          "lastName": "Valentine",
+          "firstName": "Joan Selverstone",
+          "initials": "JS"
+        },
+        {
+          "fullName": "Gralla EB",
+          "lastName": "Gralla",
+          "firstName": "Edith Butler",
+          "initials": "EB"
+        },
+        {
+          "fullName": "Longo VD",
+          "lastName": "Longo",
+          "firstName": "Valter D",
+          "initials": "VD"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "altmetrics",
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "1",
+      "volume": "163",
+      "journalIssueId": 1169580,
+      "dateOfPublication": "2003 Jan",
+      "monthOfPublication": 1,
+      "yearOfPublication": 2003,
+      "journal": {
+        "medlineAbbreviation": "Genetics",
+        "title": "Genetics",
+        "essn": "1943-2631",
+        "issn": "0016-6731",
+        "nlmid": "0374636",
+        "isoabbreviation": "Genetics"
+      },
+      "printPublicationDate": "2003-01-01"
+    },
+    "pubYear": "2003",
+    "pageInfo": "35-46",
+    "abstractText": "Signal transduction pathways inactivated during periods of starvation are implicated in the regulation of longevity in organisms ranging from yeast to mammals, but the mechanisms responsible for life-span extension are poorly understood. Chronological life-span extension in S. cerevisiae cyr1 and sch9 mutants is mediated by the stress-resistance proteins Msn2/Msn4 and Rim15. Here we show that mitochondrial superoxide dismutase (Sod2) is required for survival extension in yeast. Deletion of SOD2 abolishes life-span extension in sch9Delta mutants and decreases survival in cyr1:mTn mutants. The overexpression of Sods--mitochondrial Sod2 and cytosolic CuZnSod (Sod1)--delays the age-dependent reversible inactivation of mitochondrial aconitase, a superoxide-sensitive enzyme, and extends survival by 30%. Deletion of the RAS2 gene, which functions upstream of CYR1, also doubles the mean life span by a mechanism that requires Msn2/4 and Sod2. These findings link mutations that extend chronological life span in S. cerevisiae to superoxide dismutases and suggest that the induction of other stress-resistance genes regulated by Msn2/4 and Rim15 is required for maximum longevity extension.",
+    "affiliation": "Andrus Gerontology Center and Department of Biological Sciences, University of Southern California, Los Angeles, California 90089-0191, USA.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print",
+    "pubTypeList": {
+      "pubType": [
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    },
+    "grantsList": {
+      "grant": [
+        {
+          "agency": "NIDDK NIH HHS",
+          "acronym": "DK",
+          "grantId": "DK-46828",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIA NIH HHS",
+          "acronym": "AG",
+          "grantId": "AG-08761-10",
+          "orderIn": 0
+        }
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Saccharomyces cerevisiae",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "EN",
+                "qualifierName": "enzymology"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GD",
+                "qualifierName": "growth & development"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "ras Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Aconitate Hydratase",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Superoxide Dismutase",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Protein Kinases",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "DNA-Binding Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Fungal Proteins"
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Saccharomyces cerevisiae Proteins"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Transcription Factors",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Mutation"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Superoxide Dismutase 2"
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "SCH9 protein kinase",
+          "registryNumber": "EC 2.7.1.-"
+        },
+        {
+          "name": "MSN4 protein, S cerevisiae",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Aconitate Hydratase",
+          "registryNumber": "EC 4.2.1.3"
+        },
+        {
+          "name": "Fungal Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Superoxide Dismutase",
+          "registryNumber": "EC 1.15.1.1"
+        },
+        {
+          "name": "Saccharomyces cerevisiae Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "DNA-Binding Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Transcription Factors",
+          "registryNumber": "0"
+        },
+        {
+          "name": "ras Proteins",
+          "registryNumber": "EC 3.6.5.2"
+        },
+        {
+          "name": "MSN2 protein, S cerevisiae",
+          "registryNumber": "0"
+        },
+        {
+          "name": "superoxide dismutase 2",
+          "registryNumber": "EC 1.15.1.1"
+        },
+        {
+          "name": "RAS2 protein, S cerevisiae",
+          "registryNumber": "EC 3.6.5.2"
+        },
+        {
+          "name": "Protein Kinases",
+          "registryNumber": "EC 2.7.-"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "html",
+          "site": "Unpaywall",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1462415"
+        },
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "pdf",
+          "site": "intl.genetics.org",
+          "url": "http://intl.genetics.org/cgi/reprint/163/1/35.pdf"
+        },
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "html",
+          "site": "intl.genetics.org",
+          "url": "http://intl.genetics.org/cgi/content/full/163/1/35"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "abs",
+          "site": "intl.genetics.org",
+          "url": "http://intl.genetics.org/cgi/content/abstract/163/1/35"
+        },
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1093/genetics/163.1.35"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC1462415"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC1462415?pdf=render"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1093/genetics/163.1.35"
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 275,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "N",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "N",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2003-09-12",
+    "dateOfCreation": "2003-02-15",
+    "dateOfRevision": "2026-01-28",
+    "firstPublicationDate": "2003-01-01",
+    "firstIndexDate": "2010-09-15",
+    "fullTextReceivedDate": "2025-02-05",
+    "hasEvaluations": "N"
+  }
+}

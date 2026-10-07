@@ -1,0 +1,16 @@
+{
+  "verified_utc": "2026-10-07T15:44:19.616174+00:00",
+  "status": "PASS",
+  "checks": {
+    "all_307_genage_genes_present": true,
+    "queryable_genes_reconstructed_from_checksummed_cache": 306,
+    "explicit_unqueryable_genes": 1,
+    "unique_output_pairs_equal_source_union": 422250,
+    "per_gene_summary_counts_match": true,
+    "evidence_score_rows_reference_valid_pairs": true,
+    "output_hashes_match_collection_manifest": true,
+    "genes_needing_pagination_reconciliation": 37
+  },
+  "datatype_score_rows": 454625,
+  "datasource_score_rows": 456430
+}

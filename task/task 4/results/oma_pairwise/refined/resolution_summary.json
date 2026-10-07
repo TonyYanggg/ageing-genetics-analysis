@@ -1,0 +1,20 @@
+{
+  "records": 2205,
+  "mapped_records": 2138,
+  "remaining_records": 67,
+  "resolution_counts": {
+    "mapped_model_protein": 2138,
+    "current_pseudogene_annotation": 8,
+    "OMA_source_species_gap": 2,
+    "catalogue_gene_paper_conflict": 2,
+    "discontinued_identifier": 8,
+    "missing_stable_identifier": 3,
+    "ambiguous_gene_to_protein_identity": 18,
+    "noncoding_not_assessed_by_protein_orthology": 18,
+    "confirmed_heterologous_construct": 4,
+    "protein_identifier_gap_after_stable_bridge_search": 1,
+    "catalogue_taxon_conflict": 1,
+    "construct_species_unresolved": 2
+  },
+  "limitation": "Current gene-type metadata is queried for baseline unmapped records only. Noncoding loci remain in the inventory but are not assessed by OMA protein orthology. No source record has been corrected in place."
+}

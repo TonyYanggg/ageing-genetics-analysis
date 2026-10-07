@@ -1,0 +1,20 @@
+{
+  "url": "https://sparql.orthodb.org/sparql",
+  "params": {
+    "query": "PREFIX odb: <http://purl.orthodb.org/>\nPREFIX up: <http://purl.uniprot.org/core/>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT DISTINCT ?og ?gene ?organism ?name WHERE {\nVALUES ?og { <http://purl.orthodb.org/odbgroup/5002515at2759> <http://purl.orthodb.org/odbgroup/5002707at2759> <http://purl.orthodb.org/odbgroup/5002737at2759> <http://purl.orthodb.org/odbgroup/5003292at2759> <http://purl.orthodb.org/odbgroup/5003899at2759> <http://purl.orthodb.org/odbgroup/5004279at2759> <http://purl.orthodb.org/odbgroup/5004621at2759> <http://purl.orthodb.org/odbgroup/5006073at2759> <http://purl.orthodb.org/odbgroup/5006262at2759> <http://purl.orthodb.org/odbgroup/5012534at2759> <http://purl.orthodb.org/odbgroup/5012868at2759> <http://purl.orthodb.org/odbgroup/5012941at2759> <http://purl.orthodb.org/odbgroup/5013221at2759> <http://purl.orthodb.org/odbgroup/5014569at2759> <http://purl.orthodb.org/odbgroup/5014714at2759> <http://purl.orthodb.org/odbgroup/5014990at2759> <http://purl.orthodb.org/odbgroup/5015601at2759> <http://purl.orthodb.org/odbgroup/501596at2759> <http://purl.orthodb.org/odbgroup/5016236at2759> <http://purl.orthodb.org/odbgroup/5016473at2759> }\nVALUES ?organism { <http://purl.orthodb.org/odborganism/559292_0> <http://purl.orthodb.org/odborganism/6239_0> <http://purl.orthodb.org/odborganism/7227_0> <http://purl.orthodb.org/odborganism/10090_1> <http://purl.orthodb.org/odborganism/4896_0> <http://purl.orthodb.org/odborganism/515849_0> <http://purl.orthodb.org/odborganism/6238_0> <http://purl.orthodb.org/odborganism/7955_0> <http://purl.orthodb.org/odborganism/10036_0> }\n?gene odb:memberOf ?og; up:organism ?organism.\nOPTIONAL { ?gene odb:name ?name. }\n}",
+    "format": "application/sparql-results+json"
+  },
+  "retrieved_utc": "2026-09-18T06:41:31.051094+00:00",
+  "sha256": "3b6612248aba80172c91a3da46350346fa9686e74280ae8c8558bf97c6a2a9d3",
+  "bytes": 129114,
+  "response_headers": {
+    "Server": "nginx/1.20.1",
+    "Date": "Fri, 18 Sep 2026 06:41:29 GMT",
+    "Content-Type": "application/sparql-results+json",
+    "Content-Length": "129114",
+    "Connection": "keep-alive",
+    "Accept-Ranges": "bytes",
+    "Content-disposition": "filename=sparql_2026-09-18_06-41-29Z.json",
+    "Access-Control-Allow-Origin": "*"
+  }
+}

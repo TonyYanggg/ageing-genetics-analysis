@@ -1,0 +1,10 @@
+species,records,unique_identified_genes,missing_id_records,mapped_genes,exact_xref_genes,unresolved_genes,mapped_fraction,lifespan_evidence_records
+Saccharomyces cerevisiae,911,911,0,884,909,27,0.9703622392974753,904
+Caenorhabditis elegans,889,886,2,829,859,57,0.9356659142212189,885
+Drosophila melanogaster,202,200,1,181,182,19,0.905,201
+Mus musculus,136,136,0,128,128,8,0.9411764705882353,134
+Schizosaccharomyces pombe,61,61,0,57,61,4,0.9344262295081968,61
+Podospora anserina,3,2,0,1,1,1,0.5,3
+Caenorhabditis briggsae,1,1,0,0,0,1,0.0,1
+Danio rerio,1,1,0,1,1,0,1.0,1
+Mesocricetus auratus,1,1,0,1,1,0,1.0,1

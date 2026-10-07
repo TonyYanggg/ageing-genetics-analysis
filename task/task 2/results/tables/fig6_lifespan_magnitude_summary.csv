@@ -1,0 +1,16 @@
+organism,lifespan_effect_category,n,mean,median,sd,q1,q3,iqr,minimum,maximum
+Saccharomyces cerevisiae,Increase,217,35.788,29,45.3445,20,40,20,10,600
+Saccharomyces cerevisiae,Decrease,218,40.0183,40,16.1941,25,50,25,10,85
+Saccharomyces cerevisiae,Increase and Decrease,0,,,,,,,,
+Caenorhabditis elegans,Increase,453,33.9135,25,51.6056,16,40,24,4,1000
+Caenorhabditis elegans,Decrease,163,25.1779,22.2,14.245,13.5,33.5,20,7,84
+Caenorhabditis elegans,Increase and Decrease,0,,,,,,,,
+Drosophila melanogaster,Increase,114,35.5148,30,24.7616,20,44.75,24.75,5,150
+Drosophila melanogaster,Decrease,33,32.6909,30,17.5661,20,42.6,22.6,4,75
+Drosophila melanogaster,Increase and Decrease,0,,,,,,,,
+Mus musculus,Increase,46,22.8413,20,9.6616,16,30,14,7,46
+Mus musculus,Decrease,25,33.84,33,19.2043,18,43,25,6,83
+Mus musculus,Increase and Decrease,0,,,,,,,,
+Schizosaccharomyces pombe,Increase,0,,,,,,,,
+Schizosaccharomyces pombe,Decrease,0,,,,,,,,
+Schizosaccharomyces pombe,Increase and Decrease,0,,,,,,,,

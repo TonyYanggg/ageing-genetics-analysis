@@ -1,0 +1,33 @@
+{
+  "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+  "params": {
+    "db": "gene",
+    "id": "2539379,2539472,2539545,2539653,2539738,2539743,2539781,2539836,2539930,2540026,2540150,2540375,2540626,2540673,2540745,2540765,2540834,2540844,2540991,2541086,2541161,2541162,2541227,2541246,2541292,2541353,2541358,2541482,2541690,2541867,2541941,2541963,2542118,2542177,2542338,2542362,2542423,2542467,2542497,2542498,2542523,2542614,2542652,2542654,2542773,2543072,2543101,2543111,2543240,2543375,2543392,2543646,2768677,2769007,3355130,3564920,3564977,3565022,3565035,3565046,3565075,3565081,3565236,3565323,3565338,3565393,3565400,3565504,3565545,3565575,3565591,3565648,3565660,3565745,3565786,3565806,3565860,3565921,3565990,3640787,3771951,3772064,3772232,3772576,4927009,6194500,6418597,7354421,8582838,9164870,12798012,12798013,12798086,12798087,12798384,12798434,13183021,24105308,101830758",
+    "retmode": "json"
+  },
+  "retrieved_utc": "2026-09-18T09:35:36.730445+00:00",
+  "sha256": "a4cbf1dda72da82f480e5935c192c920431f4d03d3cc6e2824720b44f2a23b7a",
+  "bytes": 93227,
+  "response_headers": {
+    "Date": "Fri, 18 Sep 2026 09:35:35 GMT",
+    "Server": "Finatra",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Content-Security-Policy": "upgrade-insecure-requests",
+    "Referrer-Policy": "origin-when-cross-origin",
+    "Ncbi-Sid": "2CF98EA5A41B6C2E_59DCSID",
+    "Ncbi-Phid": "1D3444813F10BF0500005F8DF78AA2DE.1.1.m_1",
+    "Content-Type": "application/json; charset=UTF-8",
+    "Cache-Control": "private",
+    "Content-Encoding": "gzip",
+    "X-Ratelimit-Limit": "3",
+    "X-Ratelimit-Remaining": "2",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Expose-Headers": "X-RateLimit-Limit,X-RateLimit-Remaining",
+    "Set-Cookie": "ncbi_sid=2CF98EA5A41B6C2E_59DCSID; domain=.nih.gov; path=/; expires=Sat, 18 Sep 2027 09:35:35 GMT",
+    "X-Ua-Compatible": "IE=Edge",
+    "X-Xss-Protection": "1; mode=block",
+    "Via": "1.1 google",
+    "Alt-Svc": "clear",
+    "Transfer-Encoding": "chunked"
+  }
+}

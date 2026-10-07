@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740157pt" height="700.15748pt" viewBox="0 0 518.740157 700.15748" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-26T01:26:21.726744</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 700.15748 
+L 518.740157 700.15748 
+L 518.740157 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.173228 73.700787 
+L 504.566929 73.700787 
+L 504.566929 11.338583 
+L 14.173228 11.338583 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f7fafb; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 99.212598 104.88189 
+L 197.716535 104.88189 
+L 197.716535 82.204724 
+L 99.212598 82.204724 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #e8eff3; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 200.551181 104.88189 
+L 299.055118 104.88189 
+L 299.055118 82.204724 
+L 200.551181 82.204724 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #e8eff3; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 301.889764 104.88189 
+L 400.393701 104.88189 
+L 400.393701 82.204724 
+L 301.889764 82.204724 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #e8eff3; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 403.228346 104.88189 
+L 501.732283 104.88189 
+L 501.732283 82.204724 
+L 403.228346 82.204724 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #e8eff3; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 14.173228 217.84252 
+L 96.377953 217.84252 
+L 96.377953 113.385827 
+L 14.173228 113.385827 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #e9f3f4; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 99.212598 217.84252 
+L 197.716535 217.84252 
+L 197.716535 113.385827 
+L 99.212598 113.385827 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 200.551181 186.80315 
+L 299.055118 186.80315 
+L 299.055118 113.385827 
+L 200.551181 113.385827 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 301.889764 217.84252 
+L 400.393701 217.84252 
+L 400.393701 113.385827 
+L 301.889764 113.385827 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f5f6f7; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 403.228346 217.84252 
+L 501.732283 217.84252 
+L 501.732283 113.385827 
+L 403.228346 113.385827 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f5f6f7; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 14.173228 238.818898 
+L 504.566929 238.818898 
+L 504.566929 220.677165 
+L 14.173228 220.677165 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f7fafb; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 14.173228 320.740157 
+L 96.377953 320.740157 
+L 96.377953 247.322835 
+L 14.173228 247.322835 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f1f2ec; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 99.212598 320.740157 
+L 197.716535 320.740157 
+L 197.716535 247.322835 
+L 99.212598 247.322835 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 200.551181 320.740157 
+L 299.055118 320.740157 
+L 299.055118 247.322835 
+L 200.551181 247.322835 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 301.889764 320.740157 
+L 400.393701 320.740157 
+L 400.393701 247.322835 
+L 301.889764 247.322835 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f5f6f7; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 403.228346 320.740157 
+L 501.732283 320.740157 
+L 501.732283 247.322835 
+L 403.228346 247.322835 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f5f6f7; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 14.173228 341.716535 
+L 504.566929 341.716535 
+L 504.566929 323.574803 
+L 14.173228 323.574803 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f7fafb; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 14.173228 423.637795 
+L 96.377953 423.637795 
+L 96.377953 350.220472 
+L 14.173228 350.220472 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #edf0f8; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 99.212598 423.637795 
+L 197.716535 423.637795 
+L 197.716535 350.220472 
+L 99.212598 350.220472 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 200.551181 423.637795 
+L 299.055118 423.637795 
+L 299.055118 350.220472 
+L 200.551181 350.220472 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 301.889764 423.637795 
+L 400.393701 423.637795 
+L 400.393701 350.220472 
+L 301.889764 350.220472 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f5f6f7; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 403.228346 423.637795 
+L 501.732283 423.637795 
+L 501.732283 350.220472 
+L 403.228346 350.220472 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f5f6f7; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 14.173228 444.614173 
+L 504.566929 444.614173 
+L 504.566929 426.472441 
+L 14.173228 426.472441 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f7fafb; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 14.173228 526.535433 
+L 96.377953 526.535433 
+L 96.377953 453.11811 
+L 14.173228 453.11811 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #e9f3f4; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 99.212598 526.535433 
+L 197.716535 526.535433 
+L 197.716535 453.11811 
+L 99.212598 453.11811 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 200.551181 526.535433 
+L 299.055118 526.535433 
+L 299.055118 453.11811 
+L 200.551181 453.11811 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #ffffff; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 301.889764 526.535433 
+L 400.393701 526.535433 
+L 400.393701 453.11811 
+L 301.889764 453.11811 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f5f6f7; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 403.228346 526.535433 
+L 501.732283 526.535433 
+L 501.732283 453.11811 
+L 403.228346 453.11811 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f5f6f7; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 14.173228 547.511811 
+L 504.566929 547.511811 
+L 504.566929 529.370079 
+L 14.173228 529.370079 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #f7fafb; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 14.173228 688.818898 
+L 504.566929 688.818898 
+L 504.566929 643.464567 
+L 14.173228 643.464567 
+z
+" clip-path="url(#p155dd16c89)" style="fill: #fafbfc; stroke: #d5e0e7; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="22.677165" y="27.592926" transform="rotate(-0 22.677165 27.592926)">Longevity orthologs across four major model organisms</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="22.677165" y="42.1693" transform="rotate(-0 22.677165 42.1693)">Complete visual catalogue • 320 genes • 206 direct pairs                       Page 25 / 36</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="22.677165" y="55.962606" transform="rotate(-0 22.677165 55.962606)">Reviewed example = a checked experiment; GenAge annotation = catalogue evidence only.</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6.15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="22.677165" y="67.035244" transform="rotate(-0 22.677165 67.035244)">All genes in the qualifying pair set are included; rows organise direct links, not proven conserved mechanisms.</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="103.464567" y="94.610245" transform="rotate(-0 103.464567 94.610245)">Budding yeast</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="204.80315" y="94.610245" transform="rotate(-0 204.80315 94.610245)">Nematode</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="306.141732" y="94.610245" transform="rotate(-0 306.141732 94.610245)">Fruit fly</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="407.480315" y="94.609698" transform="rotate(-0 407.480315 94.609698)">Mouse</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="19.84252" y="124.829337" transform="rotate(-0 19.84252 124.829337)">C070</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="19.84252" y="138.546706" transform="rotate(-0 19.84252 138.546706)">RPL31A</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 5.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="150.315361" transform="rotate(-0 19.84252 150.315361)">2 genes / 2 species</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="160.38859" transform="rotate(-0 19.84252 160.38859)">1 direct pair</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="103.464567" y="124.98129" transform="rotate(-0 103.464567 124.98129)">Y1  RPL31A</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="133.808215" transform="rotate(-0 103.464567 133.808215)">GenAge 562</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="144.307094" transform="rotate(-0 103.464567 144.307094)">GenAge annotation</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="103.464567" y="154.957488" transform="rotate(-0 103.464567 154.957488)">Anti-Longevity</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="165.151976" transform="rotate(-0 103.464567 165.151976)">Lifespan: Increase +</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="175.497948" transform="rotate(-0 103.464567 175.497948)">Decrease</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="185.388983" transform="rotate(-0 103.464567 185.388983)">Refs: 16293764, 17174052</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="195.735002" transform="rotate(-0 103.464567 195.735002)">      18423200, 19030232</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="206.081459" transform="rotate(-0 103.464567 206.081459)">      20883526</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="204.80315" y="124.981899" transform="rotate(-0 204.80315 124.981899)">W1  rpl-31</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="133.808215" transform="rotate(-0 204.80315 133.808215)">GenAge 2040</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="144.307094" transform="rotate(-0 204.80315 144.307094)">GenAge annotation</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="204.80315" y="154.957488" transform="rotate(-0 204.80315 154.957488)">Anti-Longevity</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="165.151976" transform="rotate(-0 204.80315 165.151976)">Lifespan: Increase</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="175.042527" transform="rotate(-0 204.80315 175.042527)">Refs: 22103665</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="307.559055" y="143.836622" transform="rotate(-0 307.559055 143.836622)">No gene in this</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="307.559055" y="155.175205" transform="rotate(-0 307.559055 155.175205)">candidate network</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="408.897638" y="143.836622" transform="rotate(-0 408.897638 143.836622)">No gene in this</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="408.897638" y="155.175205" transform="rotate(-0 408.897638 155.175205)">candidate network</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="228.997252" transform="rotate(-0 19.84252 228.997252)">Direct pairs: W1–Y1 (1:m)</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="19.84252" y="258.766345" transform="rotate(-0 19.84252 258.766345)">C067</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="19.84252" y="272.483714" transform="rotate(-0 19.84252 272.483714)">RPL4A</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 5.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="284.252369" transform="rotate(-0 19.84252 284.252369)">2 genes / 2 species</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="294.325598" transform="rotate(-0 19.84252 294.325598)">1 direct pair</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="103.464567" y="258.918298" transform="rotate(-0 103.464567 258.918298)">Y1  RPL4A</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="267.745223" transform="rotate(-0 103.464567 267.745223)">GenAge 1461</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="278.244102" transform="rotate(-0 103.464567 278.244102)">GenAge annotation</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="103.464567" y="288.894496" transform="rotate(-0 103.464567 288.894496)">Anti-Longevity</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="299.088984" transform="rotate(-0 103.464567 299.088984)">Lifespan: Increase</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="308.979534" transform="rotate(-0 103.464567 308.979534)">Refs: 18340043, 18423200</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="204.80315" y="258.918907" transform="rotate(-0 204.80315 258.918907)">W1  rpl-4</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="267.745223" transform="rotate(-0 204.80315 267.745223)">GenAge 559</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="278.244102" transform="rotate(-0 204.80315 278.244102)">GenAge annotation</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="204.80315" y="288.894496" transform="rotate(-0 204.80315 288.894496)">Anti-Longevity</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="299.088984" transform="rotate(-0 204.80315 299.088984)">Lifespan: Increase</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="308.979534" transform="rotate(-0 204.80315 308.979534)">Refs: 17266679</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="307.559055" y="277.77363" transform="rotate(-0 307.559055 277.77363)">No gene in this</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="307.559055" y="289.112213" transform="rotate(-0 307.559055 289.112213)">candidate network</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="408.897638" y="277.77363" transform="rotate(-0 408.897638 277.77363)">No gene in this</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="408.897638" y="289.112213" transform="rotate(-0 408.897638 289.112213)">candidate network</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="331.894889" transform="rotate(-0 19.84252 331.894889)">Direct pairs: W1–Y1 (1:m)</text>
+   </g>
+   <g id="text_54">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="19.84252" y="361.663983" transform="rotate(-0 19.84252 361.663983)">C127</text>
+   </g>
+   <g id="text_55">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="19.84252" y="375.381352" transform="rotate(-0 19.84252 375.381352)">RPL7A</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 5.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="387.150007" transform="rotate(-0 19.84252 387.150007)">2 genes / 2 species</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="397.223236" transform="rotate(-0 19.84252 397.223236)">1 direct pair</text>
+   </g>
+   <g id="text_58">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="103.464567" y="361.815936" transform="rotate(-0 103.464567 361.815936)">Y1  RPL7A</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="370.642861" transform="rotate(-0 103.464567 370.642861)">GenAge 1731</text>
+   </g>
+   <g id="text_60">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="381.14174" transform="rotate(-0 103.464567 381.14174)">GenAge annotation</text>
+   </g>
+   <g id="text_61">
+    <text style="font-weight: 700; font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="103.464567" y="391.792134" transform="rotate(-0 103.464567 391.792134)">Anti-Longevity</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="401.986622" transform="rotate(-0 103.464567 401.986622)">Lifespan: Increase</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="411.877172" transform="rotate(-0 103.464567 411.877172)">Refs: 18423200</text>
+   </g>
+   <g id="text_64">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="204.80315" y="361.816545" transform="rotate(-0 204.80315 361.816545)">W1  rpl-7</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="370.642861" transform="rotate(-0 204.80315 370.642861)">GenAge 2048</text>
+   </g>
+   <g id="text_66">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="381.14174" transform="rotate(-0 204.80315 381.14174)">GenAge annotation</text>
+   </g>
+   <g id="text_67">
+    <text style="font-weight: 700; font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="204.80315" y="391.792134" transform="rotate(-0 204.80315 391.792134)">Anti-Longevity</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="401.986622" transform="rotate(-0 204.80315 401.986622)">Lifespan: Increase</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="411.877172" transform="rotate(-0 204.80315 411.877172)">Refs: 22103665</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="307.559055" y="380.671268" transform="rotate(-0 307.559055 380.671268)">No gene in this</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="307.559055" y="392.009851" transform="rotate(-0 307.559055 392.009851)">candidate network</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="408.897638" y="380.671268" transform="rotate(-0 408.897638 380.671268)">No gene in this</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="408.897638" y="392.009851" transform="rotate(-0 408.897638 392.009851)">candidate network</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="434.792527" transform="rotate(-0 19.84252 434.792527)">Direct pairs: W1–Y1 (1:m)</text>
+   </g>
+   <g id="text_75">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="19.84252" y="464.56162" transform="rotate(-0 19.84252 464.56162)">C122</text>
+   </g>
+   <g id="text_76">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="19.84252" y="478.278989" transform="rotate(-0 19.84252 478.278989)">RPL8B</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 5.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="490.047645" transform="rotate(-0 19.84252 490.047645)">2 genes / 2 species</text>
+   </g>
+   <g id="text_78">
+    <text style="font-size: 5.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="500.120873" transform="rotate(-0 19.84252 500.120873)">1 direct pair</text>
+   </g>
+   <g id="text_79">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="103.464567" y="464.713573" transform="rotate(-0 103.464567 464.713573)">Y1  RPL8B</text>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="473.540499" transform="rotate(-0 103.464567 473.540499)">GenAge 1563</text>
+   </g>
+   <g id="text_81">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="484.039377" transform="rotate(-0 103.464567 484.039377)">GenAge annotation</text>
+   </g>
+   <g id="text_82">
+    <text style="font-weight: 700; font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="103.464567" y="494.689772" transform="rotate(-0 103.464567 494.689772)">Anti-Longevity</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="504.88426" transform="rotate(-0 103.464567 504.88426)">Lifespan: Increase</text>
+   </g>
+   <g id="text_84">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="103.464567" y="514.77481" transform="rotate(-0 103.464567 514.77481)">Refs: 18423200</text>
+   </g>
+   <g id="text_85">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="204.80315" y="464.714183" transform="rotate(-0 204.80315 464.714183)">W1  rpl-7A</text>
+   </g>
+   <g id="text_86">
+    <text style="font-size: 5.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="473.540499" transform="rotate(-0 204.80315 473.540499)">GenAge 2055</text>
+   </g>
+   <g id="text_87">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="484.039377" transform="rotate(-0 204.80315 484.039377)">GenAge annotation</text>
+   </g>
+   <g id="text_88">
+    <text style="font-weight: 700; font-size: 6.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #173047" x="204.80315" y="494.689772" transform="rotate(-0 204.80315 494.689772)">Anti-Longevity</text>
+   </g>
+   <g id="text_89">
+    <text style="font-size: 6.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="504.88426" transform="rotate(-0 204.80315 504.88426)">Lifespan: Increase</text>
+   </g>
+   <g id="text_90">
+    <text style="font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="204.80315" y="514.77481" transform="rotate(-0 204.80315 514.77481)">Refs: 22103665</text>
+   </g>
+   <g id="text_91">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="307.559055" y="483.568906" transform="rotate(-0 307.559055 483.568906)">No gene in this</text>
+   </g>
+   <g id="text_92">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="307.559055" y="494.907488" transform="rotate(-0 307.559055 494.907488)">candidate network</text>
+   </g>
+   <g id="text_93">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="408.897638" y="483.568906" transform="rotate(-0 408.897638 483.568906)">No gene in this</text>
+   </g>
+   <g id="text_94">
+    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="408.897638" y="494.907488" transform="rotate(-0 408.897638 494.907488)">candidate network</text>
+   </g>
+   <g id="text_95">
+    <text style="font-size: 6.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="537.690165" transform="rotate(-0 19.84252 537.690165)">Direct pairs: W1–Y1 (1:m)</text>
+   </g>
+   <g id="text_96">
+    <text style="font-size: 6.05px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="653.730913" transform="rotate(-0 19.84252 653.730913)">Y/W/F/M identify genes in yeast/worm/fly/mouse columns. Pair codes retain the OMA source orientation.</text>
+   </g>
+   <g id="text_97">
+    <text style="font-size: 6.05px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="663.085244" transform="rotate(-0 19.84252 663.085244)">Refs are catalogue-linked PMIDs, not newly reviewed experiments. Empty cells do not establish biological absence.</text>
+   </g>
+   <g id="text_98">
+    <text style="font-size: 6.05px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="672.439574" transform="rotate(-0 19.84252 672.439574)">GenAge lifespan labels do not specify interventions. Only reviewed examples have experiment arrows and colours.</text>
+   </g>
+   <g id="text_99">
+    <text style="font-size: 6.05px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e6474" x="19.84252" y="681.793905" transform="rotate(-0 19.84252 681.793905)">Sources: GenAge Build 21; OMA All.May2026. See atlas legend, gene index and source tables for evidence details.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p155dd16c89">
+   <rect x="0" y="0" width="518.740157" height="700.15748"/>
+  </clipPath>
+ </defs>
+</svg>

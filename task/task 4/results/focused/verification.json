@@ -1,0 +1,11 @@
+{
+  "selected_genage_records": 10,
+  "selected_explicit_pairs": 10,
+  "pairs_by_example": {
+    "TOR": 6,
+    "S6 kinase": 2,
+    "Insulin/IGF receptor": 2
+  },
+  "all_gene_labels_and_pmids_reconciled": true,
+  "figure_is_selected_examples_not_orthogroups": true
+}

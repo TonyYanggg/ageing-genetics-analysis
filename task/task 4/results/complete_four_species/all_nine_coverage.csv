@@ -1,0 +1,10 @@
+species,records,identified_genes,mapped_genes,missing_id_records,source_status,mapped_fraction,mapping_states,analysis_role
+Saccharomyces cerevisiae,911,911,895,0,represented,0.9824368825466521,"{""ambiguous_identifier"": 14, ""mapped"": 895, ""no_exact_xref"": 2}",principal_four
+Caenorhabditis elegans,889,886,858,2,represented,0.9683972911963883,"{""ambiguous_identifier"": 4, ""mapped"": 859, ""missing_id"": 2, ""no_exact_xref"": 24}",principal_four
+Drosophila melanogaster,202,200,191,1,represented,0.955,"{""mapped"": 192, ""missing_id"": 1, ""no_exact_xref"": 9}",principal_four
+Mus musculus,136,136,130,0,represented,0.9558823529411765,"{""mapped"": 130, ""no_exact_xref"": 6}",principal_four
+Schizosaccharomyces pombe,61,61,60,0,represented,0.9836065573770492,"{""mapped"": 60, ""no_exact_xref"": 1}",outside_main_comparison
+Podospora anserina,3,2,0,0,unavailable,0.0,"{""source_species_unavailable"": 3}",outside_main_comparison
+Caenorhabditis briggsae,1,1,1,0,represented,1.0,"{""mapped"": 1}",outside_main_comparison
+Danio rerio,1,1,1,0,represented,1.0,"{""mapped"": 1}",outside_main_comparison
+Mesocricetus auratus,1,1,0,0,unavailable,0.0,"{""source_species_unavailable"": 1}",outside_main_comparison

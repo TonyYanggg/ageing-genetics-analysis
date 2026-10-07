@@ -1,0 +1,76 @@
+******************************************************************************
+
+               Aging Research Computational Tools (ARCT)
+                         (0.9; January 31, 2005)
+
+******************************************************************************
+
+ARCT is a toolkit of Perl modules based on Bioperl, though some modules are
+independent of Bioperl. The aim of ARCT is to allow the comparative genomics
+of aging. ARCT is a collection of data-mining tools, algorithms, parsers,
+wrappers, spiders and web applications, etc.
+
+******************************************************************************
+
+SYSTEM REQUIREMENTS
+
+- Tested on Linux 2.4.x
+- Perl 5.8.0
+- Bioperl 1.4 + Bioperl-run-1.4 + external modules (see Bioperl documentation)
+- TFBS 0.4.1 + PDL 2.4.0 (to use the TF module)
+- ClustalW 1.8.3 (to use the Clustal module)
+- Gibbs (to use the Gibbs module)
+- GD 2.06 (for graphical display of results) + associated files (i.e. libgd
+and libpng)
+
+INSTALL
+
+To install ARCT, just decompress and unpack the toolkit and change into
+the newly created directory (ARCT-xxx). Then build the module:
+
+perl Makefile.PL
+make
+
+And install:
+
+make install
+
+To use the ARCT toolkit:
+
+use ARCT::TF;
+...
+
+THE JPM FILE FORMAT
+
+Frequently, ARCT uses a file format called JPM. JPM files usually have the .JPM
+extension.
+
+The JPM file format is as follows:
+
+# Accession number; Secondary accession (if any)
+
+Tab-delimited information:
+
+NAME:	[text]
+
+...
+
+The important thing to remember is that each number sign (#) marks the beginning
+of an entry. Information then follows a tab-delimited format.
+
+AUTHOR
+
+Joao Pedro de Magalhaes (http://jp.senescence.info/contact.php)
+
+ARCT website: http://genomics.senescence.info/software/
+
+DOCUMENTATION
+
+It is highly advisable that you check main.pl for examples on how to use
+ARCT. main.pl also has a POD documentation. If you prefer to browse the
+modules, comments generally explain what each subroutine does and how
+it works.
+
+DISCLAIMER
+
+I am not responsible for any damage the use of ARCT may cause. Use at your own risk.

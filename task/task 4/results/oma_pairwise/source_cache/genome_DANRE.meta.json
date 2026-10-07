@@ -1,0 +1,28 @@
+{
+  "url": "https://omabrowser.org/api/genome/DANRE/",
+  "params": null,
+  "retrieved_utc": "2026-09-18T09:03:44.862630+00:00",
+  "sha256": "8f1253afaf53fdb6507e2f8bea980ca0bd666bc36ee50e1c888aea1da8fffe21",
+  "bytes": 71866,
+  "response_headers": {
+    "Date": "Fri, 18 Sep 2026 09:03:44 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Vary": "Accept, origin, Cookie, accept-encoding",
+    "Allow": "GET, HEAD, OPTIONS",
+    "Cache-Control": "public, max-age=86400",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Set-Cookie": "__matomo=e6658825117d7ff0; expires=Sun, 17-Sep-2028 09:03:44 UTC; Path=/",
+    "Strict-Transport-Security": "max-age=15768000",
+    "Content-Encoding": "gzip",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hy9%2FZ2onhY%2FNw%2Fqkzsk71Y9W93TueHu303gF4DvmGIlyosj7y20B8S16QXGExPPrP%2B%2BMaA6cq5eqjwTN9%2FF%2B3SerSk%2FDlkToCdAtWqAot5HTL5AstouqZrHRENd7RHnQ\"}]}",
+    "CF-RAY": "a3cf2ddcd887acf8-HKG"
+  }
+}

@@ -1,0 +1,37 @@
+organism,organism_total_records,lifespan_effect_category,category_records,usable_numeric_magnitude_records,missing_magnitude_records,usable_magnitude_percent
+Saccharomyces cerevisiae,911,Increase,298,217,81,72.8188
+Saccharomyces cerevisiae,911,Decrease,516,218,298,42.2481
+Saccharomyces cerevisiae,911,Increase and Decrease,90,0,90,0
+Saccharomyces cerevisiae,911,Missing/Other,7,0,7,0
+Caenorhabditis elegans,889,Increase,608,453,155,74.5066
+Caenorhabditis elegans,889,Decrease,246,163,83,66.2602
+Caenorhabditis elegans,889,Increase and Decrease,31,0,31,0
+Caenorhabditis elegans,889,Missing/Other,4,0,4,0
+Drosophila melanogaster,202,Increase,132,114,18,86.3636
+Drosophila melanogaster,202,Decrease,56,33,23,58.9286
+Drosophila melanogaster,202,Increase and Decrease,13,0,13,0
+Drosophila melanogaster,202,Missing/Other,1,0,1,0
+Mus musculus,136,Increase,56,46,10,82.1429
+Mus musculus,136,Decrease,68,25,43,36.7647
+Mus musculus,136,Increase and Decrease,10,0,10,0
+Mus musculus,136,Missing/Other,2,0,2,0
+Schizosaccharomyces pombe,61,Increase,56,0,56,0
+Schizosaccharomyces pombe,61,Decrease,5,0,5,0
+Schizosaccharomyces pombe,61,Increase and Decrease,0,0,0,
+Schizosaccharomyces pombe,61,Missing/Other,0,0,0,
+Podospora anserina,3,Increase,3,1,2,33.3333
+Podospora anserina,3,Decrease,0,0,0,
+Podospora anserina,3,Increase and Decrease,0,0,0,
+Podospora anserina,3,Missing/Other,0,0,0,
+Caenorhabditis briggsae,1,Increase,1,1,0,100
+Caenorhabditis briggsae,1,Decrease,0,0,0,
+Caenorhabditis briggsae,1,Increase and Decrease,0,0,0,
+Caenorhabditis briggsae,1,Missing/Other,0,0,0,
+Danio rerio,1,Increase,0,0,0,
+Danio rerio,1,Decrease,1,1,0,100
+Danio rerio,1,Increase and Decrease,0,0,0,
+Danio rerio,1,Missing/Other,0,0,0,
+Mesocricetus auratus,1,Increase,1,0,1,0
+Mesocricetus auratus,1,Decrease,0,0,0,
+Mesocricetus auratus,1,Increase and Decrease,0,0,0,
+Mesocricetus auratus,1,Missing/Other,0,0,0,

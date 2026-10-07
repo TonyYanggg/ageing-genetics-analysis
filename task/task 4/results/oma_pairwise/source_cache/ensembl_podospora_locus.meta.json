@@ -1,0 +1,22 @@
+{
+  "url": "https://rest.ensembl.org/lookup/id/PODANS_6_5980",
+  "params": {
+    "content-type": "application/json"
+  },
+  "retrieved_utc": "2026-09-18T09:37:07.413306+00:00",
+  "sha256": "9376716ddd3a28286a3e65617fb94ef5de3cb42473bed1037f8fb605fecd835c",
+  "bytes": 307,
+  "response_headers": {
+    "Vary": "Content-Type, Origin",
+    "Content-Type": "application/json",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "Date": "Fri, 18 Sep 2026 09:37:06 GMT",
+    "X-RateLimit-Limit": "55000",
+    "X-RateLimit-Reset": "1374",
+    "X-Runtime": "0.020007",
+    "Accept-Ranges": "bytes",
+    "X-RateLimit-Period": "3600",
+    "X-RateLimit-Remaining": "54993",
+    "Content-Length": "307"
+  }
+}

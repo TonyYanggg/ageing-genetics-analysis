@@ -1,0 +1,376 @@
+{
+  "retrieved": "2026-09-25",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19302372+AND+SRC%3AMED&format=json&resultType=core",
+  "paper": {
+    "id": "19302372",
+    "source": "MED",
+    "pmid": "19302372",
+    "pmcid": "PMC2802268",
+    "fullTextIdList": {
+      "fullTextId": [
+        "PMC2802268"
+      ]
+    },
+    "doi": "10.1111/j.1474-9726.2009.00469.x",
+    "title": "Autophagy and amino acid homeostasis are required for chronological longevity in Saccharomyces cerevisiae.",
+    "authorString": "Alvers AL, Fishwick LK, Wood MS, Hu D, Chung HS, Dunn WA, Aris JP.",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Alvers AL",
+          "lastName": "Alvers",
+          "firstName": "Ashley L",
+          "initials": "AL",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Anatomy and Cell Biology, Health Science Center, University of Florida, Gainesville, 32610-0235, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Fishwick LK",
+          "lastName": "Fishwick",
+          "firstName": "Laura K",
+          "initials": "LK"
+        },
+        {
+          "fullName": "Wood MS",
+          "lastName": "Wood",
+          "firstName": "Michael S",
+          "initials": "MS"
+        },
+        {
+          "fullName": "Hu D",
+          "lastName": "Hu",
+          "firstName": "Doreen",
+          "initials": "D"
+        },
+        {
+          "fullName": "Chung HS",
+          "lastName": "Chung",
+          "firstName": "Hye S",
+          "initials": "HS"
+        },
+        {
+          "fullName": "Dunn WA Jr",
+          "lastName": "Dunn",
+          "firstName": "William A",
+          "initials": "WA"
+        },
+        {
+          "fullName": "Aris JP",
+          "lastName": "Aris",
+          "firstName": "John P",
+          "initials": "JP",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-6475-064X"
+          }
+        }
+      ]
+    },
+    "authorIdList": {
+      "authorId": [
+        {
+          "type": "ORCID",
+          "value": "0000-0002-6475-064X"
+        }
+      ]
+    },
+    "dataLinksTagsList": {
+      "dataLinkstag": [
+        "related_data"
+      ]
+    },
+    "journalInfo": {
+      "issue": "4",
+      "volume": "8",
+      "journalIssueId": 1641978,
+      "dateOfPublication": "2009 Aug",
+      "monthOfPublication": 8,
+      "yearOfPublication": 2009,
+      "journal": {
+        "medlineAbbreviation": "Aging Cell",
+        "title": "Aging cell",
+        "essn": "1474-9726",
+        "issn": "1474-9718",
+        "nlmid": "101130839",
+        "isoabbreviation": "Aging Cell"
+      },
+      "printPublicationDate": "2009-08-01"
+    },
+    "pubYear": "2009",
+    "pageInfo": "353-369",
+    "abstractText": "Following cessation of growth, yeast cells remain viable in a nondividing state for a period of time known as the chronological lifespan (CLS). Autophagy is a degradative process responsible for amino acid recycling in response to nitrogen starvation and amino acid limitation. We have investigated the role of autophagy during chronological aging of yeast grown in glucose minimal media containing different supplemental essential and nonessential amino acids. Deletion of ATG1 or ATG7, both of which are required for autophagy, reduced CLS, whereas deletion of ATG11, which is required for selective targeting of cellular components to the vacuole for degradation, did not reduce CLS. The nonessential amino acids isoleucine and valine, and the essential amino acid leucine, extended CLS in autophagy-deficient as well as autophagy-competent yeast. This extension was suppressed by constitutive expression of GCN4, which encodes a transcriptional regulator of general amino acid control (GAAC). Consistent with this, GCN4 expression was reduced by isoleucine and valine. Furthermore, elimination of the leucine requirement extended CLS and prevented the effects of constitutive expression of GCN4. Interestingly, deletion of LEU3, a GAAC target gene encoding a transcriptional regulator of branched side chain amino acid synthesis, dramatically increased CLS in the absence of amino acid supplements. In general, this indicates that activation of GAAC reduces CLS whereas suppression of GAAC extends CLS in minimal medium. These findings demonstrate important roles for autophagy and amino acid homeostasis in determining CLS in yeast.",
+    "affiliation": "Department of Anatomy and Cell Biology, Health Science Center, University of Florida, Gainesville, 32610-0235, USA.",
+    "publicationStatus": "ppublish",
+    "language": "eng",
+    "pubModel": "Print-Electronic",
+    "pubTypeList": {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    "grantsList": {
+      "grant": [
+        {
+          "agency": "NIA NIH HHS",
+          "acronym": "AG",
+          "grantId": "R21 AG023719",
+          "orderIn": 0
+        },
+        {
+          "agency": "NIA NIH HHS",
+          "acronym": "AG",
+          "grantId": "AG023719",
+          "orderIn": 0
+        }
+      ]
+    },
+    "meshHeadingList": {
+      "meshHeading": [
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Saccharomyces cerevisiae",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "CY",
+                "qualifierName": "cytology"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "PH",
+                "qualifierName": "physiology"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Amino Acids",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "Y",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Trans-Activators",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Saccharomyces cerevisiae Proteins",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Culture Media"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Down-Regulation"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Gene Expression Regulation, Fungal"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Aging"
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Homeostasis"
+        },
+        {
+          "majorTopic_YN": "Y",
+          "descriptorName": "Autophagy"
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "3-Isopropylmalate Dehydrogenase",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        },
+        {
+          "majorTopic_YN": "N",
+          "descriptorName": "Basic-Leucine Zipper Transcription Factors",
+          "meshQualifierList": {
+            "meshQualifier": [
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "GE",
+                "qualifierName": "genetics"
+              },
+              {
+                "majorTopic_YN": "N",
+                "abbreviation": "ME",
+                "qualifierName": "metabolism"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "chemicalList": {
+      "chemical": [
+        {
+          "name": "3-isopropylmalate dehydrogenase",
+          "registryNumber": "EC 1.1.1.85"
+        },
+        {
+          "name": "LEU3 protein, S cerevisiae",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Amino Acids",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Culture Media",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Saccharomyces cerevisiae Proteins",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Trans-Activators",
+          "registryNumber": "0"
+        },
+        {
+          "name": "Basic-Leucine Zipper Transcription Factors",
+          "registryNumber": "0"
+        },
+        {
+          "name": "GCN4 protein, S cerevisiae",
+          "registryNumber": "0"
+        },
+        {
+          "name": "LEU2 protein, S cerevisiae",
+          "registryNumber": "EC 1.1.1.85"
+        }
+      ]
+    },
+    "subsetList": {
+      "subset": [
+        {
+          "code": "IM",
+          "name": "Index Medicus"
+        }
+      ]
+    },
+    "fullTextUrlList": {
+      "fullTextUrl": [
+        {
+          "availability": "Subscription required",
+          "availabilityCode": "S",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1111/j.1474-9726.2009.00469.x"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "html",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC2802268"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "pdf",
+          "site": "Europe_PMC",
+          "url": "https://europepmc.org/articles/PMC2802268?pdf=render"
+        },
+        {
+          "availability": "Free",
+          "availabilityCode": "F",
+          "documentStyle": "doi",
+          "site": "DOI",
+          "url": "https://doi.org/10.1111/j.1474-9726.2009.00469.x"
+        }
+      ]
+    },
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 182,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasData": "Y",
+    "authMan": "Y",
+    "epmcAuthMan": "N",
+    "nihAuthMan": "Y",
+    "manuscriptId": "NIHMS126572",
+    "hasTMAccessionNumbers": "N",
+    "dateOfCompletion": "2009-10-26",
+    "dateOfCreation": "2009-03-24",
+    "dateOfRevision": "2025-05-29",
+    "electronicPublicationDate": "2009-04-21",
+    "firstPublicationDate": "2009-04-21",
+    "firstIndexDate": "2010-09-23",
+    "fullTextReceivedDate": "2025-02-05",
+    "hasEvaluations": "N"
+  }
+}
